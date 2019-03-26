@@ -1,0 +1,19 @@
+android-ClippingBasic/build.gradle,1c2a26d4d297c5edc0b0e5083c46d18be0f56f3f,Trevor Johns,Thu Jun 26 08:57:31 2014 -0700,Thu Jun 26 08:57:31 2014 -0700,Initial commit
+android-ClippingBasic/Application/build.gradle,dc78dc48de591f7f2e322ad8705cf08ba5301b01,google-automerger,Thu Feb 15 16:35:36 2018 -0800,Thu Feb 15 16:35:36 2018 -0800,Auto-update
+android-ClippingBasic/Application/build.gradle,dce20a25f0f3aa9a6fab1a5a385acdb9f0af5b0f,google-automerger,Tue Oct 10 17:51:56 2017 -0700,Tue Oct 10 17:51:56 2017 -0700,Auto-update
+android-ClippingBasic/Application/build.gradle,c7f943ec040930eaf4a2c714a5c982b307bc16a5,google-automerger,Thu Jun 8 09:33:34 2017 -0700,Thu Jun 8 09:33:34 2017 -0700,Auto-update
+android-ClippingBasic/Application/build.gradle,d73c8a400244217e88cea4709a5b9265d0cbf8ca,google-automerger,Wed May 17 13:32:25 2017 -0700,Wed May 17 13:32:25 2017 -0700,Auto-update
+android-ClippingBasic/Application/build.gradle,873daf97283f849df66048e2e54c036e765657d5,google-automerger,Tue Dec 13 09:39:21 2016 -0800,Tue Dec 13 09:39:21 2016 -0800,Auto-update
+android-ClippingBasic/Application/build.gradle,4d01a468303ddf44ca0bc3303beba4961c0f70b2,google-automerger,Fri Aug 12 15:18:17 2016 -0700,Fri Aug 12 15:18:17 2016 -0700,Auto-update
+android-ClippingBasic/Application/build.gradle,a628df802b143e55dc9b6120f0bf19c93628ebae,google-automerger,Wed May 18 11:38:18 2016 -0700,Wed May 18 11:38:18 2016 -0700,Auto-update
+android-ClippingBasic/Application/build.gradle,b2785912cc7dc95a1ecd49a205c83ec6b5b440cc,google-automerger,Wed Apr 20 12:26:16 2016 -0700,Wed Apr 20 12:26:16 2016 -0700,Auto-update
+android-ClippingBasic/Application/build.gradle,97d607fe6c88747e8481376a4634f87da7e7c637,google-automerger,Wed Nov 18 09:33:22 2015 -0800,Wed Nov 18 09:33:22 2015 -0800,Auto-update
+android-ClippingBasic/Application/build.gradle,eb8432429edead1e11e232bb32de63f9f6693595,google-automerger,Thu Oct 8 17:42:36 2015 -0700,Thu Oct 8 17:42:36 2015 -0700,Auto-update
+android-ClippingBasic/Application/build.gradle,88ca97834708bdf00e3b0b20d1d762e2fcc6b88c,google-automerger,Mon Aug 17 09:54:27 2015 -0700,Mon Aug 17 09:54:27 2015 -0700,Auto-update
+android-ClippingBasic/Application/build.gradle,64fa80df9a69ff04f35ce2111000a066c1a5b986,google-automerger,Thu Jul 9 11:10:22 2015 -0700,Thu Jul 9 11:10:22 2015 -0700,Auto-update
+android-ClippingBasic/Application/build.gradle,70865087789919c1b2ef1b3935b88020c7d40f60,google-automerger,Thu May 21 10:04:25 2015 -0700,Thu May 21 10:04:25 2015 -0700,Auto-update
+android-ClippingBasic/Application/build.gradle,a3bbefbdb8513d9e3e15d81c0c71c8e138034a58,google-automerger,Tue Apr 28 10:53:54 2015 -0700,Tue Apr 28 10:53:54 2015 -0700,Auto-update
+android-ClippingBasic/Application/build.gradle,0384d7f3a4bb50809102851795414c7440518ef2,google-automerger,Mon Mar 30 17:43:28 2015 -0700,Mon Mar 30 17:43:28 2015 -0700,Auto-update
+android-ClippingBasic/Application/build.gradle,3db995c5860e8eb116a2a2affbdf8ddbf83913af,google-automerger,Mon Dec 8 17:49:48 2014 -0800,Mon Dec 8 17:49:48 2014 -0800,Auto-update
+android-ClippingBasic/Application/build.gradle,a036c709d56f3a1eb2e998f303b3db044a20bc13,google-automerger,Wed Dec 3 01:50:31 2014 -0800,Wed Dec 3 01:50:31 2014 -0800,Auto-update
+android-ClippingBasic/Application/build.gradle,75ff9c129a6d690029b0738075fbe6b4f84606c3,google-automerger,Tue Nov 18 16:18:12 2014 -0800,Tue Nov 18 16:18:12 2014 -0800,Auto-update

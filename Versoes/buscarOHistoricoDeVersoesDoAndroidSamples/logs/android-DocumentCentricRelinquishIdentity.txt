@@ -1,0 +1,19 @@
+android-DocumentCentricRelinquishIdentity/build.gradle,fff4f9260c003e4554e5f7d3a5ef8d477bbfc61f,google-automerger,Fri Oct 17 09:05:37 2014 -0700,Fri Oct 17 09:05:37 2014 -0700,Initial Commit
+android-DocumentCentricRelinquishIdentity/Application/build.gradle,01dad07d1a263ee140b0f2bb3787cb10784fc888,google-automerger,Thu Feb 15 16:36:13 2018 -0800,Thu Feb 15 16:36:13 2018 -0800,Auto-update
+android-DocumentCentricRelinquishIdentity/Application/build.gradle,60772e6cfcd746d5fe0ead67f7d9a366ef5fc70a,google-automerger,Tue Oct 10 17:52:35 2017 -0700,Tue Oct 10 17:52:35 2017 -0700,Auto-update
+android-DocumentCentricRelinquishIdentity/Application/build.gradle,99a794c7f6fdf494e117833b7456b9c769e7b95f,google-automerger,Thu Jun 8 09:34:05 2017 -0700,Thu Jun 8 09:34:05 2017 -0700,Auto-update
+android-DocumentCentricRelinquishIdentity/Application/build.gradle,04130fb80037e4a5abe42b78b2897255542f930f,google-automerger,Wed May 17 13:33:00 2017 -0700,Wed May 17 13:33:00 2017 -0700,Auto-update
+android-DocumentCentricRelinquishIdentity/Application/build.gradle,d70da91f45306ef3bda8a40a912aa89ad995bdcb,google-automerger,Tue Dec 13 09:39:47 2016 -0800,Tue Dec 13 09:39:47 2016 -0800,Auto-update
+android-DocumentCentricRelinquishIdentity/Application/build.gradle,0906f50c4cde538f76651a9e9b83a5e00ca693bd,google-automerger,Fri Aug 12 15:18:39 2016 -0700,Fri Aug 12 15:18:39 2016 -0700,Auto-update
+android-DocumentCentricRelinquishIdentity/Application/build.gradle,8951394fde71f885f8e8dabfaebbac34c915c338,google-automerger,Wed May 18 11:38:34 2016 -0700,Wed May 18 11:38:34 2016 -0700,Auto-update
+android-DocumentCentricRelinquishIdentity/Application/build.gradle,12c4980c5f1cd51419f2e55e751bb33d94c80098,google-automerger,Wed Apr 20 12:26:32 2016 -0700,Wed Apr 20 12:26:32 2016 -0700,Auto-update
+android-DocumentCentricRelinquishIdentity/Application/build.gradle,ae4de529abe08aa21203269eae331476a9e57135,google-automerger,Wed Nov 18 09:33:39 2015 -0800,Wed Nov 18 09:33:39 2015 -0800,Auto-update
+android-DocumentCentricRelinquishIdentity/Application/build.gradle,af4bd006def5083023cad10b8a47f4946e19b0b2,google-automerger,Thu Oct 8 17:42:53 2015 -0700,Thu Oct 8 17:42:53 2015 -0700,Auto-update
+android-DocumentCentricRelinquishIdentity/Application/build.gradle,d5f4345c7e6a1f58ac9f7b956116c2bdfa8f62d7,google-automerger,Mon Aug 17 09:54:41 2015 -0700,Mon Aug 17 09:54:41 2015 -0700,Auto-update
+android-DocumentCentricRelinquishIdentity/Application/build.gradle,33cb660f1e9e21d81bc6908dec701ea69c818dce,google-automerger,Thu Jul 9 11:10:34 2015 -0700,Thu Jul 9 11:10:34 2015 -0700,Auto-update
+android-DocumentCentricRelinquishIdentity/Application/build.gradle,b8c59aa30fd1f22a5f480246b4365c024ce03ae5,google-automerger,Thu May 21 10:04:37 2015 -0700,Thu May 21 10:04:37 2015 -0700,Auto-update
+android-DocumentCentricRelinquishIdentity/Application/build.gradle,7d4df4e74aabc3289dd3a7d4834caed6fa6efc7f,google-automerger,Tue Apr 28 10:54:39 2015 -0700,Tue Apr 28 10:54:39 2015 -0700,Auto-update
+android-DocumentCentricRelinquishIdentity/Application/build.gradle,d9585f9d5e041f401683f4dada7906202a534b01,google-automerger,Mon Mar 30 17:43:54 2015 -0700,Mon Mar 30 17:43:54 2015 -0700,Auto-update
+android-DocumentCentricRelinquishIdentity/Application/build.gradle,9bc35f4e595274d2dd6bf92f9b124d9da38e1994,google-automerger,Mon Dec 8 17:50:19 2014 -0800,Mon Dec 8 17:50:19 2014 -0800,Auto-update
+android-DocumentCentricRelinquishIdentity/Application/build.gradle,597f609dfa0be32a5dbf11739b195cabbd0c9aca,google-automerger,Wed Dec 3 01:51:08 2014 -0800,Wed Dec 3 01:51:08 2014 -0800,Auto-update
+android-DocumentCentricRelinquishIdentity/Application/build.gradle,fff4f9260c003e4554e5f7d3a5ef8d477bbfc61f,google-automerger,Fri Oct 17 09:05:37 2014 -0700,Fri Oct 17 09:05:37 2014 -0700,Initial Commit

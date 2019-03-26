@@ -1,0 +1,28 @@
+android-JumpingJack/build.gradle,b58ce2f6557c0e71a23506c78f7d6149bd92f4f8,google-automerger,Thu Oct 23 09:20:18 2014 -0700,Thu Oct 23 10:38:17 2014 -0700,Initial Commit
+android-JumpingJack/Wearable/build.gradle,5fb8dbb7cfe5c717bb382542cc125379538f02ce,google-automerger,Fri Jul 27 21:57:30 2018 -0700,Fri Jul 27 21:57:30 2018 -0700,Auto-update
+android-JumpingJack/Wearable/build.gradle,4b3187ac7b93652bcc36e6fcd4fa53d10d069ab8,google-automerger,Wed Mar 28 09:33:52 2018 -0700,Wed Mar 28 09:33:52 2018 -0700,Auto-update
+android-JumpingJack/Wearable/build.gradle,0847b2198b3fb188c13efdd645b5a9a9e5b008b7,google-automerger,Thu Jan 25 09:36:53 2018 -0800,Thu Jan 25 09:36:53 2018 -0800,Auto-update
+android-JumpingJack/Wearable/build.gradle,64cc425615323cf26fc305859790a4a6fecbbb32,google-automerger,Tue Oct 10 17:53:24 2017 -0700,Tue Oct 10 17:53:24 2017 -0700,Auto-update
+android-JumpingJack/Wearable/build.gradle,10bc58cb34e5c4cf96f2a5d16d9298c838408cff,google-automerger,Fri Aug 11 17:25:02 2017 -0700,Fri Aug 11 17:25:02 2017 -0700,Auto-update
+android-JumpingJack/Wearable/build.gradle,ea3e5f31dc712b83af28fbdad9533045a60b1e64,google-automerger,Thu Jun 8 09:34:50 2017 -0700,Thu Jun 8 09:34:50 2017 -0700,Auto-update
+android-JumpingJack/Wearable/build.gradle,415c2c9edcd2bbaa4da4f349d8b5739101fd0d8b,google-automerger,Wed May 17 13:33:45 2017 -0700,Wed May 17 13:33:45 2017 -0700,Auto-update
+android-JumpingJack/Wearable/build.gradle,abf8491421623a4bbbd2673b1ab51b050bbf9550,google-automerger,Thu Feb 9 09:18:01 2017 -0800,Thu Feb 9 09:18:01 2017 -0800,Auto-update
+android-JumpingJack/Wearable/build.gradle,5be7680a78eec55f79e71e6ef036f00e529fe9e9,google-automerger,Tue Dec 13 09:40:16 2016 -0800,Tue Dec 13 09:40:16 2016 -0800,Auto-update
+android-JumpingJack/Wearable/build.gradle,ab4fd1b0719ae19e134f247e96b947622b941ebb,google-automerger,Fri Aug 12 15:19:10 2016 -0700,Fri Aug 12 15:19:10 2016 -0700,Auto-update
+android-JumpingJack/Wearable/build.gradle,490d152aa75b8a89a5e5a9f8401fe2dbbcf168a8,google-automerger,Wed May 18 11:38:56 2016 -0700,Wed May 18 11:38:56 2016 -0700,Auto-update
+android-JumpingJack/Wearable/build.gradle,6831ce75ddcda7b50da12aaeb0bae8ba35369b5a,google-automerger,Wed Apr 20 12:26:56 2016 -0700,Wed Apr 20 12:26:56 2016 -0700,Auto-update
+android-JumpingJack/Wearable/build.gradle,947a52fd3a98226f654176af8ce7e1c614cecd53,google-automerger,Mon Jan 11 18:26:42 2016 -0800,Mon Jan 11 18:26:42 2016 -0800,Auto-update
+android-JumpingJack/Wearable/build.gradle,0d9b6f20c4b803bdfa8ec166bb7edd975a667b78,google-automerger,Wed Nov 18 09:34:04 2015 -0800,Wed Nov 18 09:34:04 2015 -0800,Auto-update
+android-JumpingJack/Wearable/build.gradle,5b6ee71d2632a096c270358f29ebd688d5c39854,google-automerger,Thu Oct 8 17:43:16 2015 -0700,Thu Oct 8 17:43:16 2015 -0700,Auto-update
+android-JumpingJack/Wearable/build.gradle,263e267f7099c60375aae7397cfdda842ffee507,google-automerger,Thu Aug 20 23:46:31 2015 -0700,Thu Aug 20 23:46:31 2015 -0700,Auto-update
+android-JumpingJack/Wearable/build.gradle,ef68314df8a7381b231124054e4302307fa9787b,google-automerger,Thu Aug 20 08:40:04 2015 -0700,Thu Aug 20 08:40:04 2015 -0700,Auto-update
+android-JumpingJack/Wearable/build.gradle,60ee2e8ee87ca4c27bb1cd32f677ee38fc2a8dec,google-automerger,Mon Aug 17 09:55:02 2015 -0700,Mon Aug 17 09:55:02 2015 -0700,Auto-update
+android-JumpingJack/Wearable/build.gradle,2e0a17f562057974cd0a7b21cad46a4e441f3c74,google-automerger,Thu Jul 9 11:10:53 2015 -0700,Thu Jul 9 11:10:53 2015 -0700,Auto-update
+android-JumpingJack/Wearable/build.gradle,00318e5c3236877823d58a919c9245c7739b4a4e,google-automerger,Thu May 21 10:04:56 2015 -0700,Thu May 21 10:04:56 2015 -0700,Auto-update
+android-JumpingJack/Wearable/build.gradle,4b285a00108a7db8d4b13fef814b312ba0bd8037,google-automerger,Tue Apr 28 10:55:22 2015 -0700,Tue Apr 28 10:55:22 2015 -0700,Auto-update
+android-JumpingJack/Wearable/build.gradle,2a9670abb538be57c205395de9e3bbeb4028e7c8,google-automerger,Mon Mar 30 17:44:38 2015 -0700,Mon Mar 30 17:44:38 2015 -0700,Auto-update
+android-JumpingJack/Wearable/build.gradle,ded67cfe6b6e94dac2553f05a123571f7f8eaeb8,google-automerger,Mon Dec 8 17:51:23 2014 -0800,Mon Dec 8 17:51:23 2014 -0800,Auto-update
+android-JumpingJack/Wearable/build.gradle,66ef718ecdf9332527994957f164e3417e4a1ec5,google-automerger,Fri Dec 5 15:06:10 2014 -0800,Fri Dec 5 15:06:10 2014 -0800,Auto-update
+android-JumpingJack/Wearable/build.gradle,b4903f1d31cecdd56835e087e59a2df5076296d0,google-automerger,Wed Dec 3 01:53:00 2014 -0800,Wed Dec 3 01:53:00 2014 -0800,Auto-update
+android-JumpingJack/Wearable/build.gradle,f733eb8b03b64eb05f5417103f8e75075c95c5b0,google-automerger,Tue Nov 18 16:19:40 2014 -0800,Tue Nov 18 16:19:40 2014 -0800,Auto-update
+android-JumpingJack/Wearable/build.gradle,b58ce2f6557c0e71a23506c78f7d6149bd92f4f8,google-automerger,Thu Oct 23 09:20:18 2014 -0700,Thu Oct 23 10:38:17 2014 -0700,Initial Commit

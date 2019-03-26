@@ -1,0 +1,6 @@
+android-codelab-watchface/build.gradle,3cccee709ed3b5960ebef16dd9f7755e99c2e0c9,Benjamin Weiss,Tue Mar 3 14:15:00 2015 +0000,Fri Mar 6 10:06:21 2015 +0000,Initial watchface codelab
+android-codelab-watchface/5-palette/build.gradle,3cccee709ed3b5960ebef16dd9f7755e99c2e0c9,Benjamin Weiss,Tue Mar 3 14:15:00 2015 +0000,Fri Mar 6 10:06:21 2015 +0000,Initial watchface codelab
+android-codelab-watchface/4-ambient/build.gradle,3cccee709ed3b5960ebef16dd9f7755e99c2e0c9,Benjamin Weiss,Tue Mar 3 14:15:00 2015 +0000,Fri Mar 6 10:06:21 2015 +0000,Initial watchface codelab
+android-codelab-watchface/1-base/build.gradle,3cccee709ed3b5960ebef16dd9f7755e99c2e0c9,Benjamin Weiss,Tue Mar 3 14:15:00 2015 +0000,Fri Mar 6 10:06:21 2015 +0000,Initial watchface codelab
+android-codelab-watchface/3-hands/build.gradle,3cccee709ed3b5960ebef16dd9f7755e99c2e0c9,Benjamin Weiss,Tue Mar 3 14:15:00 2015 +0000,Fri Mar 6 10:06:21 2015 +0000,Initial watchface codelab
+android-codelab-watchface/2-background/build.gradle,3cccee709ed3b5960ebef16dd9f7755e99c2e0c9,Benjamin Weiss,Tue Mar 3 14:15:00 2015 +0000,Fri Mar 6 10:06:21 2015 +0000,Initial watchface codelab

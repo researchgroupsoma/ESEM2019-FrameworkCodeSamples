@@ -1,0 +1,26 @@
+android-GridViewPager/build.gradle,55026a5c8d778c98e28b898be0b0e1a5cc5c2427,google-automerger,Thu Oct 23 09:20:09 2014 -0700,Thu Oct 23 10:38:15 2014 -0700,Initial Commit
+android-GridViewPager/Wearable/build.gradle,95626ae7f84f8d8c97f3b9c5adcd7736fa0868f6,google-automerger,Thu Feb 15 16:36:45 2018 -0800,Thu Feb 15 16:36:45 2018 -0800,Auto-update
+android-GridViewPager/Wearable/build.gradle,380f07a7642cdb977aac2bc55d8735860c5bff9f,google-automerger,Tue Oct 10 17:53:10 2017 -0700,Tue Oct 10 17:53:10 2017 -0700,Auto-update
+android-GridViewPager/Wearable/build.gradle,52dca9dc5928d10e73ea298dd9f69dd07483e6b5,google-automerger,Fri Aug 11 17:24:59 2017 -0700,Fri Aug 11 17:24:59 2017 -0700,Auto-update
+android-GridViewPager/Wearable/build.gradle,d710de7ea76cf83e413019a15e2caaf7bbeda22f,google-automerger,Thu Jun 8 09:34:37 2017 -0700,Thu Jun 8 09:34:37 2017 -0700,Auto-update
+android-GridViewPager/Wearable/build.gradle,049e62fcea4e3429cbd9c786786344e40171e7de,google-automerger,Wed May 17 13:33:31 2017 -0700,Wed May 17 13:33:31 2017 -0700,Auto-update
+android-GridViewPager/Wearable/build.gradle,6a51547005405e4117934f68dff6ec2ea364c36b,google-automerger,Thu Feb 9 09:17:58 2017 -0800,Thu Feb 9 09:17:58 2017 -0800,Auto-update
+android-GridViewPager/Wearable/build.gradle,782b118d3d622e91498868bb4a4561de408671e5,google-automerger,Tue Dec 13 09:40:06 2016 -0800,Tue Dec 13 09:40:06 2016 -0800,Auto-update
+android-GridViewPager/Wearable/build.gradle,8932f089f56e707a9a25c719e6c800e2b267a1b9,google-automerger,Fri Aug 12 15:18:55 2016 -0700,Fri Aug 12 15:18:55 2016 -0700,Auto-update
+android-GridViewPager/Wearable/build.gradle,fb63d9f2715e2c772cf0fba0b22cb0a160e86192,google-automerger,Wed May 18 11:38:48 2016 -0700,Wed May 18 11:38:48 2016 -0700,Auto-update
+android-GridViewPager/Wearable/build.gradle,e32cdffec9051fcd71b28fa3a5685eab286d6ab8,google-automerger,Wed Apr 20 12:26:46 2016 -0700,Wed Apr 20 12:26:46 2016 -0700,Auto-update
+android-GridViewPager/Wearable/build.gradle,16a6ccb67ae6d8befb5584415e0870ec8bfb8b03,google-automerger,Mon Jan 11 18:26:31 2016 -0800,Mon Jan 11 18:26:31 2016 -0800,Auto-update
+android-GridViewPager/Wearable/build.gradle,658d3e57796b56d1885625d66aa2600135c3e65c,google-automerger,Wed Nov 18 09:33:55 2015 -0800,Wed Nov 18 09:33:55 2015 -0800,Auto-update
+android-GridViewPager/Wearable/build.gradle,d637c85be13b4299ecdad2ce960f4bb5489711aa,google-automerger,Thu Oct 8 17:43:08 2015 -0700,Thu Oct 8 17:43:08 2015 -0700,Auto-update
+android-GridViewPager/Wearable/build.gradle,595c4389bcecb52f0601f107aa9c648c219abacf,google-automerger,Thu Aug 20 23:46:25 2015 -0700,Thu Aug 20 23:46:25 2015 -0700,Auto-update
+android-GridViewPager/Wearable/build.gradle,dca5c8ca999f06dd79e8dccd1cf4181e6398b02a,google-automerger,Thu Aug 20 08:40:01 2015 -0700,Thu Aug 20 08:40:01 2015 -0700,Auto-update
+android-GridViewPager/Wearable/build.gradle,952fce34fdd57c97b065547ece144fe0bddf8148,google-automerger,Mon Aug 17 09:54:55 2015 -0700,Mon Aug 17 09:54:55 2015 -0700,Auto-update
+android-GridViewPager/Wearable/build.gradle,7e7539f154c2f23d3c690ad126301f7b5651d4cf,google-automerger,Thu Jul 9 11:10:46 2015 -0700,Thu Jul 9 11:10:46 2015 -0700,Auto-update
+android-GridViewPager/Wearable/build.gradle,d06e427ae6ab8ed58bb31366e5b65a9505109eb7,google-automerger,Thu May 21 10:04:49 2015 -0700,Thu May 21 10:04:49 2015 -0700,Auto-update
+android-GridViewPager/Wearable/build.gradle,bcd2b3a8b7dd37ea1a9665e264237e7ae19e2cc4,google-automerger,Tue Apr 28 10:55:12 2015 -0700,Tue Apr 28 10:55:12 2015 -0700,Auto-update
+android-GridViewPager/Wearable/build.gradle,b8ff360190b58952089816b839e894afd83ad174,google-automerger,Mon Mar 30 17:44:26 2015 -0700,Mon Mar 30 17:44:26 2015 -0700,Auto-update
+android-GridViewPager/Wearable/build.gradle,da5371212c79908c50639fa8222da2f26fe8853e,google-automerger,Mon Dec 8 17:51:02 2014 -0800,Mon Dec 8 17:51:02 2014 -0800,Auto-update
+android-GridViewPager/Wearable/build.gradle,48d94351e5c3d7a5fd6f1bfc8867ce620ee676b2,google-automerger,Fri Dec 5 15:05:50 2014 -0800,Fri Dec 5 15:05:50 2014 -0800,Auto-update
+android-GridViewPager/Wearable/build.gradle,e92f4414285d3c8ad7a8dc4bcab30de375110e92,google-automerger,Wed Dec 3 01:52:33 2014 -0800,Wed Dec 3 01:52:33 2014 -0800,Auto-update
+android-GridViewPager/Wearable/build.gradle,9be3524eb09c8ad2156e844ce3a11f3c731bea08,google-automerger,Tue Nov 18 16:19:18 2014 -0800,Tue Nov 18 16:19:18 2014 -0800,Auto-update
+android-GridViewPager/Wearable/build.gradle,55026a5c8d778c98e28b898be0b0e1a5cc5c2427,google-automerger,Thu Oct 23 09:20:09 2014 -0700,Thu Oct 23 10:38:15 2014 -0700,Initial Commit

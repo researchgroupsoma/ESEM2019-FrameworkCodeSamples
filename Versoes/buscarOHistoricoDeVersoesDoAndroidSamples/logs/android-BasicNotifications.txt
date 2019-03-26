@@ -1,0 +1,20 @@
+android-BasicNotifications/build.gradle,72dd9bfe0a39dbb5fc53c840d1c8ebb2578d805b,google-automerger,Tue Nov 18 16:17:28 2014 -0800,Tue Nov 18 16:17:28 2014 -0800,Auto-update
+android-BasicNotifications/build.gradle,fca0a1e8c4eb11ec9d91c738790e70ffe54497e0,google-automerger,Tue Sep 2 11:00:29 2014 -0700,Tue Sep 2 11:00:29 2014 -0700,Initial Commit
+android-BasicNotifications/Application/build.gradle,af31cc6b64c172baa93e38889c76ec694f6657cd,google-automerger,Thu Feb 15 16:34:55 2018 -0800,Thu Feb 15 16:34:55 2018 -0800,Auto-update
+android-BasicNotifications/Application/build.gradle,b9bdf4b3e6ef867defba9f53f723f2bbc52919ae,google-automerger,Tue Oct 10 17:51:18 2017 -0700,Tue Oct 10 17:51:18 2017 -0700,Auto-update
+android-BasicNotifications/Application/build.gradle,d12958b5bde53e4400a2e116876ed338aff85f48,google-automerger,Thu Jun 8 09:32:59 2017 -0700,Thu Jun 8 09:32:59 2017 -0700,Auto-update
+android-BasicNotifications/Application/build.gradle,ccb695d55b0652f9701dc0520e386053c074d3cd,google-automerger,Wed May 17 13:31:50 2017 -0700,Wed May 17 13:31:50 2017 -0700,Auto-update
+android-BasicNotifications/Application/build.gradle,bf84a65f366791c754612188636aedefc27a8507,google-automerger,Tue Dec 13 09:38:53 2016 -0800,Tue Dec 13 09:38:53 2016 -0800,Auto-update
+android-BasicNotifications/Application/build.gradle,3a3012b5ceef1505de668fce54a3a47c205e76db,google-automerger,Fri Aug 12 15:17:46 2016 -0700,Fri Aug 12 15:17:46 2016 -0700,Auto-update
+android-BasicNotifications/Application/build.gradle,80f01cca7fd754dc50dd687e345787128c97d0a5,google-automerger,Wed May 18 11:37:54 2016 -0700,Wed May 18 11:37:54 2016 -0700,Auto-update
+android-BasicNotifications/Application/build.gradle,464bcf98a6274a93bdfc872c1a7062127ae66576,google-automerger,Wed Apr 20 12:25:52 2016 -0700,Wed Apr 20 12:25:52 2016 -0700,Auto-update
+android-BasicNotifications/Application/build.gradle,5df8664351f175a26a2cef5f2c855f3c6bcb2e9d,google-automerger,Wed Nov 18 09:32:58 2015 -0800,Wed Nov 18 09:32:58 2015 -0800,Auto-update
+android-BasicNotifications/Application/build.gradle,01bfe7efcfeaac3a9a33f6ff82ea9b8ae1c8a04d,google-automerger,Thu Oct 8 17:42:14 2015 -0700,Thu Oct 8 17:42:14 2015 -0700,Auto-update
+android-BasicNotifications/Application/build.gradle,d8d48f087de9c092b8f5bbc9c1d03eff0b6bbbd6,google-automerger,Mon Aug 17 09:54:08 2015 -0700,Mon Aug 17 09:54:08 2015 -0700,Auto-update
+android-BasicNotifications/Application/build.gradle,be1aab4693af8f3770b98f08cd84dd4200542168,google-automerger,Thu Jul 9 11:10:01 2015 -0700,Thu Jul 9 11:10:01 2015 -0700,Auto-update
+android-BasicNotifications/Application/build.gradle,324da838deb05a2f7ea415a781db5aaa45f43e31,google-automerger,Thu May 21 10:04:07 2015 -0700,Thu May 21 10:04:07 2015 -0700,Auto-update
+android-BasicNotifications/Application/build.gradle,0b48c6973b9e63e3390c586f740f9779db8a1c0d,google-automerger,Tue Apr 28 10:53:25 2015 -0700,Tue Apr 28 10:53:25 2015 -0700,Auto-update
+android-BasicNotifications/Application/build.gradle,8083bbf496815d43faa4f87398ad36f5bd43cbd5,google-automerger,Mon Mar 30 17:43:03 2015 -0700,Mon Mar 30 17:43:03 2015 -0700,Auto-update
+android-BasicNotifications/Application/build.gradle,970b9193c29a6f851e9a89b2afb9406c82fbbdaf,google-automerger,Mon Dec 8 17:48:50 2014 -0800,Mon Dec 8 17:48:50 2014 -0800,Auto-update
+android-BasicNotifications/Application/build.gradle,e8d30cd92b03cc73f3808a46daab0c1fa77c857c,google-automerger,Wed Dec 3 01:47:56 2014 -0800,Wed Dec 3 01:47:56 2014 -0800,Auto-update
+android-BasicNotifications/Application/build.gradle,72dd9bfe0a39dbb5fc53c840d1c8ebb2578d805b,google-automerger,Tue Nov 18 16:17:28 2014 -0800,Tue Nov 18 16:17:28 2014 -0800,Auto-update

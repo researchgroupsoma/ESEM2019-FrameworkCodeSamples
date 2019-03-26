@@ -1,0 +1,20 @@
+android-HdrViewfinder/build.gradle,16f21f8fb52d3bf5f6c82f832ce8dae9f759394e,google-automerger,Fri Oct 17 09:06:16 2014 -0700,Fri Oct 17 09:06:16 2014 -0700,Initial Commit
+android-HdrViewfinder/Application/build.gradle,9cd7531ea34b4515b3f300a354149dded9d99332,google-automerger,Thu Feb 15 16:36:48 2018 -0800,Thu Feb 15 16:36:48 2018 -0800,Auto-update
+android-HdrViewfinder/Application/build.gradle,4eaf7aeed79617329289634e4c663a121dae822f,google-automerger,Tue Oct 10 17:53:12 2017 -0700,Tue Oct 10 17:53:12 2017 -0700,Auto-update
+android-HdrViewfinder/Application/build.gradle,820976123c1d5f5a1bb20aed2c927455363c84c5,google-automerger,Thu Jun 8 09:34:39 2017 -0700,Thu Jun 8 09:34:39 2017 -0700,Auto-update
+android-HdrViewfinder/Application/build.gradle,89f715de884eaaaf4256e0956811dd5e1e68f376,google-automerger,Wed May 17 13:33:33 2017 -0700,Wed May 17 13:33:33 2017 -0700,Auto-update
+android-HdrViewfinder/Application/build.gradle,162f638567ac2824d64212a955d9d3058e79db55,google-automerger,Tue Dec 13 09:40:08 2016 -0800,Tue Dec 13 09:40:08 2016 -0800,Auto-update
+android-HdrViewfinder/Application/build.gradle,396c194e54366c65addcdd16db816b74e959788c,google-automerger,Fri Aug 12 15:18:57 2016 -0700,Fri Aug 12 15:18:57 2016 -0700,Auto-update
+android-HdrViewfinder/Application/build.gradle,6c7454b4b8d3a0dc0e4569ff57db1e02bf96e525,google-automerger,Wed May 18 11:38:49 2016 -0700,Wed May 18 11:38:49 2016 -0700,Auto-update
+android-HdrViewfinder/Application/build.gradle,541a18fea8ff6fca7e52a3d6632c090fb7a774c3,google-automerger,Wed Apr 20 12:26:47 2016 -0700,Wed Apr 20 12:26:47 2016 -0700,Auto-update
+android-HdrViewfinder/Application/build.gradle,06a8fed288498637f6277e5602484c8ca7cbc140,google-automerger,Wed Nov 18 09:33:56 2015 -0800,Wed Nov 18 09:33:56 2015 -0800,Auto-update
+android-HdrViewfinder/Application/build.gradle,41f6162945ba729466a8504e9bce394484b2ccf1,google-automerger,Thu Oct 8 17:43:09 2015 -0700,Thu Oct 8 17:43:09 2015 -0700,Auto-update
+android-HdrViewfinder/Application/build.gradle,d2725775e516d5bdf6928ceb1990a8b34d96b773,google-automerger,Thu Aug 20 08:40:03 2015 -0700,Thu Aug 20 08:40:03 2015 -0700,Auto-update
+android-HdrViewfinder/Application/build.gradle,cc8baa819b62bb8fcf559ff40b1455a5dc909b38,google-automerger,Mon Aug 17 09:54:56 2015 -0700,Mon Aug 17 09:54:56 2015 -0700,Auto-update
+android-HdrViewfinder/Application/build.gradle,e7b802098c7903525244cb857c6143cd0d0f2016,google-automerger,Thu Jul 9 11:10:47 2015 -0700,Thu Jul 9 11:10:47 2015 -0700,Auto-update
+android-HdrViewfinder/Application/build.gradle,25bc70af53ae2114f42dc4667f646e5d9d1cafb4,google-automerger,Thu May 21 10:04:50 2015 -0700,Thu May 21 10:04:50 2015 -0700,Auto-update
+android-HdrViewfinder/Application/build.gradle,cdf24d87d91af365c84b6838b864891bef7a258a,google-automerger,Tue Apr 28 10:55:14 2015 -0700,Tue Apr 28 10:55:14 2015 -0700,Auto-update
+android-HdrViewfinder/Application/build.gradle,c44ed3fafbfef452037222bdf6d125351371e319,google-automerger,Mon Mar 30 17:44:29 2015 -0700,Mon Mar 30 17:44:29 2015 -0700,Auto-update
+android-HdrViewfinder/Application/build.gradle,dcd87c929647757245c872e68f1bf29fbdfd1480,google-automerger,Mon Dec 8 17:51:07 2014 -0800,Mon Dec 8 17:51:07 2014 -0800,Auto-update
+android-HdrViewfinder/Application/build.gradle,00cb1d03192f18edd3a1d88e2b7c3829ba1e2766,google-automerger,Wed Dec 3 01:52:39 2014 -0800,Wed Dec 3 01:52:39 2014 -0800,Auto-update
+android-HdrViewfinder/Application/build.gradle,16f21f8fb52d3bf5f6c82f832ce8dae9f759394e,google-automerger,Fri Oct 17 09:06:16 2014 -0700,Fri Oct 17 09:06:16 2014 -0700,Initial Commit

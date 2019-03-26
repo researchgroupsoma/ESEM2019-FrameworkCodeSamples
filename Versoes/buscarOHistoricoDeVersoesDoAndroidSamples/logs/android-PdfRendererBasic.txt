@@ -1,0 +1,22 @@
+android-PdfRendererBasic/build.gradle,595e1788b40d7af5ef483a82c4d1fee4e804a7f1,Google,Mon Aug 25 22:32:28 2014 -0700,Tue Aug 26 00:38:43 2014 -0700,Initial commit
+android-PdfRendererBasic/kotlinApp/build.gradle,f56cda61e920cdd743571b187d721365a956807d,google-automerger,Thu Feb 15 16:37:32 2018 -0800,Thu Feb 15 16:37:32 2018 -0800,Auto-update
+android-PdfRendererBasic/kotlinApp/Application/build.gradle,f56cda61e920cdd743571b187d721365a956807d,google-automerger,Thu Feb 15 16:37:32 2018 -0800,Thu Feb 15 16:37:32 2018 -0800,Auto-update
+android-PdfRendererBasic/Application/build.gradle,f56cda61e920cdd743571b187d721365a956807d,google-automerger,Thu Feb 15 16:37:32 2018 -0800,Thu Feb 15 16:37:32 2018 -0800,Auto-update
+android-PdfRendererBasic/Application/build.gradle,179af79b3ca736d4417577f8e86b7b6d64e15dc0,google-automerger,Tue Oct 10 17:54:02 2017 -0700,Tue Oct 10 17:54:02 2017 -0700,Auto-update
+android-PdfRendererBasic/Application/build.gradle,ef740904bcaf2d7adba2b07764a5bf655eb87f25,google-automerger,Thu Jun 8 09:35:22 2017 -0700,Thu Jun 8 09:35:22 2017 -0700,Auto-update
+android-PdfRendererBasic/Application/build.gradle,f3878dcd4ea0ca03820504e31607bcba86e604c8,google-automerger,Wed May 17 13:34:18 2017 -0700,Wed May 17 13:34:18 2017 -0700,Auto-update
+android-PdfRendererBasic/Application/build.gradle,4023586e0087a6847f85c32dd472318d80290afe,google-automerger,Thu Feb 9 09:18:17 2017 -0800,Thu Feb 9 09:18:17 2017 -0800,Auto-update
+android-PdfRendererBasic/Application/build.gradle,3d345eedb528f43d77e22f06cd8ba07c668579cc,google-automerger,Tue Dec 13 09:40:41 2016 -0800,Tue Dec 13 09:40:41 2016 -0800,Auto-update
+android-PdfRendererBasic/Application/build.gradle,20eda9a6cf8c6ae412b78e6877dfdda5725da7ca,google-automerger,Fri Aug 12 15:19:33 2016 -0700,Fri Aug 12 15:19:33 2016 -0700,Auto-update
+android-PdfRendererBasic/Application/build.gradle,88accb9d9a22d3e9eb2348c0055b0b0366b53b6d,google-automerger,Wed May 18 11:39:15 2016 -0700,Wed May 18 11:39:15 2016 -0700,Auto-update
+android-PdfRendererBasic/Application/build.gradle,1ea0372a5245472967ddc188bc5c1dc6ed08abb7,google-automerger,Wed Apr 20 12:27:16 2016 -0700,Wed Apr 20 12:27:16 2016 -0700,Auto-update
+android-PdfRendererBasic/Application/build.gradle,a3a0b9bcd12f5752f23ba228bc4853d8d453b9ba,google-automerger,Wed Nov 18 09:34:23 2015 -0800,Wed Nov 18 09:34:23 2015 -0800,Auto-update
+android-PdfRendererBasic/Application/build.gradle,0fea7e1fd27947f50c0cd763b7ad9fd36bd7eea2,google-automerger,Thu Oct 8 17:43:34 2015 -0700,Thu Oct 8 17:43:34 2015 -0700,Auto-update
+android-PdfRendererBasic/Application/build.gradle,48e1dcb3b352fc4dc9fd2ab74eac5682fe870d4c,google-automerger,Mon Aug 17 09:55:16 2015 -0700,Mon Aug 17 09:55:16 2015 -0700,Auto-update
+android-PdfRendererBasic/Application/build.gradle,f1a4677b054ffba01b109c0a7079e3672963b8a3,google-automerger,Thu Jul 9 11:11:07 2015 -0700,Thu Jul 9 11:11:07 2015 -0700,Auto-update
+android-PdfRendererBasic/Application/build.gradle,6e0b73d24c0f1e261669df4e1e7b5bf474b9fa31,google-automerger,Thu May 21 10:05:10 2015 -0700,Thu May 21 10:05:10 2015 -0700,Auto-update
+android-PdfRendererBasic/Application/build.gradle,8a9f35eed8b22fe3b42797a3846c602a5e0746ac,google-automerger,Tue Apr 28 10:55:57 2015 -0700,Tue Apr 28 10:55:57 2015 -0700,Auto-update
+android-PdfRendererBasic/Application/build.gradle,f854ecf68e2c6343304ce36deeb267ecd851741d,google-automerger,Mon Mar 30 17:45:00 2015 -0700,Mon Mar 30 17:45:00 2015 -0700,Auto-update
+android-PdfRendererBasic/Application/build.gradle,9d4839e88eaf75546f5c42612f8f2e512ec52995,google-automerger,Mon Dec 8 17:52:01 2014 -0800,Mon Dec 8 17:52:01 2014 -0800,Auto-update
+android-PdfRendererBasic/Application/build.gradle,0cf86fb94b7a0341f532a3ede11ef1dadaca5906,google-automerger,Wed Dec 3 01:54:09 2014 -0800,Wed Dec 3 01:54:09 2014 -0800,Auto-update
+android-PdfRendererBasic/Application/build.gradle,516228bae2e1526e5d99d399b2660f0228c170a4,google-automerger,Tue Nov 18 16:20:08 2014 -0800,Tue Nov 18 16:20:08 2014 -0800,Auto-update

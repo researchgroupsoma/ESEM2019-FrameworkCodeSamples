@@ -1,0 +1,2 @@
+android-AccelerometerPlay/build.gradle,1cc24fa08e1cade3bb4599a7f663cd7ef5c4aaf3,google-automerger,Sun Aug 28 03:55:28 2016 -0700,Sun Aug 28 03:55:28 2016 -0700,Auto-update
+android-AccelerometerPlay/app/build.gradle,1cc24fa08e1cade3bb4599a7f663cd7ef5c4aaf3,google-automerger,Sun Aug 28 03:55:28 2016 -0700,Sun Aug 28 03:55:28 2016 -0700,Auto-update

@@ -1,0 +1,12 @@
+android-DirectShare/build.gradle,aff779ae9e3044b46645f171741af70d7bb37887,google-automerger,Fri Sep 4 12:04:46 2015 -0700,Fri Sep 4 12:04:46 2015 -0700,Auto-update
+android-DirectShare/Application/build.gradle,dbfa336064c55fec4b34b83fe9c9507d7c96f9d9,google-automerger,Thu Feb 15 16:36:06 2018 -0800,Thu Feb 15 16:36:06 2018 -0800,Auto-update
+android-DirectShare/Application/build.gradle,a8d526d712e1ad53dd45b9f944b4c11f3cc3feaa,google-automerger,Tue Oct 10 17:52:28 2017 -0700,Tue Oct 10 17:52:28 2017 -0700,Auto-update
+android-DirectShare/Application/build.gradle,896eca955f1676bdd5dacdeeff62a74122f4aa2d,google-automerger,Thu Jun 8 09:33:58 2017 -0700,Thu Jun 8 09:33:58 2017 -0700,Auto-update
+android-DirectShare/Application/build.gradle,7f7cf909ec0f848c60361a00cb0a5eb5526557d5,google-automerger,Wed May 17 13:32:53 2017 -0700,Wed May 17 13:32:53 2017 -0700,Auto-update
+android-DirectShare/Application/build.gradle,09d9adcfd90f4af9e21f004dcf32b18d539dca94,google-automerger,Tue Dec 13 09:39:41 2016 -0800,Tue Dec 13 09:39:41 2016 -0800,Auto-update
+android-DirectShare/Application/build.gradle,47673a2b61883111897f7775112892740fcfcc38,google-automerger,Fri Aug 12 15:18:34 2016 -0700,Fri Aug 12 15:18:34 2016 -0700,Auto-update
+android-DirectShare/Application/build.gradle,7751efab4fad81fd1d1e5439a8250ce9b3a4a9a4,google-automerger,Wed May 18 11:38:30 2016 -0700,Wed May 18 11:38:30 2016 -0700,Auto-update
+android-DirectShare/Application/build.gradle,16571ef802e2ae5dbcd243d739f0d5d12b4124fb,google-automerger,Wed Apr 20 12:26:28 2016 -0700,Wed Apr 20 12:26:28 2016 -0700,Auto-update
+android-DirectShare/Application/build.gradle,9fa9c49adfd27a375e2bf8869e071776a2f81e0f,google-automerger,Wed Nov 18 09:33:35 2015 -0800,Wed Nov 18 09:33:35 2015 -0800,Auto-update
+android-DirectShare/Application/build.gradle,b40a720f8fb084959d93c0bb69bc7ae18016737c,google-automerger,Thu Oct 8 17:42:49 2015 -0700,Thu Oct 8 17:42:49 2015 -0700,Auto-update
+android-DirectShare/Application/build.gradle,aff779ae9e3044b46645f171741af70d7bb37887,google-automerger,Fri Sep 4 12:04:46 2015 -0700,Fri Sep 4 12:04:46 2015 -0700,Auto-update

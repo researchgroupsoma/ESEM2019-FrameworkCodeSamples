@@ -1,0 +1,6 @@
+android-CommitContentSampleIME/build.gradle,f94093f1bb460541b565f7cab7cc432ce22cc214,google-automerger,Thu Feb 15 16:35:41 2018 -0800,Thu Feb 15 16:35:41 2018 -0800,Auto-update
+android-CommitContentSampleIME/build.gradle,6adca6d1689d8e6f54ed277e1c1c0dbdf147e4a0,google-automerger,Tue Dec 13 09:39:24 2016 -0800,Tue Dec 13 09:39:24 2016 -0800,Auto-update
+android-CommitContentSampleIME/build.gradle,0e8e29c2afb0e240a69faf4eaa5974ea23d7ad3c,google-automerger,Wed Oct 19 14:08:09 2016 -0700,Wed Oct 19 14:08:09 2016 -0700,Auto-update
+android-CommitContentSampleIME/app/build.gradle,e3b8aa3ccde6c5f4ca7bed22d76bdd3b68a8d3d7,google-automerger,Thu Feb 9 09:17:36 2017 -0800,Thu Feb 9 09:17:36 2017 -0800,Auto-update
+android-CommitContentSampleIME/app/build.gradle,daef96a2570d92dfe2e96267e71e0205f62eb455,google-automerger,Wed Oct 19 14:26:32 2016 -0700,Wed Oct 19 14:26:32 2016 -0700,Auto-update
+android-CommitContentSampleIME/app/build.gradle,0e8e29c2afb0e240a69faf4eaa5974ea23d7ad3c,google-automerger,Wed Oct 19 14:08:09 2016 -0700,Wed Oct 19 14:08:09 2016 -0700,Auto-update

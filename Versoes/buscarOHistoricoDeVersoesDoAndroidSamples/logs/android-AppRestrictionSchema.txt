@@ -1,0 +1,19 @@
+android-AppRestrictionSchema/build.gradle,7d4ac9de4253ea9a8dab929a80e87f6192f3ed89,google-automerger,Fri Oct 17 09:05:02 2014 -0700,Fri Oct 17 09:05:02 2014 -0700,Initial Commit
+android-AppRestrictionSchema/Application/build.gradle,50cd31d61525c3d39f499df46ff0d4baf8762041,google-automerger,Thu Feb 15 16:34:17 2018 -0800,Thu Feb 15 16:34:17 2018 -0800,Auto-update
+android-AppRestrictionSchema/Application/build.gradle,85ae163a90928a1eb5eb18e841d8b834d92c6939,google-automerger,Tue Oct 10 17:50:39 2017 -0700,Tue Oct 10 17:50:39 2017 -0700,Auto-update
+android-AppRestrictionSchema/Application/build.gradle,f2b4f5d08acb4f24ceec173f1d0aed4e75d7eab7,google-automerger,Thu Jun 8 09:32:25 2017 -0700,Thu Jun 8 09:32:25 2017 -0700,Auto-update
+android-AppRestrictionSchema/Application/build.gradle,df0aa3a64166204a4821ea667792783f39fe532d,google-automerger,Wed May 17 13:31:13 2017 -0700,Wed May 17 13:31:13 2017 -0700,Auto-update
+android-AppRestrictionSchema/Application/build.gradle,a8ea45edada60ab5379aaadd36c2df226bdb929d,google-automerger,Tue Dec 13 09:38:27 2016 -0800,Tue Dec 13 09:38:27 2016 -0800,Auto-update
+android-AppRestrictionSchema/Application/build.gradle,cae831d2e8532846f103d611cb1c9d0ef34635cc,google-automerger,Fri Aug 12 15:17:22 2016 -0700,Fri Aug 12 15:17:22 2016 -0700,Auto-update
+android-AppRestrictionSchema/Application/build.gradle,ac53efb06b0d04397f765d3b2ad6c490e6ae0e59,google-automerger,Wed May 18 11:37:35 2016 -0700,Wed May 18 11:37:35 2016 -0700,Auto-update
+android-AppRestrictionSchema/Application/build.gradle,5df8150d1a34b268848cd93cc240115c0fccc3b5,google-automerger,Wed Apr 20 12:25:33 2016 -0700,Wed Apr 20 12:25:33 2016 -0700,Auto-update
+android-AppRestrictionSchema/Application/build.gradle,edb6b4461248348f68b9ca9c49176dbee1f62186,google-automerger,Wed Nov 18 09:32:38 2015 -0800,Wed Nov 18 09:32:38 2015 -0800,Auto-update
+android-AppRestrictionSchema/Application/build.gradle,4c8b254a14996cee6daa1735a46644ed57c060d7,google-automerger,Thu Oct 8 17:41:56 2015 -0700,Thu Oct 8 17:41:56 2015 -0700,Auto-update
+android-AppRestrictionSchema/Application/build.gradle,6eeb011c145281528e63f870f7471b10a5cc4da5,google-automerger,Mon Aug 17 09:53:51 2015 -0700,Mon Aug 17 09:53:51 2015 -0700,Auto-update
+android-AppRestrictionSchema/Application/build.gradle,55bb9b3a14347ff0f3530b770d9e27b4d29f5d7b,google-automerger,Thu Jul 9 11:09:46 2015 -0700,Thu Jul 9 11:09:46 2015 -0700,Auto-update
+android-AppRestrictionSchema/Application/build.gradle,c43e3a3384065f28974110d5762cad7356752e4b,google-automerger,Thu May 21 10:03:21 2015 -0700,Thu May 21 10:03:21 2015 -0700,Auto-update
+android-AppRestrictionSchema/Application/build.gradle,bdc6962e92c369119a455a08140edd09f332db97,google-automerger,Tue Apr 28 10:53:03 2015 -0700,Tue Apr 28 10:53:03 2015 -0700,Auto-update
+android-AppRestrictionSchema/Application/build.gradle,c19d1e9e49f045e66408a0bc90592713237d2268,google-automerger,Mon Mar 30 17:42:35 2015 -0700,Mon Mar 30 17:42:35 2015 -0700,Auto-update
+android-AppRestrictionSchema/Application/build.gradle,b81403623d75d4aa957585cc508575557af69eea,google-automerger,Mon Dec 8 17:47:50 2014 -0800,Mon Dec 8 17:47:50 2014 -0800,Auto-update
+android-AppRestrictionSchema/Application/build.gradle,3bc73487311994c8a96d6616398793057f936c2b,google-automerger,Wed Dec 3 01:41:49 2014 -0800,Wed Dec 3 01:41:49 2014 -0800,Auto-update
+android-AppRestrictionSchema/Application/build.gradle,7d4ac9de4253ea9a8dab929a80e87f6192f3ed89,google-automerger,Fri Oct 17 09:05:02 2014 -0700,Fri Oct 17 09:05:02 2014 -0700,Initial Commit

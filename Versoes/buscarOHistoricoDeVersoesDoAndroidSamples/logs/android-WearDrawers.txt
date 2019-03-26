@@ -1,0 +1,13 @@
+android-WearDrawers/build.gradle,4c819e0f8ed8f3639a026d673f615fd7515da503,google-automerger,Wed May 18 11:39:55 2016 -0700,Wed May 18 11:39:55 2016 -0700,Auto-update
+android-WearDrawers/Wearable/build.gradle,a77c593267abe093f407baf4b374616566361dcc,google-automerger,Fri Jul 27 21:57:49 2018 -0700,Fri Jul 27 21:57:49 2018 -0700,Auto-update
+android-WearDrawers/Wearable/build.gradle,dfd991edec36a9858c81ea759be8c63dee879b5d,google-automerger,Wed Mar 28 09:34:17 2018 -0700,Wed Mar 28 09:34:17 2018 -0700,Auto-update
+android-WearDrawers/Wearable/build.gradle,4ccca2208b3b4f171fa8d266cbf309ea1eae83da,google-automerger,Thu Jan 25 09:37:12 2018 -0800,Thu Jan 25 09:37:12 2018 -0800,Auto-update
+android-WearDrawers/Wearable/build.gradle,2f5c463a28fd034a45aab8871a1f7b89209e93f8,google-automerger,Wed Oct 25 09:48:07 2017 -0700,Wed Oct 25 09:48:07 2017 -0700,Auto-update
+android-WearDrawers/Wearable/build.gradle,386f36e136972a3c1e37a1006fa1e55aea7c2b21,google-automerger,Tue Oct 10 17:55:20 2017 -0700,Tue Oct 10 17:55:20 2017 -0700,Auto-update
+android-WearDrawers/Wearable/build.gradle,2e35db0ade20dedce240d183a74e8c1e8dca36ec,google-automerger,Fri Aug 11 17:25:31 2017 -0700,Fri Aug 11 17:25:31 2017 -0700,Auto-update
+android-WearDrawers/Wearable/build.gradle,5577acd6740080220cb6bc6f5acc89566dd58502,google-automerger,Thu Jun 8 09:36:36 2017 -0700,Thu Jun 8 09:36:36 2017 -0700,Auto-update
+android-WearDrawers/Wearable/build.gradle,95455ab5d6e254d9de819425005ebf8a036a457d,google-automerger,Wed May 17 13:35:31 2017 -0700,Wed May 17 13:35:31 2017 -0700,Auto-update
+android-WearDrawers/Wearable/build.gradle,40d0afbaf7c921fa968d981f6b8ae8586d9d8e72,google-automerger,Thu Feb 9 09:18:49 2017 -0800,Thu Feb 9 09:18:49 2017 -0800,Auto-update
+android-WearDrawers/Wearable/build.gradle,6b08dcf951d09e5f448003211dd855198d6360db,google-automerger,Tue Dec 13 09:41:35 2016 -0800,Tue Dec 13 09:41:35 2016 -0800,Auto-update
+android-WearDrawers/Wearable/build.gradle,fa9ca69487b34c980e8b544f83be523834c98587,google-automerger,Fri Aug 12 15:20:30 2016 -0700,Fri Aug 12 15:20:30 2016 -0700,Auto-update
+android-WearDrawers/Wearable/build.gradle,4c819e0f8ed8f3639a026d673f615fd7515da503,google-automerger,Wed May 18 11:39:55 2016 -0700,Wed May 18 11:39:55 2016 -0700,Auto-update

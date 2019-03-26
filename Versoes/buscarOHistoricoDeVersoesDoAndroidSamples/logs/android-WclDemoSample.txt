@@ -1,0 +1,4 @@
+android-WclDemoSample/build.gradle,87297890d08b3d212ec073998796d269a2819782,anaddaf,Tue Nov 3 09:44:30 2015 -0800,Tue Nov 3 09:44:30 2015 -0800,Initial Import
+android-WclDemoSample/mobile/build.gradle,87297890d08b3d212ec073998796d269a2819782,anaddaf,Tue Nov 3 09:44:30 2015 -0800,Tue Nov 3 09:44:30 2015 -0800,Initial Import
+android-WclDemoSample/shared/build.gradle,87297890d08b3d212ec073998796d269a2819782,anaddaf,Tue Nov 3 09:44:30 2015 -0800,Tue Nov 3 09:44:30 2015 -0800,Initial Import
+android-WclDemoSample/wear/build.gradle,87297890d08b3d212ec073998796d269a2819782,anaddaf,Tue Nov 3 09:44:30 2015 -0800,Tue Nov 3 09:44:30 2015 -0800,Initial Import

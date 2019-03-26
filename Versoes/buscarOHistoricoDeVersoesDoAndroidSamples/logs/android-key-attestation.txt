@@ -1,0 +1,1 @@
+android-key-attestation/server/build.gradle,2ad92d10c156128075dbc5cc2b5e5ddd0fa62e9d,Jan-Felix Schmakeit,Thu Dec 15 17:03:40 2016 +1100,Tue Dec 20 11:18:03 2016 +1100,Add key attestation sample.

@@ -1,0 +1,19 @@
+android-BasicAccessibility/build.gradle,b47955581b5529ae29dee0d4679c3efe92218d7f,google-automerger,Tue Sep 2 10:59:59 2014 -0700,Tue Sep 2 10:59:59 2014 -0700,Initial Commit
+android-BasicAccessibility/Application/build.gradle,685c32e35312b7e24dadcfd93dad79b855157e62,google-automerger,Thu Feb 15 16:34:31 2018 -0800,Thu Feb 15 16:34:31 2018 -0800,Auto-update
+android-BasicAccessibility/Application/build.gradle,b5ae2a60e451982d2f2d6fad0923fca518fce6e4,google-automerger,Tue Oct 10 17:50:53 2017 -0700,Tue Oct 10 17:50:53 2017 -0700,Auto-update
+android-BasicAccessibility/Application/build.gradle,9bbef122056009ac0fbba974ee77cdec4918041f,google-automerger,Thu Jun 8 09:32:37 2017 -0700,Thu Jun 8 09:32:37 2017 -0700,Auto-update
+android-BasicAccessibility/Application/build.gradle,8f398c981606061c63533bf7987ea603afd51049,google-automerger,Wed May 17 13:31:26 2017 -0700,Wed May 17 13:31:26 2017 -0700,Auto-update
+android-BasicAccessibility/Application/build.gradle,fb2f18f408fb955e4552c6b817e847c1ecc9a0cd,google-automerger,Tue Dec 13 09:38:35 2016 -0800,Tue Dec 13 09:38:35 2016 -0800,Auto-update
+android-BasicAccessibility/Application/build.gradle,b0294d218ba72517bbe48f211f7bbe72346e3b43,google-automerger,Fri Aug 12 15:17:28 2016 -0700,Fri Aug 12 15:17:28 2016 -0700,Auto-update
+android-BasicAccessibility/Application/build.gradle,66102cfab8fdcaa5d529f7123c228a6097081e48,google-automerger,Wed May 18 11:37:40 2016 -0700,Wed May 18 11:37:40 2016 -0700,Auto-update
+android-BasicAccessibility/Application/build.gradle,2591b0506d8c9376b961472f431d47783d9b6866,google-automerger,Wed Apr 20 12:25:39 2016 -0700,Wed Apr 20 12:25:39 2016 -0700,Auto-update
+android-BasicAccessibility/Application/build.gradle,d3acf3a594702dd7a77cb57b017fe0a808f5bef9,google-automerger,Wed Nov 18 09:32:44 2015 -0800,Wed Nov 18 09:32:44 2015 -0800,Auto-update
+android-BasicAccessibility/Application/build.gradle,d98318544967c6a61aa1f984f16d59cb6ddabda2,google-automerger,Thu Oct 8 17:42:00 2015 -0700,Thu Oct 8 17:42:00 2015 -0700,Auto-update
+android-BasicAccessibility/Application/build.gradle,a0c9e83b5531e74e6033fc7a8e40d8a24cbe9750,google-automerger,Mon Aug 17 09:53:55 2015 -0700,Mon Aug 17 09:53:55 2015 -0700,Auto-update
+android-BasicAccessibility/Application/build.gradle,0e1072b146f7544c3d8ac99949afb7025e228d28,google-automerger,Thu Jul 9 11:09:48 2015 -0700,Thu Jul 9 11:09:48 2015 -0700,Auto-update
+android-BasicAccessibility/Application/build.gradle,ce3f249ff3fbe9edb797c2d3c678e2d37dce2add,google-automerger,Thu May 21 10:03:55 2015 -0700,Thu May 21 10:03:55 2015 -0700,Auto-update
+android-BasicAccessibility/Application/build.gradle,83e0d79e274711baebd49bd6c7575f765c726e83,google-automerger,Tue Apr 28 10:53:08 2015 -0700,Tue Apr 28 10:53:08 2015 -0700,Auto-update
+android-BasicAccessibility/Application/build.gradle,6f3c8839f45a1feaa2f716df1aaa1fb48d4e9bb8,google-automerger,Mon Mar 30 17:42:44 2015 -0700,Mon Mar 30 17:42:44 2015 -0700,Auto-update
+android-BasicAccessibility/Application/build.gradle,71c24c0e0a648f37665239925c741ec880d64366,google-automerger,Mon Dec 8 17:48:01 2014 -0800,Mon Dec 8 17:48:01 2014 -0800,Auto-update
+android-BasicAccessibility/Application/build.gradle,1c1e5d87e77199aae3a36d47e24cfb81a86fc78f,google-automerger,Wed Dec 3 01:44:04 2014 -0800,Wed Dec 3 01:44:04 2014 -0800,Auto-update
+android-BasicAccessibility/Application/build.gradle,8960190d53dfececa67e5633a5a2f78ad4f0a7a0,google-automerger,Tue Nov 18 16:16:49 2014 -0800,Tue Nov 18 16:16:49 2014 -0800,Auto-update
