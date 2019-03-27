@@ -1,0 +1,6 @@
+Add README
+Polish CI
+Add mvn wrapper JAR
+Polishing
+Migrate to Spring Boot 2.0
+Initial commit of Quoters Incorporated

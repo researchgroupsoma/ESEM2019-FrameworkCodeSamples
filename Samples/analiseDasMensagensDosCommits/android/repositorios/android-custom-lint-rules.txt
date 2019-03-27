@@ -1,0 +1,16 @@
+Merge pull request #10 from tnorbye/studio3-packaging
+Add sample for Android Studio 3.x
+Merge pull request #9 from tnorbye/studio30
+Update to Gradle 3.0, and update tests to new DSL
+Upgrade to version 25.3.0 for dependencies
+Move to 25.2.3 for the lint deps
+Merge pull request #1 from a11n/issue-message
+Corrected issue-message.
+Update README name of project.
+Removes unused import.
+Polishing custom lint rules sample naming, comments, and use of LintUtils.
+Bump dependency versions
+Move to using 24.3.0 for lint-apis/checks/tests
+Added a note that this is not a final API
+Add main activity detector and tests.
+Initial empty repository

@@ -1,0 +1,121 @@
+Add NOTE sidebar about the topical guide
+Upgrade Maven plugin
+Use default unpacked dependency location in pom.xml
+Avoid hard coding the jar file location
+Add comments on jar file format
+Make gradle docker work from clean checkout
+Break up docker images into layers
+Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+Revert previous attempt
+Experiment
+Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+make docker task dependent on build task (#49)
+Fix indentation
+Add docker build test for maven
+Enable docker for travis-ci
+Fix `./gradlew build docker`
+Upgrade to Spring Boot 2.0.1.RELEASE
+Remove front matter
+Replace jar gradle task with bootJar task
+Upgrade to Spring Boot 2.0.0.RELEASE
+Upgrade to Gradle 4.6
+Upgrade to Spring Boot 1.5.10.RELEASE
+Upgrade to Spring Boot 1.5.9.RELEASE
+Update to latest plugins and use build arg to locate jar
+Upgrade to Spring Boot 1.5.8.RELEASE
+Update README.adoc
+Update dockerfile-maven repo quote
+Fix phrasing by removal of duplicated word. (#38)
+Exec java instead of running sh in entrypoint
+Upgrade to Spring Boot 1.5.7.RELEASE
+Added See Also links (#35)
+Switch to official openjdk image
+dockerfile maven config has repository and tag
+Upgrade to Spring Boot 1.5.6.RELEASE
+Upgrade to Spring Boot 1.5.5.RELEASE
+Align gradle with Maven (no push by default)
+Fix dockerfile and description
+mvn -> ./mvnw
+Switch to dockerfile-maven-plugin v1.3.4
+Update to latest Maven plugin
+Revert file system layers (optimization)
+Remove default push
+Update Spring Boot to 1.5.4
+Update to use most recent spotify plugin for Maven
+Upgrade to Spring Boot 1.5.3.RELEASE
+Upgrade to Spring Boot 1.5.2.RELEASE
+Upgrade to Spring Boot 1.5.1.RELEASE
+Upgrade to Spring Boot 1.5.0.RELEASE
+Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+Upgrade to Spring Boot 1.4.4.RELEASE
+Upgrade to Spring Boot 1.4.3.RELEASE
+Upgrade plugin from spring-boot to o.s.boot
+Add debug application in a Docker container section, patched a Dockerfile
+Upgrade to Spring Boot 1.4.2.RELEASE
+Upgrade to Spring Boot 1.4.1.RELEASE
+Update plugin docker-maven-plugin to 0.4.11 (#20)
+Upgrade to gradle 2.13
+Update to latest plugin version
+Update to Spring Boot 1.4 idioms
+Upgrade to @SpringBoot 1.4.0.RELEASE
+Upgrade to Spring Boot 1.3.7.RELEASE
+Upgrade to Spring Boot 1.3.6.RELEASE
+Add Maven wrapper
+Ignore Eclipse resources
+Add CONTRIBUTING doc
+Upgrade to Spring Boot 1.3.5.RELEASE
+Upgrade to Spring Boot 1.3.4.RELEASE
+Use "sh" instead of "bash" in alpine image
+Changed base to a much slimmer Alpine Linux base
+Upgrade to Spring Boot 1.3.3.RELEASE
+Migrate to container-based infrastructure
+Upgrade to Spring Boot 1.3.2.RELEASE
+Upgrade to Spring Boot 1.3.1.RELEASE
+Upgrade to Spring Boot 1.3.0.RELEASE
+Upgraded to Spring Boot 1.2.7.RELEASE
+Upgrade to Spring Boot 1.2.6.RELEASE
+Add footer
+Added instructions for passing Spring profile as an environment
+Upgrade to Spring Boot 1.2.5.RELEASE
+Merge pull request #10 from geoand/java-8-fix
+Upgraded Dockerfile to Java 8
+Remove unnecessary 'on a Mac'
+Rmove .codesets.json (fixes gh-9)
+Fix slack notifications
+Add travis support
+Upgrade to Java 8
+Upgrade to Spring Boot 1.2.4
+Merge pull request #7 from Riggs333/patch-1
+Remove duplicate note
+Reduce Tomcat startup time by using a different source of entropy
+Make docker on a Mac easier to follow
+Add steps to double check Docker environment
+Update to Java 7 as minimum
+Specify version of Java since Docker constraings it to run on Java 7
+Fix formatting of admonition
+Fix build.gradle so it does what it says it does
+Add VOLUME and RUN to Dockerfile
+Add Guardfile used for local builds to ignores
+Add notes about docker ps and docker stop
+Fix gradle build
+Apply source prefix
+Wrap with source block
+Push
+Wrap part of adminition with source block
+Push
+Add public facing IP
+Remove 'out of luck' sentence
+Add VirtualBox steps
+More docker polish
+Trigger another cache reset
+More docker polish
+Polish docker instructions
+Add link to docker installation steps
+Clarify order during maven build
+Regenrate gradle wrapper
+Polish
+Switch off gradle/maven hiding (till it works)
+Switch project_id to the eventual real one
+First pass tidy up
+Initial state

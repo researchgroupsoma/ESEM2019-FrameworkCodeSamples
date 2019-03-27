@@ -1,0 +1,215 @@
+Updates gradle dependency syntax
+Updates URL used for bipbop
+Updates all of the library dependencies and tests to API 27
+Add Exception parameter to TvPlayer
+Removes persistent bundle booleans on API 21
+Release then sync change listener onStop
+Merge "Cleanup license formatting"
+Merge "Set an indeterminateDrawable for the Progress bar"
+Cleanup license formatting
+Move XmlTvParser to the xmltv package
+Set an indeterminateDrawable for the Progress bar
+Use guided step fragments for setup.
+Use a separate executor in EpgSyncJobService
+Setting the default volumen to 1.0f
+Remove shortcut for switching to live playback.
+Fix a NPE in RichTvInputService
+Refactor to break cyclic dependencies between packages. PiperOrigin-RevId: 150491689 Change-Id: I088192f56767c4c87bf5d59eca0594784e60b368
+Add missing license header PiperOrigin-RevId: 150281235 Change-Id: If86cf096ab7ad235dcded4550fd77c97c854710d
+Fix sample TV input reports wrong track ID
+Set the BroadcastReciever after the activity is created
+Update JCenter package version
+Add missing )
+Merge "Don't use try with resources"
+Don't use try with resources
+Use Arrays.hashCode for arrays
+Revert "Removes persistent bundle booleans on API 21"
+Removes persistent bundle booleans on API 21
+Revert "Removes persistent bundle booleans on API 21"
+Removes persistent bundle booleans on API 21
+Fix README typo
+Add TIF Companion Lib to README
+Add Doclava for Javadoc
+Modify library build.gradle for JCenter release
+Fix logic in EPG program update
+Update Google Nose video link/thumbnail
+Avoid rewinding past recording start time
+Update Live content time shifting
+Remove rich implementation of onStopRecordingChannel
+Save recording start time when recording program
+Set video height, not width.
+Merge "Disable text track by default in DemoPlayer"
+Account for unknown video size
+Disable text track by default in DemoPlayer
+Merge "Remove buffering icon during trickplay"
+Remove buffering icon during trickplay
+Set null to TvTrackInfo when the language is unknown
+Revise ad scheduling
+Update test for EPG sync duration
+Merge "Notify system of unavailable video on ad error"
+Merge "Specify projection for program cursor in onStopRecording."
+Notify system of unavailable video on ad error
+Specify projection for program cursor in onStopRecording.
+Minimize mulithreading in BaseTVInputService.Session
+Merge "Check null player in onStateChange in RichSessionImpl"
+Merge "Add helpful ad information"
+Fix ExoPlayer Codec crash
+Add helpful ad information
+Check null player in onStateChange in RichSessionImpl
+Update README_AD with helpful ad information.
+Update default sync times
+Better support for programs in some TV apps
+Adds ERROR broadcast to EpgSyncJobService
+Add instrumentation tests for BaseTvInputService
+Check content rating when changing channel
+Fix NPE when there's no current program
+Fix build error
+Fix NPE in DemoPlayer
+Add setup fragment in the library for nicer UI
+Moved TvContractUtils to utils package
+Add an easter egg to progam description
+Improved the JavaDoc for XmlTvParser
+Renamed methods in the TvPlayer.Callback
+Merge InternalProviderData & IPDUtil
+Clean up the API for EpgSyncJobService
+Cleaned up API in BaseTvInputService
+Hiding unused APIs and cleaning method names
+Make cursor calls using a pre-defined projection
+Remove buffering icon while in trickplay
+Merge "Remove unneeded vars in sample app"
+Remove unneeded vars in sample app
+Renamed library package name
+Merge "Added DVR support to sample app"
+Added DVR support to sample app
+Merge "Removed unnecessary code in library"
+Merge "Fix NullPointerException when getting start time"
+Removed unnecessary code in library
+Fix NullPointerException when getting start time
+Remove redundant calls to play upcoming program
+Properly release DbHandler callbacks.
+Merge TvPlayer and AdController.VideoPlayer.
+Merge "Finalize ads code migration."
+Finalize ads code migration.
+Merge "Add README for ads package."
+Add README for ads package.
+Implement fake trickplay for media players
+Add support in sample app for time-shifting APIs
+Requesting EPG sync uses channel uri
+Merge "Move ads code to library."
+Move ads code to library.
+Allow ads start/stop time missing in xmltv.
+Make it easier to develop a TvInputService with an abstract class containing helper methods
+Play ads from start when channel is tuned at the middle of ads.
+Enable ad insertion during programs playing.
+Add a custom data type for InternalProviderData This will allow it to handle future data and allow for developers to add custom fields
+Merge "Insert programmatically generated ad into SampleJobService."
+Insert programmatically generated ad into SampleJobService.
+Merge "Integrate IMA SDK to support linear VAST video ads insertion."
+Integrate IMA SDK to support linear VAST video ads insertion.
+Merge "Make Advertisement class comparable."
+Make Advertisement class comparable.
+Merge "Move getRendererBuilder to player package."
+Move getRendererBuilder to player package.
+Merge "Allow an XmlTv channel to have no logo Updated tests"
+Add advertisement in TvProvider.
+Allow an XmlTv channel to have no logo Updated tests
+Fix hardcoded database ids in XmlTvParser and database conflicts that may appear due to channels having invalid database ids. Updated tests to accomodate inserting various types of channels and programs being added to the DB and removed the ability for developers or parsers to manually set the database ids of channels or programs
+Merge "Revert "Improve support for adding channels and programs using Builder Add support to the sample""
+Revert "Improve support for adding channels and programs using Builder Add support to the sample"
+Merge "Improve support for adding channels and programs using Builder Add support to the sample"
+Update sample app to use new EpgSyncJobService APIs
+Improve support for adding channels and programs using Builder Add support to the sample
+Move JobService to library and provide helper methods This will make it easy to constantly update EPG data Also makes it easy to programatically generate EPG
+Sample inputs EPG can now be generated programatically with support for XMLTV and custom channels Tests are included
+Throws an XML parsing error when trying to parse invalid xml This is exposed so the developer can handle the exception
+Merge "Moved common code developers should implement to library module This will make it easier to start with smaller codebases"
+Moved common code developers should implement to library module This will make it easier to start with smaller codebases
+Update xmltv.dtd to align with Android TV Input Framework.
+Reporting VIDEO_UNAVAILABLE_REASON_BUFFERING when buffering
+Fix various lint issues
+Fix some lint warnings
+Merge "Remove SyncAdapter"
+Merge "Add xmltv.dtd"
+Remove SyncAdapter
+Add xmltv.dtd
+Update to the latest gradle and gradle wrapper
+Remove FrameLayout from overlay view
+Use JobScheduler for EPG sync
+Merge "Update exoplayer to 1.5.6"
+Update exoplayer to 1.5.6
+Remove simple input and update screenshots
+Fix NPE with db handler
+Clean up xml, update build.gradle and import exoplayer from jcenter
+Remove the settings activity
+Use the XMLTV feed in the cloud.
+Update app-link samples
+Use Program instead of PlaybackInfo
+Add and handle app-link information
+Update the app-link feature into XML TV
+Code inspection
+Replace custom xml feed with XMLTV format.
+Revisit seek logic in RichTvInput
+Make SampleTvInput work with restricted profile
+Removed SettingActivity bug b/20625581
+Merge "Add code example for program update."
+Add code example for program update.
+Change the sample video for MPEG_DASH.
+Add timeout for image download
+Update ExoPlayer lib to r1.2.4 which supports HLS officially.
+Add the TIF sample into Android Studio sample imports: bug b/20045875
+Merge "Added genres to programs in feed and modified code accordingly to handle genres"
+Added genres to programs in feed and modified code accordingly to handle genres
+Add null-checking in SimpleTvInputService#onRelease()
+Merge "Merge conflict: Fixed bug: 19356360 when loading rich TV input in sample app Merge "Add gradle-wrapper.jar to make gradlew command work.""
+Merge conflict: Fixed bug: 19356360 when loading rich TV input in sample app Merge "Add gradle-wrapper.jar to make gradlew command work."
+Merge "Add gradle-wrapper.jar to make gradlew command work."
+Add gradle-wrapper.jar to make gradlew command work.
+Update README according to the recent channel config change.
+Update channels rather than delete and add in the setup activity.
+Add some more note for developers.
+Fix NPE when destroying TIS.
+Second pass of using TvProvider in TvInputService instead of accessing the feed directly.
+Update README.md
+Update README.md
+Removed in-app search for SettingFragment of RichTvInput
+Added long http progressive videos in Google channel Added a Creative Commons channel
+First pass of Using EPG in TIS (not the feed directly).
+Remove 'm' prefix for public fields according to the style guide.
+Merge "Clean up the code and refactor the SyncAdapter logic."
+Clean up the code and refactor the SyncAdapter logic.
+Fixed simple input service
+Add some note on the playback for HTTP progressive.
+Merge commit '2ade8403dec020718fd433297796f5b86f9bb445' into HEAD
+Update CONTRIBUTING.md
+Move more classes into the rich subpackage.
+Create seperate packages for the Simple and Rich TV services.
+Merge "Add documentations on the sample TV input code."
+Merge "Add the rest of the gradle wrapper."
+Add the rest of the gradle wrapper.
+Remove codes for SmoothStreaming which is not used in the sample input.
+Add documentations on the sample TV input code.
+Merge https://github.com/googlesamples/androidtv-sample-inputs into github_tif1
+Add null-checking for SubtitleView.
+Implement periodic program info update by using SyncAdapter framework.
+Try again to update after merge
+Merge https://github.com/googlesamples/androidtv-sample-inputs into github_tif
+Updated README: add ExoPlayer dependency
+Updated README detail and instructions
+Updated README detail and instructions
+Add channel logo and program poster art.
+3 bug fixes
+Set looping for channels in Simple input.
+Do not report videoUnavailable(buffering) if the first frame is not drawn yet.
+Report the default tracks to the TV app so that it can display the current track correctly.
+Using applyBatch() when inserting programs for efficiency.
+Implement MPEG_DASH and multi-audio support.
+Add overlayview and subtitle support in RichTvInputService.
+Sample TV Input: More informative setup dialog and cleaning up unused codes.
+Use ExoPlayer in RichTvInputService.
+Add ExoPlayer r1.0.13 library.
+Implement parental control correctly in sample TV input.
+Rename OnlineTvInputXXX RichTvInputXXX.
+Change LocalTvInputService to SimpleTvInputService.
+Fix the bulid break and missing files in the sample TV input.
+Added comments in patch set 8
+Initial empty repository

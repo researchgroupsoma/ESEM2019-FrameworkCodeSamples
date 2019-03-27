@@ -1,0 +1,131 @@
+Add link to Maven wrapper
+Specify Java version as 1.8
+Remove front matter
+Upgrade to Spring Boot 1.5.10.RELEASE
+Merge pull request #22 from douglasnaphas/semver_link
+Fixed format of the link to semver.org
+Upgrade to Spring Boot 1.5.9.RELEASE
+Upgrade to Spring Boot 1.5.8.RELEASE
+Make location of pom.xml file more clear
+Upgrade to Spring Boot 1.5.7.RELEASE
+Added See Also links (#19)
+Upgrade to Spring Boot 1.5.6.RELEASE
+Upgrade to Spring Boot 1.5.5.RELEASE
+Merge pull request #16 from voyageth/patch-1
+Upgrade to Spring Boot 1.5.3.RELEASE
+Upgrade to Spring Boot 1.5.2.RELEASE
+Upgrade to Spring Boot 1.5.1.RELEASE
+Upgrade to Spring Boot 1.5.0.RELEASE
+Upgrade to Spring Boot 1.4.4.RELEASE
+Fix joda time version
+Upgrade to Spring Boot 1.4.3.RELEASE
+Upgrade to Spring Boot 1.4.2.RELEASE
+Fix typo
+Remove copyright header
+Upgrade to Spring Boot 1.4.1.RELEASE
+Add test scope to junit
+Add <dependencies/> element to clarify how to add a dependency
+Corrected include of GreeterTest.java (#12)
+Add a test
+Upgrade to @SpringBoot 1.4.0.RELEASE
+Upgrade to Spring Boot 1.3.7.RELEASE
+Upgrade to Spring Boot 1.3.6.RELEASE
+Add Maven wrapper
+Add CONTRIBUTING doc
+Upgrade to Spring Boot 1.3.5.RELEASE
+Upgrade to Spring Boot 1.3.4.RELEASE
+Upgrade to Spring Boot 1.3.3.RELEASE
+Migrate to container-based infrastructure
+Upgrade to Spring Boot 1.3.2.RELEASE
+Upgrade to Spring Boot 1.3.1.RELEASE
+Upgrade to Spring Boot 1.3.0.RELEASE
+Upgraded to Spring Boot 1.2.7.RELEASE
+Upgrade to Spring Boot 1.2.6.RELEASE
+Add footer
+Upgrade to Spring Boot 1.2.5.RELEASE
+Fix notifications
+Add travis support
+Upgrade non-specific guides to Java 8
+Upgrade to Spring Boot 1.2.4
+Upgrade to Spring Boot 1.2.3.RELEASE
+Upgrade to Spring Boot 1.2.2.RELEASE
+Upgrade to Spring Boot 1.2.1.RELEASE
+Upgrade to Spring Boot 1.1.10.RELEASE
+Upgrade to Spring Boot 1.1.9.RELEASE
+Upgrade to Spring Boot 1.1.8.RELEASE
+Upgrade to Spring Boot 1.1.7.RELEASE
+Upgrade to Spring Boot 1.1.6.RELEASE
+Update to Spring Boot 1.1.5.RELEASE
+Merge pull request #10 from tsuyo/fix_readme
+modify README/pom.xml to align with the dependency story
+Update to Spring Boot 1.1.4.RELEASE
+Update to Spring Boot 1.1.3.RELEASE
+Upgrade to Spring Boot 1.1.2.RELEASE
+Upgrade to Spring Boot 1.1.1.RELEASE
+Upgrade to Spring Boot 1.1.0.RELEASE
+Update path to macro content
+Upgrade to Spring Boot 1.0.2.RELEASE
+Upgrade to Spring Boot 1.0.1.RELEASE
+Upgrade to Spring Boot 1.0.0.RELEASE
+Upgrade to Spring Boot 1.0.0.RC5
+Upgrade to Spring Boot 1.0.0.RC4
+Convert to mvn compile for initial codeset
+Move final build file to the beginning and update guides to reflect this
+Clean up guides to link to proper javadoc pages and include code instead of use pasted copies
+Remove old SIDEBAR files
+Initial cut of tag and project metadata
+Resolves #6: Add NOTE to describe maven-shade-plugin
+Remove unneeded jump_ahead parameter
+Convert to asciidoctor
+Refresh and update
+Resolves #5: Add description for maven-compiler-plugin
+Update complete POM to use the Maven Shade Plugin
+Update README
+Format code
+Update gitignore
+Regenerate guide based on updates
+Merge pull request #3 from BrianJerardi/master
+Fix initial HelloWorld.java code and finished pom.
+Fix prefix for snippets.
+Rebuild sidebar
+Rename tut-web in sidebar
+Add tut-web to sidebar
+Rename spring{framework-meta => -guides}
+Rebuild guide and sidebar based on latest edits
+Merge pull request #2 from btalbott/master
+Make final edits.
+Apply http://creativecommons.org/licenses/by-nd/3.0/ to written work in this repo
+Add ASLv2 license for the code in this repo
+Fix sidebars based on @beverleytalbott 's feedback on several pull requests
+Use proper name of Git
+Fix links for /undestanding/Git
+Replace understanding docs with macros
+Move SIDEBAR into a template file
+Replace Tutorial TBD with REST tutorial
+Detab code
+Capitalize /understanding/{subject} as approprite
+Fix maven-compiler-plugin to version 2.3.2
+Add intro sentence
+Replace /content with / in GSG links
+Add run.sh for CI support
+Update README to remove title
+Fixed typo in macro
+Regenerate guide based on macro updates from @btalbott
+Update guides using complete/pom.xml to instead use initial/pom.xml
+Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+Delete old README.src.md
+Add sidebar
+Convert to fpp
+Update README.src.md
+Update README
+Merge pull request #1 from btalbott/master
+Edit per guidelines
+Edited guide per guidelines
+Renamed start to initial
+Generate README.md files from README.src.md
+Use normal capitalization in Note admonition
+Version all GS guides at 0.1.0 per http://semver.org
+Add completed project and draft of GS guide.
+First draft of Maven guide
+Add start project
+Initial commit

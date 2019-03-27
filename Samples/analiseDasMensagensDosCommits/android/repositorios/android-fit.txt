@@ -1,0 +1,56 @@
+Merge pull request #45 from mgoodridge/patch-1
+Update MainActivity.java
+Merge pull request #26 from aaronj1335/master
+Convert StepCounter sample app to use the new Fitness RecordingClient and HistoryClient
+Convert BasicSensorsApi sample app to use the new Fitness SensorsClient
+Merge "update the fitness BasicHistoryApi sample app with connectionless client."
+Migrating BasicHistorySessions sample to cxless
+Migrating BasicRecordingApi sample to cxless
+update the fitness BasicHistoryApi sample app with connectionless client.
+Added required files for release to GitHub.
+Adds StepCounter sample app.
+Adds update data demo to BasicHistoryApi sample app.
+Merge pull request #13 from willum070/playversion
+Update to use Google Play services 8.4.
+Fixing typo in code snippet name of a sample.
+Update to use Google Play services 8.3.
+Fixing bug with pre-M runtimes and lint errors.
+Adding Runtime permissions code.
+Some samples require M permission requests and missing Snackbar.show().
+Making previous 2 changes across all other samples.
+Enable automanage,fix lint errors, add indexing info, and fix layout.
+Upd lib versions, upd instruct, tweak some project config items.
+Updated fitness samples to build against Google Play Services 7.
+Updating sample config for compatibility with Android Studio 1.0
+Updating for Google Play Services v6.5+ and targeting Lollipop SDK 21.
+Renaming for clarity in documentation snippet
+Merge pull request #1 from googlesamples/regs/heads/master
+Updating Fit samples to account for breaking changes in Google Play Services v6.1.84+
+Updating Google Play Services version number
+Updating samples to support SDKs 9 to 19 instead of the L preview
+Merge "Adding documentation snippets for auth code"
+Adding documentation snippets for auth code
+Correcting the Copyright text
+Adding documentation snippet markup, and correcting scope list for BasicHistorySessions
+Updating subscribe flow and also cleaning up cancel calls for clarity
+Updating samples for naming changes
+Adding support for Activity Segments
+Create README.md
+Adding licenses and such to samples
+Merge "Revising auth flow for correctness and best practices"
+Merge "Revising auth flow for correctness and best practices"
+Merge "Revising auth flow for correctness and best practices"
+Cleaning up pending results
+Revising auth flow for correctness and best practices
+Revising auth flow for correctness and best practices
+Revising auth flow for correctness and best practices
+Merge "Updating auth flow to be a better practice"
+Merge "Initial import of BasicHistoryApi sample for L preview"
+Updating auth flow to be a better practice
+Initial import of BasicHistoryApi sample for L preview
+Merge "Initial import of BasicSessions sample for L preview"
+Initial import of BasicSessions sample for L preview
+Merge "Initial import of BasicSensorsApi sample for L preview"
+Initial import of BasicRecordingApi sample for L preview
+Initial import of BasicSensorsApi sample for L preview
+Initial empty repository

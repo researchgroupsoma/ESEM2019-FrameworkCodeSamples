@@ -1,0 +1,104 @@
+;8e8df18;Fix GoogleMap padding
+M	app/src/main/java/com/google/samples/apps/ourstreets/fragment/DetailFragment.java
+
+;59a0825;Improve transition behavior Gallery -> Detail
+M	app/src/main/java/com/google/samples/apps/ourstreets/fragment/DetailFragment.java
+M	app/src/main/java/com/google/samples/apps/ourstreets/fragment/GalleryFragment.java
+A	app/src/main/java/com/google/samples/apps/ourstreets/transition/Elevation.java
+M	app/src/main/res/layout/gallery_item.xml
+M	app/src/main/res/transition/detail_shared_enter.xml
+
+;aa9f9b4;Update ViewHolder names, add missing views
+M	app/src/main/java/com/google/samples/apps/ourstreets/fragment/GalleryFragment.java
+M	app/src/main/java/com/google/samples/apps/ourstreets/view/GalleryAdapter.java
+M	app/src/main/java/com/google/samples/apps/ourstreets/view/GalleryViewHolder.java
+M	app/src/main/res/values/transition_names.xml
+
+;d3bbcae;Update dependencies
+M	app/build.gradle
+M	app/src/main/java/com/google/samples/apps/ourstreets/fragment/GalleryFragment.java
+M	app/src/main/java/com/google/samples/apps/ourstreets/view/GalleryAdapter.java
+M	build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+;1453f9c;Improve gallery exit transition
+M	app/src/main/java/com/google/samples/apps/ourstreets/fragment/DetailFragment.java
+M	app/src/main/java/com/google/samples/apps/ourstreets/fragment/GalleryFragment.java
+M	app/src/main/res/layout/fragment_gallery.xml
+R094	app/src/main/res/transition/detail_enter.xml	app/src/main/res/transition/detail_shared_enter.xml
+
+;fd9ce5c;Simplify gallery exit / reenter transition
+M	app/src/main/java/com/google/samples/apps/ourstreets/fragment/GalleryFragment.java
+M	build.gradle
+
+;319ed2c;Initial public release
+A	.gitignore
+A	.google/packaging.yaml
+A	CONTRIBUTING.md
+A	LICENSE
+A	NOTICE
+A	README.md
+A	app/build.gradle
+A	app/src/main/AndroidManifest.xml
+A	app/src/main/java/com/google/samples/apps/ourstreets/activity/MainActivity.java
+A	app/src/main/java/com/google/samples/apps/ourstreets/data/DataPresenter.java
+A	app/src/main/java/com/google/samples/apps/ourstreets/data/DataUtils.java
+A	app/src/main/java/com/google/samples/apps/ourstreets/data/DataView.java
+A	app/src/main/java/com/google/samples/apps/ourstreets/data/DetailPresenter.java
+A	app/src/main/java/com/google/samples/apps/ourstreets/data/GalleryPresenter.java
+A	app/src/main/java/com/google/samples/apps/ourstreets/data/IntentKeys.java
+A	app/src/main/java/com/google/samples/apps/ourstreets/data/JsonKeys.java
+A	app/src/main/java/com/google/samples/apps/ourstreets/fragment/BackPressAware.java
+A	app/src/main/java/com/google/samples/apps/ourstreets/fragment/DetailFragment.java
+A	app/src/main/java/com/google/samples/apps/ourstreets/fragment/GalleryFragment.java
+A	app/src/main/java/com/google/samples/apps/ourstreets/fragment/StreetViewFragment.java
+A	app/src/main/java/com/google/samples/apps/ourstreets/map/DetailClusterManager.java
+A	app/src/main/java/com/google/samples/apps/ourstreets/map/DetailMarkerRenderer.java
+A	app/src/main/java/com/google/samples/apps/ourstreets/map/NoEmptyInfoWindowMarkerManager.java
+A	app/src/main/java/com/google/samples/apps/ourstreets/map/OnCameraPositionUpdateListener.java
+A	app/src/main/java/com/google/samples/apps/ourstreets/model/Detail.java
+A	app/src/main/java/com/google/samples/apps/ourstreets/model/Gallery.java
+A	app/src/main/java/com/google/samples/apps/ourstreets/view/GalleryAdapter.java
+A	app/src/main/java/com/google/samples/apps/ourstreets/view/GalleryDivider.java
+A	app/src/main/java/com/google/samples/apps/ourstreets/view/GalleryViewHolder.java
+A	app/src/main/java/com/google/samples/apps/ourstreets/view/RecyclerItemClickListener.java
+A	app/src/main/java/com/google/samples/apps/ourstreets/view/ViewUtils.java
+A	app/src/main/res/animator/selector_raise.xml
+A	app/src/main/res/drawable-hdpi/appbar_logo.png
+A	app/src/main/res/drawable-mdpi/appbar_logo.png
+A	app/src/main/res/drawable-xhdpi/appbar_logo.png
+A	app/src/main/res/drawable-xxhdpi/appbar_logo.png
+A	app/src/main/res/drawable-xxxhdpi/appbar_logo.png
+A	app/src/main/res/drawable/ic_panorama.xml
+A	app/src/main/res/drawable/map_pin.xml
+A	app/src/main/res/layout-land/map_description.xml
+A	app/src/main/res/layout/description.xml
+A	app/src/main/res/layout/fragment_detail.xml
+A	app/src/main/res/layout/fragment_gallery.xml
+A	app/src/main/res/layout/fragment_street_view.xml
+A	app/src/main/res/layout/gallery_item.xml
+A	app/src/main/res/layout/loading_failed.xml
+A	app/src/main/res/layout/map_description.xml
+A	app/src/main/res/layout/map_info_window.xml
+A	app/src/main/res/mipmap-mdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	app/src/main/res/transition/detail_enter.xml
+A	app/src/main/res/values-land/dimens.xml
+A	app/src/main/res/values-land/styles.xml
+A	app/src/main/res/values/attrs.xml
+A	app/src/main/res/values/colors.xml
+A	app/src/main/res/values/dimens.xml
+A	app/src/main/res/values/strings.xml
+A	app/src/main/res/values/styles.xml
+A	app/src/main/res/values/transition_names.xml
+A	app/src/test/java/com/google/samples/apps/ourstreets/model/DetailTest.java
+A	app/src/test/java/com/google/samples/apps/ourstreets/model/GalleryTest.java
+A	build.gradle
+A	gradle.properties
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	settings.gradle

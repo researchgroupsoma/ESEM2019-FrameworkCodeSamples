@@ -1,0 +1,20 @@
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Merge pull request #4 from googlesamples/fix_url
+Fix the url points to this repository
+Merge pull request #3 from googlesamples/remove_calling_requestPermissions
+Remove unneeded requestPermissions call from the Activity.
+Merge pull request #2 from googlesamples/fix_document_links
+Fixes the links for the documents.
+Merge pull request #1 from googlesamples/delete_unneeded_dirs
+Delete unneeded directories/files which were accidentally pushed.
+Auto-update

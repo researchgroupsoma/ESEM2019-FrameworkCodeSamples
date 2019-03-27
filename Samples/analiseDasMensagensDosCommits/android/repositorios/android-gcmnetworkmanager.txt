@@ -1,0 +1,7 @@
+Merge pull request #2 from ciarand/fix-start_periodic_task-example
+Update start_periodic_task to 30s period
+Check for Play Services availability
+CONTRIBUTING
+LICENSE, Copyright, and README
+Initial Commit
+Initial empty repository

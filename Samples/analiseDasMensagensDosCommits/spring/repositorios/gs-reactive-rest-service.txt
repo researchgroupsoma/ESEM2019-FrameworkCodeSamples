@@ -1,0 +1,117 @@
+Clean up repositories.
+Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+Upgrade to Spring Boot 2.0.1.RELEASE
+Remove front matter
+/greeting -> /hello
+Replace jar gradle task with bootJar task
+Missing word in README.adoc (#4)
+Upgrade to Spring Boot 2.0.0.RELEASE
+Upgrade to Gradle 4.6
+Fix test so it actually asserts the response body
+Polishing.
+Upgrade gradle version
+Formatting headings.
+Pulled out the explanatory pieces
+A smaller update
+Update based on feedback
+Better artifactId and updated README
+Merge branch 'master' of https://github.com/Buzzardo/getting-started-guides
+poms and README
+Should be ignored
+First draft of the guide
+Corrected pom
+Fixed pom
+Update pom.xml
+Working code, formatting
+Working code, formatting
+Working code, formatting
+Merge pull request #1 from mminella/master
+Updates but not working
+Trying to insert a WebClient between the handler and the router.
+Unified commit for a new Spring guide that explains how to make a simple Reactor application.
+Upgrade to Spring Boot 1.5.6.RELEASE
+Upgrade to Spring Boot 1.5.5.RELEASE
+Upgrade to Spring Boot 1.5.3.RELEASE
+Upgrade to Spring Boot 1.5.2.RELEASE
+Upgrade to Spring Boot 1.5.1.RELEASE
+Upgrade to Spring Boot 1.5.0.RELEASE
+Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+Upgrade to Spring Boot 1.4.4.RELEASE
+Upgrade to Spring Boot 1.4.3.RELEASE
+Upgrade plugin from spring-boot to o.s.boot
+Upgrade to Spring Boot 1.4.2.RELEASE
+Upgrade to Spring Boot 1.4.1.RELEASE
+Upgrade to gradle 2.13
+Add macro for @SpringBootApplication
+Add a test
+Update pom.xml
+Update pom.xml
+Upgrade to @SpringBoot 1.4.0.RELEASE
+Upgrade to Spring Boot 1.3.7.RELEASE
+Upgrade to Spring Boot 1.3.6.RELEASE
+Add Maven wrapper
+Add CONTRIBUTING doc
+Upgrade to Spring Boot 1.3.5.RELEASE
+Upgrade to Spring Boot 1.3.4.RELEASE
+Upgrade to Spring Boot 1.3.3.RELEASE
+Migrate to container-based infrastructure
+Upgrade to Spring Boot 1.3.2.RELEASE
+Upgrade to Spring Boot 1.3.1.RELEASE
+Upgrade to Spring Boot 1.3.0.RELEASE
+Upgraded to Spring Boot 1.2.7.RELEASE
+Upgrade to Spring Boot 1.2.6.RELEASE
+Add footer
+Upgrade to Spring Boot 1.2.5.RELEASE
+Fix slack notifications
+Add travis support
+Upgrade to Java 8
+Upgrade to Spring Boot 1.2.4
+Remove encoding (since the parent POM has this)
+Remove encoding
+Upgrade to Spring Boot 1.2.3.RELEASE
+Fix gradle build file to declare proper version of Java
+Upgrade guide to indicate requirement for Java 7
+Upgrade maven build to Java 7
+Upgrade to Gradle 2.3
+Upgrade to Spring Boot 1.2.2.RELEASE
+Remove mavenLocal and libs-release from gradle build
+Upgrade to @SpringBootApplication
+Upgrade to Spring Boot 1.2.1.RELEASE
+Remove legacy start-class property from maven builds
+Upgrade to Spring Boot 1.1.10.RELEASE
+Convert to use https for repositories
+Upgrade to Spring Boot 1.1.9.RELEASE
+Upgrade to Spring Boot 1.1.8.RELEASE
+Remove redudant 'run the service' macro
+Upgrade to Spring Boot 1.1.7.RELEASE
+Upgrade to Spring Boot 1.1.6.RELEASE
+Enable hiding/showing build steps
+Update to Spring Boot 1.1.5.RELEASE
+Update to Spring Boot 1.1.4.RELEASE
+Update to Spring Boot 1.1.3.RELEASE
+Upgrade to Spring Boot 1.1.2.RELEASE
+Upgrade to Spring Boot 1.1.1.RELEASE
+Replace repo.spring.io/release with repo.spring.io/libs-release
+Upgrade to Spring Boot 1.1.0.RELEASE
+Update path to macro content
+Upgrade to Spring Boot 1.0.2.RELEASE
+Upgrade to Spring Boot 1.0.1.RELEASE
+Upgrade to Spring Boot 1.0.0.RELEASE
+Upgrade to Spring Boot 1.0.0.RC5
+Upgrade to Spring Boot 1.0.0.RC4
+Convert to mvn compile for initial codeset
+Replace initial gradle build with compileJava
+Make initial file the final one
+Remove version number from Spring Boot starters
+Upgrade from 3.2.4.RELEASE to current for Spring javadocs
+Clean up guides to link to proper javadoc pages and include code instead of use pasted copies
+Upgrade to Spring Boot 1.0.0.RC3
+Upgrade to Spring Boot 1.0.0.RC2
+Upgrade to gradle 1.11
+Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+Remove old SIDEBAR files
+Initial cut of tag and project metadata
+Convert to asciidoctor
+Initial commit of guide template

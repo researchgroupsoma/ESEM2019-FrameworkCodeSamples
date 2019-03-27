@@ -1,0 +1,11 @@
+Fixing bad URL in documentation.
+Adding README, updating icons, and notating a small automanage bug.
+Adding the AutoManage sample.
+Updated code for disconnecting GAC
+Split client libs & icon update.
+Updating latest versions of tools and Material style.
+Update to call out API unavailable cases.
+Finish move to QuickStart subdir.
+Moving QuickStart to subdir.
+Initial version of GoogleAccount sample.
+Initial empty repository

@@ -1,0 +1,77 @@
+Upgrade to Vaadin 10.0.11 (#23)
+Update Vaadin version to 10.0.10 (#22)
+Update Vaadin 10.0.9 (#21)
+Update Vaadin 10.0.8 (#20)
+ Update Vaadin version to 10.0.7 (#18)
+Upgrade Vaadin version to restore compatibility with Spring Boot 2.0.x
+Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+Merge pull request #15 from mstahv/feature/v10-version
+fixed gradle build and removed obsolete repositories
+updated the text part to Vaadin 10
+updated code to Vaadin 10
+Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+Upgrade to Spring Boot 2.0.1.RELEASE
+Remove front matter
+Merge pull request #14 from mstahv:master
+Use VaadinIcons instead of FontAwesome icon set
+fixed cancel button functionality
+Polish
+Merge pull request #13 from upgrade-to-boot-2
+Polish contribution
+Upgrade to Vaadin 8
+Replace jar gradle task with bootJar task
+Upgrade to Spring Boot 2.0.0.RELEASE
+Upgrade to Gradle 4.6
+Upgrade to Spring Boot 1.5.10.RELEASE
+Upgrade to Spring Boot 1.5.9.RELEASE
+Upgrade to Spring Boot 1.5.8.RELEASE
+Upgrade to Spring Boot 1.5.7.RELEASE
+Added See Also links (#11)
+Upgrade to Spring Boot 1.5.6.RELEASE
+Upgrade to Spring Boot 1.5.5.RELEASE
+Upgrade to Spring Boot 1.5.3.RELEASE
+Upgrade to Spring Boot 1.5.2.RELEASE
+Polish
+Upgrade to Vaadin 8 (#8)
+Updated versions to Vaadin Spring 1.2.0 and Spring Boot 1.5.1 (#7)
+Rollback to 1.4.4.RELEASE pending Vaadin's 1.5 support
+Upgrade to Spring Boot 1.5.0.RELEASE
+Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+Upgrade to Spring Boot 1.4.4.RELEASE
+Fix small typo (#5)
+Upgrade to Spring Boot 1.4.3.RELEASE
+Upgrade plugin from spring-boot to o.s.boot
+Upgrade to Spring Boot 1.4.2.RELEASE
+Upgrade to Spring Boot 1.4.1.RELEASE
+Merge pull request #4 from spring-guides/rewriting_tests
+Added tests
+Upgrade to gradle 2.13
+Upgrade to @SpringBoot 1.4.0.RELEASE
+Upgrade to Spring Boot 1.3.7.RELEASE
+Upgrade to Spring Boot 1.3.6.RELEASE
+Add Maven wrapper
+Add CONTRIBUTING doc
+Upgrade to Spring Boot 1.3.5.RELEASE
+Upgrade to Spring Boot 1.3.4.RELEASE
+Updated versions in gradle build
+Add link to completed build.gradle
+Made defining BOM a "required step", closes #2
+sligthly cleaner way to get a selected row in grid's single select mode
+Updated Vaadin version
+Upgrade to Spring Boot 1.3.3.RELEASE
+Migrate to container-based infrastructure
+Upgrade to Spring Boot 1.3.2.RELEASE
+Upgrade to Spring Boot 1.3.1.RELEASE
+Upgrade to Spring Boot 1.3.0.RELEASE
+Upgraded to Spring Boot 1.2.7.RELEASE
+Polish
+Polish
+Enable slack notifications from travis
+Add footer
+Polish
+updated versions
+Merge pull request #1 from freducom/patch-1
+Update README.adoc
+Some fine tuning
+initial commit

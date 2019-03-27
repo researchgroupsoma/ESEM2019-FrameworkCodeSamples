@@ -1,0 +1,44 @@
+Merge pull request #70 from fstanis/update
+Fix problem with Video Grid
+Update target SDK
+Update gradle version and other deps
+Using Dagger2 As Dependency Injection Framework (#44)
+create server (#42)
+bug fixing
+Demo of LiveData ViewModel Room
+New sample to demonstrate add/remove rows to home screen
+    Create a ExoPlayerAdapter and test it with the new PlaybackTransportControlGlue. (#31)
+Switch to O prevew2 sdk with changes in media (#30)
+Add DetailView example with auto-play video background (#23)
+Bug: 37181210 Convert android tv showcase app from using picasso to glide (#24)
+Fix Issue 18: Missing Search onClick
+Merge pull request #12 from googlesamples/backgroundbitmap
+Move background jpeg to xhdpi to save memory
+Merge pull request #11 from googlesamples/UIBugs
+Fixed overlapping Title with WebView Fragment.
+Merge pull request #9 from googlesamples/videos
+Fixed pip media control button issues, made pip singleTask, added NowPlayingCard for videos and added MediaSession activity for Music and Videos
+Merge pull request #7 from bluemix/patch-2
+Merge pull request #6 from bluemix/patch-1
+getColor for older than 23 API
+Importing Glide
+Merge pull request #5 from googlesamples/videos
+Added video grid cards example with PIP-enabled functionalty
+Created a Music example fragment running Music Service in the background
+Added Picture-in-Picture support to the video example fragment
+Upgrade to 24 SDK release
+Merge branch 'master' of https://github.com/googlesamples/leanback-showcase
+Updated the introduction and installation sections of README.
+Updated the introduction and installation sections of README.
+Update build script for AndroidStudio
+Merge branch 'master' of https://github.com/googlesamples/leanback-showcase
+Reduced the image dimension to 1920 * 1080, which reduced the file size.
+Make build script work with Android N SDK Developer Preview 3
+Added screenshots of Leanback components.
+Remove .gradle
+Update README
+Revision to initial check in.
+Changing README file.
+Added missing copyright statements.
+Open sourcing SupportLeanbackShowcase sample app.
+Initial empty repository

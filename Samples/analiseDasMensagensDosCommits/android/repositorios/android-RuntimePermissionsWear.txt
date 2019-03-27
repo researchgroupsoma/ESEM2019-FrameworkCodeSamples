@@ -1,0 +1,21 @@
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Use correct namespace for Play Services apiRefs
+Fix apiRefs in packaging.yaml
+Fixes text being cutoff in round with chin.
+Updates Google Play Services and addresses Griff's nit comments... Collapsing methods.
+Correct format of README.md.
+Renamed runtime permission sample for wear... handles m permissions.
+Initial empty repository

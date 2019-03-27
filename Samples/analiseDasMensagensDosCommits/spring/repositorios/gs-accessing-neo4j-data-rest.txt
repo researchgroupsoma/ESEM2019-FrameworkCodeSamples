@@ -1,0 +1,111 @@
+Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+Upgrade to Spring Boot 2.0.1.RELEASE
+Remove front matter
+Replace jar gradle task with bootJar task
+Upgrade to Spring Boot 2.0.0.RELEASE
+Upgrade to Gradle 4.6
+Upgrade to Spring Boot 1.5.10.RELEASE
+Upgrade to Spring Boot 1.5.9.RELEASE
+Upgrade to Spring Boot 1.5.8.RELEASE
+Upgrade to Spring Boot 1.5.7.RELEASE
+Added See Also links (#11)
+Upgrade to Spring Boot 1.5.6.RELEASE
+Upgrade to Spring Boot 1.5.5.RELEASE
+Upgrade to Spring Boot 1.5.3.RELEASE
+Upgrade to Spring Boot 1.5.2.RELEASE
+Switch off of container-based solution
+Wait up to 30 seconds on neo4j
+Wait before launching neo4j
+Wait for neo4j to startup
+Use curl to intialize neo4j password
+More neo4j
+Set initial password
+Install neo4j community edition
+Switch to trusty on travis
+Upgrade to Spring Boot 1.5.1.RELEASE
+Switch to setting the passwor
+Switch to container-based env
+Apply password change before running tests.
+Use alternative env var
+Override local neo4j password in travis
+Upgrade to Spring Boot 1.5.0.RELEASE
+Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+Upgrade to Spring Boot 1.4.4.RELEASE
+Changed simple quotes to double quotes in cURL commands (#10)
+Add neo4j to CI testing
+Upgrade to Spring Boot 1.4.3.RELEASE
+Upgrade plugin from spring-boot to o.s.boot
+Upgrade to Spring Boot 1.4.2.RELEASE
+Migrate from embedded to HTTP-based community edition of Neo4j
+Upgrade to Spring Boot 1.4.1.RELEASE
+Upgrade to gradle 2.13
+Add code fences to docs, fix typos, add custom queries, adopt Spring Data Neo4j 4.x changes
+Add tests
+Adopt Spring Data Neo4j changes
+Add macro for @SpringBootApplication
+Upgrade to @SpringBoot 1.4.0.RELEASE
+Upgrade to Spring Boot 1.3.7.RELEASE
+Upgrade to Spring Boot 1.3.6.RELEASE
+Add Maven wrapper
+Add CONTRIBUTING doc
+Upgrade to Spring Boot 1.3.5.RELEASE
+Upgrade to Spring Boot 1.3.4.RELEASE
+Implement findByLastName with named parameters
+Upgrade to Spring Boot 1.3.3.RELEASE
+Migrate to container-based infrastructure
+Upgrade to Spring Boot 1.3.2.RELEASE
+Upgrade to Spring Boot 1.3.1.RELEASE
+Upgrade to Spring Boot 1.3.0.RELEASE
+Upgraded to Spring Boot 1.2.7.RELEASE
+Upgrade to Spring Boot 1.2.6.RELEASE
+Add footer
+Upgrade to Spring Boot 1.2.5.RELEASE
+Fix slack notifications
+Add travis support
+Upgrade non-specific guides to Java 8
+Upgrade to Spring Boot 1.2.4
+Upgrade to Spring Boot 1.2.3.RELEASE
+Upgrade to Gradle 2.3
+Upgrade to Spring Boot 1.2.2.RELEASE
+Fix depdnencies for neo4j
+Remove mavenLocal and libs-release from gradle build
+Upgrade to @SpringBootApplication
+Upgrade to Spring Boot 1.2.1.RELEASE
+Remove legacy start-class property from maven builds
+Upgrade to Spring Boot 1.1.10.RELEASE
+Convert to use https for repositories
+Upgrade to Spring Boot 1.1.9.RELEASE
+Clarify @RepositoryRestResource annotation
+Upgrade to Spring Boot 1.1.8.RELEASE
+Remove redudant 'run the service' macro
+Upgrade to Spring Boot 1.1.7.RELEASE
+Add note about Location header during POST requests
+Upgrade to Spring Boot 1.1.6.RELEASE
+Enable hiding/showing build steps
+Update to Spring Boot 1.1.5.RELEASE
+Update to Spring Boot 1.1.4.RELEASE
+Update to Spring Boot 1.1.3.RELEASE
+Upgrade to Spring Boot 1.1.2.RELEASE
+Clean up versions
+Upgrade to Spring Boot 1.1.1.RELEASE
+Replace repo.spring.io/release with repo.spring.io/libs-release
+Upgrade to Spring Boot 1.1.0.RELEASE
+Fix some other lingering /people/1 links
+Merge pull request #6 from diutsu/master
+Update path to macro content
+Changes README.adoc to reflect output of example REST tests
+Update org.springframework.data:spring-data-neo4j version
+Upgrade to Spring Boot 1.0.2.RELEASE
+Upgrade to Spring Boot 1.0.1.RELEASE
+Upgrade to Spring Boot 1.0.0.RELEASE
+Merge pull request #5 from jexp/patch-2
+Merge pull request #4 from jexp/patch-1
+added mandatory base-package
+added mandatory base-package
+Upgrade to Spring Boot 1.0.0.RC5
+Add link to Gemfire guide
+Upgrade to Spring Boot 1.0.0.RC4
+Add cross link to MongoDB guide
+Initial commit

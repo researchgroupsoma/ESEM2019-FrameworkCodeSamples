@@ -1,0 +1,15 @@
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Merge pull request #5 from googlesamples/fix_NPE
+Fix the NPE by putting primitive values instead of the parcelable (Alarm instance)
+Auto-update
+Merge pull request #3 from googlesamples/fix_crash_by_updating_theme
+Fixes the crash when launching the app
+Auto-update
+Auto-update
+Auto-update

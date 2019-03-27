@@ -1,0 +1,164 @@
+Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+Fix Gradle build to use bootJar
+Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+Upgrade to Spring Boot 2.0.1.RELEASE
+Remove front matter
+Upgrade to Spring Boot 2.0.0.RELEASE
+Upgrade to Gradle 4.6
+Upgrade to Spring Boot 1.5.10.RELEASE
+Upgrade to Spring Boot 1.5.9.RELEASE
+Upgrade to Spring Boot 1.5.8.RELEASE
+Upgrade to Spring Boot 1.5.7.RELEASE
+Added See Also links (#17)
+Upgrade to Spring Boot 1.5.6.RELEASE
+Upgrade to Spring Boot 1.5.5.RELEASE
+Upgrade to Spring Boot 1.5.3.RELEASE
+Upgrade to Spring Boot 1.5.2.RELEASE
+Upgrade to Spring Boot 1.5.1.RELEASE
+Upgrade to Spring Boot 1.5.0.RELEASE
+Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+Upgrade to Spring Boot 1.4.4.RELEASE
+Upgrade to Spring Boot 1.4.3.RELEASE
+Upgrade plugin from spring-boot to o.s.boot
+Upgrade to Spring Boot 1.4.2.RELEASE
+Upgrade to Spring Boot 1.4.1.RELEASE
+Fixes https://github.com/spring-guides/getting-started-guides/issues/32
+Upgrade to gradle 2.13
+Add macro for @SpringBootApplication
+Add test deps to build.gradle
+Add test case
+Add static index.html
+Upgrade to @SpringBoot 1.4.0.RELEASE
+Upgrade to Spring Boot 1.3.7.RELEASE
+Upgrade to Spring Boot 1.3.6.RELEASE
+Add Maven wrapper
+Add CONTRIBUTING doc
+Upgrade to Spring Boot 1.3.5.RELEASE
+Upgrade to Spring Boot 1.3.4.RELEASE
+Fix broken links
+Upgrade to Spring Boot 1.3.3.RELEASE
+Migrate to container-based infrastructure
+Link to Boot's hot swapping section
+Add spring-boot-devtools
+Upgrade to Spring Boot 1.3.2.RELEASE
+Upgrade to Spring Boot 1.3.1.RELEASE
+Upgrade to Spring Boot 1.3.0.RELEASE
+Merge pull request #9 from schmittlauch/patch-1
+Fix typo in guide text
+Upgraded to Spring Boot 1.2.7.RELEASE
+Merge pull request #8 from SchnWalter/patch-1
+There is no HelloController.
+Upgrade to Spring Boot 1.2.6.RELEASE
+Add footer
+Upgrade to Spring Boot 1.2.5.RELEASE
+Fix slack notifications
+Add travis support
+Upgrade to Java 8
+Upgrade to Spring Boot 1.2.4
+Upgrade to Spring Boot 1.2.3.RELEASE
+Fix gradle build file to declare proper version of Java
+Upgrade guide to indicate requirement for Java 7
+Upgrade maven build to Java 7
+Upgrade to Gradle 2.3
+Upgrade to Spring Boot 1.2.2.RELEASE
+Remove mavenLocal and libs-release from gradle build
+Convert to @SpringBootApplication
+Upgrade to Spring Boot 1.2.1.RELEASE
+Remove legacy start-class property from maven builds
+Upgrade to Spring Boot 1.1.10.RELEASE
+Convert to use https for repositories
+Upgrade to Spring Boot 1.1.9.RELEASE
+Upgrade to Spring Boot 1.1.8.RELEASE
+Remove redudant 'run the service' macro
+Upgrade to Spring Boot 1.1.7.RELEASE
+Upgrade to Spring Boot 1.1.6.RELEASE
+Enable hiding/showing build steps
+Update to Spring Boot 1.1.5.RELEASE
+Update to Spring Boot 1.1.4.RELEASE
+Update to Spring Boot 1.1.3.RELEASE
+Upgrade to Spring Boot 1.1.2.RELEASE
+Upgrade to Spring Boot 1.1.1.RELEASE
+Replace repo.spring.io/release with repo.spring.io/libs-release
+Upgrade to Spring Boot 1.1.0.RELEASE
+Update path to macro content
+Upgrade to Spring Boot 1.0.2.RELEASE
+Update deps for thymeleaf
+Upgrade to Spring Boot 1.0.1.RELEASE
+Upgrade to Spring Boot 1.0.0.RELEASE
+Upgrade to Spring Boot 1.0.0.RC5
+Upgrade to Spring Boot 1.0.0.RC4
+Resolves #7: Upgrade to Spring Boot 1.0.0.RC3
+Convert to mvn compile for initial codeset
+Replace initial gradle build with compileJava
+Move final build file to the beginning and update guides to reflect this
+Clean up guides to link to proper javadoc pages and include code instead of use pasted copies
+Upgrade to gradle 1.11
+Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+Remove old SIDEBAR files
+Initial cut of tag and project metadata
+Parameterize spring_version in the README for javadoc links
+Fix javadoc links Spring 4
+Convert to asciidoctor
+Fixed macro so it mentions M6
+Upgrade to Spring Boot 0.5.0.M6
+Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+Update SIDEBAR links
+Update repository ids in POMs
+Add links to SIDEBAR
+Update README
+Upgrade to Gradle 1.8 and Spring Boot 0.5.0.M5
+Upgrade guide to use Gradle 1.8
+Update a macro so that it properly uses spring.io
+Replace repo.springsource.org with repo.spring.io
+Upgrade to Spring Boot 0.5.0.M4
+Thymeleaf needs to be in initial build.gradle, since complete build.gradle isn't what's shown
+small compile dependency change to build.gradle
+Replace 'Spring Boot starter POM' with Spring Boot
+Replace static.springsource.org with docs.spring.io
+Rebuild sidebar
+Rename tut-web in sidebar
+Add tut-web to sidebar
+Upgrade Spring Boot javadocs to docs.spring.io
+Upgrade to Spring Boot 0.5.0.M2
+Update guide to include like to gs-sts
+Fix links since port assignment doesn't work with markdown
+Rename spring{framework-meta => -guides}
+Convert guide to display both Gradle and Maven info
+Rebuild guide and sidebar based on latest edits
+Merge pull request #3 from btalbott/master
+Add intro sentence
+Apply http://creativecommons.org/licenses/by-nd/3.0/ to written work in this repo
+Add ASLv2 license for the code in this repo
+Clarify mods to buildscript section
+Clean up gradle build steps
+Convert guide to gradle
+Use proper name of Git
+Fix links for /undestanding/Git
+Replace understanding docs with macros
+Move SIDEBAR into a template file
+Fix understanding links
+Replace understanding guide links at bototm with macros
+Fix sidebar and guide links to u-view-templates
+Fix SIDEBAR and links to spring-boot-maven-plugin
+Capitalize /understanding/{subject} as approprite
+Replace /content with / in GSG links
+Update README
+Update pom repositories
+Add run.sh for CI support
+Add Gradle build support
+Update to latest Spring Boot configuration
+Update README to remove title
+Update README from edits
+Merge pull request #2 from btalbott/master
+Correct README GS title and SIDEBAR link.
+Update README
+Update README from edits
+Merge pull request #1 from btalbott/master
+Edit README, SIDEBAR, add comments.
+Update README to fix copy/paste error
+Add SIDEBAR
+Add initial version of guide
+Remove LICENSE
+Add gitignore
+Initial commit

@@ -1,0 +1,36 @@
+Update to Gradle plugin 3.2.0.
+Add AAB sample
+Fix Launch URLs for hello-kotlin
+Update install API sample to use Google APIs for Android
+Update SDK version in readme
+Minor tweaks to README (#45)
+Add UrlLess sample
+Update versions
+Remove unused code from instant gradle modules
+Enable minification and add proguard configs
+Introduce test suite for samples
+Re-enable configuration APKs for region locales
+Move Kotlin standard library into base split
+Cleanup & Version bump
+Improve input handling
+Cleanup and new flavors
+Add Samples Index metadata for samples (#36)
+New samples, bugfixes, increased consistency
+New samples, improve docs, update versions
+Add missing manifest tags, update gradle versions
+Update gradle version to beta1
+Add missing application project dependencies
+Add script to build all samples
+Add databinding issue note
+Update to Canary9 compatibility
+Update dependencies
+Unify repositories
+Add service sample
+Separate installable minSdk version from instant version
+Introduce kotlin instant apps sample
+Update supportLib, unify repository order
+Include http and https schemes in links
+Unify manifest activity declaration, module naming
+Fix hello-splits Instant App sample.
+Update Instant App Analytics readme.
+Initial release

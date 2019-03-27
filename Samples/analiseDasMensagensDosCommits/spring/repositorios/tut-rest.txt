@@ -1,0 +1,66 @@
+Fix typos (#70)
+Fix typos (#69)
+Fix typos
+Add link to missing EmployeeNotFoundException.java (#63)
+Upgrade talk presented at S1P 2018
+IntelliJ IDEA plugin Lombok (#62)
+added missing dependency (#61)
+Maven Wrapper via Spring Initializr (#59)
+Merge pull request #58 from nhojpatrick/typo_voin
+typo fix voin to void
+Upgrade to Spring Boot 2.0.5.RELEASE
+Polish
+Polish
+Polish
+Polish
+Rewrite tutorial using RESTful practices
+Clean up
+Polishing
+Polishing
+Upgrade to Spring Boot 2.0
+Cleans up entity classes. (#47)
+Add standard footer (e.g. with license links)
+Upgrade to Spring Boot 1.5.1.RELEASE
+Upgrade to Spring Boot 1.4.1.RELEASE
+Polish
+Polish
+Polish
+Fix typos and start.spring.io settings
+Polish
+Polish
+Polish
+Make running simpler
+Upgrade to Spring Boot 1.3.5.RELEASE
+Upgrade to Spring Boot 1.3.4.RELEASE
+Update tutorial licenses
+Update tutorial licenses
+Don't use a typical guide as the basis for travis
+Add travis integration
+Fix password grant in security sample
+Replace programmatic SSL Tomcat with declarative one.
+Polish up build files
+Remove docs subfolder
+More polish
+Hacking
+Polishing
+More polish
+Add ToC
+Polish up file references
+Cleanup usage of HTTPS
+Hacking
+Fix markdown link
+Work on sagan version
+cleanup
+initial commit of tutorial
+cleanup
+Merge branch 'master' of github.com:joshlong/bookmarks
+improved the comment examples.
+cleanup
+moved to Spring Boot 1.1.1, Spring Data 1.6
+Update README.md
+cleanup
+Move to Spring Boot 1.1.M1 (just in time for M2!), added CORS support. Cleaned up some of JPA's mess.
+cleanup.
+Update .gitignore
+adding code
+Initial commit

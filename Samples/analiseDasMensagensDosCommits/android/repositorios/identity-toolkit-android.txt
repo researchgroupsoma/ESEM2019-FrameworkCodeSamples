@@ -1,0 +1,29 @@
+Merge pull request #16 from XiaoxiongLu/master
+Update tutorial sdk version
+Update Android Library and add facebook v4
+Merge pull request #14 from XiaoxiongLu/master
+update aar files
+Updating documentation
+Updating library and plugins
+updating .aar files
+update facebook plugin
+Fixed comment steps
+Updating tutorial for new library
+Resovling merge conflict on README
+Updating Android Library
+Update README
+Update README
+Updating .aar
+Merge pull request #5 from dereksalama/patch-4
+Merge pull request #4 from dereksalama/patch-3
+Merge pull request #3 from dereksalama/patch-2
+Update build.gradle
+Remove Yahoo from providers
+Update AndroidManifest.xml
+Merge pull request #2 from dereksalama/patch-1
+Update build.gradle
+Update build.gradle
+Merge pull request #1 from mcduan/master
+Add AUTHORS, CONTRIBUTORS, LICENSE and README files.
+Initial import of Identity Toolkit quickstart for Android.
+first commit

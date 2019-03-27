@@ -1,0 +1,19 @@
+Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+Upgrade to Spring Boot 2.0.1.RELEASE
+Remove front matter
+Replace jar gradle task with bootJar task
+Polishing
+Upgrade to Spring Boot 2.0.0.RELEASE
+Upgrade to Spring Boot 1.5.10.RELEASE
+Upgrade to Spring Boot 1.5.9.RELEASE
+Added See Also links (#1)
+Enable Travis
+Remove some unused asciidoc config
+Add note abot default source location
+Typo
+Explain the markup a bit in the index.adoc
+Unindent pom.xml sample
+Try to fix adoc include sample
+Basic first draft of REST Docs guide

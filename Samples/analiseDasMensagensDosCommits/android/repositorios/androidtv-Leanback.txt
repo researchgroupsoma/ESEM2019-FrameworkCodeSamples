@@ -1,0 +1,271 @@
+Merge pull request #121 from tobiasdubois/background-handler
+Merge pull request #140 from tobiasdubois/test
+Merge pull request #139 from tobiasdubois/loader
+Update Robolectric to 3.8
+Fix androidx.annotation version mismatch when running test cases
+Remove mockito
+Use AndroidX LoaderManager
+Use a Handler to update background
+Bump recyclerview to stable version
+Convert to Androidx
+Merge "Updated deprecated fragments to use the support versions."
+Updated deprecated fragments to use the support versions.
+Apply permissions to protect internal provider
+Update build tools and gradle plugin so sample will build with Android Studio 3.1
+Merge pull request #110 from yqritc/fix-global-search
+fix global search
+Merge pull request #106 from dpreussler/issue_89
+Update to Exoplayer 2.6.1 with leanback-extension.
+#89 was broken before API level 23
+Upgrade to Glide 4.3.1 and API 27
+Fix crash by switching PrefFragment to be public static instead of private.
+Remove picture in picture support.
+Merge commit '27a58d05d369b00d58c4d8280157436d9c3d5e5f' into HEAD
+Update README.md.
+Merge "Update README.md."
+Merge commit 'd1f336bbf035ffce00231a2cad1b92282e3ecf3d' into HEAD
+Update README.md.
+Update README.md.
+Update README.md.
+Merge commit 'b53c7d0fa13ee4c40b54a25c4b2167f2a293ac41' into HEAD
+Updated README.md.
+Updated README.md.
+Merge commit '04900b2ff305de443be47742cf0fd5cfb07f24e4' into HEAD
+Add ExoPlayerAdapter to support playback with ExoPlayer 2.
+Replace deprecated apis with new api from the latest support lib.
+Updating build/compile sdk to 26.
+Add ExoPlayerAdapter to support playback with ExoPlayer 2.
+Replace deprecated apis with new api from the latest support lib.
+Updating build/compile sdk to 26.
+Improve database unit test
+Introduce a common activity superclass for search
+Jumping back/forward in videos when using gamepad triggers
+Added LeanbackPreferenceFragment to Leanback sample
+Merge "Added OnboardingFragment example to app on first launch"
+Merge "Fix build by improving compatibility for older API versions"
+Make header items focusable.
+Added OnboardingFragment example to app on first launch
+Fix build by improving compatibility for older API versions
+Updated dependencies
+Merge "Fixed bug where users cannot initially complete text search"
+Fixed bug where users cannot initially complete text search
+Moved video playback start to onStart
+Merge "Fixes issue where voice search cannot be reselected after empty search"
+Fixes issue where voice search cannot be reselected after empty search
+Updated dependencies and fixed missing resources
+Added a mobile splash screen For mobile devices that run this app
+Instrumentation tests for parcel video & downloading data from server
+Update PIP in README
+Add PIP support
+Add audio focus handling support
+Apply playback state change to controls UI
+Restricted access to searchabe provider
+Update gradle
+Update README.md
+Update screenshot showing all different fragments and views
+Clean up metadata for videos
+Update pip message
+Add message for pip
+Update exoplayer to r1.5.6
+Update gradle version
+Merge "Move to PlaybackControlsGlue"
+Move to PlaybackControlsGlue
+Merge pull request #64 from ogapants/patch-1
+Use mavenCentral and  jcenter
+Switch to jCenter
+Switch to ExoPlayer
+Cleanup log calls and line lengths
+Merge pull request #57 from seventhmoon/patch-4
+Fix divide by zero exception
+Merge pull request #59 from gitter-badger/gitter-badge
+Add Gitter badge
+Add license files and cleanup licenses
+New database model - huge refactor
+Merge commit 'a8ff9a209a447df5d4e613fcae37a3edfe7f1e9f' into HEAD
+Merge pull request #58 from seventhmoon/patch-5
+Update PlaybackOverlayActivity.java
+Update build.gradle
+Use https urls
+Pop fragment from the back stack on error dismiss
+Remove BrowseErrorActivity and use fragment only
+Merge "Use dimension resource instead of hardcoded pixels"
+Use dimension resource instead of hardcoded pixels
+Use most narrow scope obj for Glide & fix title
+Remove hardcoded Locale
+Refactor ErrorFragment to BrowseErrorFragment
+Add BuildConfig.DEBUG flags to Log.d in CardPresenter
+Fix error fragment crash
+Fix second guided step mistake refactor
+Fix many inspection issues
+Fix animations on various components
+Merge "Use ContentRecommendation to create recommendations"
+Use ContentRecommendation to create recommendations
+Initialize sidebar icons with correct alpha
+Merge pull request #51 from seventhmoon/patch-3
+Update support library to 23.1.1
+Merge pull request #49 from seventhmoon/patch-3
+Update GuidedStepActivity.java
+Use .contains() over indexOf >= 0
+Cancel error handler when Activity destroyed
+Update support library to 23.1.0
+Remove unnecessary double buferring
+Update target SDK/build system to support API 23
+Fix potential NPE in debug logging
+Unify playback state into single MediaSession
+Add Toast when videos fail to load
+Change application icon to banner
+Clean up README
+Handle L1 and R1 buttons to skip prev and next
+Merge pull request #45 from seventhmoon/patch-3
+Update build.gradle
+Update build.gradle
+Remove static logic for number of controls
+use variables like mRewindAction instead of new objects
+Prevent NullPointerExceptions when issues loading movie list
+Clean up formatting
+Merge commit '3de8567412952c886ce67777b7fa83ba73fe361f' into HEAD
+Merge pull request #40 from seventhmoon/patch-1
+Update build.gradle
+Merge "Fix fragment save/restore, use no-args constructor"
+Merge "Remove excessive allocations and unused instances"
+Avoid NPE in Uri.parse
+Remove excessive allocations and unused instances
+Fix fragment save/restore, use no-args constructor
+Merge "Use typesafe generic collection"
+Merge "fix stream resource leak"
+Merge pull request #34 from tmack8001/improve-getMovieById
+Merge pull request #35 from tmack8001/remove-lint
+fix stream resource leak
+Use typesafe generic collection
+Merge "Fixed memory issue in DetailsFragment and background manager Switch from setDrawables to setBitmap for background manager; call release in onStop; code refactoring Added mVideoView.setVideoPath(null) in onDestroy to avoid activity leak"
+Fixed memory issue in DetailsFragment and background manager Switch from setDrawables to setBitmap for background manager; call release in onStop; code refactoring Added mVideoView.setVideoPath(null) in onDestroy to avoid activity leak
+automatically play video on create
+fix fatal error reported by lint
+improve performance of getMovieById by building a index by mediaId in the VideoProvider instead of a nested loop over lists of categories and movies
+Merge pull request #33 from googlesamples/shawngit-patch-1
+Update AndroidManifest.xml
+Update README.md
+Merge pull request #32 from marcbaechinger/master
+removed some warnings like obsolete code
+refactored the handling of current playback position to make sure the position is not reset to zero when the videoView is paused while being behind the launcher. If paused behind the launcher videoView.getCurrentPosition() returns zero. That's why we have to track the position ourself to not loose it while the Now Playing card is shown and the user can press the play/pause button on the remote control which triggers our MediaController.Callback.
+Merge pull request #31 from marcbaechinger/master
+remove static variable holding a context
+Merge pull request #30 from marcbaechinger/master
+some changes to deal with Cartlands feedback. Thanks! :)
+move unregister mediaController to the onDetach method of the fragment to make sure we are still connected to the media session on power off.
+make sure auto play works correctly
+get duration of current video from metadata
+removed keyUp which previously implemented Media buttons which now are supported by MediaSession
+update overlay player UI on change of metadata of media session
+fix behavior when TV is powered down and video playback should pause in the background
+use MediaSession.Callback and MediaController.Callback to communicate between PlaybackOverlayFragment and PlaybackActivity
+use MediaController.Callback to let the PlaybackOverlayFragment update when the playback state of the media session changes.
+Workaround for the media control bar toggle issue
+Merge pull request #28 from tmack8001/media-play-pause
+API 22 and new support libs Added GuidedStepFragment Fixed custom header icon bug b/20756886 Switched to android.support.v17.leanback.widget.NonOverlappingLinearLayout for performance benefit
+adding functionality for KEYCODE_MEDIA_PLAY, KEYCODE_MEDIA_PAUSE, and KEYCODE_MEDIA_PLAY_PAUSE as per Android TV quality documentation
+Fixed apiRefs again in packaging.yaml
+Fixed compile error re: screenshot naming in drawable
+Added/Edited files necessary for being in Android Studio samples
+Added customization of headers in BrowseFragment of ATV leanback sample: bug 19970107
+Self-contained SearchFragment
+Renamed PlaybackOverlayActivity to PlaybackActivity; bug b/19839491
+Merge pull request #23 from dmfrey/master
+updated for android support v22
+Fixed bug 18405121: Remove RECORD_AUDIO permission requirement for ATV Leanback sample
+Merge pull request #21 from cartland/colorcard
+Implemented a content provider for serving recommendation background image: bug #19437634 Updated recommendations with setSortKey and setGroup Randomized recommendation cards Code clean up in global search content provider
+Addressed review comments Replaced serializable by Parcelable to improve speed: bug # 17985125
+Updated copyright to AOSP version Removed app/app.iml after checking
+Fixed bug: 19250346 crop image in PlaybackOverlayControl to show all media buttons
+Fixed bug: 19251079 set onItemViewClickedListener for PlaybackOverlayFragment
+Merge commit 'fcfe014c562da662be3215928f3bb2354e8fc01d' into HEAD
+Update CONTRIBUTING.md
+Set card presenter background colors correctly so the animation is smooth.
+Merge pull request #18 from cartland/nocontext
+Merge pull request #19 from marcbaechinger/mediasession
+propagate current position in movie and make sure the movie title looks properly
+create and maintain MediaSession with playback state and metadata to have an Android TV Now Playing Card displayed in the recommendation row of the launcher when the application is put in the background
+added iml file
+Merge pull request #10 from ph0b/patch-2
+Remove context instance variable.
+Merge pull request #17 from cartland/nonstatic
+Merge pull request #16 from marcbaechinger/cardpresentercontextbug
+Make mContext non-static in CardPresenter.
+use the context from the view of the viewHolder to avoid crashes: java.lang.IllegalArgumentException: You cannot start a load for a destroyed activity
+Merge branch 'cartland2'
+merges and fixes
+Merge branch 'cartland'
+merging commits
+Merge branch 'mabouza'
+commenting overscan
+removing auto play for now and merging
+Merge branch 'master' of https://github.com/mabouza/androidtv-Leanback into mabouza
+Merge branch 'marcbaechinger-recommendations'
+merging marcs changes and cleanup
+Merge pull request #11 from marcbaechinger/package-organization
+Merge branch 'insanity' of github.com:cartland/androidtv-Leanback into insanity
+Delete overscan method. It is not required because the VideoView should not have a buffer to account for overscan and the PlaybackOverlayFragment already is designed for TVs with overscan.
+Delete overscan method. It is not required because the VideoView should not have a buffer to account for overscan and the PlaybackOverlayFragment already is designed for TVs with overscan.
+Switch from Picasso to Glide.
+Merge branch 'package' into insanitywolf From https://github.com/googlesamples/androidtv-Leanback/pull/11/files
+Merge branch 'recommendations' into fixit From https://github.com/googlesamples/androidtv-Leanback/pull/12/files
+Merge branch 'ui' into fixit From https://github.com/googlesamples/androidtv-Leanback/pull/13/files
+Call superclass onVisibleBehindCanceled
+Switch from Glide to Picasso.
+Revert "Switch from Glide to Picasso."
+Only stay visible behind launcher when playing content.
+Switch from Glide to Picasso.
+Add Glide and fix many bugs.
+few updates to add autoplay, fixing thumbnail error on play controls, change color var names
+UI updates to sample
+add notificationId as a param of the removeNotification method to improve testability
+remove recommendation in LeanbackDetailsFragment
+package refactoring
+android studio files
+set android.hardware.microphone feature as optional
+Merge commit 'c4d41f5c51fa4baea765e6fd0c9a9bdeff1a400b' into HEAD
+Merge pull request #9 from dmalykhanov-github/master
+Build scripts update for Android Studio 1.0
+Merge commit '5a4bdc1b9d0c3062b461f41c5335b0b5143aacb9' into HEAD
+Merge pull request #7 from cartland/master
+Update Gradle 2.1 and build tools 21.0.2
+Merge branch 'master' of github.com:googlesamples/androidtv-Leanback
+Merge commit '7f70f17dff54257543944ba558a83e09d38fe7cf' into HEAD
+Update build.gradle
+Merge commit 'fbd5c0f53a8f1215f2893d71c096c0f23830d9ce' into HEAD
+Update playback_controls.xml
+Update vertical_grid.xml
+Update search.xml
+Update main.xml
+Update details.xml
+Merge branch 'master' of github.com:googlesamples/androidtv-Leanback
+Merge commit '2747a262f1d03bdf662f4acc1c134a48c06108ac' into HEAD
+Removed signing config in app/build.gradle
+Changing package name/path
+Revert "Fixed a bug"
+Update VideoContentProvider.java
+Fixed a bug
+Fixed review comments Renamed package Implmented FFW/RWD in media control of playback Added voice search for all activities Fixed bugs in memory leak and others
+Fixed review comments Renamed package Implmented FFW/RWD in media control of playback Added voice search for all activities Fixed bugs in memory leak and others
+Updated playback and build.gradle
+Removed logging Fixed more comments Fixed review comments
+Updated dummy meta data in global search so that they show up in deep link on detail page
+Implemented global search in Android TV
+Updated AndroidManifest to include Leanback feature Updated name in README
+Fixed background image issue in LeanbackDetailsFragment.java
+Merge branch 'master' of https://github.com/cartland/androidtv-Leanback
+Fix package name.
+git add .gitignore
+git add gradlew
+git add androidtv-Leanback.iml git add app/app.iml git add app/build.gradle git add app/proguard-rules.pro git add build.gradle git add gradle/wrapper/gradle-wrapper.jar git add gradle/wrapper/gradle-wrapper.properties git add settings.gradle
+git rm project.properties
+git mv AndroidManifest.xml app/src/main/ git mv java app/src/main/ git mv res/ app/src/main/
+git mv main java
+git mv src main
+Update README.md
+Update README.md
+Merge pull request #2 from kingargyle/fix-HashMap-issue
+Fix compilation issues HashMap.Entry isn't public.
+Fixed Recommendations issue with 1st run
+Initial empty repository

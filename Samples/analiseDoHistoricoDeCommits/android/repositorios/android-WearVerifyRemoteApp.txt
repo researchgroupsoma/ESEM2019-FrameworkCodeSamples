@@ -1,0 +1,111 @@
+;04f84ed;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/wearable/wear/wearverifyremoteapp/MainMobileActivity.java
+M	Wearable/build.gradle
+M	Wearable/src/main/java/com/example/android/wearable/wear/wearverifyremoteapp/MainWearActivity.java
+A	gradle.properties
+
+;35d6572;Auto-update
+M	Application/build.gradle
+M	Application/src/main/res/values/base-strings.xml
+M	README.md
+M	Wearable/build.gradle
+
+;53cfb2c;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	Wearable/build.gradle
+
+;f8214fb;Auto-update
+M	gradle/wrapper/gradle-wrapper.properties
+
+;40b4f30;Auto-update
+M	Wearable/src/main/java/com/example/android/wearable/wear/wearverifyremoteapp/MainWearActivity.java
+
+;022bb35;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+;0f2e83a;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+M	Wearable/src/main/java/com/example/android/wearable/wear/wearverifyremoteapp/MainWearActivity.java
+
+;cec28ed;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+
+;5c15769;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+
+;ff6d4ea;Auto-update
+M	Application/build.gradle
+M	Wearable/build.gradle
+
+;f7f368e;Auto-update
+M	Application/build.gradle
+M	README.md
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+
+;1a32643;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/wearable/wear/wearverifyremoteapp/MainMobileActivity.java
+M	Wearable/build.gradle
+M	Wearable/src/main/AndroidManifest.xml
+M	Wearable/src/main/java/com/example/android/wearable/wear/wearverifyremoteapp/MainWearActivity.java
+
+;bd1fbaa;Auto-update
+A	.google/packaging.yaml
+A	Application/build.gradle
+A	Application/src/main/AndroidManifest.xml
+A	Application/src/main/java/com/example/android/wearable/wear/wearverifyremoteapp/MainMobileActivity.java
+A	Application/src/main/res/drawable-hdpi/tile.9.png
+A	Application/src/main/res/layout/activity_main.xml
+A	Application/src/main/res/mipmap-hdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-mdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	Application/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+A	Application/src/main/res/values-sw600dp/template-dimens.xml
+A	Application/src/main/res/values-sw600dp/template-styles.xml
+A	Application/src/main/res/values-v11/template-styles.xml
+A	Application/src/main/res/values-v21/base-colors.xml
+A	Application/src/main/res/values-v21/base-template-styles.xml
+A	Application/src/main/res/values/base-strings.xml
+A	Application/src/main/res/values/colors.xml
+A	Application/src/main/res/values/dimens.xml
+A	Application/src/main/res/values/styles.xml
+A	Application/src/main/res/values/template-dimens.xml
+A	Application/src/main/res/values/template-styles.xml
+A	Application/src/main/res/values/wear.xml
+A	CONTRIBUTING.md
+A	LICENSE
+A	README.md
+A	Wearable/build.gradle
+A	Wearable/src/main/AndroidManifest.xml
+A	Wearable/src/main/java/com/example/android/wearable/wear/wearverifyremoteapp/MainWearActivity.java
+A	Wearable/src/main/res/layout/activity_main.xml
+A	Wearable/src/main/res/mipmap-hdpi/ic_launcher.png
+A	Wearable/src/main/res/mipmap-mdpi/ic_launcher.png
+A	Wearable/src/main/res/mipmap-xhdpi/ic_launcher.png
+A	Wearable/src/main/res/mipmap-xxhdpi/ic_launcher.png
+A	Wearable/src/main/res/values-round/dimens.xml
+A	Wearable/src/main/res/values/dimens.xml
+A	Wearable/src/main/res/values/strings.xml
+A	Wearable/src/main/res/values/wear.xml
+A	build.gradle
+A	gradle/wrapper/gradle-wrapper.jar
+A	gradle/wrapper/gradle-wrapper.properties
+A	gradlew
+A	gradlew.bat
+A	screenshots/mobile-1.png
+A	screenshots/mobile-2.png
+A	screenshots/wear-1.png
+A	screenshots/wear-2.png
+A	settings.gradle

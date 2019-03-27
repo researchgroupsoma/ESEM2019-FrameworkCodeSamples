@@ -1,0 +1,25 @@
+Update gradle and gradle plugin versions
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Initial Commit

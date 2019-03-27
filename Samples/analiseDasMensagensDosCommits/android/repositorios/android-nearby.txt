@@ -1,0 +1,39 @@
+Add .gitignore, remove .DS_Store file
+Fix compilation issues due to flavors and repository settings in gradle.
+Merge pull request #69 from knjk04/compile-to-implementation
+Update compile to implementation
+Merge pull request #67 from carlrobert-sonymobile/new-Pie
+Migrate rockpaperscissors to Android Pie, androidx
+Update "status_connected" instructions to be more accurate (#57)
+Update "status_connected" instructions to be more accurate
+Fix Error (#55)
+Fix build, add gitignore (#54)
+Update README.md
+Merge branch 'master' of https://github.com/googlesamples/android-nearby
+Merge "Add rock paper scissors sample app for Nearby Connections"
+Add rock paper scissors sample app for Nearby Connections
+Update the sample to get rid of GoogleApiClient
+Merge branch 'master' of https://github.com/googlesamples/android-nearby
+Remove ConnectionsQuickstart. Move WalkieTalkie into /connections
+Merge remote-tracking branch 'goog/master' into github_master
+Add WalkieTalkie sample app for Nearby Connections
+Merge branch 'master' of https://github.com/googlesamples/android-nearby
+Updated foreground pub sub sample to 9.0.0
+Merge branch 'master' of https://github.com/googlesamples/android-nearby
+Added Nearby permission when building GoogleApiClient
+Update Nearby + Beacons background subscribe sample.
+Merge pull request #19 from flavius-mester/master
+update google play services to 8.4 and fix the error: Attempting to perform a high-power operation from a non-Activity Context
+Merge branch 'master' of https://github.com/googlesamples/android-nearby
+Sample showing background scanning for beacons using Nearby.Messages.
+Merge branch 'master' of https://github.com/googlesamples/android-nearby
+Using PublishCallback and SubscribeCallback.
+Merge branch 'master' of https://github.com/googlesamples/android-nearby
+Fixed ordered list in README
+Merge pull request #1 from shailen/master
+Adding Nearby.Message sample.
+Fix list modification error
+Updating to 7.0.0 SDK
+Google Play Services version update, comment fixes
+Initial Commit
+Initial empty repository

@@ -1,0 +1,3 @@
+Updating README.md with links to articles and resized screenshot.
+Updating screenshot.
+Initial commit of project.

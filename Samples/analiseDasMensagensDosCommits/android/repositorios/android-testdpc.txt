@@ -1,0 +1,844 @@
+Merge /usr/local/google/home/yuemingw/android/ub-testdpc-pic-release/vendor/unbundled_google/packages/TestDPC into new-version
+Fix potential afwtest.suwdoprovisioning.SuwDoProvisioningTest.testDoProvisioning breakage.
+Merge cherrypicks of [4325621] into ub-testdpc-pic-release
+Bump TestDPC version code to 5.0.3.
+Merge cherrypicks of [4318204] into ub-testdpc-pic-release
+Fix potential afwtest.suwdoprovisioning.SuwDoProvisioningTest.testDoProvisioning breakage.
+Merge cherrypicks of [4296961] into ub-testdpc-pic-release
+Bump TestDPC version code to 5.0.2.
+Snap for 4824268 from e160b7a07e023db50b93dd7d4853c875ca8d8f7a to ub-testdpc-pic-release
+Merge "Fix the issue that P user restrictions preferences are disabled on P." into ub-testdpc-pic
+Fix the issue that P user restrictions preferences are disabled on P.
+TestDPC: Fix set-up strings
+Merge "Bump TestDPC version code." into ub-testdpc-pic
+Bump TestDPC version code.
+In app permissions, when selecting an app to view its permissions from the drop down, display a text message if there is no permission to show.
+Add keyguard support for disabling face and iris unlock.
+Release TestDpc 5.0.1 source code.
+Merge cherrypicks of [3992415, 3992416] into ub-testdpc-pic-release
+Bump TestDpc version code and change sdk version to "P".
+P is now finalized to be 28
+Snap for 4740623 from 57c5046a3a5e842f90ba48be7a65ef29ccbf5102 to ub-testdpc-pic-release
+Fix issues in setting OTA policy pre-P or without freeze
+Improve Override APN UI in TestDPC.
+Bump support library version
+Add FOREGROUND_SERVICE permission
+Merge "Do not dismiss the dialog again when it already is" into ub-testdpc-pic
+Do not dismiss the dialog again when it already is
+Use revised OTA API
+Revert "Add UI for mandatory backups' policy."
+Fix TestDPC build breakage due to API changes
+Merge "Update testdpc with latest lock task behaviour" into ub-testdpc-pic
+Enable system settings preferences for PO.
+Update testdpc with latest lock task behaviour
+ic_enterprise_blue icon should be larger
+How about TestDPC in blue?
+Revert "Password blacklist"
+Update TestDpc to use new ApnSetting API.
+No longer use reflection to implement search functionality
+No longer support target O APK
+Remove SafetyNet API demo
+Merge "Change device_admin_receiver.xml to include the new support-transfer-ownership tag." into ub-testdpc-pic
+Change device_admin_receiver.xml to include the new support-transfer-ownership tag.
+Release TestDPC 5.0.0 source code
+Update compileSdkVersion and targetSdkVersion for P preview
+Snap for 4653835 from 0cdf8f1bc7ed50a8abf90a88d381e2069fe3d05e to ub-testdpc-pic-release
+Setup two build variants for preview release
+Snap for 4651315 from 0d7ba3210a631ded014690415455686cb5664f61 to ub-testdpc-pic-release
+Cleanup more ReflectionUtils usage
+Fix password constraint page crash in P- devices
+Merge "Support onUserStarted / onUserStopped / onUserSwitched in TestDPC" into ub-testdpc-pic
+Support onUserStarted / onUserStopped / onUserSwitched in TestDPC
+Clean up reflections for COSU APIs
+Fix the string for incompatable OS version.
+Snap for 4625063 from 088138718d881eacfda75b2b1493a4651859140b to ub-testdpc-pic-release
+Update testdpc with API change in ActivityOptions.setLockTaskEnabled
+Cherry-pick of ag/3568768 into ub-testdpc-pic
+Replace reflection by API calls
+Add support for two more new event types.
+Add TAG_CRYPTO_SELF_TEST_COMPLETED event tag.
+Make TestDPC use reflection for updated COSU APIs
+Merge "TestDPC: Support Device ID attestation" into ub-testdpc-pic
+TestDPC: Support Device ID attestation
+Switch to printing policy as restriction.
+Merge "Rename DISALLOW_CONFIG_LOCATION_MODE to DISALLOW_CONFIG_LOCATION." into ub-testdpc-pic
+Rename DISALLOW_CONFIG_LOCATION_MODE to DISALLOW_CONFIG_LOCATION.
+Add new event tag support.
+Not specify theming by default in TestDPC
+Merge "Make replica Test DPC's icon red to differentiate from the original Test DPC." into ub-testdpc-pic
+Make replica Test DPC's icon red to differentiate from the original Test DPC.
+Merge "Use CrossProfileAppsAPI directly" into ub-testdpc-pic
+Merge "Support freeze period in system update policy" into ub-testdpc-pic
+Merge "TestDPC API for Override APN." into ub-testdpc-pic
+TestDPC API for Override APN.
+Add UI for mandatory backups' policy.
+Merge "Add option to use RESET_PASSWORD_REQUIRE_ENTRY flag when resetting password in TestDPC." into ub-testdpc-pic
+Use CrossProfileAppsAPI directly
+Add option to use RESET_PASSWORD_REQUIRE_ENTRY flag when resetting password in TestDPC.
+Support freeze period in system update policy
+Rename ambient display user restriction in TestDPC.
+Merge "TestDPC: Add key generation and testing facilities" into ub-testdpc-pic
+TestDPC: Add key generation and testing facilities
+Update APIs for prebuilt drop
+Merge "Change according to the API change" into ub-testdpc-pic
+Change according to the API change
+Rename "clone" Test DPC app variant to "replica" so that the "main" variant is picked by default in Android Studio.
+Only allow DO to set keep uninstalled packages
+Merge "Add support for testing DPM.{set,get}MeteredDataDisabled." into ub-testdpc-pic
+Merge "Automate TestDPC clone generation for testing as admin target in ownership transfer." into ub-testdpc-pic
+Automate TestDPC clone generation for testing as admin target in ownership transfer.
+TestDPC API for set time and set timezone.
+Merge "Add transfer ownership item test functionality to TestDPC." into ub-testdpc-pic
+Add transfer ownership item test functionality to TestDPC.
+Revise some user restrictions for TestDPC.
+Add support for testing DPM.{set,get}MeteredDataDisabled.
+Merge "TestDPC API for setSystemSetting." into ub-testdpc-pic
+TestDPC API for setSystemSetting.
+Fix build breakage
+Merge "Add switch for "Printing Enabled" policy." into ub-testdpc-pic
+Check if getKeepUninstalledPackages returns null
+Merge "Customerize user switch dialog" into ub-testdpc-pic
+Merge "Add setKeepUinstalledPackage, installExistingPackage and LEAVE_ALL_SYSTEM_APPS_ENABLED" into ub-testdpc-pic
+Add setKeepUinstalledPackage, installExistingPackage and LEAVE_ALL_SYSTEM_APPS_ENABLED
+Show last batch of NetworkEvents in TestDPC list view. SecurityEvents already shown in list view.
+Customerize user switch dialog
+Merge "Move startUserInBackground to a separate control" into ub-testdpc-pic
+Add switch for "Printing Enabled" policy.
+Move startUserInBackground to a separate control
+Support DISALLOW_SHARE_INTO_MANAGED_PROFILE
+Write network event ID to files from TestDPC, when retreiving network logs. Note: process logs is the old name for security logs.
+Display security event ID in TestDPC, when retreiving security logs. Note: process logs is the old name for security logs.
+Remove LaunchActivity
+Merge "Clean up reflections in TestDPC" into ub-testdpc-pic
+Clean up reflections in TestDPC
+Merge "Demonstrate CrossProfileApps APIs in TestDPC" into ub-testdpc-pic
+Demonstrate CrossProfileApps APIs in TestDPC
+Add new user restrictions to TestDPC.
+Merge "Allow affilaited proifle owner to disabled statusBar and keyguard" into ub-testdpc-pic
+Disable ephemeral and start_in_background checkbox before P
+Allow affilaited proifle owner to disabled statusBar and keyguard
+Provide Executor for clearApplicationUserData to unblock SDK update
+Merge "Add removeAccount" into ub-testdpc-pic
+Add removeAccount
+Check enabled state before calling user management APIs
+Merge "Add clearAppUserData" into ub-testdpc-pic
+Add clearAppUserData
+Expand user management APIs
+Password blacklist
+Use SDK 28 in ub-testdpc-pic
+Add support for DISALLOW_UNIFIED_PASSWORD
+Merge pull request #46 from jasonbayton/patch-1
+Merge /usr/local/google/home/ascull/projects/ub-testdpc-oc-release/vendor/unbundled_google/packages/TestDPC into new-version
+Snap for 4500484 from 7af53dac9aaf09b30c79c196d402fde64872ec76 to ub-testdpc-oc-release
+Build with SDK 27. am: 7af53dac9a
+Build with SDK 27.
+Snap for 4498373 from 1f3b2a2d39de79f131368ff005b49018f8563f92 to ub-testdpc-oc-release
+Bump to version 4.0.6 am: 1f3b2a2d39
+Bump to version 4.0.6
+Implement ActivityOptions.setLockTaskMode().
+Merge changes I5d323a7c,I6ef3c3cd into ub-testdpc-pic
+Fix bugs in KioskModeActivity.
+Implement setLockTaskFeatures().
+Implement DISALLOW_SYSTEM_ERROR_DIALOGS.
+Merge "Fix DISALLOW_BLUETOOTH_SHARING in TestDPC" into ub-testdpc-pic
+Fix DISALLOW_BLUETOOTH_SHARING in TestDPC
+Fix set organization name is not working in TestDPC am: fbf05ab332  -s ours
+Merge "Fix set organization name is not working in TestDPC" into ub-testdpc-pic
+Fix set organization name is not working in TestDPC
+Fix set organization name is not working in TestDPC
+Official name change
+Make sure the notification alert only once am: c1b1327930
+Make sure the notification alert only once
+Make sure the notification alert only once
+Merge "Fix NPE at the end of PO provisioning" into ub-testdpc-pic
+Fix NPE at the end of PO provisioning am: 458cf6d743
+Fix NPE at the end of PO provisioning
+Fix NPE at the end of PO provisioning
+Merge "DpcPreference support for P features" into ub-testdpc-pic
+DpcPreference support for P features
+Add UI for testing forced re-enrollment. am: 6f4b536bce
+Update SDK version for O MR1 am: d51e2acfad
+DpcPreference support for O-MR1 features am: adca712486
+Add UI for testing forced re-enrollment.
+Update SDK version for O MR1
+DpcPreference support for O-MR1 features
+Merge /usr/local/google/home/ascull/ub-testdpc-oc-release/vendor/unbundled_google/packages/TestDPC into new-version
+release-request-1bef54f6-90a9-45f5-bc56-1ea0a34bc5c4-for-ub-testdpc-oc-release-4304297 snap-temp-L49200000097508579
+Bump to version 4.0.5 am: 4a3a156251
+Bump to version 4.0.5
+Merge pull request #43 from hex539/patch-1
+Fix various typos in README.md
+Revert "Fix sync auth checking"
+Fix sync auth checking
+Make provisioning screen the default
+Mute the sound of package changes notification
+Added save and restore configuration functions for kiosk mode.
+Fix build.gradle
+Update build scripts for API 26
+Merge /usr/local/google/home/ascull/projects/ub-testdpc-oc-release/vendor/unbundled_google/packages/TestDPC into new-version
+release-request-d11808fb-f5d0-48e4-95ae-f963ed01948b-for-ub-testdpc-oc-release-4086426 snap-temp-L92900000072707625
+Bump to version 4.0.4
+Update build config.
+Merge /usr/local/google/home/ascull/projects/ub-testdpc-oc-release/vendor/unbundled_google/packages/TestDPC into new-version
+Merge cherrypicks of [2349645, 2349763] into ub-testdpc-oc-release
+Actually bump to version 4.0.3
+Bump to version 4.0.3
+Use getSystemService() overload compatible with L
+Actually bump to version 4.0.3
+Bump to version 4.0.3
+Update README.md
+Update README.md
+Merge cherrypicks of [2342197] into ub-testdpc-oc-release
+Fix isManagedProfileOwner() before profile is enabled.
+Update README.md
+Fix isManagedProfileOwner() before profile is enabled.
+Remove reflection for notification api.
+Add support for notification listeners whitelist
+Fix testdpc target25 build flavor can't be installed in pre-O devices
+Merge branch 'release' of /usr/local/google/home/ascull/projects/ub-testdpc-oc-release/vendor/unbundled_google/packages/TestDPC into new-version
+Merge cherrypicks of [2286405, 2286309] into ub-testdpc-oc-release
+Bump to version 4.0.2
+Restrict reset password service to O and later.
+Merge "Bump to version 4.0.2" into ub-testdpc-oc
+Bump to version 4.0.2
+Add XML API level trick.
+Restrict reset password service to O and later.
+Add channel to notification
+Update build tools version.
+Merge /usr/local/google/home/ascull/projects/ub-testdpc-oc-release/vendor/unbundled_google/packages/TestDPC into dp2
+Add privacy policy.
+Bump to version 4.0.01
+Add the missing O target
+Cleanup isManagedProfile
+Add a product flavor to build APK target API 25
+FirstAccountReadyBroadcastReceiver always enabled
+release-request-c67ae90b-5944-4870-bc66-0a7d739aecb3-for-ub-testdpc-oc-release-3941161 snap-temp-L73300000063968398
+release-request-c67ae90b-5944-4870-bc66-0a7d739aecb3-for-ub-testdpc-oc-release-3941161 snap-temp-L73300000063968398 (snap-temp-branch)
+release-request-e5640be1-793a-448c-95eb-87377d717c7d-for-ub-testdpc-oc-release-3964581 snap-temp-L61300000063947794
+Bump to version 4.0.01
+Add the missing O target
+Merge "Add DISALLOW_AUTOFILL support in testdpc" into ub-testdpc-oc
+Cleanup isManagedProfile
+Merge "Add a product flavor to build APK target API 25" into ub-testdpc-oc
+Merge "FirstAccountReadyBroadcastReceiver always enabled" into ub-testdpc-oc
+Add a product flavor to build APK target API 25
+Add DISALLOW_AUTOFILL support in testdpc
+Merge "Add DeviceAdminService support in TestDPC" into ub-testdpc-oc
+FirstAccountReadyBroadcastReceiver always enabled
+Add DeviceAdminService support in TestDPC
+Enable back the lint checking
+Use default toolchain rather than jack Bug: 38018456
+Revert "Use default toolchain to build testdpc Bug: 38018456"
+Use default toolchain to build testdpc Bug: 38018456
+Update notification builder's setChannel() to setChannelId()
+Convert s(g)etAffiliationIds reflection calls to formal API calls
+Fix TestDPC build breakage
+Update TestDPC as per the recent COMP related API changes
+Add checked exception for ReflectionUtils.
+Merge "Support library should be the same version of compileSdkVersion" into ub-testdpc-oc
+Support library should be the same version of compileSdkVersion
+Merge "Fix background check problem" into ub-testdpc-oc
+Fix background check problem
+Merge "Make UserRestriction fragment searchable" into ub-testdpc-oc
+Make UserRestriction fragment searchable
+Don't call getRequiredStrongAuthTimeout() before O
+Update compileSdkVersion and buildToolsVersion and Readme file
+Pulling TestDPC 4.0.0 source
+merge in ub-testdpc-oc-release history after reset to d155f532875cf8359c49c6b328d4a7e785a44a86
+merge in ub-testdpc-oc-release history after reset to ub-testdpc-oc
+Bump to 4.0.0 for OC developer preview.
+Merge "DO NOT MERGE remove use of getDeviceOwnerOrganizationName SystemApi" into ub-testdpc-oc
+merge in ub-testdpc-oc-release history after reset to 30863ef0d83bba6a6d78a2ea246d0e49ecc265aa
+merge in ub-testdpc-oc-release history after reset to ub-testdpc-nyc
+Merge "Remove use of reflection for the new reset password." into ub-testdpc-oc
+Remove use of reflection for the new reset password.
+DO NOT MERGE remove use of getDeviceOwnerOrganizationName SystemApi
+Remove use of reflection for delegated scopes.
+Not calling getBindDeviceAdminTargetUsers if TestDPC is not PO
+resolve merge conflicts of 30863ef to ub-testdpc-oc
+Show whether active password is compliant with policy.
+Temporarily remove DISALLOW_MODIFY_ACCOUNTS while adding account on pre-N devices
+Implement ResetPasswordWithToken feature
+Merge "Showing GmsCore in the app restriction app list" into ub-testdpc-oc
+Showing GmsCore in the app restriction app list
+setMasterVolumeMuted has no effect on managed profiles
+Merge "Profile owners on secondary users can bind to device owner" into ub-testdpc-oc
+Profile owners on secondary users can bind to device owner
+Merge "Don't use different view types in the AppInfoArrayAdapter." into ub-testdpc-oc
+Merge "Add lock task support on secondary users/profiles" into ub-testdpc-oc
+Add lock task support on secondary users/profiles
+Merge "Support PROVISIONING_SUCCESSFUL in TestDpc" into ub-testdpc-oc
+Merge "Remove reflection for system update info" into ub-testdpc-oc
+Remove reflection for system update info
+Clean up lock now dialog code.
+Don't use different view types in the AppInfoArrayAdapter.
+Support PROVISIONING_SUCCESSFUL in TestDpc
+Build TestDPC of minSDK = 21, targetSDk = 25
+Merge "TestDPC: show security flag in pending OTA info." into ub-testdpc-oc
+Merge "Only allow parent or evict key to be selected, not both." into ub-testdpc-oc
+Only allow parent or evict key to be selected, not both.
+Use public API for enabling backup service feature
+TestDPC: show security flag in pending OTA info.
+Show notification when PO calls DO in comp.
+Add DO/PO delegation of application management.
+TestDPC functionality to utilize DPM.getPendingSystemUpdate
+Merge "Use BuildCompat.isAtLeastO() rather than our custom version." into ub-testdpc-oc
+Use BuildCompat.isAtLeastO() rather than our custom version.
+Merge "Nit: isRuntimePermission -> static" into ub-testdpc-oc
+Nit: isRuntimePermission -> static
+Merge "Support for new user parameter in lock APIs" into ub-testdpc-oc
+Support for new user parameter in lock APIs
+Allow DO to set the recommended global proxy
+Merge "Only call lockNow on the parent on N." into ub-testdpc-oc
+Merge "Allow TestDpc to set affiliation ids" into ub-testdpc-oc
+Merge "Enable wifi configs after adding/updating" into ub-testdpc-oc
+Enable wifi configs after adding/updating
+Fix crash in WifiModificationFragment
+Only call lockNow on the parent on N.
+LockNow dialog with extra settings.
+Allow TestDpc to set affiliation ids
+Merge "Restrict keep screen on settings to device owner." into ub-testdpc-oc
+Restrict keep screen on settings to device owner.
+Improve network & security logging handling
+Merge "Integration for network logging feature" into ub-testdpc-oc
+Integration for network logging feature
+Enable wipeData() for profile owner too.
+Use public API instead of reflection for strong auth timeout feature
+Merge "Support EXTRA_PROVISIONING_DISCLAIMERS in TestDPC" into ub-testdpc-oc
+Merge "Show notification for onUserAdded/Removed" into ub-testdpc-oc
+Show notification for onUserAdded/Removed
+Add DISALLOW_{ADD,REMOVE}_USER_RESTRICTIONs
+Add support for UserManager#DISALLOW_BLUETOOTH user restriction.
+Merge "Use O = CUR_DEVELOPMENT SDK int." into ub-testdpc-oc
+Use O = CUR_DEVELOPMENT SDK int.
+Merge "Set affiliation ids in TestDPC." into ub-testdpc-oc
+Support EXTRA_PROVISIONING_DISCLAIMERS in TestDPC
+Set affiliation ids in TestDPC.
+Merge "Install work CA certificates from user 0 in TestDPC." into ub-testdpc-oc
+Merge "Support EXTRA_PROVISIONING_SKIP_ENCRYPTION in TestDPC" into ub-testdpc-oc
+Install work CA certificates from user 0 in TestDPC.
+Use compileSdkVersion 26 instead of "android-O"
+Support EXTRA_PROVISIONING_SKIP_ENCRYPTION in TestDPC
+Support SET_NEW_PASSWORD and SET_PROFILE_PARENT_NEW_PASSWORD in testdpc am: 7f5ca61b6b  -s ours
+Support SET_NEW_PASSWORD and SET_PROFILE_PARENT_NEW_PASSWORD in testdpc
+[Do not merge] Specify EXTRA_PROVISIONING_SKIP_USER_CONSENT and PROVISIONING_KEEP_ACCOUNT_ON_MIGRATION in COMP provisioning
+Integrate bindDeviceAdminService in TestDPC and adding hide icon feature
+[DO NOT MERGE] Fix crash while DPM.getDeviceOwnerOrganizationName() is not implemented yet
+Allow DO to set the organization name
+Allow DpcPreference to set a custom constraint logic and summary
+Create COMP specific page and add isUserRunning/ isUserUnlocked support
+Fix NPE when using ReflectionUtil
+Use O SDK to build TestDPC
+Support SET_NEW_PASSWORD and SET_PROFILE_PARENT_NEW_PASSWORD in testdpc
+Retire user guide.
+Fix Password Quality Fragment crashed in DO in COMP mode
+Merge "Integration for enable backup service feature" into ub-testdpc-oc
+Integration for enable backup service feature
+Integration for strong auth timeout feature
+Merge "N has an SDK int so this TODO can be done." into ub-testdpc-nyc am: 8beb103c46
+N has an SDK int so this TODO can be done. am: b093046032
+Merge "N has an SDK int so this TODO can be done." into ub-testdpc-nyc
+N has an SDK int so this TODO can be done.
+Warn about consequences of DO removal. am: e3e4a947fe
+Warn about consequences of DO removal.
+resolve merge conflicts of b406a06 to ub-testdpc-oc
+Make policies accessible from the primary user.
+Merge "Utility class to ease the testing of new APIs." into ub-testdpc-oc
+Utility class to ease the testing of new APIs.
+Refactor handling of Android versions.
+Allow DO to create managed profile in TestDPC
+Update gradle to 2.14.1 am: 7bd39742a7
+Update gradle to 2.14.1
+Upgrade to gradle 2.2 am: 0c015e7b62
+Upgrade to gradle 2.2
+Use Java 1.8
+Use SDK 25
+Upstream 3.0.11 source
+Bump version to 3.0.11
+Show a different title when wait for account ready timed out
+Don't allow newline in reset password dialog
+User and IntDef for user and admin kinds.
+Use SwitchDpcPreference for user restrictions.
+Allow DpcPerference minimum SDK version to be set.
+Inform when preference will be active.
+Use new preferences for managed profile policies.
+Use new preferences for password constraints.
+Use new preferences for lock screen restrictions.
+Introduce an interface for DpcPreferences.
+Introduce XML declared constraints for preferences.
+Fix grammar for managed work profile policies.
+Merge "Remove periods from toasts." into ub-testdpc-nyc
+Remove periods from toasts.
+Upstream 3.0.10 source
+Bump version to 3.0.10
+Clear failed password log after successful entry.
+Fix SwitchPreference in UserRestriction page
+Upstream 3.0.9 source
+Clarify notification about received system update
+Explicitly use preference-v14 24.0.0 library
+Bump the build number for release.
+Initialize parent instance of DevicePolicyManager earlier
+Disable inactive password constraints.
+Merge "Handle all exceptions resetPassword can throw." into ub-testdpc-nyc
+Merge "Explain why policy management items are disabled." into ub-testdpc-nyc
+Handle all exceptions resetPassword can throw.
+Explain why policy management items are disabled.
+Avoid clearing always-on when setAlwaysOnVpn fails
+Use support library for preferences.
+Merge "Display failed password attempt times for manager" into ub-testdpc-nyc
+Display failed password attempt times for manager
+Show security patch date under policy management.
+Enable app restriction proxy code on L and M.
+Merge "Fix incorrect handling of bundle array restriction" into ub-testdpc-nyc
+Fix incorrect handling of bundle array restriction
+Merge "Disable autocorrect in app restriction dialog" into ub-testdpc-nyc
+Error handling in AddAccountActivity in TestDPC
+Update the usage of locknow in testdpc
+Show VPN app only in always on vpn fragment
+Disable autocorrect in app restriction dialog
+Update README.md
+Upstream 3.0.8 source
+Bump version to 3.0.8
+Enable the first account ready receiver in onProfileProvisioningComplete
+Bump version to 3.0.7
+Enable profile anyway after certain timeout
+Merge "Bump version to 3.0.6" into ub-testdpc-nyc
+Bump version to 3.0.6
+Log invalid caller instead of throwing SecurityException from service am: 57576fd1db
+Log invalid caller instead of throwing SecurityException from service
+Log invalid caller instead of throwing SecurityException from service am: d7f0335daa
+Merge "Delete unused line from PolicyManagementFragment" into ub-testdpc-nyc
+Fix PO provisioning in pre-N devices
+Log invalid caller instead of throwing SecurityException from service
+Merge "Bump version to 3.0.5" into ub-testdpc-nyc
+Add search functionality to testdpc
+Bump version to 3.0.5
+Delete unused line from PolicyManagementFragment
+Track internal maven repo temporarily
+Start using api version instead of codename.
+Only enable profile if it is managed profile
+Bump version to 3.0.4
+Merge "Change api level to 24 from N" into ub-testdpc-nyc
+Show scrollbar in safetynet dialog
+Change api level to 24 from N
+Support KEYGUARD_DISABLE_REMOTE_INPUT in TestDPC
+Use 3p gms client library instead
+Merge "Fix year representation in SimpleDateFormat" into ub-testdpc-nyc
+Fix year representation in SimpleDateFormat
+Update gradle
+Demo SafeNetAPI in TestDPC
+Wait for FIRST_ACCOUNT_READY_ACTION broadcast before calling setProfileEnabled
+Merge "Clear the app restriction manager if the pkg name is empty string" into ub-testdpc-nyc
+Clear the app restriction manager if the pkg name is empty string
+Support EAP-TLS Wifi
+Update README.md
+Upstream 3.0.3 source
+Merge "Use isManagedProfile to distinguish managed profile and PO" into ub-testdpc-nyc
+merge in ub-testdpc-nyc-release history after reset to ub-testdpc-nyc
+Use isManagedProfile to distinguish managed profile and PO
+Background only apps should be shown in app restriction/permission list
+Fix initialization order of proxy service. am: d6022b3b0c
+Fix string under enable system app by pkg name
+Fix initialization order of proxy service.
+Set app primary/accent color in TestDPC
+Fix string in setup profile screen
+Add get/setTrustAgentConfiguration api in testdpc
+Merge "Refactor app restriction fragment" into ub-testdpc-nyc
+Merge "Fix date string in app usage history" into ub-testdpc-nyc
+Remove disable widget policy
+Fix date string in app usage history
+Merge "Fix WI-FI string in TestDPC" into ub-testdpc-nyc
+Fix WI-FI string in TestDPC
+Refactor app restriction fragment
+merge in ub-testdpc-nyc-release history after reset to ub-testdpc-nyc
+Update API usage for setAlwaysOnPackage
+Fill mIsComponentCheckedList with false
+Fix permitted keyboard does not persist in TestDPC
+merge in ub-testdpc-nyc-release history after reset to ub-testdpc-nyc
+Added DISALLOW_SET_USER_ICON and DISALLOW_SET_WALLPAPER restrictions.
+Bump version to 3.0.2
+Bump version to 3.0.2
+Update README.md
+Merge /media/tonymak/SSD/testdpc-release/vendor/unbundled_google/packages/TestDPC
+Merge "Adjusting getOrganizationName() call after API change" into ub-testdpc-nyc
+Adjusting getOrganizationName() call after API change
+Properly catch NameNotFoundException for setApplicationRestrictionsManagingPackage
+Bump version to 3.0.3
+Merge "Track upstream SDK change" into ub-testdpc-nyc
+Track upstream SDK change
+Stop calling unsupported DPM methods on parent instance
+Add script to generate local.properties file for TestDPC project
+Bump version to 3.0.2
+Add the missing TargetApi annotation.
+AfW - suspend apps - API polish TestDPC fix
+Update the version number to 3.0.1
+Add lint checking to TestDPC (Attempt 2)
+Revert "Add lint checking to TestDPC"
+Add lint checking to TestDPC
+Backport app restrictions managing package fragment [DO NOT MERGE] am: f93276d  -s ours
+Backport app restrictions managing package fragment [DO NOT MERGE]
+Merge "[TestDPC] Adjusting logging calls after unifying naming to security logging" into ub-testdpc-nyc
+Merge "Api change of DPM.setApplicationRestrictionsManagingPackage() throws NameNotFound Exception" into ub-testdpc-nyc
+Api change of DPM.setApplicationRestrictionsManagingPackage() throws NameNotFound Exception
+Add setPasswordHistoryLength() in TestDPC
+Add locknow API in TestDPC
+Update usage of API DPM.getWifiMacAddress.
+[TestDPC] Adjusting logging calls after unifying naming to security logging
+Merge "Add checks for new changes in DPM.reboot()" into ub-testdpc-nyc
+Add checks for new changes in DPM.reboot()
+Fix usage of SharedPreferences am: db16789758
+Fix usage of SharedPreferences
+Update README.md
+Update README.md
+Upload version 3.0.0
+Retrigger the build
+Update the version number to 3.0.0
+Hack to modify xxxSdVersion for building pre-N apk against preview SDK
+Generate two apks for pre-N and N
+Update target sdk version to 'N'
+Merge "Change KEYGUARD_PREFERENCES to KEYGUARD_FEATURES" into ub-testdpc-nyc
+Change KEYGUARD_PREFERENCES to KEYGUARD_FEATURES
+getContext should not be used as it is introduced in API 23
+Update version number to 2.6.0
+Remove support for testing DPM.createAndInitializeUser.
+Avoid initializing preferences if they are disabled.
+Application restrictions proxy code am: 4c09ca67ab
+Remove createAndInitialize on N devices and later
+Add UI for testing DevicePolicyManager#createAndManageUser.
+Application restrictions proxy code
+Update the version number to 2.5.0
+Merge "Suspend packages - update TestDPC implementation" into ub-testdpc-nyc
+Suspend packages - update TestDPC implementation
+Move organization info options to managed profile specific section.
+Merge "Move lock message preference into lock section" into ub-testdpc-nyc
+Get the current color value from dpm instead of storing it.
+Move lock message preference into lock section
+Merge "Update set organization color option to use colorPicker class." into ub-testdpc-nyc
+Update set organization color option to use colorPicker class.
+Merge "Update output apk name when built on build server." into ub-testdpc-mnc am: 486ef97c3a
+Merge "Update output apk name when built on build server." into ub-testdpc-mnc
+Update output apk name when built on build server.
+Update the layout of provisioning params color and logo.
+Added missing work challenge APIs
+Move isBefore.() calls to Util class
+Move keyguard feature disabling into lock policies
+Partially revert "Guard against <NYC instantiating ProfileOrParent"
+LockScreenPolicy: implement ProfileOrParentFragment
+Merge "Guard against <NYC instantiating ProfileOrParent" into ub-testdpc-nyc
+Guard against <NYC instantiating ProfileOrParent
+resolve merge conflicts of 3f0f491f2c to ub-testdpc-nyc.
+Implement lock time and failures-to-wipe in a separate Fragment
+Update enable process logging option only if it is not disabled.
+resolve merge conflicts of 63a71caae9 to ub-testdpc-nyc.
+Add Util class for showing notifications [DO NOT MERGE] am: ad84b79593  -s ours
+Convert password settings to a PreferenceFragment [DO NOT MERGE] am: 3626c4cb4f  -s ours
+Password expiration settings for TestDPC
+Add Util class for showing notifications [DO NOT MERGE]
+Convert password settings to a PreferenceFragment [DO NOT MERGE]
+Merge "Fix build" into ub-testdpc-nyc
+Fix build
+Merge "Inherit ProfileOrParentFragment from PreferenceFragment" into ub-testdpc-nyc
+Inherit ProfileOrParentFragment from PreferenceFragment
+resolve merge conflicts of 76e3333243 to ub-testdpc-nyc.
+Add support for setting auto time required policy.
+Update process logging option only if TestDPC is DO.
+Merge "Add support for enterprise process logging" into ub-testdpc-nyc
+Implement multi-profile for password quality page
+Add support for enterprise process logging
+Merge "Fragment container for profile-symmetric pages" into ub-testdpc-nyc
+Fragment container for profile-symmetric pages
+Preference to reset the password
+Don\'t update PO-specific notifications if not one am: e220487351
+Don't update PO-specific notifications if not one
+Merge "Keep password failure notification on after unlock" into ub-testdpc-mnc am: c7b8e202d0
+Merge "Keep password failure notification on after unlock" into ub-testdpc-mnc
+Keep password failure notification on after unlock
+Fix build: getResources().getQuantityString() am: b1ddb58bf6
+Fix build: getResources().getQuantityString()
+Warning notification when password attempt fails am: d461c1a64e
+Notify when password quality is out of policy am: 930d2155f4
+Warning notification when password attempt fails
+Add an always-on VPN setting
+Merge "Add remote bugreport support" into ub-testdpc-nyc
+Notify when password quality is out of policy
+Add remote bugreport support
+Use UM.DISALLOW_DATA_ROAMING as SDK is updated
+Add support for setting admin support messages.
+resolve merge conflicts of dca419a329 to ub-testdpc-nyc
+Ability to set password requirements
+Add support for disabling cross-profile contacts search.
+Update targetSdkVersion to 24.
+TestDPC implementation for suspend/unsuspend apps.
+Merge "TestDPC implementation for custom lock screen message" into ub-testdpc-nyc
+TestDPC implementation for custom lock screen message
+Merge "Added "Disallow data roaming" in User Restrictions" into ub-testdpc-nyc
+Demonstrate removeKeyPair
+PolicyManagement: use <li> tags for javadoc items
+Update buildToolsVersion from 23.0.1 to 24.0.0
+Enable DPM.reboot call
+Add delegated app restrictions managing app functionality
+Merge "Don't show options to customize the provisioning if not allowed." into ub-testdpc-nyc
+Don't show options to customize the provisioning if not allowed.
+Merge "Remove the temporary workaround to use current sdk." into ub-testdpc-nyc
+Remove the temporary workaround to use current sdk.
+Update compileSdkVersion to 24.
+Added "Disallow data roaming" in User Restrictions
+Fix: commenting DPM.reboot() until SDK is updated.
+Add "Reboot device" in policy management
+Add "Show Wi-Fi MAC address" to test DPM.getWifiMacAddress()
+Refactor common code for building provisioning intent.
+Merge sync-auth support back into non-sync-auth flow.
+Pass a color from TestDPC to colorize the provisioning.
+Fix TestDPC crash if no image returned when picking a logo.
+From TestDPC, give the option to pass a logo to ManagedProvisioning.
+Use codename check until VERSION.SDK_INT is updated.
+DO NOT MERGE Add isProvisioningAllowed for PO & DO
+Refactor classes to remove code duplication. am: 51dbc1b436
+Merge "Temporary workaround to use the current sdk." into ub-testdpc-nyc
+Temporary workaround to use the current sdk.
+Refactor classes to remove code duplication.
+Support the DPM.setMasterVolumeMuted() policy.
+Update README file.
+Update README file.
+Rename the TestDPC user guide.
+Upload User guide v1.0
+Fix the usage of viewholder pattern in AppPermissionsArrayAdapter.
+Upload version 2.0.6
+Bump version number from 2.0.5 to 2.0.6
+Change application id and package name again.
+Bump version number from 2.0.4 to 2.0.5
+Change the applicationId and package name.
+Include the missing license headers.
+Update toast shown when failed to set input methods and accessibility services.
+Update toast shown when there is no camera app.
+Disable ALLOW_PARENT_PROFILE_APP_LINKING restriction on pre-M devices.
+Remove user restrictions in Manage work profile specific policy section.
+Use the setup wizard library from AOSP.
+Hide the actionbar in Fragment onResume.
+Update messages shown to the user in Network stats screen.
+Make network data usage stats more readable.
+Refactor UserRestrictionsDislayFragment.
+Set preferenceChangeListeners for keyguard features.
+Bump version number from 2.0.3 to 2.0.4
+Only self-grant permissions if they are runtime.
+Add more user restrictions.
+Move user restrictions into a new fragment.
+Fix build: update build tools version from 23 to 23.0.1
+Bump version number from 2.0.2 to 2.0.3
+Fix crash in TestDPC
+Bump version number from 2.0.1 to 2.0.2
+Fix broken behavior of reset option in manage app restrictions.
+Shield RestrictionManager.convertRestrictionsToBundle in pre-M.
+Auto grant all the requested permissions to self.
+Use dev keys for signing TestDPC debug builds.
+Bump version number from 2.0.0 to 2.0.1
+Bump version number from 1.2.0 to 2.0.0
+Update ManageAppRestrictionsFragment to treat type choice, null as string.
+Handle restriction type string[] with value empty list.
+Bump version number from 1.1.0 to 1.2.0
+Revert "Remove the generated apk renaming logic."
+Revert "Add temporary logging to build.gradle"
+Remove unused variable.
+Add temporary logging to build.gradle
+Remove the generated apk renaming logic.
+Remove an unused variable.
+Use dist plugin for TestDPC.
+Minor layout update to "Add cross-profile intents" screen.
+Update header text color
+Make code blocks to parse numbers defensive.
+Use unbadged icons when displaying apps in primary profile.
+Bound the displayed app icons to a fixed size in all places.
+Add COSU functionality to TestDPC
+Bound the displayed app icons to a fixed width and height.
+Fix LayoutInflateException on tablets.
+Add .gitignore file to ignore *.iml files
+Make the project self-contained correctly.
+Make the project self-contained.
+Initial code push from vendor/google/tools/TestDPC.
+Bump version number from 2.0.5 to 2.0.6
+Change application id and package name again.
+Bump version number from 2.0.4 to 2.0.5
+Update screenshot.
+Update screenshots.
+Remove non-essential resources.
+Fix screenshots sizes correctly.
+Update screenshots sizes and fix README.md
+Upload version-2
+Change the applicationId and package name.
+Include the missing license headers.
+Update toast shown when failed to set input methods and accessibility services.
+Update toast shown when there is no camera app.
+Disable ALLOW_PARENT_PROFILE_APP_LINKING restriction on pre-M devices.
+Remove user restrictions in Manage work profile specific policy section.
+Use the setup wizard library from AOSP.
+Hide the actionbar in Fragment onResume.
+Update messages shown to the user in Network stats screen.
+Make network data usage stats more readable.
+Refactor UserRestrictionsDislayFragment.
+Set preferenceChangeListeners for keyguard features.
+Bump version number from 2.0.3 to 2.0.4
+Only self-grant permissions if they are runtime.
+Add more user restrictions.
+Move user restrictions into a new fragment.
+Fix build: update build tools version from 23 to 23.0.1
+Bump version number from 2.0.2 to 2.0.3
+Fix crash in TestDPC
+Bump version number from 2.0.1 to 2.0.2
+Fix broken behavior of reset option in manage app restrictions.
+Shield RestrictionManager.convertRestrictionsToBundle in pre-M.
+Auto grant all the requested permissions to self.
+Use dev keys for signing TestDPC debug builds.
+Bump version number from 2.0.0 to 2.0.1
+Bump version number from 1.2.0 to 2.0.0
+Update ManageAppRestrictionsFragment to treat type choice, null as string.
+Handle restriction type string[] with value empty list.
+Bump version number from 1.1.0 to 1.2.0
+Revert "Remove the generated apk renaming logic."
+Revert "Add temporary logging to build.gradle"
+Remove unused variable.
+Add temporary logging to build.gradle
+Remove the generated apk renaming logic.
+Remove an unused variable.
+Use dist plugin for TestDPC.
+Minor layout update to "Add cross-profile intents" screen.
+Update header text color
+Make code blocks to parse numbers defensive.
+Use unbadged icons when displaying apps in primary profile.
+Bound the displayed app icons to a fixed size in all places.
+Add COSU functionality to TestDPC
+Bound the displayed app icons to a fixed width and height.
+Fix LayoutInflateException on tablets.
+Add .gitignore file to ignore *.iml files
+Make the project self-contained correctly.
+Make the project self-contained.
+Initial code push from vendor/google/tools/TestDPC.
+Change the applicationId and package name.
+Merge "Include the missing license headers." into ub-testdpc-mnc
+Merge "Update toast shown when failed to set input methods and accessibility services." into ub-testdpc-mnc
+Merge "Update toast shown when there is no camera app." into ub-testdpc-mnc
+Merge "Disable ALLOW_PARENT_PROFILE_APP_LINKING restriction on pre-M devices." into ub-testdpc-mnc
+Merge "Remove user restrictions in Manage work profile specific policy section." into ub-testdpc-mnc
+Merge "Use the setup wizard library from AOSP." into ub-testdpc-mnc
+Update toast shown when failed to set input methods and accessibility services.
+Include the missing license headers.
+Update toast shown when there is no camera app.
+Disable ALLOW_PARENT_PROFILE_APP_LINKING restriction on pre-M devices.
+Remove user restrictions in Manage work profile specific policy section.
+Use the setup wizard library from AOSP.
+Merge "Hide the actionbar in Fragment onResume." into ub-testdpc-mnc
+Update messages shown to the user in Network stats screen.
+Merge "Make network data usage stats more readable." into ub-testdpc-mnc
+Make network data usage stats more readable.
+Hide the actionbar in Fragment onResume.
+Refactor UserRestrictionsDislayFragment.
+Set preferenceChangeListeners for keyguard features.
+Bump version number from 2.0.3 to 2.0.4
+Merge "Only self-grant permissions if they are runtime." into ub-testdpc-mnc
+Only self-grant permissions if they are runtime.
+Add more user restrictions.
+Merge "Move user restrictions into a new fragment." into ub-testdpc-mnc
+Fix build: update build tools version from 23 to 23.0.1
+Move user restrictions into a new fragment.
+Merge "Bump version number from 2.0.2 to 2.0.3" into ub-testdpc-mnc
+Bump version number from 2.0.2 to 2.0.3
+Fix crash in TestDPC
+Merge "Bump version number from 2.0.1 to 2.0.2" into ub-testdpc-mnc
+Bump version number from 2.0.1 to 2.0.2
+Fix broken behavior of reset option in manage app restrictions.
+Merge "Shield RestrictionManager.convertRestrictionsToBundle in pre-M." into ub-testdpc-mnc
+Shield RestrictionManager.convertRestrictionsToBundle in pre-M.
+Auto grant all the requested permissions to self.
+Merge "Use dev keys for signing TestDPC debug builds." into ub-testdpc-mnc
+Append version code to debug build apk.
+Use dev keys for signing TestDPC debug builds.
+Bump version number from 2.0.0 to 2.0.1
+Bump version number from 1.2.0 to 2.0.0
+Merge "Update ManageAppRestrictionsFragment to treat type choice, null as string." into ub-testdpc-mnc
+Update ManageAppRestrictionsFragment to treat type choice, null as string.
+Handle restriction type string[] with value empty list.
+Merge "Bump version number from 1.1.0 to 1.2.0" into ub-testdpc-mnc
+Bump version number from 1.1.0 to 1.2.0
+Merge "Revert "Remove the generated apk renaming logic."" into ub-testdpc-mnc
+Revert "Remove the generated apk renaming logic."
+Merge "Revert "Add temporary logging to build.gradle"" into ub-testdpc-mnc
+Merge "Remove unused variable." into ub-testdpc-mnc
+Remove unused variable.
+Revert "Add temporary logging to build.gradle"
+Add temporary logging to build.gradle
+Remove the generated apk renaming logic.
+Remove an unused variable.
+Merge "Use dist plugin for TestDPC." into ub-testdpc-mnc
+Use dist plugin for TestDPC.
+Merge "Minor layout update to "Add cross-profile intents" screen." into ub-testdpc-mnc
+Minor layout update to "Add cross-profile intents" screen.
+Merge "Update header text color" into ub-testdpc-mnc
+Merge "Make code blocks to parse numbers defensive." into ub-testdpc-mnc
+Make code blocks to parse numbers defensive.
+Merge "Use unbadged icons when displaying apps in primary profile." into ub-testdpc-mnc
+Use unbadged icons when displaying apps in primary profile.
+Bound the displayed app icons to a fixed size in all places.
+Update header text color
+Merge "Add COSU functionality to TestDPC" into ub-testdpc-mnc
+Add COSU functionality to TestDPC
+Bound the displayed app icons to a fixed width and height.
+Fix LayoutInflateException on tablets.
+Add .gitignore file to ignore *.iml files
+Make the project self-contained correctly.
+Make the project self-contained.
+Initial code push from vendor/google/tools/TestDPC.
+Initial empty repository
+Update NetworkUsageStat => NetworkStat
+Merge branch 'gob'
+fix quotation marks in README.md
+Merge branch 'gob'
+Use markdown-formatted README
+updated README file with known issues
+Merge branch 'android-source'
+Merge "Initialize mUidText on TestDPC.NetworkUsageStatsFragment" into mnc-dev
+Merge "Disable home intent receiver for kiosk mode by default" into mnc-dev
+Initialize mUidText on TestDPC.NetworkUsageStatsFragment
+Disable home intent receiver for kiosk mode by default
+removed compiled apk
+checkin apk
+Updated license for release
+rename DevicePolicyManagementSample to Test DPC
+Merge branch 'master' of ../testdpc-clone-temp
+remove all files to prepare for re-import
+Merge "Change ManageCrossProfileWidgetProviderUtil to use provider." into mnc-dev
+Merge "Making TestDPC compatible with Preview SDK" into mnc-dev
+Making TestDPC compatible with Preview SDK
+TestDPC: Show how onChoosePrivateKey works
+Merge "Bump SDK version for MNC preview release." into mnc-dev
+Bump SDK version for MNC preview release.
+Merge "Add kiosk mode to TestDpc" into mnc-dev
+Merge "Add Network usage stats fragment to TestDPC" into mnc-dev
+Add kiosk mode to TestDpc
+Exercise COSU APIs in TestDpc
+Add Network usage stats fragment to TestDPC
+changed license header
+initial import
+add .gitignore
+Change ManageCrossProfileWidgetProviderUtil to use provider.
+Change system update API accoriding to api review
+Sort apps alphabetically
+Add delegated certificate installer options to TestDPC
+Add system update policy controls to TestDPC
+Fixed typo "Disallow factor reset" -> "Disallow factory reset"
+Prepare for the first drop of TestDPC source
+Improve the enable system apps flow in the TestDPC
+Re-organize the policies layout of TestDPC app
+Add setUninstallBlocked to TestDPC
+Merge "Add additional testing functionalities for TestDPC app"
+Add additional testing functionalities for TestDPC app
+Update launcher icon for the TestDPC app
+Testing solution for app restrictions
+Import certificates sample codes for TestDPC
+Add 2 user restriction policies to TestDPC
+Lock task testing code
+Improve enableSystemApp testing experiences
+Improve CrossProfileWidgetProvider testing experiences
+Add remove profile button in TestDPC app
+Improve camera testing experience
+Improve CrossProfileCallerId testing experience
+Improve CrossProfileIntentFilter testing experiences
+New project for device policy manager development tools

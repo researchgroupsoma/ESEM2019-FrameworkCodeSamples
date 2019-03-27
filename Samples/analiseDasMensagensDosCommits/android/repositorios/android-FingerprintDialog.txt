@@ -1,0 +1,25 @@
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Merge pull request #16 from googlesamples/fix_url
+Fix the URL points to this project
+Merge pull request #14 from keiji/fix_app_doesnt_work_on_marshmallow
+USE_FINGERPRINT permission's protection level is not dangerous but normal.
+Merge pull request #11 from googlesamples/fix_document_links
+Fixes the links for the documents.
+Auto-update
+Auto-update
+Auto-update
+Auto-update
+Auto-update

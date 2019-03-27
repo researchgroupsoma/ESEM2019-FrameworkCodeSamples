@@ -1,0 +1,188 @@
+Clean up repositories.
+Remove redundant configuration of JBoss's Maven repo (#34)
+Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+Upgrade to Spring Boot 2.0.1.RELEASE
+Remove front matter
+Replace jar gradle task with bootJar task
+Upgrade to Spring Boot 2.0.0.RELEASE
+Upgrade to Gradle 4.6
+Upgrade to Spring Boot 1.5.10.RELEASE
+Upgrade to Spring Boot 1.5.9.RELEASE
+Fix spelling mistake (#23)
+Upgrade to Spring Boot 1.5.8.RELEASE
+Upgrade to Spring Boot 1.5.7.RELEASE
+Added See Also links (#21)
+Upgrade to Spring Boot 1.5.6.RELEASE
+Upgrade to Spring Boot 1.5.5.RELEASE
+Upgrade to Spring Boot 1.5.3.RELEASE
+Upgrade to Spring Boot 1.5.2.RELEASE
+Upgrade to Spring Boot 1.5.1.RELEASE
+Upgrade to Spring Boot 1.5.0.RELEASE
+Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+Upgrade to Spring Boot 1.4.4.RELEASE
+Upgrade to Spring Boot 1.4.3.RELEASE
+Upgrade plugin from spring-boot to o.s.boot
+Formatting correction (#17)
+Upgrade to Spring Boot 1.4.2.RELEASE
+Upgrade to Spring Boot 1.4.1.RELEASE
+Add @DataJpaTest
+Upgrade to gradle 2.13
+Add macro for @SpringBootApplication
+Upgrade to @SpringBoot 1.4.0.RELEASE
+Upgrade to Spring Boot 1.3.7.RELEASE
+Upgrade to Spring Boot 1.3.6.RELEASE
+Add Maven wrapper
+Add CONTRIBUTING doc
+Upgrade to Spring Boot 1.3.5.RELEASE
+Upgrade to Spring Boot 1.3.4.RELEASE
+Upgrade to Spring Boot 1.3.3.RELEASE
+Migrate to container-based infrastructure
+Merge pull request #15 from penman/patch-1
+Fix `Customer`’s syntax
+Upgrade to Spring Boot 1.3.2.RELEASE
+Upgrade to Spring Boot 1.3.1.RELEASE
+Merge pull request #14 from mm-binary/patch-1
+Update README.adoc
+Upgrade to Spring Boot 1.3.0.RELEASE
+Upgraded to Spring Boot 1.2.7.RELEASE
+Polish up to use Java 8 lambda
+Add links to /understanding/POJO
+Upgrade to Spring Boot 1.2.6.RELEASE
+Add details about basePackageClasses
+Add footer
+Upgrade to Spring Boot 1.2.5.RELEASE
+Fix slack notifications
+Fix maven builds
+Travis caching removed
+Add travis configuration
+Upgrade non-specific guides to Java 8
+Upgrade to Spring Boot 1.2.4
+Remove encodings because they are supplied by the starter POM
+Upgrade to Spring Boot 1.2.3.RELEASE
+Upgrade to Gradle 2.3
+Upgrade to Spring Boot 1.2.2.RELEASE
+Remove mavenLocal and libs-release from gradle build
+Replace @PostConstuct with CommandLIneRunner
+Upgrade to @SpringBootApplication and clean up
+Upgrade to Spring Boot 1.2.1.RELEASE
+Remove legacy start-class property from maven builds
+Upgrade to Spring Boot 1.1.10.RELEASE
+Convert to use https for repositories
+Upgrade to Spring Boot 1.1.9.RELEASE
+Upgrade to Spring Boot 1.1.8.RELEASE
+Remove redudant 'run the service' macro
+Upgrade to Spring Boot 1.1.7.RELEASE
+Upgrade to Spring Boot 1.1.6.RELEASE
+Enable hiding/showing build steps
+Update to Spring Boot 1.1.5.RELEASE
+Update to Spring Boot 1.1.4.RELEASE
+Update to Spring Boot 1.1.3.RELEASE
+Upgrade to Spring Boot 1.1.2.RELEASE
+Upgrade to Spring Boot 1.1.1.RELEASE
+Replace repo.spring.io/release with repo.spring.io/libs-release
+Upgrade to Spring Boot 1.1.0.RELEASE
+Merge pull request #10 from jpgough/master
+Correct typo in user guide
+Update path to macro content
+Upgrade to Spring Boot 1.0.2.RELEASE
+Upgrade to Spring Boot 1.0.1.RELEASE
+Upgrade to Spring Boot 1.0.0.RELEASE
+Update README.adoc
+Upgrade to Spring Boot 1.0.0.RC5
+Add macro for spring-boot-gradle-plugin
+Upgrade to Spring Boot 1.0.0.RC4
+Make the link more generic
+Add link to Spring Data REST version
+Bootify configuration
+Convert to mvn compile for initial codeset
+Update guide to use new starters and fix bugs
+Move final build file to the beginning and update guides to reflect this
+Remove version number from Spring Boot starters
+Upgrade to Spring Boot 1.0.0.RC3
+Upgrade to Spring Boot 1.0.0.RC2
+Upgrade to gradle 1.11
+Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+Remove old SIDEBAR files
+Initial cut of tag and project metadata
+Remove unneeded jump_ahead parameter
+Upgrade to remote macros
+Merge pull request #7 from gregturn/master
+Convert guide to asciidoctor
+Fixed macro so it mentions M6
+Upgrade to Spring Boot 0.5.0.M6
+Resolves #6: Pruned out redundant language
+Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+Upgrade to Spring Boot 0.5.0.M5
+Update README
+Merge pull request #4 from olivergierke/master
+Some improvements to the repository interface and explanations.
+Upgrade guide to use Gradle 1.8
+Update a macro so that it properly uses spring.io
+Replace repo.springsource.org with repo.spring.io
+Upgrade to Spring Boot 0.5.0.M4
+Fix package name in maven pom.xml based on gs-accessing-data-jpa/issues/3
+Rebuild sidebar
+Rename tut-web in sidebar
+Add tut-web to sidebar
+Update other version of gradle builds related to 0.5.0.M2
+Upgrade to Spring Boot 0.5.0.M2
+Add links to tut-data
+Update guide to include like to gs-sts
+Rename spring{framework-meta => -guides}
+Convert guide to display both Gradle and Maven info
+Rebuild guide and sidebar based on latest edits
+Merge pull request #2 from btalbott/master
+Make final edits
+Apply http://creativecommons.org/licenses/by-nd/3.0/ to written work in this repo
+Add ASLv2 license for the code in this repo
+Clarify mods to buildscript section
+Clean up gradle build steps
+Convert guide to gradle
+Fix sidebars based on @beverleytalbott 's feedback on several pull requests
+Use proper name of Git
+Fix links for /undestanding/Git
+Replace understanding docs with macros
+Move SIDEBAR into a template file
+Replace Tutorial TBD with REST tutorial
+Change link to spring-boot-maven-plugin
+Capitalize /understanding/{subject} as approprite
+Fix maven-compiler-plugin to version 2.3.2
+Upgrade to Gradle 1.7
+Detab source
+Polish up guide after some small edits
+Replace /content with / in GSG links
+Update run.sh
+Add intro sentence
+Add run script for CI support
+Use libs-snapshot instead of snapshot
+Add gradle support
+Edit guide to properly use spring-boot:run
+Convert spring-boot-up to spring-boot-starter
+Upgrade to Spring Boot
+Update README to remove title
+Replace java -jar with picketed code block
+Trim main-class and spring-package-maven-plugin from initial pom.xml
+Convert guide to spring-package-maven-plugin
+Fixed typo in macro
+Regenerate guide based on macro updates from @btalbott
+Update guides using complete/pom.xml to instead use initial/pom.xml
+Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+Typo in macro. Regenerate guides
+Update build_the_application macros to link in gs-convert-jar-to-war
+Add clarification based on comments and fix build_an_executable_jar macro typo
+Merge pull request #1 from btalbott/master
+Renegerate guides based on update to macros.md
+Add proposed new build_an_executable_jar_mainhead macro
+Restore macro but try to promote head level
+Edit README and SIDEBAR; see comments on commit
+Add mongo to sidebar
+Used wrong 'build' macro
+Replace small segment with run_the_application macro
+Fix typo
+Fix missing code marker
+Add sidebar
+Add initial project and guide text.
+Add complete example
+Initial commit
