@@ -1,0 +1,2 @@
+;58e37ea;Minor Nit.  Happy 2018 IO
+M	visionSamples/ocr-codelab/ocr-reader-complete/app/src/main/java/com/google/android/gms/samples/vision/ocrreader/OcrGraphic.java

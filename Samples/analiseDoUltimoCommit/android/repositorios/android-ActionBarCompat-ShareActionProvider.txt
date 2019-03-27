@@ -1,0 +1,4 @@
+;1dc1105;Auto-update
+M	Application/build.gradle
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties

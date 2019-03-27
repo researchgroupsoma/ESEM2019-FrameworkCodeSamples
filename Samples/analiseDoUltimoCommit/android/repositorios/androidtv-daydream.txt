@@ -1,0 +1,2 @@
+;b3882d8;Update DreamActivity.java
+M	app/src/main/java/com/example/android/tvdaydream/DreamActivity.java

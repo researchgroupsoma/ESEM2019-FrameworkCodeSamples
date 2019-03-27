@@ -1,0 +1,8 @@
+;bda2700;Merge pull request #26 from googlesamples/runtime-permissions
+;64a1796;Break out of loop if single permission not granted
+M	Application/src/main/java/com/example/android/mediarecorder/MainActivity.java
+
+;ae2185c;Add runtime permissions. Fixes #25
+M	Application/src/main/AndroidManifest.xml
+M	Application/src/main/java/com/example/android/mediarecorder/MainActivity.java
+M	Application/src/main/res/values/strings.xml

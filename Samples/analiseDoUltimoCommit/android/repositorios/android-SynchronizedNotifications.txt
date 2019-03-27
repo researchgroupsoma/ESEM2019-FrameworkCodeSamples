@@ -1,0 +1,7 @@
+;6d66347;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	gradle/wrapper/gradle-wrapper.properties

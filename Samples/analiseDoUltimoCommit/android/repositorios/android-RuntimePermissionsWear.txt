@@ -1,0 +1,9 @@
+;e25302e;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/wearable/runtimepermissions/IncomingRequestPhoneService.java
+M	Application/src/main/java/com/example/android/wearable/runtimepermissions/MainPhoneActivity.java
+M	Shared/build.gradle
+M	Wearable/build.gradle
+M	Wearable/src/main/java/com/example/android/wearable/runtimepermissions/IncomingRequestWearService.java
+M	Wearable/src/main/java/com/example/android/wearable/runtimepermissions/MainWearActivity.java
+A	gradle.properties

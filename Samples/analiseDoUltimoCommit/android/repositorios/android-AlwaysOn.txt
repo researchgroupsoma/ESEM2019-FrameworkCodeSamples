@@ -1,0 +1,3 @@
+;f5bce7e;Auto-update
+M	Wearable/build.gradle
+M	Wearable/src/main/java/com/example/android/wearable/wear/alwayson/MainActivity.java

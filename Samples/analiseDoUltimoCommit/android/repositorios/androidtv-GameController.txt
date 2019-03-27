@@ -1,0 +1,9 @@
+;7366ba1;Cleanup, document, and refactor particles and collision.
+D	GameControllerSample/src/main/java/com/google/fpl/gamecontroller/particles/Background.java
+A	GameControllerSample/src/main/java/com/google/fpl/gamecontroller/particles/BackgroundParticleSystem.java
+M	GameControllerSample/src/main/java/com/google/fpl/gamecontroller/particles/BaseParticle.java
+D	GameControllerSample/src/main/java/com/google/fpl/gamecontroller/particles/CollisionGrid.java
+A	GameControllerSample/src/main/java/com/google/fpl/gamecontroller/particles/ParticleCollisionGrid.java
+D	GameControllerSample/src/main/java/com/google/fpl/gamecontroller/particles/ParticleGlitter.java
+D	GameControllerSample/src/main/java/com/google/fpl/gamecontroller/particles/ParticleLayer.java
+A	GameControllerSample/src/main/java/com/google/fpl/gamecontroller/particles/ParticleSystem.java

@@ -1,0 +1,30 @@
+;f07019d;Auto-update
+M	Application/build.gradle
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties
+R053	packaging.yaml	kotlinApp/.google/packaging.yaml
+A	kotlinApp/Application/build.gradle
+A	kotlinApp/Application/src/main/AndroidManifest.xml
+A	kotlinApp/Application/src/main/java/com/example/android/cardview/CardViewActivity.kt
+A	kotlinApp/Application/src/main/java/com/example/android/cardview/CardViewFragment.kt
+A	kotlinApp/Application/src/main/res/drawable-hdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/drawable-hdpi/tile.9.png
+A	kotlinApp/Application/src/main/res/drawable-mdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/drawable-xhdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/drawable-xxhdpi/ic_launcher.png
+A	kotlinApp/Application/src/main/res/layout/activity_card_view.xml
+A	kotlinApp/Application/src/main/res/layout/fragment_card_view.xml
+A	kotlinApp/Application/src/main/res/values/colors.xml
+A	kotlinApp/Application/src/main/res/values/dimens.xml
+A	kotlinApp/Application/src/main/res/values/strings.xml
+A	kotlinApp/Application/src/main/res/values/styles.xml
+A	kotlinApp/Application/tests/src/com/example/android/cardview/SampleTests.kt
+A	kotlinApp/CONTRIB.md
+A	kotlinApp/README.md
+A	kotlinApp/build.gradle
+A	kotlinApp/gradle/wrapper/gradle-wrapper.jar
+A	kotlinApp/gradle/wrapper/gradle-wrapper.properties
+A	kotlinApp/gradlew
+A	kotlinApp/gradlew.bat
+A	kotlinApp/settings.gradle

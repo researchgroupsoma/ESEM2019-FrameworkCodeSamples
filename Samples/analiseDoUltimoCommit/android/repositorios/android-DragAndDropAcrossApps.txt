@@ -1,0 +1,7 @@
+;eff2abf;Auto-update
+M	DragSource/build.gradle
+M	DropTarget/build.gradle
+M	LICENSE
+M	NOTICE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties

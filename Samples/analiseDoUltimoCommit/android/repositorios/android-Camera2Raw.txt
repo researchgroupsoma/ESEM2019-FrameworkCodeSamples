@@ -1,0 +1,6 @@
+;f0ac5d0;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/camera2raw/Camera2RawFragment.java
+M	LICENSE
+M	README.md
+M	gradle/wrapper/gradle-wrapper.properties

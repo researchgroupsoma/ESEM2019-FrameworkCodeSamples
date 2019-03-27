@@ -1,0 +1,3 @@
+;7359f80;Merge pull request #2 from ciarand/fix-start_periodic_task-example
+;0a48774;Update start_periodic_task to 30s period
+M	app/src/main/java/com/google/example/gcmnetworkmanagerquickstart/MainActivity.java

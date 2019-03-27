@@ -1,0 +1,5 @@
+;8ec0b61;Auto-update
+M	Application/build.gradle
+M	Shared/build.gradle
+M	Wearable/build.gradle
+A	gradle.properties

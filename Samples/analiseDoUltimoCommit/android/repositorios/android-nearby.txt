@@ -1,0 +1,3 @@
+;f93d65c;Add .gitignore, remove .DS_Store file
+A	.gitignore
+D	connections/.DS_Store

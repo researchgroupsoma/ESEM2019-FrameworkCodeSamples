@@ -1,0 +1,3 @@
+gs-accessing-data-mongodb;d85f1a5;Clean up repositories.
+M	complete/pom.xml
+M	initial/pom.xml

@@ -1,0 +1,10 @@
+;d7513a5;Added C# server sample
+M	README.md
+A	server/csharp/AttestationStatement.cs
+A	server/csharp/OfflineVerify.cs
+A	server/csharp/OnlineVerify.cs
+A	server/csharp/Program.cs
+A	server/csharp/README.md
+A	server/csharp/SafetyNetVerify.csproj
+A	server/csharp/project.json
+M	server/java/README.md

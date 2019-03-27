@@ -1,0 +1,2 @@
+gs-client-side-load-balancing;7ce90d9;Fix one part to use Spring Cloud Finchley.SR2
+M	complete/user/pom.xml

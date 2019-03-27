@@ -1,0 +1,3 @@
+;37462ab;Merge pull request #45 from mgoodridge/patch-1
+;4ada53b;Update MainActivity.java
+M	BasicHistorySessions/app/src/main/java/com/google/android/gms/fit/samples/basichistorysessions/MainActivity.java

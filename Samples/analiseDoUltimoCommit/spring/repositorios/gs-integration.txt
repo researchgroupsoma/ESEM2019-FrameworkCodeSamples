@@ -1,0 +1,3 @@
+gs-integration;920622c;Clean up repositories.
+M	complete/pom.xml
+M	initial/pom.xml

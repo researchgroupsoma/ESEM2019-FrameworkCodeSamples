@@ -1,0 +1,6 @@
+;04f84ed;Auto-update
+M	Application/build.gradle
+M	Application/src/main/java/com/example/android/wearable/wear/wearverifyremoteapp/MainMobileActivity.java
+M	Wearable/build.gradle
+M	Wearable/src/main/java/com/example/android/wearable/wear/wearverifyremoteapp/MainWearActivity.java
+A	gradle.properties

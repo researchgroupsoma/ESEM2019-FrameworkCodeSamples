@@ -1,0 +1,5 @@
+gs-accessing-gemfire-data-rest;3cda6a7;Revert "Clean up repositories."
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml

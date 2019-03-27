@@ -1,0 +1,6 @@
+gs-contract-rest;06e3235;Updated contract to the latest version; fixes gh-2
+M	complete/contract-rest-service/build.gradle
+M	complete/contract-rest-service/pom.xml
+M	complete/contract-rest-service/src/test/resources/contracts/hello/find_person_by_id.groovy
+M	initial/contract-rest-service/build.gradle
+M	initial/contract-rest-service/pom.xml

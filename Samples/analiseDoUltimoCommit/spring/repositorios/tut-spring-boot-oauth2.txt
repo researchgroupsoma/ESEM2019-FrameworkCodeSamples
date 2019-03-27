@@ -1,0 +1,2 @@
+tut-spring-boot-oauth2;28c4159;replace tabs to spaces
+M	github/src/main/resources/static/index.html

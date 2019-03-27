@@ -1,0 +1,7 @@
+;38344a9;Auto-update
+M	LICENSE
+M	NOTICE
+M	README.md
+M	build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+M	kotlinApp/build.gradle

@@ -1,0 +1,5 @@
+gs-circuit-breaker;50c7abd;Clean up repositories.
+M	complete/reading/build.gradle
+M	complete/reading/pom.xml
+M	initial/reading/build.gradle
+M	initial/reading/pom.xml

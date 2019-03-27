@@ -1,0 +1,2 @@
+;25ce449;Auto-update
+M	Wearable/build.gradle

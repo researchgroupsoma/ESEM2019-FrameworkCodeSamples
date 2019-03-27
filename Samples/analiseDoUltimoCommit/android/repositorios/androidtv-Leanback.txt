@@ -1,0 +1,3 @@
+;19b656d;Merge pull request #121 from tobiasdubois/background-handler
+;76d9ca8;Use a Handler to update background
+M	app/src/main/java/com/example/android/tvleanback/ui/MainFragment.java

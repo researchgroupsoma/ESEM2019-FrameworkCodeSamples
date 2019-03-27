@@ -1,0 +1,5 @@
+gs-messaging-gcp-pubsub;b5e4850;Revert "Clean up repositories."
+M	complete/build.gradle
+M	complete/pom.xml
+M	initial/build.gradle
+M	initial/pom.xml

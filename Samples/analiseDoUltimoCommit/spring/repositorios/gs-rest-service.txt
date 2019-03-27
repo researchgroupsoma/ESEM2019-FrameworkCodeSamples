@@ -1,0 +1,3 @@
+gs-rest-service;b1415c0;Clean up repositories.
+M	complete/pom.xml
+M	initial/pom.xml

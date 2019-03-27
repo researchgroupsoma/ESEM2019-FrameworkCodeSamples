@@ -1,0 +1,9 @@
+gs-centralized-configuration;5e29740;Clean up repositories.
+M	complete/configuration-client/build.gradle
+M	complete/configuration-client/pom.xml
+M	complete/configuration-service/build.gradle
+M	complete/configuration-service/pom.xml
+M	initial/configuration-client/build.gradle
+M	initial/configuration-client/pom.xml
+M	initial/configuration-service/build.gradle
+M	initial/configuration-service/pom.xml

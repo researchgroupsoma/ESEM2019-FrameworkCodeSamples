@@ -1,0 +1,46 @@
+;3f316bf;Merge /usr/local/google/home/yuemingw/android/ub-testdpc-pic-release/vendor/unbundled_google/packages/TestDPC into new-version
+;74df5f5;Fix potential afwtest.suwdoprovisioning.SuwDoProvisioningTest.testDoProvisioning breakage.
+M	app/build.gradle
+M	app/src/main/java/com/afwsamples/testdpc/SetupManagementFragment.java
+M	app/src/main/res/layout/setup_footer.xml
+
+;526953b;Merge cherrypicks of [4325621] into ub-testdpc-pic-release
+;647333a;Bump TestDPC version code to 5.0.3.
+M	app/build.gradle
+
+;45a3907;Merge cherrypicks of [4318204] into ub-testdpc-pic-release
+;1c05f6d;Fix potential afwtest.suwdoprovisioning.SuwDoProvisioningTest.testDoProvisioning breakage.
+M	app/src/main/java/com/afwsamples/testdpc/AddAccountActivity.java
+M	app/src/main/java/com/afwsamples/testdpc/FinalizeActivity.java
+M	app/src/main/res/layout/next_footer.xml
+
+;c27f1bb;Merge cherrypicks of [4296961] into ub-testdpc-pic-release
+;d734c34;Bump TestDPC version code to 5.0.2.
+M	app/build.gradle
+
+;63e7cac;Snap for 4824268 from e160b7a07e023db50b93dd7d4853c875ca8d8f7a to ub-testdpc-pic-release
+;b2a8be5;Merge "Fix the issue that P user restrictions preferences are disabled on P." into ub-testdpc-pic
+;dfe62cb;Fix the issue that P user restrictions preferences are disabled on P.
+M	app/src/main/java/com/afwsamples/testdpc/policy/UserRestrictionsDisplayFragment.java
+
+;dfc7031;TestDPC: Fix set-up strings
+M	app/src/main/res/values/strings.xml
+
+;3bf3aca;Merge "Bump TestDPC version code." into ub-testdpc-pic
+;2881ead;Bump TestDPC version code.
+M	app/build.gradle
+
+;5e4381c;In app permissions, when selecting an app to view its permissions from the drop down, display a text message if there is no permission to show.
+M	app/src/main/java/com/afwsamples/testdpc/common/BaseManageComponentFragment.java
+M	app/src/main/java/com/afwsamples/testdpc/profilepolicy/permission/ManageAppPermissionsFragment.java
+M	app/src/main/res/layout/manage_apps.xml
+M	app/src/main/res/values/strings.xml
+
+;b8a9c3c;Add keyguard support for disabling face and iris unlock.
+M	app/src/main/java/com/afwsamples/testdpc/policy/keyguard/LockScreenPolicyFragment.java
+M	app/src/main/res/values/strings.xml
+M	app/src/main/res/xml/lock_screen_preferences.xml
+
+;f6c189c;P is now finalized to be 28
+M	app/src/main/java/com/afwsamples/testdpc/common/preference/DpcPreferenceHelper.java
+M	app/src/main/res/values/attrs.xml

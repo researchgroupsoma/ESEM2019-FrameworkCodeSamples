@@ -1,0 +1,5 @@
+;f5212a1;Merge pull request #139 from googlesamples/kotlin-update
+;34dfe4b;Minor kotline version
+M	kotlinApp/Application/build.gradle
+M	kotlinApp/build.gradle
+M	kotlinApp/gradle/wrapper/gradle-wrapper.properties

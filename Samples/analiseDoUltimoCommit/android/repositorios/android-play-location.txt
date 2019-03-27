@@ -1,0 +1,11 @@
+;9dc4e10;Merge pull request #187 from googlesamples/jettify-stable
+;bd1ebe5;Changing AndroidX dependencies to latest stable versions
+M	ActivityRecognition/app/build.gradle
+M	BasicLocationSample/java/app/build.gradle
+M	BasicLocationSample/kotlin/app/build.gradle
+M	Geofencing/app/build.gradle
+M	LocationAddress/java/app/build.gradle
+M	LocationAddress/kotlin/app/build.gradle
+M	LocationUpdates/app/build.gradle
+M	LocationUpdatesForegroundService/app/build.gradle
+M	LocationUpdatesPendingIntent/app/build.gradle

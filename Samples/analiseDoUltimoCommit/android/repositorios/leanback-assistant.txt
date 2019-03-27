@@ -1,0 +1,3 @@
+;2e80ddb;Removed PausePlaybackTransportControlGluePatch since KEYEVENT_MEDIA_PAUSE was fixed in 26.1.0.
+D	app/src/main/java/com/example/android/assistantplayback/PausePlaybackTransportControlGluePatch.java
+M	app/src/main/java/com/example/android/assistantplayback/PrimaryPlaybackControlsGlue.java

@@ -1,0 +1,10 @@
+;230cecd;Auto-update
+M	LICENSE
+M	NOTICE
+M	README.md
+M	build.gradle
+M	gradle/wrapper/gradle-wrapper.properties
+A	kotlinApp/.google/packaging.yaml
+A	kotlinApp/README.md
+M	kotlinApp/build.gradle
+M	kotlinApp/gradle/wrapper/gradle-wrapper.properties

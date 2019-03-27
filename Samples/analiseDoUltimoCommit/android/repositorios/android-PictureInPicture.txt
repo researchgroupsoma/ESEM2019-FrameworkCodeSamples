@@ -1,0 +1,4 @@
+;e6fc2de;Auto-update
+M	LICENSE
+M	NOTICE
+M	README.md

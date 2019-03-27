@@ -1,0 +1,3 @@
+gs-messaging-redis;129a05f;Clean up repositories.
+M	complete/pom.xml
+M	initial/pom.xml

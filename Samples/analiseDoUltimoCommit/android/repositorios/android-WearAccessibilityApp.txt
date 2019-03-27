@@ -1,0 +1,17 @@
+;f84042f;Auto-update
+M	Wearable/build.gradle
+M	Wearable/src/main/java/com/example/android/wearable/wear/wearaccessibilityapp/ControlsActivity.java
+M	Wearable/src/main/java/com/example/android/wearable/wear/wearaccessibilityapp/DialogsActivity.java
+M	Wearable/src/main/java/com/example/android/wearable/wear/wearaccessibilityapp/FullScreenActivity.java
+M	Wearable/src/main/java/com/example/android/wearable/wear/wearaccessibilityapp/ImagesActivity.java
+M	Wearable/src/main/java/com/example/android/wearable/wear/wearaccessibilityapp/InLineActivity.java
+M	Wearable/src/main/java/com/example/android/wearable/wear/wearaccessibilityapp/ListOfGraphicsActivity.java
+M	Wearable/src/main/java/com/example/android/wearable/wear/wearaccessibilityapp/ListsActivity.java
+M	Wearable/src/main/java/com/example/android/wearable/wear/wearaccessibilityapp/LongListActivity.java
+M	Wearable/src/main/java/com/example/android/wearable/wear/wearaccessibilityapp/MainActivity.java
+M	Wearable/src/main/java/com/example/android/wearable/wear/wearaccessibilityapp/NotificationsActivity.java
+M	Wearable/src/main/java/com/example/android/wearable/wear/wearaccessibilityapp/OpenOnPhoneAnimationActivity.java
+M	Wearable/src/main/java/com/example/android/wearable/wear/wearaccessibilityapp/PhotoCarouselActivity.java
+M	Wearable/src/main/java/com/example/android/wearable/wear/wearaccessibilityapp/ProgressActivity.java
+M	Wearable/src/main/java/com/example/android/wearable/wear/wearaccessibilityapp/RadioListActivity.java
+M	Wearable/src/main/java/com/example/android/wearable/wear/wearaccessibilityapp/ZoomImageActivity.java

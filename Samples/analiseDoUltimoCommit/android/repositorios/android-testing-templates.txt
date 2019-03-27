@@ -1,0 +1,4 @@
+;474415a;Merge pull request #31 from tiembo/packaging
+;8523c2e;Add packaging
+A	AndroidTestingBlueprint-kotlinApp/.google/packaging.yaml
+A	AndroidTestingBlueprint/.google/packaging.yaml

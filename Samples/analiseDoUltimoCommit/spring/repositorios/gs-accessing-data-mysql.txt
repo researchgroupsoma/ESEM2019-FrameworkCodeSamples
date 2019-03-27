@@ -1,0 +1,2 @@
+gs-accessing-data-mysql;c4a3382;Change "localhost" to "%" for creating user
+M	README.adoc

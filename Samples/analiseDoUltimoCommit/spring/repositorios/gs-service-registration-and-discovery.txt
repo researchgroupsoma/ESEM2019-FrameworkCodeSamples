@@ -1,0 +1,9 @@
+gs-service-registration-and-discovery;366000b;Clean up repositories.
+M	complete/eureka-client/build.gradle
+M	complete/eureka-client/pom.xml
+M	complete/eureka-service/build.gradle
+M	complete/eureka-service/pom.xml
+M	initial/eureka-client/build.gradle
+M	initial/eureka-client/pom.xml
+M	initial/eureka-service/build.gradle
+M	initial/eureka-service/pom.xml
