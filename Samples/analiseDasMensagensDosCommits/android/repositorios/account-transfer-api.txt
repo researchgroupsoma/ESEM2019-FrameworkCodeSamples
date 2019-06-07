@@ -1,2 +1,0 @@
-Add support for Android O. Start foreground service from broadcast. App may not be running in foreground when broadcast is received. Therefore, a foreground service should be started to perform task.
-Setup sample app demonstrating usage of AccountTransferApi.

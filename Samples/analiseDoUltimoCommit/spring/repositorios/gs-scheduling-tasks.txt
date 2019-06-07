@@ -1,5 +1,0 @@
-gs-scheduling-tasks;29b9ff9;Add integration test
-M	complete/build.gradle
-M	complete/pom.xml
-M	complete/src/main/java/hello/ScheduledTasks.java
-A	complete/src/test/java/hello/ScheduledTasksTest.java

@@ -1,5 +1,0 @@
-;9139131;Auto-update
-M	build.gradle
-M	wear/build.gradle
-M	wear/src/main/java/com/example/android/wearable/speaker/MainActivity.java
-M	wear/src/main/java/com/example/android/wearable/speaker/SoundRecorder.java

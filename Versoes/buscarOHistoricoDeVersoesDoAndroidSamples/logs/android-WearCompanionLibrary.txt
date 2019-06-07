@@ -1,4 +1,0 @@
-android-WearCompanionLibrary/build.gradle,099ac763a733ba50faab09d54be2937e58beedfe,anaddaf,Tue Nov 3 10:35:11 2015 -0800,Tue Nov 3 10:35:11 2015 -0800,Initial Import
-android-WearCompanionLibrary/WCL/build.gradle,654ad27ca938f8b46b92214a1a532583c392be33,naddaf,Mon Mar 28 07:44:15 2016 -0700,Mon Mar 28 07:44:15 2016 -0700,Merge pull request #4 from BoD/pr/upgrade-play-services-8.4
-android-WearCompanionLibrary/WCL/build.gradle,086b0fdf592c2adedf264fdde7185fd05d2ce74b,anaddaf,Sat Nov 7 12:57:06 2015 -0800,Sat Nov 7 12:57:06 2015 -0800,- Updating to Play Services 8.3 - Updating a method to take a parameter for urgency
-android-WearCompanionLibrary/WCL/build.gradle,099ac763a733ba50faab09d54be2937e58beedfe,anaddaf,Tue Nov 3 10:35:11 2015 -0800,Tue Nov 3 10:35:11 2015 -0800,Initial Import

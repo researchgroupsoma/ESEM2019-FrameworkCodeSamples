@@ -1,4 +1,0 @@
-;8a35b62;Replace OnClickListener with OnItemTouchListener
-M	app/src/main/java/com/example/android/unsplash/MainActivity.java
-A	app/src/main/java/com/example/android/unsplash/ui/grid/OnItemSelectedListener.java
-M	app/src/main/java/com/example/android/unsplash/ui/grid/PhotoAdapter.java

@@ -1,2 +1,0 @@
-;8e8df18;Fix GoogleMap padding
-M	app/src/main/java/com/google/samples/apps/ourstreets/fragment/DetailFragment.java

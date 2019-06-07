@@ -1,6 +1,0 @@
-;f94093f;Auto-update
-M	LICENSE
-M	NOTICE
-M	README.md
-M	build.gradle
-M	gradle/wrapper/gradle-wrapper.properties

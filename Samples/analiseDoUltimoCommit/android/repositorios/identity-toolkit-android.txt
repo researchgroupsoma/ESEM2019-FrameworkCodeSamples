@@ -1,8 +1,0 @@
-;6bdc787;Merge pull request #16 from XiaoxiongLu/master
-;9323aeb;Update tutorial sdk version
-M	tutorial/build.gradle
-
-;a394dcc;Update Android Library and add facebook v4
-M	identitytoolkit-api10.aar
-M	identitytoolkit-api11.aar
-A	plugins/identitytoolkit_fbv4.jar

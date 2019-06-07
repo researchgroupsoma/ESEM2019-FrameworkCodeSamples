@@ -1,8 +1,0 @@
-Cleanup, document, and refactor particles and collision.
-Cleanup, refactor, and document.
-Clean up non-Java files.
-Clean up GamepadController.
-Clean up and refactor GameState.
-Clean up and flesh out documentation for Utils class. Added logDebug() and logError().
-Add GameController sample.
-Initial empty repository

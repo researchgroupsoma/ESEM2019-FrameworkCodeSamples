@@ -1,3 +1,0 @@
-gs-accessing-data-rest;4f26186;Clean up repositories.
-M	complete/pom.xml
-M	initial/pom.xml

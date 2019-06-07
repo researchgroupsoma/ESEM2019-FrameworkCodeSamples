@@ -1,3 +1,0 @@
-Updated awareness sample to connectionless GAC
-Initial commit, basic awareness API sample.
-Initial empty repository

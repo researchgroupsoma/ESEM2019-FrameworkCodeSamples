@@ -1,6 +1,0 @@
-gs-consuming-rest;e123a0b;Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
-M	README.adoc
-M	complete/build.gradle
-M	complete/pom.xml
-M	initial/build.gradle
-M	initial/pom.xml

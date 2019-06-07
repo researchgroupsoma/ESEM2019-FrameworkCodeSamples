@@ -1,2 +1,0 @@
-First checkin of the Android TV sample app to visually display game controller button states.
-Initial empty repository

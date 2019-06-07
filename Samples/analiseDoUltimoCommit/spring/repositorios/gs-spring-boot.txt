@@ -1,2 +1,0 @@
-gs-spring-boot;6dbc227;Update guide with path of application.properties
-M	README.adoc

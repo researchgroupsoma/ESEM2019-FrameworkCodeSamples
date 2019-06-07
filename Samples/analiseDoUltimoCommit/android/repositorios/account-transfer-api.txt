@@ -1,6 +1,0 @@
-;50c0c7a;Add support for Android O. Start foreground service from broadcast. App may not be running in foreground when broadcast is received. Therefore, a foreground service should be started to perform task.
-M	app/build.gradle
-M	app/src/main/java/com/google/accounttransfer/sample/AccountTransferBroadcastReceiver.java
-M	app/src/main/java/com/google/accounttransfer/sample/AccountTransferService.java
-M	app/src/main/res/values/strings.xml
-M	build.gradle

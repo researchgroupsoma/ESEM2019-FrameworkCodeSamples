@@ -1,5 +1,0 @@
-gs-accessing-data-gemfire;041203f;Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
-M	complete/build.gradle
-M	complete/pom.xml
-M	initial/build.gradle
-M	initial/pom.xml

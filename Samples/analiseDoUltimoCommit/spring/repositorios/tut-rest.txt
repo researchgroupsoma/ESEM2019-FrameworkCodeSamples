@@ -1,2 +1,0 @@
-tut-rest;22d13ad;Fix typos (#70)
-M	README.adoc

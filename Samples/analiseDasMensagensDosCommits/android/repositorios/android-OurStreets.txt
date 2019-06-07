@@ -1,7 +1,0 @@
-Fix GoogleMap padding
-Improve transition behavior Gallery -> Detail
-Update ViewHolder names, add missing views
-Update dependencies
-Improve gallery exit transition
-Simplify gallery exit / reenter transition
-Initial public release

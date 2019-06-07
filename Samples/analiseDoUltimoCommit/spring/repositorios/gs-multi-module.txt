@@ -1,9 +1,0 @@
-gs-multi-module;4bb9857;Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
-M	complete/application/build.gradle
-M	complete/application/pom.xml
-M	complete/library/build.gradle
-M	complete/library/pom.xml
-M	initial/application/build.gradle
-M	initial/application/pom.xml
-M	initial/library/build.gradle
-M	initial/library/pom.xml

@@ -1,2 +1,0 @@
-gs-securing-web;4ec05c4;Clean up repositories.
-M	initial/pom.xml

@@ -1,5 +1,0 @@
-android-DragAndDropAcrossApps/build.gradle,5e945255f324209461fbb74a31430f77f133d7aa,google-automerger,Thu Feb 9 09:17:44 2017 -0800,Thu Feb 9 09:17:44 2017 -0800,Auto-update
-android-DragAndDropAcrossApps/DragSource/build.gradle,eff2abf28ffbd92551abb709fd7da48497c7a1ea,google-automerger,Thu Feb 15 16:36:20 2018 -0800,Thu Feb 15 16:36:20 2018 -0800,Auto-update
-android-DragAndDropAcrossApps/DragSource/build.gradle,5e945255f324209461fbb74a31430f77f133d7aa,google-automerger,Thu Feb 9 09:17:44 2017 -0800,Thu Feb 9 09:17:44 2017 -0800,Auto-update
-android-DragAndDropAcrossApps/DropTarget/build.gradle,eff2abf28ffbd92551abb709fd7da48497c7a1ea,google-automerger,Thu Feb 15 16:36:20 2018 -0800,Thu Feb 15 16:36:20 2018 -0800,Auto-update
-android-DragAndDropAcrossApps/DropTarget/build.gradle,5e945255f324209461fbb74a31430f77f133d7aa,google-automerger,Thu Feb 9 09:17:44 2017 -0800,Thu Feb 9 09:17:44 2017 -0800,Auto-update

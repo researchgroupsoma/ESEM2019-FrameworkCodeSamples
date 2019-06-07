@@ -1,2 +1,0 @@
-;a636b52;Fixing a typo
-M	WCL/src/main/java/com/google/devrel/wcl/WearManager.java

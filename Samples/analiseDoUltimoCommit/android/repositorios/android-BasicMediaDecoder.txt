@@ -1,3 +1,0 @@
-;b43e71c;Update gradle and gradle plugin versions
-M	Application/build.gradle
-M	gradle/wrapper/gradle-wrapper.properties

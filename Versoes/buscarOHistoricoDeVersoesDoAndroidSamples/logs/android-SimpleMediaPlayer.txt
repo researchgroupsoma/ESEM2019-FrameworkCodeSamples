@@ -1,2 +1,0 @@
-android-SimpleMediaPlayer/build.gradle,53fbbbafc9ab14d51041fc52ced2a6926484c274,Nazmul Idris,Thu Aug 17 13:00:18 2017 -0700,Thu Aug 17 13:00:18 2017 -0700,Initial commit of project.
-android-SimpleMediaPlayer/app/build.gradle,53fbbbafc9ab14d51041fc52ced2a6926484c274,Nazmul Idris,Thu Aug 17 13:00:18 2017 -0700,Thu Aug 17 13:00:18 2017 -0700,Initial commit of project.

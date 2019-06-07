@@ -1,2 +1,0 @@
-gs-uploading-files;bd40296;Remove enabled flag in application.properties
-M	complete/src/main/resources/application.properties

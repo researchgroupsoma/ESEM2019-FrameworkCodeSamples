@@ -1,3 +1,0 @@
-gs-crud-with-vaadin;6e29034;Upgrade to Vaadin 10.0.11 (#23)
-M	complete/build.gradle
-M	complete/pom.xml

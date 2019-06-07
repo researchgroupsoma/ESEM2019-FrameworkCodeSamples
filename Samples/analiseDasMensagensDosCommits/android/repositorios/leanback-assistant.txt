@@ -1,6 +1,0 @@
-Removed PausePlaybackTransportControlGluePatch since KEYEVENT_MEDIA_PAUSE was fixed in 26.1.0.
-Update version to 28 and removed deprecated fragments.
-Update and compress screenshots.
-Updated banner and icons to branding standards.
-Preparing for OSS
-Assistant integration with playback.

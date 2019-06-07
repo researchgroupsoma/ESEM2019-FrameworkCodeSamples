@@ -1,3 +1,0 @@
-gs-handling-form-submission;4d2d067;Clean up repositories.
-M	complete/pom.xml
-M	initial/pom.xml

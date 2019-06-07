@@ -1,3 +1,0 @@
-android-WearOAuth/build.gradle,6249cfe07055abde9b7df7a2a15a79e29f9f301a,Jeremy Walker,Mon Dec 12 16:54:53 2016 -0800,Mon Dec 12 16:59:22 2016 -0800,Adds Sumit's oauth sample to devrel repo for push live with FDP 4 preview.
-android-WearOAuth/app/build.gradle,a010ab48b43c9321afc6efefba5b7cfd7c18fa0f,Jeremy Walker,Thu Feb 2 16:18:21 2017 -0800,Tue Feb 14 14:35:02 2017 -0800,Updates WearOAuth sample to handle production wear 2.0.0 support library.
-android-WearOAuth/app/build.gradle,6249cfe07055abde9b7df7a2a15a79e29f9f301a,Jeremy Walker,Mon Dec 12 16:54:53 2016 -0800,Mon Dec 12 16:59:22 2016 -0800,Adds Sumit's oauth sample to devrel repo for push live with FDP 4 preview.

@@ -1,5 +1,0 @@
-android-WearAccessibilityApp/build.gradle,49999cea31903f4a14770abba2f65bda6cd93ef0,google-automerger,Mon Dec 18 14:23:29 2017 -0800,Mon Dec 18 14:23:29 2017 -0800,Auto-update
-android-WearAccessibilityApp/Wearable/build.gradle,f84042f182cd63ef5a56ef03146f36d62f2efc4a,google-automerger,Fri Jul 27 21:57:43 2018 -0700,Fri Jul 27 21:57:43 2018 -0700,Auto-update
-android-WearAccessibilityApp/Wearable/build.gradle,a399fd60cc2a523ce1f763cdd92da41e673f89b5,google-automerger,Wed Mar 28 09:34:12 2018 -0700,Wed Mar 28 09:34:12 2018 -0700,Auto-update
-android-WearAccessibilityApp/Wearable/build.gradle,c99bbd9a8257953c8e642a8d1b2542bc98deb5c0,google-automerger,Thu Jan 25 09:37:07 2018 -0800,Thu Jan 25 09:37:07 2018 -0800,Auto-update
-android-WearAccessibilityApp/Wearable/build.gradle,49999cea31903f4a14770abba2f65bda6cd93ef0,google-automerger,Mon Dec 18 14:23:29 2017 -0800,Mon Dec 18 14:23:29 2017 -0800,Auto-update

@@ -1,7 +1,0 @@
-;29104a1;Auto-update
-M	Application/build.gradle
-M	Shared/build.gradle
-M	Wearable/build.gradle
-M	Wearable/src/main/java/com/example/android/wearable/speedtracker/WearableMainActivity.java
-M	Wearable/src/main/java/com/example/android/wearable/speedtracker/ui/SpeedPickerLayout.java
-M	gradle.properties

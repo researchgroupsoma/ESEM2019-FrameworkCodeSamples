@@ -1,3 +1,0 @@
-;5fb8dbb;Auto-update
-M	Wearable/build.gradle
-M	Wearable/src/main/java/com/example/android/wearable/jumpingjack/MainActivity.java

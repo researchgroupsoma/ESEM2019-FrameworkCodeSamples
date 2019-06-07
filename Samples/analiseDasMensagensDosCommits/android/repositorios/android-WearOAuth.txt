@@ -1,3 +1,0 @@
-Updates WearOAuth sample to handle production wear 2.0.0 support library.
-Adds Sumit's oauth sample to devrel repo for push live with FDP 4 preview.
-Initial empty repository

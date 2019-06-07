@@ -1,3 +1,0 @@
-gs-accessing-data-jpa;7e215c3;Clean up repositories.
-M	complete/pom.xml
-M	initial/pom.xml

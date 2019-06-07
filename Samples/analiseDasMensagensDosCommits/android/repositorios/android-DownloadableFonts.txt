@@ -1,5 +1,0 @@
-Auto-update
-Auto-update
-Auto-update
-Add Google Maven repo (#1)
-Auto-update

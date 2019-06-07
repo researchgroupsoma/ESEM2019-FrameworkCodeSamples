@@ -1,2 +1,0 @@
-;a38a19a;Fix typo (#3)
-M	app/src/main/java/com/fido/example/fidoapiexample/U2FDemoActivity.java

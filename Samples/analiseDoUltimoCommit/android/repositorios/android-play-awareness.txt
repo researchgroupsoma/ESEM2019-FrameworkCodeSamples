@@ -1,6 +1,0 @@
-;60c02c6;Updated awareness sample to connectionless GAC
-M	basic-awareness-sample/.gitignore
-M	basic-awareness-sample/app/build.gradle
-M	basic-awareness-sample/app/src/main/java/com/google/android/example/basicawarenesssample/MainActivity.java
-M	basic-awareness-sample/build.gradle
-M	basic-awareness-sample/gradle/wrapper/gradle-wrapper.properties

@@ -1,3 +1,0 @@
-;49a83ea;Auto-update
-M	Wearable/build.gradle
-M	Wearable/src/main/java/com/example/android/wearable/wear/wearhighbandwidthnetworking/MainActivity.java

@@ -1,8 +1,0 @@
-android-WearComplicationProvidersTestSuite/build.gradle,18d4cf4f17de1c87aec91521ec295f82e9fcb2df,google-automerger,Wed May 17 13:35:28 2017 -0700,Wed May 17 13:35:28 2017 -0700,Auto-update
-android-WearComplicationProvidersTestSuite/Wearable/build.gradle,25ce449cfe4dd6b96a4fa604df63af93d516628c,google-automerger,Fri Jul 27 21:57:46 2018 -0700,Fri Jul 27 21:57:46 2018 -0700,Auto-update
-android-WearComplicationProvidersTestSuite/Wearable/build.gradle,b69bb3f6bf07f034d6ff3e8fe4754d5aa03a9b27,google-automerger,Wed Mar 28 09:34:14 2018 -0700,Wed Mar 28 09:34:14 2018 -0700,Auto-update
-android-WearComplicationProvidersTestSuite/Wearable/build.gradle,89b260fa6184397d1b112f0f8165ed85b50691d3,google-automerger,Thu Jan 25 09:37:09 2018 -0800,Thu Jan 25 09:37:09 2018 -0800,Auto-update
-android-WearComplicationProvidersTestSuite/Wearable/build.gradle,5fe2e6be62b7bcb3425e6e77d5a874585288fb54,google-automerger,Tue Oct 10 17:55:17 2017 -0700,Tue Oct 10 17:55:17 2017 -0700,Auto-update
-android-WearComplicationProvidersTestSuite/Wearable/build.gradle,c06bd1b97a04c29d24a70f1f3b00ea90dfbae21b,google-automerger,Fri Aug 11 17:25:29 2017 -0700,Fri Aug 11 17:25:29 2017 -0700,Auto-update
-android-WearComplicationProvidersTestSuite/Wearable/build.gradle,ce30cf4af43a1f7ad72752b1591e7e32fe48bf94,google-automerger,Thu Jun 8 09:36:33 2017 -0700,Thu Jun 8 09:36:33 2017 -0700,Auto-update
-android-WearComplicationProvidersTestSuite/Wearable/build.gradle,18d4cf4f17de1c87aec91521ec295f82e9fcb2df,google-automerger,Wed May 17 13:35:28 2017 -0700,Wed May 17 13:35:28 2017 -0700,Auto-update

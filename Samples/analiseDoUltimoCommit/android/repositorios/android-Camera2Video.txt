@@ -1,5 +1,0 @@
-;6f1457c;Merge pull request #95 from googlesamples/kotlin-update
-;c0f8b6b;kotlin version update to 1.3.0 test: Pixel3 + GSI
-M	kotlinApp/Application/build.gradle
-M	kotlinApp/build.gradle
-M	kotlinApp/gradle/wrapper/gradle-wrapper.properties

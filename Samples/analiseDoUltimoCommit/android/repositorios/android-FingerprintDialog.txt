@@ -1,6 +1,0 @@
-;4b89afb;Auto-update
-M	Application/build.gradle
-M	LICENSE
-M	README.md
-A	kotlinApp/.google/packaging.yaml
-M	kotlinApp/README.md

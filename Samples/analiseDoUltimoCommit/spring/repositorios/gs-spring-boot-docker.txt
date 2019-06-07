@@ -1,2 +1,0 @@
-gs-spring-boot-docker;0ddb60c;Add NOTE sidebar about the topical guide
-M	README.adoc

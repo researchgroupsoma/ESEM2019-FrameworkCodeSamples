@@ -1,2 +1,0 @@
-;80a123e;Updating README.md with links to articles and resized screenshot.
-M	README.md

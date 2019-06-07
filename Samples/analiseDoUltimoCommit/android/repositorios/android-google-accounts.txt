@@ -1,2 +1,0 @@
-;97f39df;Fixing bad URL in documentation.
-M	README.md

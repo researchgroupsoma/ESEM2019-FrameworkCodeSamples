@@ -1,3 +1,0 @@
-;48065d4;Updates gradle dependency syntax
-M	app/build.gradle
-M	library/build.gradle

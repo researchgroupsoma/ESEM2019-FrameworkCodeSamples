@@ -1,6 +1,0 @@
-;e43174e;Auto-update
-M	README.md
-M	app/src/main/AndroidManifest.xml
-D	app/src/main/java/com/example/android/emojicompat/EmojiCompatApplication.java
-M	app/src/main/java/com/example/android/emojicompat/MainActivity.java
-M	build.gradle

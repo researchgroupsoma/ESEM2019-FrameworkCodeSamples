@@ -1,3 +1,0 @@
-Updates Sign-in sample to run production release of SDK 2.0.
-Add Standalone Google Sign in sample.
-Initial empty repository

@@ -1,4 +1,0 @@
-android-custom-lint-rules/android-studio-3/build.gradle,439605d4b10afa87cb58ba500d4c4b9a219770bf,Nagesh Susarla,Tue Sep 12 14:44:52 2017 -0700,Tue Sep 12 14:44:52 2017 -0700,Merge pull request #10 from tnorbye/studio3-packaging
-android-custom-lint-rules/android-studio-3/checks/build.gradle,439605d4b10afa87cb58ba500d4c4b9a219770bf,Nagesh Susarla,Tue Sep 12 14:44:52 2017 -0700,Tue Sep 12 14:44:52 2017 -0700,Merge pull request #10 from tnorbye/studio3-packaging
-android-custom-lint-rules/android-studio-3/library/build.gradle,439605d4b10afa87cb58ba500d4c4b9a219770bf,Nagesh Susarla,Tue Sep 12 14:44:52 2017 -0700,Tue Sep 12 14:44:52 2017 -0700,Merge pull request #10 from tnorbye/studio3-packaging
-android-custom-lint-rules/android-studio-2/build.gradle,439605d4b10afa87cb58ba500d4c4b9a219770bf,Nagesh Susarla,Tue Sep 12 14:44:52 2017 -0700,Tue Sep 12 14:44:52 2017 -0700,Merge pull request #10 from tnorbye/studio3-packaging

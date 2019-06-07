@@ -1,4 +1,0 @@
-;6f9c751;Remove call to setMinimumLatency(0) to improve performance.
-M	app/src/main/java/com/google/android/tvhomescreenchannels/SynchronizeDatabaseJobService.java
-M	app/src/main/java/com/google/android/tvhomescreenchannels/scheduler/AddWatchNextService.java
-M	app/src/main/java/com/google/android/tvhomescreenchannels/scheduler/DeleteWatchNextService.java

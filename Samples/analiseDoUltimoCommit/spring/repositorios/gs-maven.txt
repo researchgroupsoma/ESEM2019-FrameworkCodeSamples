@@ -1,2 +1,0 @@
-gs-maven;58db54c;Add link to Maven wrapper
-M	README.adoc

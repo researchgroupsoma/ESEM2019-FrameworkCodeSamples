@@ -1,5 +1,0 @@
-gs-gradle;f96f6d2;Clean up repositories.
-D	initial/gradle/wrapper/gradle-wrapper.jar
-D	initial/gradle/wrapper/gradle-wrapper.properties
-D	initial/gradlew
-D	initial/gradlew.bat

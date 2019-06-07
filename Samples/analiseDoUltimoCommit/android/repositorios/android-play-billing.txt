@@ -1,4 +1,0 @@
-;3af7922;Merge pull request #172 from cartland/classy_taxi_gif
-;df6ffcc;Add Classy Taxi animation GIF to README
-M	ClassyTaxi/README.md
-A	ClassyTaxi/classy_taxi_animation.gif

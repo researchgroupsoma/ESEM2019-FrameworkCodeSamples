@@ -1,2 +1,0 @@
-androidtv-daydream/build.gradle,d2ff58e3bdbdd9e0d654f0338569f11e70cea705,shawn shen,Fri May 22 16:13:38 2015 -0700,Tue May 26 15:07:12 2015 -0700,Initial commit of dreams/screensaver sample of DreamService for Android TV
-androidtv-daydream/app/build.gradle,d2ff58e3bdbdd9e0d654f0338569f11e70cea705,shawn shen,Fri May 22 16:13:38 2015 -0700,Tue May 26 15:07:12 2015 -0700,Initial commit of dreams/screensaver sample of DreamService for Android TV

@@ -1,3 +1,0 @@
-;2f22244;Updates Sign-in sample to run production release of SDK 2.0.
-M	app/build.gradle
-M	app/src/main/AndroidManifest.xml

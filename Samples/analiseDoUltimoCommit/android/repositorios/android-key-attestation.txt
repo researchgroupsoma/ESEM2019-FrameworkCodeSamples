@@ -1,3 +1,0 @@
-;541f7e0;Fix links in README files.
-M	README.md
-M	server/README.md

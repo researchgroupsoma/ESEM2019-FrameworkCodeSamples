@@ -1,4 +1,0 @@
-;f4c7a55;Removed unncessary v.invalidate lines in onDrag
-M	app/src/main/java/com/hadrosaur/draganddropdemo/MainActivity.java
-A	build/android-profile/profile-2018-03-19-10-14-29-888.json
-A	build/android-profile/profile-2018-03-19-10-14-29-888.rawproto

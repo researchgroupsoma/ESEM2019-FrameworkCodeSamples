@@ -1,9 +1,0 @@
-;4f5c109;Merge pull request #12 from RobRoseKnows/master
-;5ab5c1f;Fixed CONTRIBUTING.md to meet style guide.
-M	CONTRIBUTING.md
-
-;40680af;Fixed Markdown syntax in CONTRIBUTING.md
-M	CONTRIBUTING.md
-
-;26f2d9e;Fixed URL encoding in README.md
-M	README.md

@@ -1,4 +1,0 @@
-;3129ec1;Auto-update
-M	Application/build.gradle
-M	Wearable/build.gradle
-A	gradle.properties

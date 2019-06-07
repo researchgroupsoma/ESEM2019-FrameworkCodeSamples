@@ -1,3 +1,0 @@
-;a77c593;Auto-update
-M	Wearable/build.gradle
-M	Wearable/src/main/java/com/example/android/wearable/wear/weardrawers/MainActivity.java

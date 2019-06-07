@@ -1,6 +1,0 @@
-Fixed notification icons -- make all of them solid white.
-Update documentation for how to get access to the documentation.
-Add fplutil as a submodule.
-Squashed commit of the following:
-Initial commit of Games in Motion.
-Initial empty repository

@@ -1,5 +1,0 @@
-leanback-homescreen-channels/build.gradle,98318567aad0ff0e667307b3b4d18b24a9891df3,Benjamin Baxter,Fri Apr 27 17:11:09 2018 -0700,Mon May 21 15:42:08 2018 -0700,Support TvInputService for Video Previews.
-leanback-homescreen-channels/build.gradle,36d4ba46cb1c79afe95ff1d247d2bf4da48f99bc,Benjamin Baxter,Tue Sep 19 13:30:28 2017 -0700,Fri Sep 29 10:54:26 2017 -0700,Inital commit
-leanback-homescreen-channels/app/build.gradle,98318567aad0ff0e667307b3b4d18b24a9891df3,Benjamin Baxter,Fri Apr 27 17:11:09 2018 -0700,Mon May 21 15:42:08 2018 -0700,Support TvInputService for Video Previews.
-leanback-homescreen-channels/app/build.gradle,d70ae62e23406857b2007d51e068ab0fdbbed8e4,Benjamin Baxter,Fri Sep 29 16:45:47 2017 -0700,Fri Sep 29 16:45:47 2017 -0700,Add compile sdk version to build.gradle.
-leanback-homescreen-channels/app/build.gradle,36d4ba46cb1c79afe95ff1d247d2bf4da48f99bc,Benjamin Baxter,Tue Sep 19 13:30:28 2017 -0700,Fri Sep 29 10:54:26 2017 -0700,Inital commit
