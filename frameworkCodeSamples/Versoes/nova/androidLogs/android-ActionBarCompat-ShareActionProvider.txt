@@ -1,0 +1,14 @@
+android-ActionBarCompat-ShareActionProvider/build.gradle,dad50db067014055b3d1f4a6878cd41af40702f9,google-automerger,Tue Sep 2 10:59:43 2014 -0700,Tue Sep 2 10:59:43 2014 -0700,Initial Commit
+android-ActionBarCompat-ShareActionProvider/Application/build.gradle,1dc11057676a078407fdc8adb134ef0d31ab4cf3,google-automerger,Fri Aug 12 15:17:04 2016 -0700,Fri Aug 12 15:17:04 2016 -0700,Auto-update
+android-ActionBarCompat-ShareActionProvider/Application/build.gradle,3cf0194cdfcb37a8e6fa2dd679e64843cf4f6b63,google-automerger,Wed May 18 11:37:23 2016 -0700,Wed May 18 11:37:23 2016 -0700,Auto-update
+android-ActionBarCompat-ShareActionProvider/Application/build.gradle,f3b051f4880f5653a651aab1416294424c31211a,google-automerger,Wed Apr 20 12:25:21 2016 -0700,Wed Apr 20 12:25:21 2016 -0700,Auto-update
+android-ActionBarCompat-ShareActionProvider/Application/build.gradle,b6892d62156731ea65f47c4cfb2fce0c915c1931,google-automerger,Wed Nov 18 09:32:24 2015 -0800,Wed Nov 18 09:32:24 2015 -0800,Auto-update
+android-ActionBarCompat-ShareActionProvider/Application/build.gradle,eea103841f5070263cb3e8a653ca46830dd53850,google-automerger,Thu Oct 8 17:41:42 2015 -0700,Thu Oct 8 17:41:42 2015 -0700,Auto-update
+android-ActionBarCompat-ShareActionProvider/Application/build.gradle,807e61d77c6370c3890d21dbee2ffa028c3d8c59,google-automerger,Mon Aug 17 09:53:39 2015 -0700,Mon Aug 17 09:53:39 2015 -0700,Auto-update
+android-ActionBarCompat-ShareActionProvider/Application/build.gradle,7261032493caf1e7051f28d20c2e019dd766e922,google-automerger,Thu Jul 9 11:09:35 2015 -0700,Thu Jul 9 11:09:35 2015 -0700,Auto-update
+android-ActionBarCompat-ShareActionProvider/Application/build.gradle,8016d5d000b00d5fd8e1bbf368f1450adace2798,google-automerger,Thu May 21 10:03:11 2015 -0700,Thu May 21 10:03:11 2015 -0700,Auto-update
+android-ActionBarCompat-ShareActionProvider/Application/build.gradle,e0f3ee512f5071c3e6fbdeb4deea75ef9b5a115e,google-automerger,Tue Apr 28 10:52:51 2015 -0700,Tue Apr 28 10:52:51 2015 -0700,Auto-update
+android-ActionBarCompat-ShareActionProvider/Application/build.gradle,a50f9edcf08283c6dbb57d7fd295f7d834deae65,google-automerger,Mon Mar 30 17:42:21 2015 -0700,Mon Mar 30 17:42:21 2015 -0700,Auto-update
+android-ActionBarCompat-ShareActionProvider/Application/build.gradle,c94e7afa7439e79650c77dbf1700bb372720d638,google-automerger,Mon Dec 8 17:47:10 2014 -0800,Mon Dec 8 17:47:10 2014 -0800,Auto-update
+android-ActionBarCompat-ShareActionProvider/Application/build.gradle,eb574b0b3f7f88362e0579a67f4a5e4c5187f48f,google-automerger,Wed Dec 3 01:40:52 2014 -0800,Wed Dec 3 01:40:52 2014 -0800,Auto-update
+android-ActionBarCompat-ShareActionProvider/Application/build.gradle,cf31323f166ccdefc8d0748be73b43488cf83cad,google-automerger,Tue Nov 18 16:16:16 2014 -0800,Tue Nov 18 16:16:16 2014 -0800,Auto-update

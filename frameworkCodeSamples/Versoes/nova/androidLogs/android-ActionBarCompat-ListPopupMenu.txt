@@ -1,0 +1,19 @@
+android-ActionBarCompat-ListPopupMenu/build.gradle,ee043bc2531cfc7df25e5d4921bfcf004ee64ca6,google-automerger,Tue Sep 2 10:58:05 2014 -0700,Tue Sep 2 10:58:05 2014 -0700,Initial Commit
+android-ActionBarCompat-ListPopupMenu/Application/build.gradle,a199c372b757582cf72d73801a0810ddad7a3402,google-automerger,Thu Feb 15 16:33:56 2018 -0800,Thu Feb 15 16:33:56 2018 -0800,Auto-update
+android-ActionBarCompat-ListPopupMenu/Application/build.gradle,728bdb0bdb5189dd0e99dca4e1f7697d3d2226d0,google-automerger,Tue Oct 10 17:50:15 2017 -0700,Tue Oct 10 17:50:15 2017 -0700,Auto-update
+android-ActionBarCompat-ListPopupMenu/Application/build.gradle,c6ddd3d965eda2026c82b894f186b0748a38511c,google-automerger,Thu Jun 8 09:32:04 2017 -0700,Thu Jun 8 09:32:04 2017 -0700,Auto-update
+android-ActionBarCompat-ListPopupMenu/Application/build.gradle,8b7bf979d1b61dc1a727e29af0dd88231563d270,google-automerger,Wed May 17 13:30:51 2017 -0700,Wed May 17 13:30:51 2017 -0700,Auto-update
+android-ActionBarCompat-ListPopupMenu/Application/build.gradle,5a228b9d485d708a462aec0a4d8d5380783b283a,google-automerger,Tue Dec 13 09:38:11 2016 -0800,Tue Dec 13 09:38:11 2016 -0800,Auto-update
+android-ActionBarCompat-ListPopupMenu/Application/build.gradle,0ff9f49c45b93f5bda606d2fb1468fd30b49d159,google-automerger,Fri Aug 12 15:17:01 2016 -0700,Fri Aug 12 15:17:01 2016 -0700,Auto-update
+android-ActionBarCompat-ListPopupMenu/Application/build.gradle,763bd296214db2d16609a7eba05ae7942b8805df,google-automerger,Wed May 18 11:37:22 2016 -0700,Wed May 18 11:37:22 2016 -0700,Auto-update
+android-ActionBarCompat-ListPopupMenu/Application/build.gradle,8fb7f78085979a42d2c5cd08b55d59e9a21bf808,google-automerger,Wed Apr 20 12:25:20 2016 -0700,Wed Apr 20 12:25:20 2016 -0700,Auto-update
+android-ActionBarCompat-ListPopupMenu/Application/build.gradle,1ce4e3f0c703b9e31c1b95021678e6b0b9b9b886,google-automerger,Wed Nov 18 09:32:22 2015 -0800,Wed Nov 18 09:32:22 2015 -0800,Auto-update
+android-ActionBarCompat-ListPopupMenu/Application/build.gradle,575a34b2ca90fdaa3534ba93aafaa973f383c927,google-automerger,Thu Oct 8 17:41:40 2015 -0700,Thu Oct 8 17:41:40 2015 -0700,Auto-update
+android-ActionBarCompat-ListPopupMenu/Application/build.gradle,6d81bbb1e1a4a78e917c303a908f2375dd4769b0,google-automerger,Mon Aug 17 09:53:38 2015 -0700,Mon Aug 17 09:53:38 2015 -0700,Auto-update
+android-ActionBarCompat-ListPopupMenu/Application/build.gradle,cf345fc6741fc6a989ab17fcf975ee68597e73c2,google-automerger,Thu Jul 9 11:09:33 2015 -0700,Thu Jul 9 11:09:33 2015 -0700,Auto-update
+android-ActionBarCompat-ListPopupMenu/Application/build.gradle,d0643f8e3b16c9666cd662be6e357164e012d301,google-automerger,Thu May 21 10:03:10 2015 -0700,Thu May 21 10:03:10 2015 -0700,Auto-update
+android-ActionBarCompat-ListPopupMenu/Application/build.gradle,07e9165d5e4fdd05180d8eacee3da0d33fe60880,google-automerger,Tue Apr 28 10:52:49 2015 -0700,Tue Apr 28 10:52:49 2015 -0700,Auto-update
+android-ActionBarCompat-ListPopupMenu/Application/build.gradle,a4d5704120281defe295bcf69371c37d6f1a7299,google-automerger,Mon Mar 30 17:42:19 2015 -0700,Mon Mar 30 17:42:19 2015 -0700,Auto-update
+android-ActionBarCompat-ListPopupMenu/Application/build.gradle,f1d69e2eff78a10e081b8c176e6eed9566f04b4e,google-automerger,Mon Dec 8 17:47:05 2014 -0800,Mon Dec 8 17:47:05 2014 -0800,Auto-update
+android-ActionBarCompat-ListPopupMenu/Application/build.gradle,214cbb799f9e010c34449b436ba575dfa0b781c9,google-automerger,Wed Dec 3 01:40:47 2014 -0800,Wed Dec 3 01:40:47 2014 -0800,Auto-update
+android-ActionBarCompat-ListPopupMenu/Application/build.gradle,6dc02e74926b700f3f12ccab7deea2d8aaa0df04,google-automerger,Tue Nov 18 16:16:11 2014 -0800,Tue Nov 18 16:16:11 2014 -0800,Auto-update

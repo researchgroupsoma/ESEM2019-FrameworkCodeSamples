@@ -1,0 +1,19 @@
+gs-maven/complete/pom.xml,c2bf5536ea4163b63faeb9c76686759b86893a0c,Greg Turnquist,Wed Apr 4 11:07:54 2018 -0500,Wed Apr 4 11:07:54 2018 -0500,Specify Java version as 1.8
+gs-maven/complete/pom.xml,343ae0d171098f4215fa6a5296c6cad291e856d4,Greg Turnquist,Sun Jun 11 19:01:52 2017 -0500,Sun Jun 11 19:01:52 2017 -0500,Merge pull request #16 from voyageth/patch-1
+gs-maven/complete/pom.xml,d4e9291dbe41fe80c611ec7dbd2fdafd5f909861,Dave Syer,Fri Sep 23 16:25:30 2016 +0100,Fri Sep 23 16:25:30 2016 +0100,Add test scope to junit
+gs-maven/complete/pom.xml,8f167bdb3b1a8890d82e5834832feba428aaa268,Dave Syer,Thu Aug 25 10:36:07 2016 +0100,Thu Aug 25 10:36:07 2016 +0100,Add a test
+gs-maven/complete/pom.xml,682ac25e1fb81a772852ff33b05e582ffe03a82d,Greg Turnquist,Fri Jun 12 14:04:37 2015 -0400,Fri Jun 12 14:04:37 2015 -0400,Upgrade non-specific guides to Java 8
+gs-maven/complete/pom.xml,5a8be5bc391817a369a15b82d8c2f63bde069d23,Greg Turnquist,Fri Feb 14 14:53:52 2014 -0600,Fri Feb 14 14:53:52 2014 -0600,Clean up guides to link to proper javadoc pages and include code instead of use pasted copies
+gs-maven/complete/pom.xml,dcc3ccf362442d7e99b919bb5506d3fab1620a42,Roy Clarkson,Sun Nov 10 00:29:46 2013 -0600,Sun Nov 10 00:29:46 2013 -0600,Update complete POM to use the Maven Shade Plugin
+gs-maven/complete/pom.xml,7febb895f10915ed9184e04f4d82633dde89c3f0,Greg Turnquist,Mon Aug 12 14:09:01 2013 -0500,Mon Aug 12 14:09:01 2013 -0500,Detab code
+gs-maven/complete/pom.xml,11a4b89041f2d6ba92ba3b9a467deaf1949b574c,Greg Turnquist,Fri Aug 9 13:18:20 2013 -0500,Fri Aug 9 13:18:20 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-maven/complete/pom.xml,b1c234253a1f99c993c92ea493013b5430310c2e,Greg Turnquist,Thu Jul 18 10:41:20 2013 -0400,Thu Jul 18 10:41:20 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-maven/complete/pom.xml,11b1a940a3ae460813da50791f89aedce135b4bc,Greg Turnquist,Mon Jul 8 13:45:35 2013 -0500,Mon Jul 8 13:45:35 2013 -0500,Convert to fpp
+gs-maven/complete/pom.xml,4c16641cff64d1d0b5b95a9b7e8db97976b935cf,Chris Beams,Tue May 28 11:48:14 2013 +0200,Tue May 28 11:48:14 2013 +0200,Version all GS guides at 0.1.0 per http://semver.org
+gs-maven/complete/pom.xml,2fead170be1cfa907a990e0c6b91b17e900de71a,Craig Walls,Mon Apr 22 11:18:51 2013 -0500,Mon Apr 22 11:18:51 2013 -0500,Add completed project and draft of GS guide.gs-maven/initial/pom.xml,c2bf5536ea4163b63faeb9c76686759b86893a0c,Greg Turnquist,Wed Apr 4 11:07:54 2018 -0500,Wed Apr 4 11:07:54 2018 -0500,Specify Java version as 1.8
+gs-maven/initial/pom.xml,acea4222e2ef6311ee49235ef96cc46313d54b0f,Greg Turnquist,Fri Jul 11 06:46:51 2014 -0500,Fri Jul 11 06:46:51 2014 -0500,Merge pull request #10 from tsuyo/fix_readme
+gs-maven/initial/pom.xml,645d9ed60bd8efbc52e4d22dcaf43f3baa6d2796,Greg Turnquist,Tue Feb 18 16:34:30 2014 -0600,Tue Feb 18 16:34:30 2014 -0600,Move final build file to the beginning and update guides to reflect this
+gs-maven/initial/pom.xml,7febb895f10915ed9184e04f4d82633dde89c3f0,Greg Turnquist,Mon Aug 12 14:09:01 2013 -0500,Mon Aug 12 14:09:01 2013 -0500,Detab code
+gs-maven/initial/pom.xml,b1c234253a1f99c993c92ea493013b5430310c2e,Greg Turnquist,Thu Jul 18 10:41:20 2013 -0400,Thu Jul 18 10:41:20 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-maven/initial/pom.xml,11b1a940a3ae460813da50791f89aedce135b4bc,Greg Turnquist,Mon Jul 8 13:45:35 2013 -0500,Mon Jul 8 13:45:35 2013 -0500,Convert to fpp
+gs-maven/initial/pom.xml,41059218d5549ba3ec23a5f15b871910b0eca8a8,Craig Walls,Wed Jun 12 12:26:23 2013 -0500,Wed Jun 12 12:26:23 2013 -0500,Renamed start to initial

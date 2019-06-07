@@ -1,0 +1,19 @@
+android-BluetoothLeGatt/build.gradle,c8cd6a3f68dcfcb09a7cb1e6d458e37289d18ce5,google-automerger,Tue Sep 2 11:00:42 2014 -0700,Tue Sep 2 11:00:42 2014 -0700,Initial Commit
+android-BluetoothLeGatt/Application/build.gradle,74c0006b9e87112d09bc6ed2cb3fcb51b07af4a4,google-automerger,Thu Feb 15 16:35:16 2018 -0800,Thu Feb 15 16:35:16 2018 -0800,Auto-update
+android-BluetoothLeGatt/Application/build.gradle,975ae584e9f882a6921f82eeab3e667229bba33f,google-automerger,Tue Oct 10 17:51:37 2017 -0700,Tue Oct 10 17:51:37 2017 -0700,Auto-update
+android-BluetoothLeGatt/Application/build.gradle,84ba5444b468aa6709de542958482c9620ed1d4c,google-automerger,Thu Jun 8 09:33:16 2017 -0700,Thu Jun 8 09:33:16 2017 -0700,Auto-update
+android-BluetoothLeGatt/Application/build.gradle,6bef6962596054a593906febd2247947729564b8,google-automerger,Wed May 17 13:32:08 2017 -0700,Wed May 17 13:32:08 2017 -0700,Auto-update
+android-BluetoothLeGatt/Application/build.gradle,b9b94b3c2e54b2c9e1ddb6ee64298d6a034d84ed,google-automerger,Tue Dec 13 09:39:07 2016 -0800,Tue Dec 13 09:39:07 2016 -0800,Auto-update
+android-BluetoothLeGatt/Application/build.gradle,0404c42e2cdbd1c5f81882c243a493fe8af2d19f,google-automerger,Fri Aug 12 15:18:00 2016 -0700,Fri Aug 12 15:18:00 2016 -0700,Auto-update
+android-BluetoothLeGatt/Application/build.gradle,495803236d3f33bd06669dd7c99a0db30dcd0d8a,google-automerger,Wed May 18 11:38:08 2016 -0700,Wed May 18 11:38:08 2016 -0700,Auto-update
+android-BluetoothLeGatt/Application/build.gradle,3073e02f4ad0018129c51510acf1128c2c1c13fc,google-automerger,Wed Apr 20 12:26:04 2016 -0700,Wed Apr 20 12:26:04 2016 -0700,Auto-update
+android-BluetoothLeGatt/Application/build.gradle,7362def8ce53465338a1ccdc645d3433c564e8e8,google-automerger,Wed Nov 18 09:33:10 2015 -0800,Wed Nov 18 09:33:10 2015 -0800,Auto-update
+android-BluetoothLeGatt/Application/build.gradle,53b1869fc6e8c97a117d80637fc0c1ff572fd1a6,google-automerger,Thu Oct 8 17:42:25 2015 -0700,Thu Oct 8 17:42:25 2015 -0700,Auto-update
+android-BluetoothLeGatt/Application/build.gradle,ff84542ab6554f2e188cd2fff267d23580bc6f45,google-automerger,Mon Aug 17 09:54:17 2015 -0700,Mon Aug 17 09:54:17 2015 -0700,Auto-update
+android-BluetoothLeGatt/Application/build.gradle,d8e73d0132fb55457b3d15ea9ef1f7e3b25af3dc,google-automerger,Thu Jul 9 11:10:12 2015 -0700,Thu Jul 9 11:10:12 2015 -0700,Auto-update
+android-BluetoothLeGatt/Application/build.gradle,92322852c9f29ca5951fd8c4bc8c47008448542f,google-automerger,Thu May 21 10:04:16 2015 -0700,Thu May 21 10:04:16 2015 -0700,Auto-update
+android-BluetoothLeGatt/Application/build.gradle,a4796dec06c0b40841b80e8c14ed8e9a2efe00c9,google-automerger,Tue Apr 28 10:53:41 2015 -0700,Tue Apr 28 10:53:41 2015 -0700,Auto-update
+android-BluetoothLeGatt/Application/build.gradle,68cc20ef922f18fd68c5d71fa45a14647044fcec,google-automerger,Mon Mar 30 17:43:14 2015 -0700,Mon Mar 30 17:43:14 2015 -0700,Auto-update
+android-BluetoothLeGatt/Application/build.gradle,ce969742031b60e1b51b1feec1ea4485f9cb819d,google-automerger,Mon Dec 8 17:49:13 2014 -0800,Mon Dec 8 17:49:13 2014 -0800,Auto-update
+android-BluetoothLeGatt/Application/build.gradle,b52777659b813818295da9567f4b26e9412109c2,google-automerger,Wed Dec 3 01:48:36 2014 -0800,Wed Dec 3 01:48:36 2014 -0800,Auto-update
+android-BluetoothLeGatt/Application/build.gradle,646f225c2dc080d34543e5fb33fbf258eab750d9,google-automerger,Tue Nov 18 16:17:49 2014 -0800,Tue Nov 18 16:17:49 2014 -0800,Auto-update

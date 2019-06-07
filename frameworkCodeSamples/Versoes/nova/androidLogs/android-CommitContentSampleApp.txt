@@ -1,0 +1,6 @@
+android-CommitContentSampleApp/build.gradle,e60081b8f150e4853f5b0609c366957034bbae4a,google-automerger,Thu Feb 15 16:35:38 2018 -0800,Thu Feb 15 16:35:38 2018 -0800,Auto-update
+android-CommitContentSampleApp/build.gradle,67a980558c8b560590f06e9d1f2dd8883509c2c7,google-automerger,Tue Dec 13 09:39:22 2016 -0800,Tue Dec 13 09:39:22 2016 -0800,Auto-update
+android-CommitContentSampleApp/build.gradle,8cb922c1beba2c0a1c260b302648297dc106b362,google-automerger,Wed Oct 19 14:08:07 2016 -0700,Wed Oct 19 14:08:07 2016 -0700,Auto-update
+android-CommitContentSampleApp/app/build.gradle,e45cf7c1732d093785f1fc17da26343c419984d6,google-automerger,Thu Feb 9 09:17:34 2017 -0800,Thu Feb 9 09:17:34 2017 -0800,Auto-update
+android-CommitContentSampleApp/app/build.gradle,dfa46e30abcc36435f02c4fe1ef8d3a934608c9d,google-automerger,Wed Oct 19 14:26:30 2016 -0700,Wed Oct 19 14:26:30 2016 -0700,Auto-update
+android-CommitContentSampleApp/app/build.gradle,8cb922c1beba2c0a1c260b302648297dc106b362,google-automerger,Wed Oct 19 14:08:07 2016 -0700,Wed Oct 19 14:08:07 2016 -0700,Auto-update

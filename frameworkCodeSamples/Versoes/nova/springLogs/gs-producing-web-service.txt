@@ -1,0 +1,134 @@
+gs-producing-web-service/complete/pom.xml,94b2187ba75db998d6329696c64c0be2c5ac4c6e,Greg Turnquist,Mon Sep 17 10:50:59 2018 -0500,Mon Sep 17 10:50:59 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-producing-web-service/complete/pom.xml,f32ec099ee52e0cccdd522573881487568a6ff6a,Greg Turnquist,Mon Jun 18 16:17:06 2018 -0500,Mon Jun 18 16:17:06 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-producing-web-service/complete/pom.xml,df5a11956e32bcdaf00e4855e52be0e68471ada1,Greg Turnquist,Wed May 9 11:26:48 2018 -0500,Wed May 9 11:26:48 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-producing-web-service/complete/pom.xml,176bcbc89b05cf8d47c56ac1de847a4a1216bcd8,Greg Turnquist,Thu Apr 5 11:45:12 2018 -0500,Thu Apr 5 11:45:12 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-producing-web-service/complete/pom.xml,73194f03f4cb06bdafafcbea139fb6a0786672e1,Greg Turnquist,Thu Mar 1 09:53:52 2018 -0600,Mon Mar 5 21:27:45 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-producing-web-service/complete/pom.xml,1afdd69839c9bfc4a2f402a9fa8e2d21a10608ad,Greg Turnquist,Wed Jan 31 09:16:28 2018 -0600,Wed Jan 31 09:16:28 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-producing-web-service/complete/pom.xml,08778dcc133408ba103d81f8efd7787cde22f052,Greg Turnquist,Thu Nov 30 11:07:07 2017 -0600,Thu Nov 30 11:07:07 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-producing-web-service/complete/pom.xml,af84f04fdd114602473b31d720daf463ad70a911,Greg Turnquist,Tue Oct 17 15:42:43 2017 -0500,Tue Oct 17 15:42:43 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-producing-web-service/complete/pom.xml,05c7ebe479fc9c90cac18b2d6528bbb737e51aa7,Greg Turnquist,Wed Sep 13 13:15:47 2017 -0500,Wed Sep 13 13:15:47 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-producing-web-service/complete/pom.xml,6a1152ed7942351563f31ba6259205a6bf26086f,Greg Turnquist,Thu Jul 27 10:05:00 2017 -0500,Thu Jul 27 10:05:00 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-producing-web-service/complete/pom.xml,ce9f967e103757dcccbe41067bbe55c82b422cee,Greg Turnquist,Wed Jul 26 12:23:26 2017 -0500,Wed Jul 26 12:25:10 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-producing-web-service/complete/pom.xml,bf1ef2c95f659fedb51dcf44d32ca344c62c9b07,Greg Turnquist,Fri Apr 21 09:20:31 2017 -0500,Wed Jul 26 12:25:09 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-producing-web-service/complete/pom.xml,6315a73a1cb4bf0742bd4b1c24c96bdc3bfd4673,Greg Turnquist,Fri Mar 3 11:13:27 2017 -0600,Fri Mar 3 11:13:27 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-producing-web-service/complete/pom.xml,71cd380ffe2753b93d6cf0c1f7df476a222d1ee2,Greg Turnquist,Mon Jan 30 23:31:53 2017 -0600,Mon Jan 30 23:31:53 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-producing-web-service/complete/pom.xml,7b57c7c980012e4a97c481a8b207275e86c2681d,Greg Turnquist,Mon Jan 30 12:22:38 2017 -0600,Mon Jan 30 12:22:38 2017 -0600,Fix dependency for spring-ws
+gs-producing-web-service/complete/pom.xml,65076f74a5998bf097d80405d804dc70f69a17a7,Greg Turnquist,Mon Jan 30 11:38:46 2017 -0600,Mon Jan 30 11:38:46 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-producing-web-service/complete/pom.xml,c290e6ce695caf32f6af2f39a9520394c9225f67,Greg Turnquist,Thu Jan 26 12:48:12 2017 -0600,Thu Jan 26 12:48:12 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-producing-web-service/complete/pom.xml,c652e5d2129b92ce908fe6905224c6836ba27d4d,Greg Turnquist,Thu Jan 26 12:37:51 2017 -0600,Thu Jan 26 12:37:51 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-producing-web-service/complete/pom.xml,7b9ccad01d9406ec3b9723df64713348cb63de41,Greg Turnquist,Thu Dec 22 22:33:10 2016 -0600,Thu Dec 22 22:33:10 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-producing-web-service/complete/pom.xml,77e5c58850c0b4a982b9336b2abab5e1e9f9f0f0,Greg Turnquist,Tue Nov 8 11:52:48 2016 -0600,Tue Nov 8 11:52:48 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-producing-web-service/complete/pom.xml,407f1cb683cf8f965af0674e3c45103c690ebe96,Greg Turnquist,Fri Sep 23 16:36:26 2016 -0500,Fri Sep 23 16:36:26 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-producing-web-service/complete/pom.xml,ee2e0de7ccc5353fc7f6a6e5a500d43227f719cd,Greg Turnquist,Fri Jul 29 11:29:31 2016 -0500,Fri Jul 29 11:29:31 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-producing-web-service/complete/pom.xml,3f51e97cc4b8e5541e7f95bd802008fe379d348b,Greg Turnquist,Thu Jul 28 06:53:10 2016 -0500,Thu Jul 28 06:53:10 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-producing-web-service/complete/pom.xml,ac74d30ae510ce58005ca6ba5096db84cdb5fba6,Greg Turnquist,Tue Jul 5 13:52:39 2016 -0500,Tue Jul 5 13:52:39 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-producing-web-service/complete/pom.xml,c7229430eda40b23a3e479b1c2e1ccc56c2098c0,Greg Turnquist,Tue May 10 10:26:42 2016 -0500,Tue May 10 10:26:42 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-producing-web-service/complete/pom.xml,9ef724a91daa26ea427452d080eeed66a8ddbadc,Greg Turnquist,Fri May 6 09:49:11 2016 -0500,Fri May 6 09:49:11 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-producing-web-service/complete/pom.xml,f346089a7ffdec0045e1d5771ac14ba84a274a60,Greg Turnquist,Fri Feb 26 07:30:15 2016 -0600,Fri Feb 26 07:30:15 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-producing-web-service/complete/pom.xml,4819a15169a4e5584361c32a8f9c42876d5f2d4a,Greg Turnquist,Thu Jan 21 21:29:10 2016 -0600,Thu Jan 21 21:29:10 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-producing-web-service/complete/pom.xml,75f0c4d3019a043ae28014e7f4226c810821f655,Greg Turnquist,Fri Dec 18 09:40:27 2015 -0600,Fri Dec 18 09:40:27 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-producing-web-service/complete/pom.xml,b5c9fbd891f9de195f41037a608f0c6c6709098e,Greg Turnquist,Mon Nov 16 11:10:51 2015 -0600,Mon Nov 16 11:10:51 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-producing-web-service/complete/pom.xml,f3acb6c8fbcb08ce109e520b13e9910b405a15e7,Greg Turnquist,Fri Oct 16 09:43:56 2015 -0400,Fri Oct 16 09:43:56 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-producing-web-service/complete/pom.xml,fb23f1c98aaa50cbd845d595fb6e91b0b43c678a,Greg Turnquist,Sun Sep 20 15:41:49 2015 -0500,Sun Sep 20 15:41:49 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-producing-web-service/complete/pom.xml,a436fb2632d65419834292dfb6d6b6c6e994412e,Greg Turnquist,Thu Jul 2 08:46:31 2015 -0500,Thu Jul 2 08:46:31 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-producing-web-service/complete/pom.xml,130196bd4523ec17a7d81146fb543c87cbd3ab0c,Greg Turnquist,Fri Jun 12 14:05:00 2015 -0400,Fri Jun 12 14:05:00 2015 -0400,Upgrade non-specific guides to Java 8
+gs-producing-web-service/complete/pom.xml,964755feeb73aae7fdbcbe951258e52d63e2fee2,Greg Turnquist,Tue Jun 9 09:41:58 2015 -0400,Tue Jun 9 09:41:58 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-producing-web-service/complete/pom.xml,fa317361cfba54531e820cd2e6603969be0f525f,Greg Turnquist,Tue Mar 31 16:56:18 2015 -0500,Tue Mar 31 16:56:18 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-producing-web-service/complete/pom.xml,dfd749562789a663a570590034651fca2a3118c5,Greg Turnquist,Tue Mar 17 12:38:22 2015 -0500,Tue Mar 17 12:38:22 2015 -0500,Cleanup builds
+gs-producing-web-service/complete/pom.xml,ba0785fb6a9460001674d8643033729382952574,Greg Turnquist,Thu Feb 26 22:39:53 2015 -0600,Thu Feb 26 22:39:53 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-producing-web-service/complete/pom.xml,5623cc7de42de196a0f7f9d15fa7855c7777a349,Dave Syer,Thu Feb 5 18:16:06 2015 +0000,Thu Feb 5 18:21:55 2015 +0000,Update to Boot 1.2.1 and add test
+gs-producing-web-service/complete/pom.xml,f2f9ad010a53adac9c52fcb1675ee6514a8133ef,Greg Turnquist,Wed Jan 14 12:34:05 2015 -0600,Wed Jan 14 12:34:05 2015 -0600,Remove legacy start-class property from maven builds
+gs-producing-web-service/complete/pom.xml,907b427ce090d7d6f8c60007388b3b0206d44802,Greg Turnquist,Thu Dec 11 11:08:07 2014 -0600,Thu Dec 11 11:08:07 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-producing-web-service/complete/pom.xml,f8139ff9e1294d5d1123909d822af474cb4b0016,Greg Turnquist,Thu Nov 20 10:15:19 2014 -0600,Thu Nov 20 10:15:19 2014 -0600,Convert to use https for repositories
+gs-producing-web-service/complete/pom.xml,bd37a70334f75cb7a97ec6de1d3a88b80231194a,Greg Turnquist,Wed Nov 12 13:08:30 2014 -0600,Wed Nov 12 13:08:30 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-producing-web-service/complete/pom.xml,5a3fa4c264fd797860ab90704283c210e892eebf,Greg Turnquist,Fri Oct 10 22:05:29 2014 -0500,Fri Oct 10 22:05:29 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-producing-web-service/complete/pom.xml,467727282d22820fbffb58159580265d91a327a7,Greg Turnquist,Mon Sep 29 12:42:41 2014 -0500,Mon Sep 29 12:42:41 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-producing-web-service/complete/pom.xml,430818ae927308ca4dd36054fc578fb09e71f1a9,Greg Turnquist,Fri Sep 5 11:14:13 2014 -0500,Fri Sep 5 11:14:13 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-producing-web-service/complete/pom.xml,bbb4111f2d93cd7783ad8fbaccacf705964cbd4a,Greg Turnquist,Fri Aug 8 22:12:44 2014 -0500,Fri Aug 8 22:12:44 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-producing-web-service/complete/pom.xml,c225f4ea207db326e88b8b72ca768565f462f2a1,Greg Turnquist,Thu Jul 10 10:39:23 2014 -0500,Thu Jul 10 10:39:23 2014 -0500,Update to use a few more standard conventions
+gs-producing-web-service/complete/pom.xml,be2aa70575387ab3b19e60b60736014558e95278,Greg Turnquist,Tue Jul 8 15:42:00 2014 -0500,Tue Jul 8 15:42:00 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-producing-web-service/complete/pom.xml,9c96da6f7b2ce300763d52ef0071ef2e33a6d5f4,Greg Turnquist,Fri Jun 27 22:55:34 2014 -0400,Fri Jun 27 22:55:34 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-producing-web-service/complete/pom.xml,5df6c72c3ee374c34c20014e6696444d34c818ab,Greg Turnquist,Tue Jun 24 19:55:59 2014 -0400,Tue Jun 24 19:55:59 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-producing-web-service/complete/pom.xml,8c2b5c51d00ce7ec2b61ac531ed005bbdaba3b4a,Greg Turnquist,Wed Jun 11 16:48:39 2014 -0500,Wed Jun 11 16:48:39 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-producing-web-service/complete/pom.xml,b590aaf527348201de26c0832d03bcde3030e905,Greg Turnquist,Wed Jun 11 09:09:07 2014 -0500,Wed Jun 11 09:09:07 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-producing-web-service/complete/pom.xml,a2bfcaf5f334573a37c8d0fa239bd998be610f5e,Greg Turnquist,Tue Jun 10 19:16:41 2014 -0500,Tue Jun 10 19:16:41 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-producing-web-service/complete/pom.xml,62e6cfade9da87be1eedf2c0453c660bfea9ca8c,Greg Turnquist,Thu Jun 5 09:57:59 2014 -0500,Thu Jun 5 09:57:59 2014 -0500,Rename to gs-producing-web-service
+gs-producing-web-service/complete/pom.xml,e9efbf817023bb858a69cb3d7c9ee2e64320d9cf,Greg Turnquist,Thu Jun 5 09:41:43 2014 -0500,Thu Jun 5 09:41:43 2014 -0500,Update to Spring WS 2.2.0.RELEASE and make appropriate edits
+gs-producing-web-service/complete/pom.xml,f315bff92289c5a4a150abc9ea30e929d3a5d420,Greg Turnquist,Wed May 14 09:50:22 2014 -0500,Wed May 14 09:50:22 2014 -0500,Upgrade to Spring WS 2.2.0.RC1
+gs-producing-web-service/complete/pom.xml,43dbe0717ae0293e471e16a68e1edc08101bf729,Maciej Walkowiak,Tue May 6 13:44:45 2014 +0200,Tue May 6 13:44:45 2014 +0200,- updated readme with setting up Jaxb configuration, adding spring-ws dependency - CountriesEndpoint renamed to CountryEndpoint
+gs-producing-web-service/complete/pom.xml,f2c3796fb674050475be4bbfc57fc2f5c5aac2f3,Maciej Walkowiak,Tue May 6 00:28:03 2014 +0200,Tue May 6 00:28:19 2014 +0200,Merge remote-tracking branch 'upstream/master'
+gs-producing-web-service/complete/pom.xml,db0486ce34484faa8d770b4d26ca0afb5189e094,Maciej Walkowiak,Mon May 5 23:57:20 2014 +0200,Mon May 5 23:59:15 2014 +0200,- fixed jaxb configuration for gradle - updated project name
+gs-producing-web-service/complete/pom.xml,9d5e4a10623d19daa723c4681a03fdaf2df6c2a1,Maciej Walkowiak,Mon May 5 23:08:32 2014 +0200,Mon May 5 23:08:32 2014 +0200,- added xsd and classes generation - developed countries repository and endpoint - updated readme
+gs-producing-web-service/complete/pom.xml,abe07b23f9f20e508e1ba85c0b053eb670b4c6a6,Greg Turnquist,Mon Apr 7 10:08:59 2014 -0500,Mon Apr 7 10:08:59 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-producing-web-service/complete/pom.xml,5d45dd7ba88adf3a29bd9d8f0c02cb04026bc1a4,Greg Turnquist,Tue Apr 1 15:10:36 2014 -0500,Tue Apr 1 15:10:36 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-producing-web-service/complete/pom.xml,777511d1b47ffb6cd3b9a418f878b56e44350d27,Greg Turnquist,Sat Mar 22 07:17:24 2014 -0500,Sat Mar 22 07:17:24 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-producing-web-service/complete/pom.xml,7165587df387bc6b1bd5deb636778854138d12fb,Greg Turnquist,Tue Mar 4 15:08:34 2014 -0500,Tue Mar 4 15:08:34 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-producing-web-service/complete/pom.xml,e87d20ee0fabf23520d256a859b95844b9491489,Greg Turnquist,Fri Feb 14 11:23:16 2014 -0600,Fri Feb 14 11:23:16 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-producing-web-service/complete/pom.xml,bff01b24f02a944c7337290450cc2a9f0468d445,Greg Turnquist,Thu Feb 13 12:37:56 2014 -0600,Thu Feb 13 12:37:56 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-producing-web-service/complete/pom.xml,c08465780aaa68135629e7e73a6172d4c02ed66a,Greg Turnquist,Wed Jan 22 12:20:59 2014 -0600,Wed Jan 22 12:20:59 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-producing-web-service/complete/pom.xml,febb3110a3627c7b42343f3bd98b139be116fa16,Roy Clarkson,Mon Oct 28 22:22:38 2013 -0500,Mon Oct 28 22:22:38 2013 -0500,Initial commit of guide template
+gs-producing-web-service/initial/pom.xml,94b2187ba75db998d6329696c64c0be2c5ac4c6e,Greg Turnquist,Mon Sep 17 10:50:59 2018 -0500,Mon Sep 17 10:50:59 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-producing-web-service/initial/pom.xml,f32ec099ee52e0cccdd522573881487568a6ff6a,Greg Turnquist,Mon Jun 18 16:17:06 2018 -0500,Mon Jun 18 16:17:06 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-producing-web-service/initial/pom.xml,df5a11956e32bcdaf00e4855e52be0e68471ada1,Greg Turnquist,Wed May 9 11:26:48 2018 -0500,Wed May 9 11:26:48 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-producing-web-service/initial/pom.xml,176bcbc89b05cf8d47c56ac1de847a4a1216bcd8,Greg Turnquist,Thu Apr 5 11:45:12 2018 -0500,Thu Apr 5 11:45:12 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-producing-web-service/initial/pom.xml,73194f03f4cb06bdafafcbea139fb6a0786672e1,Greg Turnquist,Thu Mar 1 09:53:52 2018 -0600,Mon Mar 5 21:27:45 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-producing-web-service/initial/pom.xml,1afdd69839c9bfc4a2f402a9fa8e2d21a10608ad,Greg Turnquist,Wed Jan 31 09:16:28 2018 -0600,Wed Jan 31 09:16:28 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-producing-web-service/initial/pom.xml,08778dcc133408ba103d81f8efd7787cde22f052,Greg Turnquist,Thu Nov 30 11:07:07 2017 -0600,Thu Nov 30 11:07:07 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-producing-web-service/initial/pom.xml,af84f04fdd114602473b31d720daf463ad70a911,Greg Turnquist,Tue Oct 17 15:42:43 2017 -0500,Tue Oct 17 15:42:43 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-producing-web-service/initial/pom.xml,05c7ebe479fc9c90cac18b2d6528bbb737e51aa7,Greg Turnquist,Wed Sep 13 13:15:47 2017 -0500,Wed Sep 13 13:15:47 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-producing-web-service/initial/pom.xml,6a1152ed7942351563f31ba6259205a6bf26086f,Greg Turnquist,Thu Jul 27 10:05:00 2017 -0500,Thu Jul 27 10:05:00 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-producing-web-service/initial/pom.xml,ce9f967e103757dcccbe41067bbe55c82b422cee,Greg Turnquist,Wed Jul 26 12:23:26 2017 -0500,Wed Jul 26 12:25:10 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-producing-web-service/initial/pom.xml,bf1ef2c95f659fedb51dcf44d32ca344c62c9b07,Greg Turnquist,Fri Apr 21 09:20:31 2017 -0500,Wed Jul 26 12:25:09 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-producing-web-service/initial/pom.xml,6315a73a1cb4bf0742bd4b1c24c96bdc3bfd4673,Greg Turnquist,Fri Mar 3 11:13:27 2017 -0600,Fri Mar 3 11:13:27 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-producing-web-service/initial/pom.xml,71cd380ffe2753b93d6cf0c1f7df476a222d1ee2,Greg Turnquist,Mon Jan 30 23:31:53 2017 -0600,Mon Jan 30 23:31:53 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-producing-web-service/initial/pom.xml,65076f74a5998bf097d80405d804dc70f69a17a7,Greg Turnquist,Mon Jan 30 11:38:46 2017 -0600,Mon Jan 30 11:38:46 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-producing-web-service/initial/pom.xml,c290e6ce695caf32f6af2f39a9520394c9225f67,Greg Turnquist,Thu Jan 26 12:48:12 2017 -0600,Thu Jan 26 12:48:12 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-producing-web-service/initial/pom.xml,c652e5d2129b92ce908fe6905224c6836ba27d4d,Greg Turnquist,Thu Jan 26 12:37:51 2017 -0600,Thu Jan 26 12:37:51 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-producing-web-service/initial/pom.xml,7b9ccad01d9406ec3b9723df64713348cb63de41,Greg Turnquist,Thu Dec 22 22:33:10 2016 -0600,Thu Dec 22 22:33:10 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-producing-web-service/initial/pom.xml,77e5c58850c0b4a982b9336b2abab5e1e9f9f0f0,Greg Turnquist,Tue Nov 8 11:52:48 2016 -0600,Tue Nov 8 11:52:48 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-producing-web-service/initial/pom.xml,407f1cb683cf8f965af0674e3c45103c690ebe96,Greg Turnquist,Fri Sep 23 16:36:26 2016 -0500,Fri Sep 23 16:36:26 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-producing-web-service/initial/pom.xml,ee2e0de7ccc5353fc7f6a6e5a500d43227f719cd,Greg Turnquist,Fri Jul 29 11:29:31 2016 -0500,Fri Jul 29 11:29:31 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-producing-web-service/initial/pom.xml,3f51e97cc4b8e5541e7f95bd802008fe379d348b,Greg Turnquist,Thu Jul 28 06:53:10 2016 -0500,Thu Jul 28 06:53:10 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-producing-web-service/initial/pom.xml,ac74d30ae510ce58005ca6ba5096db84cdb5fba6,Greg Turnquist,Tue Jul 5 13:52:39 2016 -0500,Tue Jul 5 13:52:39 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-producing-web-service/initial/pom.xml,c7229430eda40b23a3e479b1c2e1ccc56c2098c0,Greg Turnquist,Tue May 10 10:26:42 2016 -0500,Tue May 10 10:26:42 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-producing-web-service/initial/pom.xml,9ef724a91daa26ea427452d080eeed66a8ddbadc,Greg Turnquist,Fri May 6 09:49:11 2016 -0500,Fri May 6 09:49:11 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-producing-web-service/initial/pom.xml,f346089a7ffdec0045e1d5771ac14ba84a274a60,Greg Turnquist,Fri Feb 26 07:30:15 2016 -0600,Fri Feb 26 07:30:15 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-producing-web-service/initial/pom.xml,4819a15169a4e5584361c32a8f9c42876d5f2d4a,Greg Turnquist,Thu Jan 21 21:29:10 2016 -0600,Thu Jan 21 21:29:10 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-producing-web-service/initial/pom.xml,75f0c4d3019a043ae28014e7f4226c810821f655,Greg Turnquist,Fri Dec 18 09:40:27 2015 -0600,Fri Dec 18 09:40:27 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-producing-web-service/initial/pom.xml,b5c9fbd891f9de195f41037a608f0c6c6709098e,Greg Turnquist,Mon Nov 16 11:10:51 2015 -0600,Mon Nov 16 11:10:51 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-producing-web-service/initial/pom.xml,f3acb6c8fbcb08ce109e520b13e9910b405a15e7,Greg Turnquist,Fri Oct 16 09:43:56 2015 -0400,Fri Oct 16 09:43:56 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-producing-web-service/initial/pom.xml,fb23f1c98aaa50cbd845d595fb6e91b0b43c678a,Greg Turnquist,Sun Sep 20 15:41:49 2015 -0500,Sun Sep 20 15:41:49 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-producing-web-service/initial/pom.xml,a436fb2632d65419834292dfb6d6b6c6e994412e,Greg Turnquist,Thu Jul 2 08:46:31 2015 -0500,Thu Jul 2 08:46:31 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-producing-web-service/initial/pom.xml,fa7166a944f9c5914288c284aa43fbebd2883184,Greg Turnquist,Fri Jun 12 13:49:27 2015 -0400,Fri Jun 12 13:49:27 2015 -0400,Upgrade to Java 8
+gs-producing-web-service/initial/pom.xml,964755feeb73aae7fdbcbe951258e52d63e2fee2,Greg Turnquist,Tue Jun 9 09:41:58 2015 -0400,Tue Jun 9 09:41:58 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-producing-web-service/initial/pom.xml,fa317361cfba54531e820cd2e6603969be0f525f,Greg Turnquist,Tue Mar 31 16:56:18 2015 -0500,Tue Mar 31 16:56:18 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-producing-web-service/initial/pom.xml,92f7b0f6a1653ec100059b2423feff4ffb28c2ca,Greg Turnquist,Tue Mar 17 13:14:01 2015 -0500,Tue Mar 17 13:14:01 2015 -0500,Upgrade maven build to Java 7
+gs-producing-web-service/initial/pom.xml,dfd749562789a663a570590034651fca2a3118c5,Greg Turnquist,Tue Mar 17 12:38:22 2015 -0500,Tue Mar 17 12:38:22 2015 -0500,Cleanup builds
+gs-producing-web-service/initial/pom.xml,ba0785fb6a9460001674d8643033729382952574,Greg Turnquist,Thu Feb 26 22:39:53 2015 -0600,Thu Feb 26 22:39:53 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-producing-web-service/initial/pom.xml,f021f85e06c2c4995e8adaedba037d5cc1c1ea81,Greg Turnquist,Wed Feb 18 11:08:12 2015 -0600,Wed Feb 18 11:08:12 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-producing-web-service/initial/pom.xml,f2f9ad010a53adac9c52fcb1675ee6514a8133ef,Greg Turnquist,Wed Jan 14 12:34:05 2015 -0600,Wed Jan 14 12:34:05 2015 -0600,Remove legacy start-class property from maven builds
+gs-producing-web-service/initial/pom.xml,907b427ce090d7d6f8c60007388b3b0206d44802,Greg Turnquist,Thu Dec 11 11:08:07 2014 -0600,Thu Dec 11 11:08:07 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-producing-web-service/initial/pom.xml,bd37a70334f75cb7a97ec6de1d3a88b80231194a,Greg Turnquist,Wed Nov 12 13:08:30 2014 -0600,Wed Nov 12 13:08:30 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-producing-web-service/initial/pom.xml,5a3fa4c264fd797860ab90704283c210e892eebf,Greg Turnquist,Fri Oct 10 22:05:29 2014 -0500,Fri Oct 10 22:05:29 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-producing-web-service/initial/pom.xml,467727282d22820fbffb58159580265d91a327a7,Greg Turnquist,Mon Sep 29 12:42:41 2014 -0500,Mon Sep 29 12:42:41 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-producing-web-service/initial/pom.xml,430818ae927308ca4dd36054fc578fb09e71f1a9,Greg Turnquist,Fri Sep 5 11:14:13 2014 -0500,Fri Sep 5 11:14:13 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-producing-web-service/initial/pom.xml,bbb4111f2d93cd7783ad8fbaccacf705964cbd4a,Greg Turnquist,Fri Aug 8 22:12:44 2014 -0500,Fri Aug 8 22:12:44 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-producing-web-service/initial/pom.xml,be2aa70575387ab3b19e60b60736014558e95278,Greg Turnquist,Tue Jul 8 15:42:00 2014 -0500,Tue Jul 8 15:42:00 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-producing-web-service/initial/pom.xml,9c96da6f7b2ce300763d52ef0071ef2e33a6d5f4,Greg Turnquist,Fri Jun 27 22:55:34 2014 -0400,Fri Jun 27 22:55:34 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-producing-web-service/initial/pom.xml,5df6c72c3ee374c34c20014e6696444d34c818ab,Greg Turnquist,Tue Jun 24 19:55:59 2014 -0400,Tue Jun 24 19:55:59 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-producing-web-service/initial/pom.xml,8c2b5c51d00ce7ec2b61ac531ed005bbdaba3b4a,Greg Turnquist,Wed Jun 11 16:48:39 2014 -0500,Wed Jun 11 16:48:39 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-producing-web-service/initial/pom.xml,a2bfcaf5f334573a37c8d0fa239bd998be610f5e,Greg Turnquist,Tue Jun 10 19:16:41 2014 -0500,Tue Jun 10 19:16:41 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-producing-web-service/initial/pom.xml,62e6cfade9da87be1eedf2c0453c660bfea9ca8c,Greg Turnquist,Thu Jun 5 09:57:59 2014 -0500,Thu Jun 5 09:57:59 2014 -0500,Rename to gs-producing-web-service
+gs-producing-web-service/initial/pom.xml,e9efbf817023bb858a69cb3d7c9ee2e64320d9cf,Greg Turnquist,Thu Jun 5 09:41:43 2014 -0500,Thu Jun 5 09:41:43 2014 -0500,Update to Spring WS 2.2.0.RELEASE and make appropriate edits
+gs-producing-web-service/initial/pom.xml,f2c3796fb674050475be4bbfc57fc2f5c5aac2f3,Maciej Walkowiak,Tue May 6 00:28:03 2014 +0200,Tue May 6 00:28:19 2014 +0200,Merge remote-tracking branch 'upstream/master'
+gs-producing-web-service/initial/pom.xml,db0486ce34484faa8d770b4d26ca0afb5189e094,Maciej Walkowiak,Mon May 5 23:57:20 2014 +0200,Mon May 5 23:59:15 2014 +0200,- fixed jaxb configuration for gradle - updated project name
+gs-producing-web-service/initial/pom.xml,e5cd32ab6c9b7f794066afe74ed2df55eb6740e9,Maciej Walkowiak,Mon May 5 23:40:39 2014 +0200,Mon May 5 23:40:39 2014 +0200,- updated testing section - refactored MessageDispatcherServlet creation
+gs-producing-web-service/initial/pom.xml,abe07b23f9f20e508e1ba85c0b053eb670b4c6a6,Greg Turnquist,Mon Apr 7 10:08:59 2014 -0500,Mon Apr 7 10:08:59 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-producing-web-service/initial/pom.xml,5d45dd7ba88adf3a29bd9d8f0c02cb04026bc1a4,Greg Turnquist,Tue Apr 1 15:10:36 2014 -0500,Tue Apr 1 15:10:36 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-producing-web-service/initial/pom.xml,777511d1b47ffb6cd3b9a418f878b56e44350d27,Greg Turnquist,Sat Mar 22 07:17:24 2014 -0500,Sat Mar 22 07:17:24 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-producing-web-service/initial/pom.xml,7165587df387bc6b1bd5deb636778854138d12fb,Greg Turnquist,Tue Mar 4 15:08:34 2014 -0500,Tue Mar 4 15:08:34 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-producing-web-service/initial/pom.xml,a20b8d4ce7629f3224342b175549cab0adcd9bb2,Greg Turnquist,Tue Feb 18 16:29:17 2014 -0600,Tue Feb 18 16:29:17 2014 -0600,Make initial file the final one
+gs-producing-web-service/initial/pom.xml,e87d20ee0fabf23520d256a859b95844b9491489,Greg Turnquist,Fri Feb 14 11:23:16 2014 -0600,Fri Feb 14 11:23:16 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-producing-web-service/initial/pom.xml,bff01b24f02a944c7337290450cc2a9f0468d445,Greg Turnquist,Thu Feb 13 12:37:56 2014 -0600,Thu Feb 13 12:37:56 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-producing-web-service/initial/pom.xml,c08465780aaa68135629e7e73a6172d4c02ed66a,Greg Turnquist,Wed Jan 22 12:20:59 2014 -0600,Wed Jan 22 12:20:59 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-producing-web-service/initial/pom.xml,febb3110a3627c7b42343f3bd98b139be116fa16,Roy Clarkson,Mon Oct 28 22:22:38 2013 -0500,Mon Oct 28 22:22:38 2013 -0500,Initial commit of guide template

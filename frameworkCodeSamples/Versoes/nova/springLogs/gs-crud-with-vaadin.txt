@@ -1,0 +1,74 @@
+gs-crud-with-vaadin/complete/pom.xml,9213a75382beb3d9d9a603abc7fdd3341b84b004,Tien Nguyen,Wed Nov 28 15:55:27 2018 +0200,Wed Nov 28 07:55:27 2018 -0600,Update Vaadin 10.0.8 (#20)
+gs-crud-with-vaadin/complete/pom.xml,f30aa477b9bba4c57c82e4ac055b389f5676eb03,Tulio Garcia,Wed Nov 14 17:11:04 2018 +0200,Wed Nov 14 09:11:04 2018 -0600, Update Vaadin version to 10.0.7 (#18)
+gs-crud-with-vaadin/complete/pom.xml,851643493dffc071c3c5181d6566c3d44eb89452,Stephane Nicoll,Fri Sep 28 07:18:26 2018 -0400,Fri Sep 28 07:18:26 2018 -0400,Upgrade Vaadin version to restore compatibility with Spring Boot 2.0.x
+gs-crud-with-vaadin/complete/pom.xml,3c723984b5b492570ffe3c8e3fed60b2e187d51b,Greg Turnquist,Mon Sep 17 10:50:25 2018 -0500,Mon Sep 17 11:01:20 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-crud-with-vaadin/complete/pom.xml,7c3f7705e87d2fca51d46e0db77aa1b9c336cdf8,Matti Tahvonen,Tue Jun 26 17:21:44 2018 +0300,Tue Jun 26 17:21:44 2018 +0300,Merge pull request #15 from mstahv/feature/v10-version
+gs-crud-with-vaadin/complete/pom.xml,9ad0285d137719dc011ffda118caf157a2b9ad2c,Greg Turnquist,Mon Jun 18 16:16:29 2018 -0500,Mon Jun 18 16:16:29 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,09b58cb79337d0cf8fbda66221be1c545d128df1,Greg Turnquist,Wed May 9 11:26:16 2018 -0500,Wed May 9 11:26:16 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-crud-with-vaadin/complete/pom.xml,518ed9542f4c690baeca7d933698572d5115a648,Greg Turnquist,Thu Apr 5 11:44:39 2018 -0500,Thu Apr 5 11:44:39 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,6c0e8818a87b7761fcc9b13ed0e528dae78ad918,Stephane Nicoll,Tue Mar 6 13:31:27 2018 +0100,Tue Mar 6 13:31:27 2018 +0100,Merge pull request #13 from upgrade-to-boot-2
+gs-crud-with-vaadin/complete/pom.xml,50bea195585207680b9c60fe22cca63b319045a9,Greg Turnquist,Wed Jan 31 09:15:55 2018 -0600,Wed Jan 31 09:15:55 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,42cf7ec2b2ebebfa6811e68be887d83094e4bc36,Greg Turnquist,Thu Nov 30 11:06:32 2017 -0600,Thu Nov 30 11:06:32 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,4dd82b2d23024471131cc9b75cf7ff7515969f2a,Greg Turnquist,Tue Oct 17 15:42:16 2017 -0500,Tue Oct 17 15:42:16 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,eaa4bfb9f03c4286b112d857e63faace88b38004,Greg Turnquist,Wed Sep 13 13:15:18 2017 -0500,Wed Sep 13 13:15:18 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,cd9d18ecc701c3cadacd89e35983cc8243310657,Greg Turnquist,Thu Jul 27 10:04:25 2017 -0500,Thu Jul 27 10:04:25 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,aa1ef241c68733439e7a613bd9f67f2ee3cca7c5,Greg Turnquist,Wed Jul 26 12:23:04 2017 -0500,Wed Jul 26 12:23:04 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,2ace33a212d4cdbed9d9a5fd2c98ca2a0e1e6663,Greg Turnquist,Fri Apr 21 09:20:08 2017 -0500,Fri Apr 21 09:20:08 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,5c07b58094a6785f8a19062181a155770abd8f2b,Greg Turnquist,Fri Mar 3 11:12:58 2017 -0600,Fri Mar 3 11:12:58 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,a99a7f3e38af2075b908df72634635fb11f53af9,Matti Tahvonen,Tue Feb 21 18:37:28 2017 +0200,Tue Feb 21 08:37:28 2017 -0800,Upgrade to Vaadin 8 (#8)
+gs-crud-with-vaadin/complete/pom.xml,b1ab0d7af7bd5df17449ac53ce0434c661526410,Matti Tahvonen,Tue Jan 31 20:51:25 2017 +0200,Tue Jan 31 12:51:25 2017 -0600,Updated versions to Vaadin Spring 1.2.0 and Spring Boot 1.5.1 (#7)
+gs-crud-with-vaadin/complete/pom.xml,36e5a6efbd8943458d19b5bdf5f909b9d7f18230,Greg Turnquist,Mon Jan 30 13:35:55 2017 -0600,Mon Jan 30 13:35:55 2017 -0600,Rollback to 1.4.4.RELEASE pending Vaadin's 1.5 support
+gs-crud-with-vaadin/complete/pom.xml,d9d146ec345c12434380039d49de73daf39636da,Greg Turnquist,Mon Jan 30 11:38:07 2017 -0600,Mon Jan 30 11:38:07 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,d6e120d85977f88e801f2ca0a8d29768623c0703,Greg Turnquist,Thu Jan 26 12:47:38 2017 -0600,Thu Jan 26 12:47:38 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,40350fc7c0c29ff14fc521c7e313d4f749729f0b,Greg Turnquist,Thu Jan 26 12:37:12 2017 -0600,Thu Jan 26 12:37:12 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,72bed356c53b59f6d82f43efff11247f093f9999,Greg Turnquist,Thu Dec 22 22:32:31 2016 -0600,Thu Dec 22 22:32:31 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,8507c80347dde4a2d3794e30a0f4b1f551a2d5f6,Greg Turnquist,Tue Nov 8 11:52:25 2016 -0600,Tue Nov 8 11:52:25 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,84f709f70a78bcc27bfe4705fd5d5b069a337eba,Greg Turnquist,Fri Sep 23 16:35:59 2016 -0500,Fri Sep 23 16:35:59 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,979d4653428838b9d4ad2d19b802c48be220af99,Marcin Grzejszczak,Wed Aug 31 16:30:24 2016 +0200,Wed Aug 31 16:30:24 2016 +0200,Merge pull request #4 from spring-guides/rewriting_tests
+gs-crud-with-vaadin/complete/pom.xml,6a3a2f74b7516ec9e89781b4ae33ff05589a1d22,Greg Turnquist,Fri Jul 29 11:27:15 2016 -0500,Fri Jul 29 11:27:15 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,eed62a1a8b05709c8a509ad9c5c071cbcb7ac335,Greg Turnquist,Thu Jul 28 06:52:48 2016 -0500,Thu Jul 28 06:52:48 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,44bde2833f9af2c0ceef13f5b0b57c4f524f1941,Greg Turnquist,Tue Jul 5 13:52:20 2016 -0500,Tue Jul 5 13:52:20 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,6974b0af6967280afeb1c22137462e3cea9606d5,Greg Turnquist,Tue May 10 10:26:25 2016 -0500,Tue May 10 10:26:25 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,bafcf24903c3f67df637fa52eca0f24c9bc8d545,Greg Turnquist,Fri May 6 09:48:48 2016 -0500,Fri May 6 09:48:48 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,5a0e26efceba912cc7450d3fd30a18fde58d3e10,Matti Tahvonen,Thu Mar 10 15:29:20 2016 +0200,Thu Mar 10 15:29:20 2016 +0200,Updated Vaadin version
+gs-crud-with-vaadin/complete/pom.xml,9c7daa3a9bb31c09570380fc932300b97ceff32e,Greg Turnquist,Fri Feb 26 07:29:53 2016 -0600,Fri Feb 26 07:29:53 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,4c128547681121d2893015bfbd75b5153e8ba37c,Greg Turnquist,Thu Jan 21 21:28:49 2016 -0600,Thu Jan 21 21:28:49 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,87594484d3d29c9a2de90d8dea7d53891905a06e,Greg Turnquist,Fri Dec 18 09:40:11 2015 -0600,Fri Dec 18 09:40:11 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,5c5fd3aa35f25a1295b2631745c58cecdfba4469,Greg Turnquist,Mon Nov 16 11:10:35 2015 -0600,Mon Nov 16 11:10:35 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,693e6dff4439602926389ad9219df020a3206760,Greg Turnquist,Fri Oct 16 09:43:35 2015 -0400,Fri Oct 16 09:43:35 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-crud-with-vaadin/complete/pom.xml,ed6bd8b427e8513df5170510f4dafb07eb678edd,Greg Turnquist,Mon Sep 28 10:24:01 2015 -0500,Mon Sep 28 10:24:01 2015 -0500,Polish
+gs-crud-with-vaadin/complete/pom.xml,cb76ca9b3c6a66768e4326316d458f291c61b2a7,Matti Tahvonen,Mon Sep 28 11:23:03 2015 +0300,Mon Sep 28 11:23:15 2015 +0300,updated versions
+gs-crud-with-vaadin/complete/pom.xml,ae4962e3f3deff31dec860220c646c2786084108,Matti Tahvonen,Tue Jul 14 14:08:44 2015 +0300,Tue Jul 14 14:08:44 2015 +0300,initial commit
+gs-crud-with-vaadin/initial/pom.xml,3c723984b5b492570ffe3c8e3fed60b2e187d51b,Greg Turnquist,Mon Sep 17 10:50:25 2018 -0500,Mon Sep 17 11:01:20 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-crud-with-vaadin/initial/pom.xml,9ad0285d137719dc011ffda118caf157a2b9ad2c,Greg Turnquist,Mon Jun 18 16:16:29 2018 -0500,Mon Jun 18 16:16:29 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,09b58cb79337d0cf8fbda66221be1c545d128df1,Greg Turnquist,Wed May 9 11:26:16 2018 -0500,Wed May 9 11:26:16 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-crud-with-vaadin/initial/pom.xml,518ed9542f4c690baeca7d933698572d5115a648,Greg Turnquist,Thu Apr 5 11:44:39 2018 -0500,Thu Apr 5 11:44:39 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,6c0e8818a87b7761fcc9b13ed0e528dae78ad918,Stephane Nicoll,Tue Mar 6 13:31:27 2018 +0100,Tue Mar 6 13:31:27 2018 +0100,Merge pull request #13 from upgrade-to-boot-2
+gs-crud-with-vaadin/initial/pom.xml,50bea195585207680b9c60fe22cca63b319045a9,Greg Turnquist,Wed Jan 31 09:15:55 2018 -0600,Wed Jan 31 09:15:55 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,42cf7ec2b2ebebfa6811e68be887d83094e4bc36,Greg Turnquist,Thu Nov 30 11:06:32 2017 -0600,Thu Nov 30 11:06:32 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,4dd82b2d23024471131cc9b75cf7ff7515969f2a,Greg Turnquist,Tue Oct 17 15:42:16 2017 -0500,Tue Oct 17 15:42:16 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,eaa4bfb9f03c4286b112d857e63faace88b38004,Greg Turnquist,Wed Sep 13 13:15:18 2017 -0500,Wed Sep 13 13:15:18 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,cd9d18ecc701c3cadacd89e35983cc8243310657,Greg Turnquist,Thu Jul 27 10:04:25 2017 -0500,Thu Jul 27 10:04:25 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,aa1ef241c68733439e7a613bd9f67f2ee3cca7c5,Greg Turnquist,Wed Jul 26 12:23:04 2017 -0500,Wed Jul 26 12:23:04 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,2ace33a212d4cdbed9d9a5fd2c98ca2a0e1e6663,Greg Turnquist,Fri Apr 21 09:20:08 2017 -0500,Fri Apr 21 09:20:08 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,5c07b58094a6785f8a19062181a155770abd8f2b,Greg Turnquist,Fri Mar 3 11:12:58 2017 -0600,Fri Mar 3 11:12:58 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,b1ab0d7af7bd5df17449ac53ce0434c661526410,Matti Tahvonen,Tue Jan 31 20:51:25 2017 +0200,Tue Jan 31 12:51:25 2017 -0600,Updated versions to Vaadin Spring 1.2.0 and Spring Boot 1.5.1 (#7)
+gs-crud-with-vaadin/initial/pom.xml,36e5a6efbd8943458d19b5bdf5f909b9d7f18230,Greg Turnquist,Mon Jan 30 13:35:55 2017 -0600,Mon Jan 30 13:35:55 2017 -0600,Rollback to 1.4.4.RELEASE pending Vaadin's 1.5 support
+gs-crud-with-vaadin/initial/pom.xml,d9d146ec345c12434380039d49de73daf39636da,Greg Turnquist,Mon Jan 30 11:38:07 2017 -0600,Mon Jan 30 11:38:07 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,d6e120d85977f88e801f2ca0a8d29768623c0703,Greg Turnquist,Thu Jan 26 12:47:38 2017 -0600,Thu Jan 26 12:47:38 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,40350fc7c0c29ff14fc521c7e313d4f749729f0b,Greg Turnquist,Thu Jan 26 12:37:12 2017 -0600,Thu Jan 26 12:37:12 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,72bed356c53b59f6d82f43efff11247f093f9999,Greg Turnquist,Thu Dec 22 22:32:31 2016 -0600,Thu Dec 22 22:32:31 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,8507c80347dde4a2d3794e30a0f4b1f551a2d5f6,Greg Turnquist,Tue Nov 8 11:52:25 2016 -0600,Tue Nov 8 11:52:25 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,84f709f70a78bcc27bfe4705fd5d5b069a337eba,Greg Turnquist,Fri Sep 23 16:35:59 2016 -0500,Fri Sep 23 16:35:59 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,6a3a2f74b7516ec9e89781b4ae33ff05589a1d22,Greg Turnquist,Fri Jul 29 11:27:15 2016 -0500,Fri Jul 29 11:27:15 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,eed62a1a8b05709c8a509ad9c5c071cbcb7ac335,Greg Turnquist,Thu Jul 28 06:52:48 2016 -0500,Thu Jul 28 06:52:48 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,44bde2833f9af2c0ceef13f5b0b57c4f524f1941,Greg Turnquist,Tue Jul 5 13:52:20 2016 -0500,Tue Jul 5 13:52:20 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,6974b0af6967280afeb1c22137462e3cea9606d5,Greg Turnquist,Tue May 10 10:26:25 2016 -0500,Tue May 10 10:26:25 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,bafcf24903c3f67df637fa52eca0f24c9bc8d545,Greg Turnquist,Fri May 6 09:48:48 2016 -0500,Fri May 6 09:48:48 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,9c7daa3a9bb31c09570380fc932300b97ceff32e,Greg Turnquist,Fri Feb 26 07:29:53 2016 -0600,Fri Feb 26 07:29:53 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,4c128547681121d2893015bfbd75b5153e8ba37c,Greg Turnquist,Thu Jan 21 21:28:49 2016 -0600,Thu Jan 21 21:28:49 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,87594484d3d29c9a2de90d8dea7d53891905a06e,Greg Turnquist,Fri Dec 18 09:40:11 2015 -0600,Fri Dec 18 09:40:11 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,5c5fd3aa35f25a1295b2631745c58cecdfba4469,Greg Turnquist,Mon Nov 16 11:10:35 2015 -0600,Mon Nov 16 11:10:35 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,693e6dff4439602926389ad9219df020a3206760,Greg Turnquist,Fri Oct 16 09:43:35 2015 -0400,Fri Oct 16 09:43:35 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-crud-with-vaadin/initial/pom.xml,cb76ca9b3c6a66768e4326316d458f291c61b2a7,Matti Tahvonen,Mon Sep 28 11:23:03 2015 +0300,Mon Sep 28 11:23:15 2015 +0300,updated versions
+gs-crud-with-vaadin/initial/pom.xml,ae4962e3f3deff31dec860220c646c2786084108,Matti Tahvonen,Tue Jul 14 14:08:44 2015 +0300,Tue Jul 14 14:08:44 2015 +0300,initial commit

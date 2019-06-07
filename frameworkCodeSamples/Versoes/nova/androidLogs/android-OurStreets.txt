@@ -1,0 +1,5 @@
+android-OurStreets/build.gradle,d3bbcae2978a4ac92883248e71110588592e3178,Ben Weiss,Tue Sep 6 16:41:55 2016 +0100,Wed Sep 7 17:00:40 2016 +0100,Update dependencies
+android-OurStreets/build.gradle,fd9ce5c968f929d892769ec09a2870328cf8318d,Ben Weiss,Tue May 31 16:57:14 2016 +0100,Tue May 31 16:57:14 2016 +0100,Simplify gallery exit / reenter transition
+android-OurStreets/build.gradle,319ed2c8927bf1c4c696499d04ad31db0d3423d3,Ben Weiss,Thu Apr 21 13:37:00 2016 +0000,Thu Apr 21 09:15:02 2016 +0100,Initial public release
+android-OurStreets/app/build.gradle,d3bbcae2978a4ac92883248e71110588592e3178,Ben Weiss,Tue Sep 6 16:41:55 2016 +0100,Wed Sep 7 17:00:40 2016 +0100,Update dependencies
+android-OurStreets/app/build.gradle,319ed2c8927bf1c4c696499d04ad31db0d3423d3,Ben Weiss,Thu Apr 21 13:37:00 2016 +0000,Thu Apr 21 09:15:02 2016 +0100,Initial public release

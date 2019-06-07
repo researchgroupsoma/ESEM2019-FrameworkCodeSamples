@@ -1,0 +1,19 @@
+android-CardReader/build.gradle,d0450904b5ff3110eb1e411db35aad55f199c25c,google-automerger,Tue Sep 2 11:00:50 2014 -0700,Tue Sep 2 11:00:50 2014 -0700,Initial Commit
+android-CardReader/Application/build.gradle,2717e8e838ea548336dccb231f48e88b0dcb3c0c,google-automerger,Thu Feb 15 16:35:31 2018 -0800,Thu Feb 15 16:35:31 2018 -0800,Auto-update
+android-CardReader/Application/build.gradle,fd5ac26f56b0162189e24db4e5fc26e7f72e1fa0,google-automerger,Tue Oct 10 17:51:51 2017 -0700,Tue Oct 10 17:51:51 2017 -0700,Auto-update
+android-CardReader/Application/build.gradle,25bb058c99977bf3f5c527ba34964bec325f284a,google-automerger,Thu Jun 8 09:33:30 2017 -0700,Thu Jun 8 09:33:30 2017 -0700,Auto-update
+android-CardReader/Application/build.gradle,249738c64cf24877d3c8e355c19902b66b07c942,google-automerger,Wed May 17 13:32:21 2017 -0700,Wed May 17 13:32:21 2017 -0700,Auto-update
+android-CardReader/Application/build.gradle,bb84ff64e64951e6d7f603a66e9f9c51ca91b2a2,google-automerger,Tue Dec 13 09:39:18 2016 -0800,Tue Dec 13 09:39:18 2016 -0800,Auto-update
+android-CardReader/Application/build.gradle,08fd2dc40b2a18bdf16845bc67730a9c9b0e5a7c,google-automerger,Fri Aug 12 15:18:14 2016 -0700,Fri Aug 12 15:18:14 2016 -0700,Auto-update
+android-CardReader/Application/build.gradle,ffcddce1a61327ac963ef7279436758ebf4c7932,google-automerger,Wed May 18 11:38:16 2016 -0700,Wed May 18 11:38:16 2016 -0700,Auto-update
+android-CardReader/Application/build.gradle,17dce48dce9a17dc5700db366c16b7546bde42a9,google-automerger,Wed Apr 20 12:26:14 2016 -0700,Wed Apr 20 12:26:14 2016 -0700,Auto-update
+android-CardReader/Application/build.gradle,fc95ef8d6b29e35761a8235a17cc8d027fd456ab,google-automerger,Wed Nov 18 09:33:19 2015 -0800,Wed Nov 18 09:33:19 2015 -0800,Auto-update
+android-CardReader/Application/build.gradle,303ea606ae78954ec6b4303c064b2ff43defa368,google-automerger,Thu Oct 8 17:42:33 2015 -0700,Thu Oct 8 17:42:33 2015 -0700,Auto-update
+android-CardReader/Application/build.gradle,8f6b12ac1f291360e32ac19a51301d226fa7cc12,google-automerger,Mon Aug 17 09:54:25 2015 -0700,Mon Aug 17 09:54:25 2015 -0700,Auto-update
+android-CardReader/Application/build.gradle,fa3d5f8e38822d9016db34e96d1d8872f051dcf9,google-automerger,Thu Jul 9 11:10:19 2015 -0700,Thu Jul 9 11:10:19 2015 -0700,Auto-update
+android-CardReader/Application/build.gradle,91423b1555f1fc9100dd00c68efc01ff7c9183f8,google-automerger,Thu May 21 10:04:22 2015 -0700,Thu May 21 10:04:22 2015 -0700,Auto-update
+android-CardReader/Application/build.gradle,44b3bd5322e133cb9cadbb19e2b6af978c66f863,google-automerger,Tue Apr 28 10:53:50 2015 -0700,Tue Apr 28 10:53:50 2015 -0700,Auto-update
+android-CardReader/Application/build.gradle,9697d36f266945e75f8b5c48cdbb45f7ca93440c,google-automerger,Mon Mar 30 17:43:24 2015 -0700,Mon Mar 30 17:43:24 2015 -0700,Auto-update
+android-CardReader/Application/build.gradle,e5f03ced5544c1949efeb368eaafcb8370a5aa9d,google-automerger,Mon Dec 8 17:49:41 2014 -0800,Mon Dec 8 17:49:41 2014 -0800,Auto-update
+android-CardReader/Application/build.gradle,f77940372fb1e88774b24f331da3d61016f43184,google-automerger,Wed Dec 3 01:50:12 2014 -0800,Wed Dec 3 01:50:12 2014 -0800,Auto-update
+android-CardReader/Application/build.gradle,a9a45fc0772ac080e0b4172e04d1ec89a756d7ac,google-automerger,Tue Nov 18 16:18:06 2014 -0800,Tue Nov 18 16:18:06 2014 -0800,Auto-update

@@ -1,0 +1,22 @@
+android-JobScheduler/build.gradle,22b5dd769c12d26103188df72fbcd70ef7545e42,Trevor Johns,Thu Jun 26 09:04:50 2014 -0700,Thu Jun 26 09:04:50 2014 -0700,Initial commit
+android-JobScheduler/kotlinApp/build.gradle,b7c726eac9b26d7f282a0f50b70c7eeeeb8d8e55,google-automerger,Fri Dec 8 08:39:31 2017 -0800,Fri Dec 8 08:39:31 2017 -0800,Auto-update
+android-JobScheduler/kotlinApp/app/build.gradle,b7c726eac9b26d7f282a0f50b70c7eeeeb8d8e55,google-automerger,Fri Dec 8 08:39:31 2017 -0800,Fri Dec 8 08:39:31 2017 -0800,Auto-update
+android-JobScheduler/Application/build.gradle,dcbd16f9412643eb058eb2fdfa216d45c707310d,google-automerger,Thu Feb 15 16:36:57 2018 -0800,Thu Feb 15 16:36:57 2018 -0800,Auto-update
+android-JobScheduler/Application/build.gradle,b7c726eac9b26d7f282a0f50b70c7eeeeb8d8e55,google-automerger,Fri Dec 8 08:39:31 2017 -0800,Fri Dec 8 08:39:31 2017 -0800,Auto-update
+android-JobScheduler/Application/build.gradle,6874e92df26881c77e58a758d4f229d7b4124eaf,google-automerger,Tue Oct 10 17:53:21 2017 -0700,Tue Oct 10 17:53:21 2017 -0700,Auto-update
+android-JobScheduler/Application/build.gradle,9ad44f8529331ae207ab3ed314752af12e5a890b,google-automerger,Thu Jun 8 09:34:48 2017 -0700,Thu Jun 8 09:34:48 2017 -0700,Auto-update
+android-JobScheduler/Application/build.gradle,631819955034cc31b474f0835bbd3cbfa90e9581,google-automerger,Wed May 17 13:33:42 2017 -0700,Wed May 17 13:33:42 2017 -0700,Auto-update
+android-JobScheduler/Application/build.gradle,c2b3cb3443a85143d0c938219bbbe4b292570935,google-automerger,Tue Dec 13 09:40:15 2016 -0800,Tue Dec 13 09:40:15 2016 -0800,Auto-update
+android-JobScheduler/Application/build.gradle,43e55e01eb5b709223364b0a243063a450c26aed,google-automerger,Fri Aug 12 15:19:08 2016 -0700,Fri Aug 12 15:19:08 2016 -0700,Auto-update
+android-JobScheduler/Application/build.gradle,9032bc4df63f736092df5a3b75e51c99d530ae1d,google-automerger,Wed May 18 11:38:55 2016 -0700,Wed May 18 11:38:55 2016 -0700,Auto-update
+android-JobScheduler/Application/build.gradle,6543058961ac48d9de49769ec8c6d37ffb5e8888,google-automerger,Wed Apr 20 12:26:55 2016 -0700,Wed Apr 20 12:26:55 2016 -0700,Auto-update
+android-JobScheduler/Application/build.gradle,dcb065a51efd8b7c45f7dd059964e7e451377d1e,google-automerger,Wed Nov 18 09:34:02 2015 -0800,Wed Nov 18 09:34:02 2015 -0800,Auto-update
+android-JobScheduler/Application/build.gradle,8458e10d262c2909782cefcdfef341baee2ce941,google-automerger,Thu Oct 8 17:43:15 2015 -0700,Thu Oct 8 17:43:15 2015 -0700,Auto-update
+android-JobScheduler/Application/build.gradle,c90a889caab6cb887b8e5cc0297eacf7149aede5,google-automerger,Mon Aug 17 09:55:01 2015 -0700,Mon Aug 17 09:55:01 2015 -0700,Auto-update
+android-JobScheduler/Application/build.gradle,1c58ca61dd5c14427e81526a16406c03ca99a7d1,google-automerger,Thu Jul 9 11:10:52 2015 -0700,Thu Jul 9 11:10:52 2015 -0700,Auto-update
+android-JobScheduler/Application/build.gradle,698480a28feabffda9c3b5d71f621262832c680b,google-automerger,Thu May 21 10:04:55 2015 -0700,Thu May 21 10:04:55 2015 -0700,Auto-update
+android-JobScheduler/Application/build.gradle,c425fd5341a1c7d1ee971310e94b1dcd7c99ef6f,google-automerger,Tue Apr 28 10:55:21 2015 -0700,Tue Apr 28 10:55:21 2015 -0700,Auto-update
+android-JobScheduler/Application/build.gradle,817d4e7c52ce92510fdc20134cabe647db912349,google-automerger,Mon Mar 30 17:44:36 2015 -0700,Mon Mar 30 17:44:36 2015 -0700,Auto-update
+android-JobScheduler/Application/build.gradle,df648e10aecfdbafd73d0a63c50a95884a8c9438,google-automerger,Mon Dec 8 17:51:19 2014 -0800,Mon Dec 8 17:51:19 2014 -0800,Auto-update
+android-JobScheduler/Application/build.gradle,c37579b19e0006ba0956bf133bbb3fda5b7f399e,google-automerger,Wed Dec 3 01:52:56 2014 -0800,Wed Dec 3 01:52:56 2014 -0800,Auto-update
+android-JobScheduler/Application/build.gradle,1a6e0d4510ff8dfda40c69ebcc81bd612014f4bc,google-automerger,Tue Nov 18 16:19:36 2014 -0800,Tue Nov 18 16:19:36 2014 -0800,Auto-update

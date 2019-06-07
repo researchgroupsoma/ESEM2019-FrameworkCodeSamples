@@ -1,0 +1,142 @@
+gs-serving-web-content/complete/pom.xml,870a4115157468754bbe698fa50fdae3b94e8290,Greg Turnquist,Mon Sep 17 10:51:36 2018 -0500,Mon Sep 17 10:51:36 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-serving-web-content/complete/pom.xml,beb3ad790f7e87e5ca3f83707d8915f638f3dd30,Greg Turnquist,Mon Jun 18 16:17:35 2018 -0500,Mon Jun 18 16:17:35 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-serving-web-content/complete/pom.xml,a0eb13ac61514feb7ea57cb205257dce92ccd4a9,Greg Turnquist,Wed May 9 11:27:20 2018 -0500,Wed May 9 11:27:20 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-serving-web-content/complete/pom.xml,ca5f142543085bf179127a45a6a060b027c73ca8,Greg Turnquist,Thu Apr 5 11:45:37 2018 -0500,Thu Apr 5 11:45:37 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-serving-web-content/complete/pom.xml,bb920318eee84c209169bb35e677642650ee37bf,Brian Clozel,Mon Mar 5 20:15:27 2018 +0100,Mon Mar 5 20:18:23 2018 +0100,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-serving-web-content/complete/pom.xml,9f95b2abb1ccb674f9622c039973cf108a4e3e62,Greg Turnquist,Wed Jan 31 09:16:56 2018 -0600,Wed Jan 31 09:16:56 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-serving-web-content/complete/pom.xml,9fe1727ca0bcd14f68ca7742541fa92dae8b02b5,Greg Turnquist,Thu Nov 30 11:07:38 2017 -0600,Thu Nov 30 11:07:38 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-serving-web-content/complete/pom.xml,ea4998a61cc62c2c2a72d76cf5e03adcbcf258b7,Greg Turnquist,Tue Oct 17 15:43:07 2017 -0500,Tue Oct 17 15:43:07 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-serving-web-content/complete/pom.xml,e74472331cd638ed5264735020708eec88c8d3e0,Greg Turnquist,Wed Sep 13 13:16:13 2017 -0500,Wed Sep 13 13:16:13 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-serving-web-content/complete/pom.xml,ec179f88e55799a2b91230bcf8c28ad3a490ba4d,Greg Turnquist,Thu Jul 27 10:05:32 2017 -0500,Thu Jul 27 10:05:32 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-serving-web-content/complete/pom.xml,9538e778ff94da8b044edb17d72a89b1e44376cb,Greg Turnquist,Wed Jul 26 12:23:45 2017 -0500,Wed Jul 26 12:23:45 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-serving-web-content/complete/pom.xml,f998036a58719d89070c21e534fd2abebbf320ad,Greg Turnquist,Fri Apr 21 09:20:53 2017 -0500,Fri Apr 21 09:20:53 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-serving-web-content/complete/pom.xml,89f2d9969c21525d6bdba96608b0da2a239ee03d,Greg Turnquist,Fri Mar 3 11:13:57 2017 -0600,Fri Mar 3 11:13:57 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-serving-web-content/complete/pom.xml,b98805081aad04a5c1c2d2300e93d8967aa44b7d,Greg Turnquist,Mon Jan 30 23:34:49 2017 -0600,Mon Jan 30 23:34:49 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-serving-web-content/complete/pom.xml,1256be13a74a02b56c318dc057ee5bcd42bb58dd,Greg Turnquist,Mon Jan 30 11:39:19 2017 -0600,Mon Jan 30 11:39:19 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-serving-web-content/complete/pom.xml,f5d926a01f23b66151da9d4bbed9152b408e1da9,Greg Turnquist,Thu Jan 26 12:48:44 2017 -0600,Thu Jan 26 12:48:44 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-serving-web-content/complete/pom.xml,16ce7e828de488199b5cdc4e468fd59eb1b4c6a0,Greg Turnquist,Thu Jan 26 12:38:24 2017 -0600,Thu Jan 26 12:38:24 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-serving-web-content/complete/pom.xml,6e9236b2e725642b122ae01a2aa8f2bb0642875f,Greg Turnquist,Thu Dec 22 22:33:43 2016 -0600,Thu Dec 22 22:33:43 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-serving-web-content/complete/pom.xml,77c33f6dff523375dafd4fb9c86ee04752aa9715,Greg Turnquist,Tue Nov 8 11:53:09 2016 -0600,Tue Nov 8 11:53:09 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-serving-web-content/complete/pom.xml,1d7e84fc9b86293259308ad5333b474614d71eba,Greg Turnquist,Fri Sep 23 16:36:46 2016 -0500,Fri Sep 23 16:36:46 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-serving-web-content/complete/pom.xml,3c88ece80e706ce78a2f996b1b288a300ab25b71,Dave Syer,Thu Aug 25 12:09:12 2016 +0100,Thu Aug 25 12:09:12 2016 +0100,Add test case
+gs-serving-web-content/complete/pom.xml,e050931f7938f4bfd80ec6a4327fce33170b0901,Greg Turnquist,Fri Jul 29 11:31:08 2016 -0500,Fri Jul 29 11:31:08 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-serving-web-content/complete/pom.xml,151b53625d1f6e9d7c5a03a4a4f5310f7d4fef65,Greg Turnquist,Thu Jul 28 06:53:24 2016 -0500,Thu Jul 28 06:53:24 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-serving-web-content/complete/pom.xml,44fb6690880a1dfc814c912d38ea822824752903,Greg Turnquist,Tue Jul 5 13:52:54 2016 -0500,Tue Jul 5 13:52:54 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-serving-web-content/complete/pom.xml,b1173b0aebc5902e470e61b1a0a75866f6e78c4a,Greg Turnquist,Tue May 10 10:26:58 2016 -0500,Tue May 10 10:26:58 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-serving-web-content/complete/pom.xml,77cf0f4608edd1d1905aa6a1925894fdb264d124,Greg Turnquist,Fri May 6 09:49:26 2016 -0500,Fri May 6 09:49:26 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-serving-web-content/complete/pom.xml,859d5df9c19addc1a26c5a25d5259ac9852d67f5,Greg Turnquist,Fri Feb 26 07:30:28 2016 -0600,Fri Feb 26 07:30:28 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-serving-web-content/complete/pom.xml,d050ba60ca1046633cd7a7b83bb7fc515068fc46,Greg Turnquist,Wed Feb 24 09:55:40 2016 -0600,Wed Feb 24 09:55:40 2016 -0600,Add spring-boot-devtools
+gs-serving-web-content/complete/pom.xml,16de5331b88b384065887be74ffe10c8901e7dff,Greg Turnquist,Thu Jan 21 21:29:25 2016 -0600,Thu Jan 21 21:29:25 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-serving-web-content/complete/pom.xml,fd7b7a879d95746de066f254c82caa96aa30f47b,Greg Turnquist,Fri Dec 18 09:40:40 2015 -0600,Fri Dec 18 09:40:40 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-serving-web-content/complete/pom.xml,e6db07234cf429aa08ddb50a8d0bb594d42970f2,Greg Turnquist,Mon Nov 16 11:11:05 2015 -0600,Mon Nov 16 11:11:05 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-serving-web-content/complete/pom.xml,f024ae9f9481cc2b8694d8e3a2b9f5b1cf7a09dd,Greg Turnquist,Fri Oct 16 09:44:08 2015 -0400,Fri Oct 16 09:45:17 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-serving-web-content/complete/pom.xml,22deeff85a6c32c099c52b400eca8a5d564c7dd4,Greg Turnquist,Sun Sep 20 15:42:01 2015 -0500,Sun Sep 20 15:42:01 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-serving-web-content/complete/pom.xml,926b232308abb850860f19e6d49d9bc4330aed9c,Greg Turnquist,Thu Jul 2 08:46:49 2015 -0500,Thu Jul 2 08:46:49 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-serving-web-content/complete/pom.xml,96e1598c9a6ecf9936261b2da96174c01e8ad85d,Greg Turnquist,Fri Jun 12 13:49:40 2015 -0400,Fri Jun 12 13:49:40 2015 -0400,Upgrade to Java 8
+gs-serving-web-content/complete/pom.xml,6b5511dff762991690ffe5b8e5fab20c979588f0,Greg Turnquist,Tue Jun 9 09:42:08 2015 -0400,Tue Jun 9 09:42:08 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-serving-web-content/complete/pom.xml,02ec9693a193be2ae162480a398d22ae0d6c9a98,Greg Turnquist,Tue Mar 31 16:56:27 2015 -0500,Tue Mar 31 16:56:27 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-serving-web-content/complete/pom.xml,8840242aaea9376645f1fdf9492eeccef7d6a6d8,Greg Turnquist,Tue Mar 17 13:14:11 2015 -0500,Tue Mar 17 13:14:11 2015 -0500,Upgrade maven build to Java 7
+gs-serving-web-content/complete/pom.xml,a86c2122e24135ffa3a4705879b834c5e74c1173,Greg Turnquist,Thu Feb 26 22:40:11 2015 -0600,Thu Feb 26 22:40:11 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-serving-web-content/complete/pom.xml,71e72e7d057fbeb99308e9ec7c05945147fda524,Greg Turnquist,Wed Feb 18 11:08:21 2015 -0600,Wed Feb 18 11:08:21 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-serving-web-content/complete/pom.xml,f8c2fa6baf9da5ae9711b9530e6809dcafcc427e,Greg Turnquist,Wed Jan 14 12:34:17 2015 -0600,Wed Jan 14 12:34:17 2015 -0600,Remove legacy start-class property from maven builds
+gs-serving-web-content/complete/pom.xml,fdf7a8a50840f063cbd1f38eaf3b9a8dfcf35142,Greg Turnquist,Thu Dec 11 11:08:17 2014 -0600,Thu Dec 11 11:08:17 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-serving-web-content/complete/pom.xml,dd1adb0a64a27ad49ad6e458b4a930fd50af456c,Greg Turnquist,Thu Nov 20 10:15:30 2014 -0600,Thu Nov 20 10:15:30 2014 -0600,Convert to use https for repositories
+gs-serving-web-content/complete/pom.xml,29fbdda5318f46ed60959e5633e41466366d257b,Greg Turnquist,Wed Nov 12 13:08:48 2014 -0600,Wed Nov 12 13:08:48 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-serving-web-content/complete/pom.xml,8ac3493d680c2af53765364a340f8c01fd0a6906,Greg Turnquist,Fri Oct 10 22:06:29 2014 -0500,Fri Oct 10 22:06:29 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-serving-web-content/complete/pom.xml,cf4b077bf700e43abd426fe5553074fc7cf80a7b,Greg Turnquist,Mon Sep 29 12:42:52 2014 -0500,Mon Sep 29 12:42:52 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-serving-web-content/complete/pom.xml,2430260c26000cf5f55a30850d105515232c0a96,Greg Turnquist,Fri Sep 5 11:14:23 2014 -0500,Fri Sep 5 11:14:23 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-serving-web-content/complete/pom.xml,0fa1d3748166811ae768385e08791e14cbe01e14,Greg Turnquist,Fri Aug 8 22:12:54 2014 -0500,Fri Aug 8 22:12:54 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-serving-web-content/complete/pom.xml,e45fc81d821f10c622e27f608a1754778a11fd13,Greg Turnquist,Tue Jul 8 15:42:12 2014 -0500,Tue Jul 8 15:42:12 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-serving-web-content/complete/pom.xml,fa6a6c3a66722611622a3e0041aed0cc9be0c401,Greg Turnquist,Fri Jun 27 22:55:43 2014 -0400,Fri Jun 27 22:55:43 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-serving-web-content/complete/pom.xml,60c12d0339ab570d89d69d5dd677d51d1e6de3ca,Greg Turnquist,Tue Jun 24 19:56:10 2014 -0400,Tue Jun 24 19:56:10 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-serving-web-content/complete/pom.xml,590fc1d9b0aa0f13d429928405e5d1870bdb8b4a,Greg Turnquist,Wed Jun 11 16:48:53 2014 -0500,Wed Jun 11 16:48:53 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-serving-web-content/complete/pom.xml,afc176e0479c9ef734555133d59fb929c3164ecc,Greg Turnquist,Wed Jun 11 09:09:16 2014 -0500,Wed Jun 11 09:09:16 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-serving-web-content/complete/pom.xml,54b960a0651fcafd44e6b5927b9e3b01349f5989,Greg Turnquist,Tue Jun 10 19:16:52 2014 -0500,Tue Jun 10 19:16:52 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-serving-web-content/complete/pom.xml,3e66b7fc2f9525a6f3e0dc7b82b4ebc27282f8fd,Greg Turnquist,Thu Apr 24 09:37:34 2014 -0500,Thu Apr 24 09:37:34 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-serving-web-content/complete/pom.xml,60fa38c71f59abcd6796447017c040f57a070f63,Greg Turnquist,Thu Apr 17 23:46:05 2014 -0500,Thu Apr 17 23:46:05 2014 -0500,Update deps for thymeleaf
+gs-serving-web-content/complete/pom.xml,184445bd25eb0706327b236bba9392d5e1ca1bc1,Greg Turnquist,Mon Apr 7 10:10:10 2014 -0500,Mon Apr 7 10:10:10 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-serving-web-content/complete/pom.xml,7ecfdfe109df103fcae0787a6c7647812105f4ff,Greg Turnquist,Tue Apr 1 15:11:47 2014 -0500,Tue Apr 1 15:11:47 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-serving-web-content/complete/pom.xml,be7a462dee4c612b085ec816d19dfb12bfda7e6f,Greg Turnquist,Sat Mar 22 07:18:22 2014 -0500,Sat Mar 22 07:18:22 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-serving-web-content/complete/pom.xml,7728653e2c99db3b7d28aa787fc22b507a8f67ae,Greg Turnquist,Tue Mar 4 15:11:01 2014 -0500,Tue Mar 4 15:11:01 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-serving-web-content/complete/pom.xml,73e0f9d3be2a69a4af1bcc61b34c4711b98f36d8,Greg Turnquist,Wed Feb 19 21:02:44 2014 -0600,Wed Feb 19 21:02:44 2014 -0600,Resolves #7: Upgrade to Spring Boot 1.0.0.RC3
+gs-serving-web-content/complete/pom.xml,d266c50fe08c08d708c354ed90cacd83c57ca1b2,Greg Turnquist,Wed Jan 22 12:21:44 2014 -0600,Wed Jan 22 12:21:44 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-serving-web-content/complete/pom.xml,f5a561237ea40fb2481b6eb689507cef741c6ca0,Greg Turnquist,Mon Nov 18 15:35:14 2013 -0600,Mon Nov 18 15:35:14 2013 -0600,Upgrade to Spring Boot 0.5.0.M6
+gs-serving-web-content/complete/pom.xml,302a2bfbc6af85fe634afeb3ef381af71167c75d,Roy Clarkson,Fri Oct 18 18:25:35 2013 -0400,Fri Oct 18 18:25:35 2013 -0400,Update repository ids in POMs
+gs-serving-web-content/complete/pom.xml,52aab698b87ccf9aa498032f6546729ea41aae73,Roy Clarkson,Mon Oct 14 11:16:59 2013 -0500,Mon Oct 14 11:16:59 2013 -0500,Upgrade to Gradle 1.8 and Spring Boot 0.5.0.M5
+gs-serving-web-content/complete/pom.xml,8fd737e2a08a54122fa8a3e159f72b9e3fa77b39,Greg Turnquist,Mon Sep 30 08:19:23 2013 -0500,Mon Sep 30 08:19:23 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-serving-web-content/complete/pom.xml,22a5e4cd7c2a44907015ee94a8309c9c6a5c26de,Greg Turnquist,Fri Sep 27 10:32:23 2013 -0500,Fri Sep 27 10:32:23 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-serving-web-content/complete/pom.xml,e2b93e9fc58e8e32342da2787d2cb37308a357d0,Greg Turnquist,Fri Aug 30 16:42:24 2013 -0500,Fri Aug 30 16:42:24 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-serving-web-content/complete/pom.xml,7e4a588e62353a5a7c55e8d4d5ad5277c0c5c872,Roy Clarkson,Thu Aug 8 01:01:27 2013 -0400,Thu Aug 8 01:01:27 2013 -0400,Update pom repositories
+gs-serving-web-content/complete/pom.xml,6f89cb2272e7497000fea2195052d8e0d389293a,Roy Clarkson,Fri Aug 2 00:16:59 2013 -0400,Fri Aug 2 00:16:59 2013 -0400,Update to latest Spring Boot configuration
+gs-serving-web-content/complete/pom.xml,c554592d88f32e2f782909a29a6fc40993a4a09c,Roy Clarkson,Wed Jul 17 16:47:46 2013 -0400,Wed Jul 17 16:47:46 2013 -0400,Add initial version of guide
+gs-serving-web-content/initial/pom.xml,870a4115157468754bbe698fa50fdae3b94e8290,Greg Turnquist,Mon Sep 17 10:51:36 2018 -0500,Mon Sep 17 10:51:36 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-serving-web-content/initial/pom.xml,beb3ad790f7e87e5ca3f83707d8915f638f3dd30,Greg Turnquist,Mon Jun 18 16:17:35 2018 -0500,Mon Jun 18 16:17:35 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-serving-web-content/initial/pom.xml,a0eb13ac61514feb7ea57cb205257dce92ccd4a9,Greg Turnquist,Wed May 9 11:27:20 2018 -0500,Wed May 9 11:27:20 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-serving-web-content/initial/pom.xml,ca5f142543085bf179127a45a6a060b027c73ca8,Greg Turnquist,Thu Apr 5 11:45:37 2018 -0500,Thu Apr 5 11:45:37 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-serving-web-content/initial/pom.xml,bb920318eee84c209169bb35e677642650ee37bf,Brian Clozel,Mon Mar 5 20:15:27 2018 +0100,Mon Mar 5 20:18:23 2018 +0100,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-serving-web-content/initial/pom.xml,9f95b2abb1ccb674f9622c039973cf108a4e3e62,Greg Turnquist,Wed Jan 31 09:16:56 2018 -0600,Wed Jan 31 09:16:56 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-serving-web-content/initial/pom.xml,9fe1727ca0bcd14f68ca7742541fa92dae8b02b5,Greg Turnquist,Thu Nov 30 11:07:38 2017 -0600,Thu Nov 30 11:07:38 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-serving-web-content/initial/pom.xml,ea4998a61cc62c2c2a72d76cf5e03adcbcf258b7,Greg Turnquist,Tue Oct 17 15:43:07 2017 -0500,Tue Oct 17 15:43:07 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-serving-web-content/initial/pom.xml,e74472331cd638ed5264735020708eec88c8d3e0,Greg Turnquist,Wed Sep 13 13:16:13 2017 -0500,Wed Sep 13 13:16:13 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-serving-web-content/initial/pom.xml,ec179f88e55799a2b91230bcf8c28ad3a490ba4d,Greg Turnquist,Thu Jul 27 10:05:32 2017 -0500,Thu Jul 27 10:05:32 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-serving-web-content/initial/pom.xml,9538e778ff94da8b044edb17d72a89b1e44376cb,Greg Turnquist,Wed Jul 26 12:23:45 2017 -0500,Wed Jul 26 12:23:45 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-serving-web-content/initial/pom.xml,f998036a58719d89070c21e534fd2abebbf320ad,Greg Turnquist,Fri Apr 21 09:20:53 2017 -0500,Fri Apr 21 09:20:53 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-serving-web-content/initial/pom.xml,89f2d9969c21525d6bdba96608b0da2a239ee03d,Greg Turnquist,Fri Mar 3 11:13:57 2017 -0600,Fri Mar 3 11:13:57 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-serving-web-content/initial/pom.xml,b98805081aad04a5c1c2d2300e93d8967aa44b7d,Greg Turnquist,Mon Jan 30 23:34:49 2017 -0600,Mon Jan 30 23:34:49 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-serving-web-content/initial/pom.xml,1256be13a74a02b56c318dc057ee5bcd42bb58dd,Greg Turnquist,Mon Jan 30 11:39:19 2017 -0600,Mon Jan 30 11:39:19 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-serving-web-content/initial/pom.xml,f5d926a01f23b66151da9d4bbed9152b408e1da9,Greg Turnquist,Thu Jan 26 12:48:44 2017 -0600,Thu Jan 26 12:48:44 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-serving-web-content/initial/pom.xml,16ce7e828de488199b5cdc4e468fd59eb1b4c6a0,Greg Turnquist,Thu Jan 26 12:38:24 2017 -0600,Thu Jan 26 12:38:24 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-serving-web-content/initial/pom.xml,6e9236b2e725642b122ae01a2aa8f2bb0642875f,Greg Turnquist,Thu Dec 22 22:33:43 2016 -0600,Thu Dec 22 22:33:43 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-serving-web-content/initial/pom.xml,77c33f6dff523375dafd4fb9c86ee04752aa9715,Greg Turnquist,Tue Nov 8 11:53:09 2016 -0600,Tue Nov 8 11:53:09 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-serving-web-content/initial/pom.xml,1d7e84fc9b86293259308ad5333b474614d71eba,Greg Turnquist,Fri Sep 23 16:36:46 2016 -0500,Fri Sep 23 16:36:46 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-serving-web-content/initial/pom.xml,e050931f7938f4bfd80ec6a4327fce33170b0901,Greg Turnquist,Fri Jul 29 11:31:08 2016 -0500,Fri Jul 29 11:31:08 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-serving-web-content/initial/pom.xml,151b53625d1f6e9d7c5a03a4a4f5310f7d4fef65,Greg Turnquist,Thu Jul 28 06:53:24 2016 -0500,Thu Jul 28 06:53:24 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-serving-web-content/initial/pom.xml,44fb6690880a1dfc814c912d38ea822824752903,Greg Turnquist,Tue Jul 5 13:52:54 2016 -0500,Tue Jul 5 13:52:54 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-serving-web-content/initial/pom.xml,b1173b0aebc5902e470e61b1a0a75866f6e78c4a,Greg Turnquist,Tue May 10 10:26:58 2016 -0500,Tue May 10 10:26:58 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-serving-web-content/initial/pom.xml,77cf0f4608edd1d1905aa6a1925894fdb264d124,Greg Turnquist,Fri May 6 09:49:26 2016 -0500,Fri May 6 09:49:26 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-serving-web-content/initial/pom.xml,859d5df9c19addc1a26c5a25d5259ac9852d67f5,Greg Turnquist,Fri Feb 26 07:30:28 2016 -0600,Fri Feb 26 07:30:28 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-serving-web-content/initial/pom.xml,d050ba60ca1046633cd7a7b83bb7fc515068fc46,Greg Turnquist,Wed Feb 24 09:55:40 2016 -0600,Wed Feb 24 09:55:40 2016 -0600,Add spring-boot-devtools
+gs-serving-web-content/initial/pom.xml,16de5331b88b384065887be74ffe10c8901e7dff,Greg Turnquist,Thu Jan 21 21:29:25 2016 -0600,Thu Jan 21 21:29:25 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-serving-web-content/initial/pom.xml,fd7b7a879d95746de066f254c82caa96aa30f47b,Greg Turnquist,Fri Dec 18 09:40:40 2015 -0600,Fri Dec 18 09:40:40 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-serving-web-content/initial/pom.xml,e6db07234cf429aa08ddb50a8d0bb594d42970f2,Greg Turnquist,Mon Nov 16 11:11:05 2015 -0600,Mon Nov 16 11:11:05 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-serving-web-content/initial/pom.xml,f024ae9f9481cc2b8694d8e3a2b9f5b1cf7a09dd,Greg Turnquist,Fri Oct 16 09:44:08 2015 -0400,Fri Oct 16 09:45:17 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-serving-web-content/initial/pom.xml,22deeff85a6c32c099c52b400eca8a5d564c7dd4,Greg Turnquist,Sun Sep 20 15:42:01 2015 -0500,Sun Sep 20 15:42:01 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-serving-web-content/initial/pom.xml,926b232308abb850860f19e6d49d9bc4330aed9c,Greg Turnquist,Thu Jul 2 08:46:49 2015 -0500,Thu Jul 2 08:46:49 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-serving-web-content/initial/pom.xml,96e1598c9a6ecf9936261b2da96174c01e8ad85d,Greg Turnquist,Fri Jun 12 13:49:40 2015 -0400,Fri Jun 12 13:49:40 2015 -0400,Upgrade to Java 8
+gs-serving-web-content/initial/pom.xml,6b5511dff762991690ffe5b8e5fab20c979588f0,Greg Turnquist,Tue Jun 9 09:42:08 2015 -0400,Tue Jun 9 09:42:08 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-serving-web-content/initial/pom.xml,02ec9693a193be2ae162480a398d22ae0d6c9a98,Greg Turnquist,Tue Mar 31 16:56:27 2015 -0500,Tue Mar 31 16:56:27 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-serving-web-content/initial/pom.xml,8840242aaea9376645f1fdf9492eeccef7d6a6d8,Greg Turnquist,Tue Mar 17 13:14:11 2015 -0500,Tue Mar 17 13:14:11 2015 -0500,Upgrade maven build to Java 7
+gs-serving-web-content/initial/pom.xml,a86c2122e24135ffa3a4705879b834c5e74c1173,Greg Turnquist,Thu Feb 26 22:40:11 2015 -0600,Thu Feb 26 22:40:11 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-serving-web-content/initial/pom.xml,71e72e7d057fbeb99308e9ec7c05945147fda524,Greg Turnquist,Wed Feb 18 11:08:21 2015 -0600,Wed Feb 18 11:08:21 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-serving-web-content/initial/pom.xml,f8c2fa6baf9da5ae9711b9530e6809dcafcc427e,Greg Turnquist,Wed Jan 14 12:34:17 2015 -0600,Wed Jan 14 12:34:17 2015 -0600,Remove legacy start-class property from maven builds
+gs-serving-web-content/initial/pom.xml,fdf7a8a50840f063cbd1f38eaf3b9a8dfcf35142,Greg Turnquist,Thu Dec 11 11:08:17 2014 -0600,Thu Dec 11 11:08:17 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-serving-web-content/initial/pom.xml,dd1adb0a64a27ad49ad6e458b4a930fd50af456c,Greg Turnquist,Thu Nov 20 10:15:30 2014 -0600,Thu Nov 20 10:15:30 2014 -0600,Convert to use https for repositories
+gs-serving-web-content/initial/pom.xml,29fbdda5318f46ed60959e5633e41466366d257b,Greg Turnquist,Wed Nov 12 13:08:48 2014 -0600,Wed Nov 12 13:08:48 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-serving-web-content/initial/pom.xml,8ac3493d680c2af53765364a340f8c01fd0a6906,Greg Turnquist,Fri Oct 10 22:06:29 2014 -0500,Fri Oct 10 22:06:29 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-serving-web-content/initial/pom.xml,cf4b077bf700e43abd426fe5553074fc7cf80a7b,Greg Turnquist,Mon Sep 29 12:42:52 2014 -0500,Mon Sep 29 12:42:52 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-serving-web-content/initial/pom.xml,2430260c26000cf5f55a30850d105515232c0a96,Greg Turnquist,Fri Sep 5 11:14:23 2014 -0500,Fri Sep 5 11:14:23 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-serving-web-content/initial/pom.xml,0fa1d3748166811ae768385e08791e14cbe01e14,Greg Turnquist,Fri Aug 8 22:12:54 2014 -0500,Fri Aug 8 22:12:54 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-serving-web-content/initial/pom.xml,e45fc81d821f10c622e27f608a1754778a11fd13,Greg Turnquist,Tue Jul 8 15:42:12 2014 -0500,Tue Jul 8 15:42:12 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-serving-web-content/initial/pom.xml,fa6a6c3a66722611622a3e0041aed0cc9be0c401,Greg Turnquist,Fri Jun 27 22:55:43 2014 -0400,Fri Jun 27 22:55:43 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-serving-web-content/initial/pom.xml,60c12d0339ab570d89d69d5dd677d51d1e6de3ca,Greg Turnquist,Tue Jun 24 19:56:10 2014 -0400,Tue Jun 24 19:56:10 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-serving-web-content/initial/pom.xml,590fc1d9b0aa0f13d429928405e5d1870bdb8b4a,Greg Turnquist,Wed Jun 11 16:48:53 2014 -0500,Wed Jun 11 16:48:53 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-serving-web-content/initial/pom.xml,afc176e0479c9ef734555133d59fb929c3164ecc,Greg Turnquist,Wed Jun 11 09:09:16 2014 -0500,Wed Jun 11 09:09:16 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-serving-web-content/initial/pom.xml,54b960a0651fcafd44e6b5927b9e3b01349f5989,Greg Turnquist,Tue Jun 10 19:16:52 2014 -0500,Tue Jun 10 19:16:52 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-serving-web-content/initial/pom.xml,3e66b7fc2f9525a6f3e0dc7b82b4ebc27282f8fd,Greg Turnquist,Thu Apr 24 09:37:34 2014 -0500,Thu Apr 24 09:37:34 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-serving-web-content/initial/pom.xml,60fa38c71f59abcd6796447017c040f57a070f63,Greg Turnquist,Thu Apr 17 23:46:05 2014 -0500,Thu Apr 17 23:46:05 2014 -0500,Update deps for thymeleaf
+gs-serving-web-content/initial/pom.xml,184445bd25eb0706327b236bba9392d5e1ca1bc1,Greg Turnquist,Mon Apr 7 10:10:10 2014 -0500,Mon Apr 7 10:10:10 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-serving-web-content/initial/pom.xml,7ecfdfe109df103fcae0787a6c7647812105f4ff,Greg Turnquist,Tue Apr 1 15:11:47 2014 -0500,Tue Apr 1 15:11:47 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-serving-web-content/initial/pom.xml,be7a462dee4c612b085ec816d19dfb12bfda7e6f,Greg Turnquist,Sat Mar 22 07:18:22 2014 -0500,Sat Mar 22 07:18:22 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-serving-web-content/initial/pom.xml,7728653e2c99db3b7d28aa787fc22b507a8f67ae,Greg Turnquist,Tue Mar 4 15:11:01 2014 -0500,Tue Mar 4 15:11:01 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-serving-web-content/initial/pom.xml,73e0f9d3be2a69a4af1bcc61b34c4711b98f36d8,Greg Turnquist,Wed Feb 19 21:02:44 2014 -0600,Wed Feb 19 21:02:44 2014 -0600,Resolves #7: Upgrade to Spring Boot 1.0.0.RC3
+gs-serving-web-content/initial/pom.xml,4d213bc0219b120323edd23945b70390e92fcd98,Greg Turnquist,Tue Feb 18 16:34:49 2014 -0600,Tue Feb 18 16:34:49 2014 -0600,Move final build file to the beginning and update guides to reflect this
+gs-serving-web-content/initial/pom.xml,d266c50fe08c08d708c354ed90cacd83c57ca1b2,Greg Turnquist,Wed Jan 22 12:21:44 2014 -0600,Wed Jan 22 12:21:44 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-serving-web-content/initial/pom.xml,f5a561237ea40fb2481b6eb689507cef741c6ca0,Greg Turnquist,Mon Nov 18 15:35:14 2013 -0600,Mon Nov 18 15:35:14 2013 -0600,Upgrade to Spring Boot 0.5.0.M6
+gs-serving-web-content/initial/pom.xml,302a2bfbc6af85fe634afeb3ef381af71167c75d,Roy Clarkson,Fri Oct 18 18:25:35 2013 -0400,Fri Oct 18 18:25:35 2013 -0400,Update repository ids in POMs
+gs-serving-web-content/initial/pom.xml,52aab698b87ccf9aa498032f6546729ea41aae73,Roy Clarkson,Mon Oct 14 11:16:59 2013 -0500,Mon Oct 14 11:16:59 2013 -0500,Upgrade to Gradle 1.8 and Spring Boot 0.5.0.M5
+gs-serving-web-content/initial/pom.xml,8fd737e2a08a54122fa8a3e159f72b9e3fa77b39,Greg Turnquist,Mon Sep 30 08:19:23 2013 -0500,Mon Sep 30 08:19:23 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-serving-web-content/initial/pom.xml,22a5e4cd7c2a44907015ee94a8309c9c6a5c26de,Greg Turnquist,Fri Sep 27 10:32:23 2013 -0500,Fri Sep 27 10:32:23 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-serving-web-content/initial/pom.xml,e2b93e9fc58e8e32342da2787d2cb37308a357d0,Greg Turnquist,Fri Aug 30 16:42:24 2013 -0500,Fri Aug 30 16:42:24 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-serving-web-content/initial/pom.xml,7e4a588e62353a5a7c55e8d4d5ad5277c0c5c872,Roy Clarkson,Thu Aug 8 01:01:27 2013 -0400,Thu Aug 8 01:01:27 2013 -0400,Update pom repositories
+gs-serving-web-content/initial/pom.xml,6f89cb2272e7497000fea2195052d8e0d389293a,Roy Clarkson,Fri Aug 2 00:16:59 2013 -0400,Fri Aug 2 00:16:59 2013 -0400,Update to latest Spring Boot configuration
+gs-serving-web-content/initial/pom.xml,c554592d88f32e2f782909a29a6fc40993a4a09c,Roy Clarkson,Wed Jul 17 16:47:46 2013 -0400,Wed Jul 17 16:47:46 2013 -0400,Add initial version of guide

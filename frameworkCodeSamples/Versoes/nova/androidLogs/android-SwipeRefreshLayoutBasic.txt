@@ -1,0 +1,19 @@
+android-SwipeRefreshLayoutBasic/build.gradle,685ae73f1699f09acf044879661e65eac94729a7,google-automerger,Tue Sep 2 11:01:38 2014 -0700,Tue Sep 2 11:01:38 2014 -0700,Initial Commit
+android-SwipeRefreshLayoutBasic/Application/build.gradle,7efe07bdbffd0ddd8e2ce00f24ecd555af53975c,google-automerger,Thu Feb 15 16:38:19 2018 -0800,Thu Feb 15 16:38:19 2018 -0800,Auto-update
+android-SwipeRefreshLayoutBasic/Application/build.gradle,658ad2555e3494a40e72d79573c7da693c2a2e20,google-automerger,Tue Oct 10 17:54:55 2017 -0700,Tue Oct 10 17:54:55 2017 -0700,Auto-update
+android-SwipeRefreshLayoutBasic/Application/build.gradle,e129e4e99b3b28d791729f4567aa6829a96b78ec,google-automerger,Thu Jun 8 09:36:11 2017 -0700,Thu Jun 8 09:36:11 2017 -0700,Auto-update
+android-SwipeRefreshLayoutBasic/Application/build.gradle,d615577d6b2af96933822a29edaaca29f73510be,google-automerger,Wed May 17 13:35:07 2017 -0700,Wed May 17 13:35:07 2017 -0700,Auto-update
+android-SwipeRefreshLayoutBasic/Application/build.gradle,2ca8d88067fd7c17bbd998154fc648224a7142da,google-automerger,Tue Dec 13 09:41:17 2016 -0800,Tue Dec 13 09:41:17 2016 -0800,Auto-update
+android-SwipeRefreshLayoutBasic/Application/build.gradle,633ae707083779eb71122d564899911093185a3f,google-automerger,Fri Aug 12 15:20:11 2016 -0700,Fri Aug 12 15:20:11 2016 -0700,Auto-update
+android-SwipeRefreshLayoutBasic/Application/build.gradle,dbba67f565a688bcbe3733b843d8d1d65120b24b,google-automerger,Wed May 18 11:39:40 2016 -0700,Wed May 18 11:39:40 2016 -0700,Auto-update
+android-SwipeRefreshLayoutBasic/Application/build.gradle,57051c04d96917b56e426f97db7a8d5c28ae9799,google-automerger,Wed Apr 20 12:27:42 2016 -0700,Wed Apr 20 12:27:42 2016 -0700,Auto-update
+android-SwipeRefreshLayoutBasic/Application/build.gradle,b83f23de4490683426b566e4e6ebc8405128eb8a,google-automerger,Wed Nov 18 09:34:47 2015 -0800,Wed Nov 18 09:34:47 2015 -0800,Auto-update
+android-SwipeRefreshLayoutBasic/Application/build.gradle,cf8fad550099fb9e2201c69a55be5cd39c972945,google-automerger,Thu Oct 8 17:43:57 2015 -0700,Thu Oct 8 17:43:57 2015 -0700,Auto-update
+android-SwipeRefreshLayoutBasic/Application/build.gradle,3fcc6120002157675b7373ecbc7e50a1086994b3,google-automerger,Mon Aug 17 09:55:37 2015 -0700,Mon Aug 17 09:55:37 2015 -0700,Auto-update
+android-SwipeRefreshLayoutBasic/Application/build.gradle,071c5604044a07952447829aa25f0c4d6f9163c3,google-automerger,Thu Jul 9 11:11:25 2015 -0700,Thu Jul 9 11:11:25 2015 -0700,Auto-update
+android-SwipeRefreshLayoutBasic/Application/build.gradle,ea6b4ba2dab3350777ea4178ee3089be8193720f,google-automerger,Thu May 21 10:05:28 2015 -0700,Thu May 21 10:05:28 2015 -0700,Auto-update
+android-SwipeRefreshLayoutBasic/Application/build.gradle,0170b7f354f2a83cfdf8d9d43e1b85dd5374e7c9,google-automerger,Tue Apr 28 10:57:05 2015 -0700,Tue Apr 28 10:57:05 2015 -0700,Auto-update
+android-SwipeRefreshLayoutBasic/Application/build.gradle,41e5090138498e4bf7ed93a855d5fb37524d179f,google-automerger,Mon Mar 30 17:45:52 2015 -0700,Mon Mar 30 17:45:52 2015 -0700,Auto-update
+android-SwipeRefreshLayoutBasic/Application/build.gradle,2c097e37839703321539ec97aade2da91233667c,google-automerger,Mon Dec 8 17:52:48 2014 -0800,Mon Dec 8 17:52:48 2014 -0800,Auto-update
+android-SwipeRefreshLayoutBasic/Application/build.gradle,e33d45f5b9fbaa3b22c722b3e1f86210ddc94697,google-automerger,Wed Dec 3 01:59:20 2014 -0800,Wed Dec 3 01:59:20 2014 -0800,Auto-update
+android-SwipeRefreshLayoutBasic/Application/build.gradle,c83ab4952d1960794dae83cbdd589167d3a335b4,google-automerger,Tue Nov 18 16:20:54 2014 -0800,Tue Nov 18 16:20:54 2014 -0800,Auto-update

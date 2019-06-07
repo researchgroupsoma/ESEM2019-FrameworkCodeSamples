@@ -1,0 +1,24 @@
+android-RecipeAssistant/build.gradle,93f9a965fdc593b38a29e21e65f2bbb0aa48bce9,google-automerger,Thu Oct 23 09:20:34 2014 -0700,Thu Oct 23 10:38:39 2014 -0700,Initial Commit
+android-RecipeAssistant/Application/build.gradle,84ed71f79e72836d62339c7ee9cd10a5e808385f,google-automerger,Thu Feb 15 16:37:42 2018 -0800,Thu Feb 15 16:37:42 2018 -0800,Auto-update
+android-RecipeAssistant/Application/build.gradle,9c358ee80d2b9a3e27b49a5f8ad6762fd179e44f,google-automerger,Tue Oct 10 17:54:14 2017 -0700,Tue Oct 10 17:54:14 2017 -0700,Auto-update
+android-RecipeAssistant/Application/build.gradle,a6a8899f937785a99da57049266c69f766162f88,google-automerger,Fri Aug 11 17:25:11 2017 -0700,Fri Aug 11 17:25:11 2017 -0700,Auto-update
+android-RecipeAssistant/Application/build.gradle,c972d3e6ea178983030d10a3820ecb6a46cee35a,google-automerger,Thu Jun 8 09:35:32 2017 -0700,Thu Jun 8 09:35:32 2017 -0700,Auto-update
+android-RecipeAssistant/Application/build.gradle,5578dcbbb6e533fe919ad64048445a6d7059d4f6,google-automerger,Wed May 17 13:34:28 2017 -0700,Wed May 17 13:34:28 2017 -0700,Auto-update
+android-RecipeAssistant/Application/build.gradle,56ebc6e3b3638258bc0dba9fb03a3684fc9d400b,google-automerger,Tue Dec 13 09:40:47 2016 -0800,Tue Dec 13 09:40:47 2016 -0800,Auto-update
+android-RecipeAssistant/Application/build.gradle,766550a9d0b8d8f3452a2525c1f7d1eac60fad86,google-automerger,Fri Aug 12 15:19:38 2016 -0700,Fri Aug 12 15:19:38 2016 -0700,Auto-update
+android-RecipeAssistant/Application/build.gradle,31e61e1bb617d18237e3560bebfad2cdb9e452ff,google-automerger,Wed May 18 11:39:19 2016 -0700,Wed May 18 11:39:19 2016 -0700,Auto-update
+android-RecipeAssistant/Application/build.gradle,21fcb2e5758e765c22c08684fbfb7a50c38c5bf3,google-automerger,Wed Apr 20 12:27:20 2016 -0700,Wed Apr 20 12:27:20 2016 -0700,Auto-update
+android-RecipeAssistant/Application/build.gradle,039e99068029938d1a50c0debfd8c76297e88225,google-automerger,Wed Nov 18 09:34:27 2015 -0800,Wed Nov 18 09:34:27 2015 -0800,Auto-update
+android-RecipeAssistant/Application/build.gradle,a14f38eea5d48a816bbdf1c8c2ea088a5b98039b,google-automerger,Thu Oct 8 17:43:38 2015 -0700,Thu Oct 8 17:43:38 2015 -0700,Auto-update
+android-RecipeAssistant/Application/build.gradle,a69d89b6b663913931c00fe0cdf2a7fb36f3878a,google-automerger,Thu Aug 20 23:46:48 2015 -0700,Thu Aug 20 23:46:48 2015 -0700,Auto-update
+android-RecipeAssistant/Application/build.gradle,4541f4cb787df1375f3f0beef9bf9aa05730db92,google-automerger,Thu Aug 20 09:48:15 2015 -0700,Thu Aug 20 09:48:15 2015 -0700,Auto-update
+android-RecipeAssistant/Application/build.gradle,769d3f2871352ef97f4187019dc7c3695812e68b,google-automerger,Thu Aug 20 08:40:12 2015 -0700,Thu Aug 20 08:40:12 2015 -0700,Auto-update
+android-RecipeAssistant/Application/build.gradle,e957658c3a32cebc9b4709174e8d2a1a4d3d9d95,google-automerger,Mon Aug 17 09:55:20 2015 -0700,Mon Aug 17 09:55:20 2015 -0700,Auto-update
+android-RecipeAssistant/Application/build.gradle,3b55c4b584400c8558396a89d6301954764e7378,google-automerger,Thu Jul 9 11:11:10 2015 -0700,Thu Jul 9 11:11:10 2015 -0700,Auto-update
+android-RecipeAssistant/Application/build.gradle,cec5e425e0bbeb692d268b16b7b53aad87483a32,google-automerger,Thu May 21 10:05:13 2015 -0700,Thu May 21 10:05:13 2015 -0700,Auto-update
+android-RecipeAssistant/Application/build.gradle,c2655ae4456f04c60ff70a1fb7fc195b41ee8b71,google-automerger,Tue Apr 28 10:56:29 2015 -0700,Tue Apr 28 10:56:29 2015 -0700,Auto-update
+android-RecipeAssistant/Application/build.gradle,9b7fbc1c489e149b5fa84999226292b4b022003a,google-automerger,Mon Mar 30 17:45:15 2015 -0700,Mon Mar 30 17:45:15 2015 -0700,Auto-update
+android-RecipeAssistant/Application/build.gradle,83b8617e32c6b9089602cfe6286915c6643f6a2f,google-automerger,Mon Dec 8 17:52:09 2014 -0800,Mon Dec 8 17:52:09 2014 -0800,Auto-update
+android-RecipeAssistant/Application/build.gradle,efb435d01300466ae58b1c611c4df243c350f6ba,google-automerger,Wed Dec 3 01:54:27 2014 -0800,Wed Dec 3 01:54:27 2014 -0800,Auto-update
+android-RecipeAssistant/Application/build.gradle,412a80545d47f772931a21e2cdc8757643c7b6fd,google-automerger,Tue Nov 18 16:20:16 2014 -0800,Tue Nov 18 16:20:16 2014 -0800,Auto-update
+android-RecipeAssistant/Application/build.gradle,93f9a965fdc593b38a29e21e65f2bbb0aa48bce9,google-automerger,Thu Oct 23 09:20:34 2014 -0700,Thu Oct 23 10:38:39 2014 -0700,Initial Commit

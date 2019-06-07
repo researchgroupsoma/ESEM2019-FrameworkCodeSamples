@@ -1,0 +1,19 @@
+android-HorizontalPaging/build.gradle,eed6cd19c8b1a45343c95226c1e8387c7f24e970,google-automerger,Tue Sep 2 11:01:09 2014 -0700,Tue Sep 2 11:01:09 2014 -0700,Initial Commit
+android-HorizontalPaging/Application/build.gradle,a7e9a48319bfcd6eebc1b730f83436d9344429b3,google-automerger,Thu Feb 15 16:36:50 2018 -0800,Thu Feb 15 16:36:50 2018 -0800,Auto-update
+android-HorizontalPaging/Application/build.gradle,f81794b4ee9ba88e5c3b754c35202b0adc758cec,google-automerger,Tue Oct 10 17:53:14 2017 -0700,Tue Oct 10 17:53:14 2017 -0700,Auto-update
+android-HorizontalPaging/Application/build.gradle,f22f555f8f5a30c0f36c4696e673e8f5c67eaa1b,google-automerger,Thu Jun 8 09:34:42 2017 -0700,Thu Jun 8 09:34:42 2017 -0700,Auto-update
+android-HorizontalPaging/Application/build.gradle,8e928a8c86816b682b69cfcdd8076d9538a7357b,google-automerger,Wed May 17 13:33:35 2017 -0700,Wed May 17 13:33:35 2017 -0700,Auto-update
+android-HorizontalPaging/Application/build.gradle,97594f7774955178a2d8514fe6ff661a98c41169,google-automerger,Tue Dec 13 09:40:09 2016 -0800,Tue Dec 13 09:40:09 2016 -0800,Auto-update
+android-HorizontalPaging/Application/build.gradle,7afce18d1b632eb8f79a4f1e98045cc7b0c18bc0,google-automerger,Fri Aug 12 15:18:58 2016 -0700,Fri Aug 12 15:18:58 2016 -0700,Auto-update
+android-HorizontalPaging/Application/build.gradle,de118ef666c9c5e2cbbde73c43c499087be8ab44,google-automerger,Wed May 18 11:38:50 2016 -0700,Wed May 18 11:38:50 2016 -0700,Auto-update
+android-HorizontalPaging/Application/build.gradle,4e114b3780d43c7fdf5f7a8ea5cc77da1dc65594,google-automerger,Wed Apr 20 12:26:49 2016 -0700,Wed Apr 20 12:26:49 2016 -0700,Auto-update
+android-HorizontalPaging/Application/build.gradle,1ff475aedf8e1ec68329482f378a355f5fc132e8,google-automerger,Wed Nov 18 09:33:58 2015 -0800,Wed Nov 18 09:33:58 2015 -0800,Auto-update
+android-HorizontalPaging/Application/build.gradle,203242e6a74828d553c68314f5717847c4964986,google-automerger,Thu Oct 8 17:43:11 2015 -0700,Thu Oct 8 17:43:11 2015 -0700,Auto-update
+android-HorizontalPaging/Application/build.gradle,f51e33cfeaa9a48e596b95fb2e33759fc65a8bf3,google-automerger,Mon Aug 17 09:54:57 2015 -0700,Mon Aug 17 09:54:57 2015 -0700,Auto-update
+android-HorizontalPaging/Application/build.gradle,43d3487eab59bf12aeb53a44b692af8af6589cff,google-automerger,Thu Jul 9 11:10:48 2015 -0700,Thu Jul 9 11:10:48 2015 -0700,Auto-update
+android-HorizontalPaging/Application/build.gradle,0742b582f5bdfff22a451b153a4781d8a14fb4d2,google-automerger,Thu May 21 10:04:51 2015 -0700,Thu May 21 10:04:51 2015 -0700,Auto-update
+android-HorizontalPaging/Application/build.gradle,88052898d85ea35b9c2b5439406491fa0112600b,google-automerger,Tue Apr 28 10:55:16 2015 -0700,Tue Apr 28 10:55:16 2015 -0700,Auto-update
+android-HorizontalPaging/Application/build.gradle,1a1e243fede0b7605b83e5f7a7836ad7167b407a,google-automerger,Mon Mar 30 17:44:31 2015 -0700,Mon Mar 30 17:44:31 2015 -0700,Auto-update
+android-HorizontalPaging/Application/build.gradle,e7b73dd80f037fdee7f5b731a6b7ab7ecbbeb8d6,google-automerger,Mon Dec 8 17:51:10 2014 -0800,Mon Dec 8 17:51:10 2014 -0800,Auto-update
+android-HorizontalPaging/Application/build.gradle,03f0ddb28bda289ab5c2aef4d9dd1de044c81a58,google-automerger,Wed Dec 3 01:52:44 2014 -0800,Wed Dec 3 01:52:44 2014 -0800,Auto-update
+android-HorizontalPaging/Application/build.gradle,d2785c0b540de9ddc9ed2de47a2fc44bf9b31080,google-automerger,Tue Nov 18 16:19:25 2014 -0800,Tue Nov 18 16:19:25 2014 -0800,Auto-update

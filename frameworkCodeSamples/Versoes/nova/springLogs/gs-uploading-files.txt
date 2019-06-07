@@ -1,0 +1,160 @@
+gs-uploading-files/complete/pom.xml,81d7f939736f6ef0c3b155223486391cf2ec846f,Greg Turnquist,Mon Sep 17 10:51:55 2018 -0500,Mon Sep 17 10:51:55 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-uploading-files/complete/pom.xml,d05e99a89dfd23e59be7e3ac24fd62a11f78e561,Greg Turnquist,Mon Jun 18 16:17:52 2018 -0500,Mon Jun 18 16:17:52 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-uploading-files/complete/pom.xml,afdaa520f2902b6ddf2437a946f12e27dced7944,Greg Turnquist,Wed May 9 11:27:37 2018 -0500,Wed May 9 11:27:37 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-uploading-files/complete/pom.xml,fcdafe4db828a5ed91806dbc3b842fb05e461c7e,Greg Turnquist,Thu Apr 5 11:45:51 2018 -0500,Thu Apr 5 11:45:51 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-uploading-files/complete/pom.xml,13b53b1fd56dc81e09425b221c1cf0190ad506d5,Brian Clozel,Mon Mar 5 18:50:20 2018 +0100,Mon Mar 5 20:02:45 2018 +0100,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-uploading-files/complete/pom.xml,7e64e61fd41484609bf21fde808eddeb3f9290e6,Greg Turnquist,Wed Jan 31 09:17:12 2018 -0600,Wed Jan 31 09:17:12 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-uploading-files/complete/pom.xml,d9865cb0a0420390609551cfb089d766d4e13188,Greg Turnquist,Thu Nov 30 11:07:55 2017 -0600,Thu Nov 30 11:07:55 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-uploading-files/complete/pom.xml,ac01f95f557887fa2276f551072db4071fdd2b87,Greg Turnquist,Tue Oct 17 15:43:17 2017 -0500,Tue Oct 17 15:43:17 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-uploading-files/complete/pom.xml,221915de0cc3d37690c86631919728c735015db1,Greg Turnquist,Wed Sep 13 13:16:25 2017 -0500,Wed Sep 13 13:16:25 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-uploading-files/complete/pom.xml,02188d408950fac57ec4d85af58ae8bb4343649f,Greg Turnquist,Thu Jul 27 10:05:49 2017 -0500,Thu Jul 27 10:05:49 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-uploading-files/complete/pom.xml,c5681e98feb7004e26b56c2d93d895d9cb0f63be,Greg Turnquist,Wed Jul 26 12:23:54 2017 -0500,Wed Jul 26 12:23:54 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-uploading-files/complete/pom.xml,3f86010609e92548482ef86b485456e2ffdeacff,Greg Turnquist,Fri Apr 21 09:21:07 2017 -0500,Fri Apr 21 09:21:07 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-uploading-files/complete/pom.xml,cd54e301842dbced411f0243af769445153c0225,Greg Turnquist,Fri Mar 3 11:14:12 2017 -0600,Fri Mar 3 11:14:12 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-uploading-files/complete/pom.xml,3659bfbf7288180e761c3ba086bbe7e4af8c86a8,Greg Turnquist,Mon Jan 30 23:35:11 2017 -0600,Mon Jan 30 23:35:11 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-uploading-files/complete/pom.xml,b596315b2ce6850588c4a2e77f414c05f5b807f3,Greg Turnquist,Mon Jan 30 13:55:24 2017 -0600,Mon Jan 30 13:55:24 2017 -0600,Remove unused dependencies.
+gs-uploading-files/complete/pom.xml,1dc807e56c8992e38986c0ab0a7b14a0b2fc49fb,Greg Turnquist,Mon Jan 30 11:39:32 2017 -0600,Mon Jan 30 11:39:32 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-uploading-files/complete/pom.xml,abbe95836c761fd2a8f4978c46c6ffb6dce7a812,Greg Turnquist,Thu Jan 26 12:48:56 2017 -0600,Thu Jan 26 12:48:56 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-uploading-files/complete/pom.xml,d141e6815cb503496d95e3799c92d61e479a3d4c,Greg Turnquist,Thu Jan 26 12:38:38 2017 -0600,Thu Jan 26 12:38:38 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-uploading-files/complete/pom.xml,f82372149b7af80364e32d64ee1cdb39ebd4e0e7,Greg Turnquist,Thu Dec 22 22:33:59 2016 -0600,Thu Dec 22 22:33:59 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-uploading-files/complete/pom.xml,5ffc9776e598b3aef269799a58d451f18f62f720,Greg Turnquist,Tue Nov 8 11:53:17 2016 -0600,Tue Nov 8 11:53:17 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-uploading-files/complete/pom.xml,b8537f5d28620b6c4a624869bc5e063224556128,Greg Turnquist,Fri Sep 23 16:36:55 2016 -0500,Fri Sep 23 16:36:55 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-uploading-files/complete/pom.xml,801429a2de8f24c6494008f2981d19ee8469f04a,Brian Clozel,Thu Sep 1 18:13:55 2016 +0200,Thu Sep 1 18:13:55 2016 +0200,Merge pull request #30 from bclozel/testing
+gs-uploading-files/complete/pom.xml,4d0d8d4d493e999dced95e6037860fc6b0d15c18,Greg Turnquist,Fri Jul 29 11:32:10 2016 -0500,Fri Jul 29 11:32:10 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-uploading-files/complete/pom.xml,d5dd88742bfc22726f610c43aa67fccb735f78ff,Greg Turnquist,Thu Jul 28 06:53:30 2016 -0500,Thu Jul 28 06:53:30 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-uploading-files/complete/pom.xml,a74a297de8c98b426ef193a13a133f48bb2f1e72,Greg Turnquist,Tue Jul 5 13:53:00 2016 -0500,Tue Jul 5 13:53:00 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-uploading-files/complete/pom.xml,bc402eea88422278b51e3a4735be5ac371eab286,Greg Turnquist,Mon Jun 27 14:38:02 2016 -0500,Mon Jun 27 14:38:02 2016 -0500,Update the guide using new APIS
+gs-uploading-files/complete/pom.xml,08307661f406a561967e0654dd8f877e2953b1f7,Greg Turnquist,Tue May 10 10:27:07 2016 -0500,Tue May 10 10:27:07 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-uploading-files/complete/pom.xml,a493150746d70502494936c816ef873604ae4415,Greg Turnquist,Fri May 6 09:49:32 2016 -0500,Fri May 6 09:49:32 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-uploading-files/complete/pom.xml,88741814857b422592765b61e479c8b28e82f944,Greg Turnquist,Fri Feb 26 07:30:33 2016 -0600,Fri Feb 26 07:30:33 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-uploading-files/complete/pom.xml,c536c798df41a716ea17444ae99923b75a08ca61,Greg Turnquist,Wed Feb 24 12:06:19 2016 -0600,Wed Feb 24 12:06:19 2016 -0600,Enhance experience
+gs-uploading-files/complete/pom.xml,4a5f1d41f79a05c6df539f4a149e986a1a4e5612,Greg Turnquist,Thu Jan 21 21:29:30 2016 -0600,Thu Jan 21 21:29:30 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-uploading-files/complete/pom.xml,041cdda1a710f62185c7455dbc64446d2d975668,Greg Turnquist,Fri Dec 18 09:40:45 2015 -0600,Fri Dec 18 09:40:45 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-uploading-files/complete/pom.xml,1b95c79987bc1746f86c3e457af8541808b6795e,Greg Turnquist,Mon Nov 16 11:11:11 2015 -0600,Mon Nov 16 11:11:11 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-uploading-files/complete/pom.xml,65a4498745dad709609bcef6e3a3b8ee802eebe7,Greg Turnquist,Fri Oct 16 09:44:12 2015 -0400,Fri Oct 16 09:44:12 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-uploading-files/complete/pom.xml,d6b0a8026a04348d2dd1103ec4c923864cb4ffe7,Greg Turnquist,Sun Sep 20 15:42:07 2015 -0500,Sun Sep 20 15:42:07 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-uploading-files/complete/pom.xml,c31705e1304d6b6df85e5326dcbb9935415f1eae,Greg Turnquist,Thu Jul 2 08:46:56 2015 -0500,Thu Jul 2 08:46:56 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-uploading-files/complete/pom.xml,6552192d07a450d7a9d0e4b73e4858a17baff30c,Greg Turnquist,Fri Jun 12 13:49:49 2015 -0400,Fri Jun 12 13:49:49 2015 -0400,Upgrade to Java 8
+gs-uploading-files/complete/pom.xml,d21ed02cc6fbc0df8c4094fd2dd5da86ab062316,Greg Turnquist,Tue Jun 9 09:42:11 2015 -0400,Tue Jun 9 09:42:11 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-uploading-files/complete/pom.xml,736a6cfd5a881ed532715ee221e3a429cccae71a,Greg Turnquist,Tue Mar 31 16:56:30 2015 -0500,Tue Mar 31 16:56:30 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-uploading-files/complete/pom.xml,d86b288610bb071d2f3cc55a6bb18d8a94232b29,Greg Turnquist,Tue Mar 17 13:14:13 2015 -0500,Tue Mar 17 13:14:13 2015 -0500,Upgrade maven build to Java 7
+gs-uploading-files/complete/pom.xml,ca64455edb1d407fe35e022c9cb717e06a2cca50,Greg Turnquist,Thu Feb 26 22:40:14 2015 -0600,Thu Feb 26 22:40:14 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-uploading-files/complete/pom.xml,cf4ce9909554e2e0c9245c7e7edf0850677beb20,Greg Turnquist,Wed Feb 18 11:08:24 2015 -0600,Wed Feb 18 11:08:24 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-uploading-files/complete/pom.xml,a54ea2a58dc23f38d1348cad4dd92f135ae0b80d,Greg Turnquist,Wed Jan 14 12:34:19 2015 -0600,Wed Jan 14 12:34:19 2015 -0600,Remove legacy start-class property from maven builds
+gs-uploading-files/complete/pom.xml,0a1d2f5d19db555ac3ba73ff8a3ec16e25ade5b7,Greg Turnquist,Thu Dec 11 11:08:20 2014 -0600,Thu Dec 11 11:08:20 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-uploading-files/complete/pom.xml,33edf883ee3a910541db20cfa34c635dae2e3487,Greg Turnquist,Thu Nov 20 10:15:32 2014 -0600,Thu Nov 20 10:15:32 2014 -0600,Convert to use https for repositories
+gs-uploading-files/complete/pom.xml,2fdfa4dab3d4975374e8818ee1081433eaadd9a4,Greg Turnquist,Wed Nov 12 13:08:52 2014 -0600,Wed Nov 12 13:08:52 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-uploading-files/complete/pom.xml,94ae19246947676a4ff0d36ebc7b047b1ffcbc4b,Greg Turnquist,Fri Oct 10 22:06:33 2014 -0500,Fri Oct 10 22:06:33 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-uploading-files/complete/pom.xml,0e2521525482ff7ad3554126cbc6dd8d17d5a39a,Greg Turnquist,Mon Sep 29 12:42:55 2014 -0500,Mon Sep 29 12:42:55 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-uploading-files/complete/pom.xml,0a56db38307a36fe962e8ba01e04b293e6e5c0cb,Greg Turnquist,Fri Sep 5 11:14:26 2014 -0500,Fri Sep 5 11:14:26 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-uploading-files/complete/pom.xml,9dd9657f92f9a99181ab90210132f556a2d68e07,Greg Turnquist,Fri Aug 8 22:12:57 2014 -0500,Fri Aug 8 22:12:57 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-uploading-files/complete/pom.xml,bc829282197f4a212cd0ab755a7707765496835b,Greg Turnquist,Tue Jul 8 15:42:15 2014 -0500,Tue Jul 8 15:42:15 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-uploading-files/complete/pom.xml,fcf30c0293902f26b57684da5e6771af83dfbe87,Greg Turnquist,Fri Jun 27 22:55:46 2014 -0400,Fri Jun 27 22:55:46 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-uploading-files/complete/pom.xml,5a441405d2852ca3c87f1ae339fc84f15d331de4,Greg Turnquist,Tue Jun 24 19:56:12 2014 -0400,Tue Jun 24 19:56:12 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-uploading-files/complete/pom.xml,da5ec20677aab5b6059da63b5fedb2bc0b2ef490,Greg Turnquist,Wed Jun 11 16:49:09 2014 -0500,Wed Jun 11 16:49:09 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-uploading-files/complete/pom.xml,df0c6c99a5e475911f482ea1fd472ff03c8312ed,Greg Turnquist,Wed Jun 11 09:09:18 2014 -0500,Wed Jun 11 09:09:18 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-uploading-files/complete/pom.xml,2bc27843d9d93d0addb4c9190f2ae319c8712ec0,Greg Turnquist,Tue Jun 10 19:16:55 2014 -0500,Tue Jun 10 19:16:55 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-uploading-files/complete/pom.xml,0d304778525e0595f4b75c05b9f3b5f6863f07f0,Greg Turnquist,Thu Apr 24 09:37:39 2014 -0500,Thu Apr 24 09:37:39 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-uploading-files/complete/pom.xml,2d6e5e5458c5f710f85b301a079ea3460da79428,Greg Turnquist,Mon Apr 7 10:10:14 2014 -0500,Mon Apr 7 10:10:14 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-uploading-files/complete/pom.xml,f502cfbfbbae59abe773d99850197393cc050adf,Greg Turnquist,Tue Apr 1 15:11:52 2014 -0500,Tue Apr 1 15:11:52 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-uploading-files/complete/pom.xml,0fbb42558ab3e605e6c07033825edeaab8e03f44,Greg Turnquist,Sat Mar 22 07:18:26 2014 -0500,Sat Mar 22 07:18:26 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-uploading-files/complete/pom.xml,de087fe69a265e773c3bbe2e1cb3e164e5e996b1,Greg Turnquist,Wed Mar 5 08:22:59 2014 -0500,Wed Mar 5 08:22:59 2014 -0500,Polish guide
+gs-uploading-files/complete/pom.xml,f1c68b1c67cca265726393f64b0860f600ce3706,Greg Turnquist,Wed Mar 5 08:08:50 2014 -0500,Wed Mar 5 08:08:50 2014 -0500,Merge branch 'feature/ui' of https://github.com/dsyer/gs-uploading-files into dsyer-feature/ui
+gs-uploading-files/complete/pom.xml,bb6b5c3ebd9ccb25c9b7937be910e45106d4c409,Greg Turnquist,Tue Mar 4 15:11:18 2014 -0500,Tue Mar 4 15:11:18 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-uploading-files/complete/pom.xml,cf5d0c63e22025dc7079d16d80219340b3ad09b5,Greg Turnquist,Fri Feb 14 11:24:08 2014 -0600,Fri Feb 14 11:24:08 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-uploading-files/complete/pom.xml,8d648648e0a3a919e4b47d02d41c8ff9df523e3f,Greg Turnquist,Thu Feb 13 12:38:45 2014 -0600,Thu Feb 13 12:38:45 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-uploading-files/complete/pom.xml,8392434192332d118379aeba53386259b73e34d0,Greg Turnquist,Wed Jan 22 12:21:47 2014 -0600,Wed Jan 22 12:21:47 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-uploading-files/complete/pom.xml,064d53c15ba632c20fcc857fab3fa78534f48b11,Greg Turnquist,Mon Nov 18 15:15:25 2013 -0600,Mon Nov 18 15:15:25 2013 -0600,Upgrade to Spring Boot 0.5.0.M6
+gs-uploading-files/complete/pom.xml,a1fefcba028d1c83b4dfa1a26be03ebc94759aa8,Greg Turnquist,Wed Oct 30 10:04:03 2013 -0500,Wed Oct 30 10:04:03 2013 -0500,Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+gs-uploading-files/complete/pom.xml,0f54c7f895a022ba9a405afe07a9c9e3f83cfd9a,Greg Turnquist,Mon Sep 30 08:19:26 2013 -0500,Mon Sep 30 08:19:26 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-uploading-files/complete/pom.xml,e96c3a744d7455a236084169eaf366b189d120bb,Greg Turnquist,Fri Sep 27 10:32:26 2013 -0500,Fri Sep 27 10:32:26 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-uploading-files/complete/pom.xml,efdb5d77d04cd6c5d38f60b7928c9bd6a055e059,Greg Turnquist,Fri Aug 30 16:42:27 2013 -0500,Fri Aug 30 16:42:27 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-uploading-files/complete/pom.xml,b05ec8c889aba4aed3ad522f96793c1c03e20f3c,Greg Turnquist,Mon Aug 12 13:56:14 2013 -0500,Mon Aug 12 13:56:14 2013 -0500,Detab code and fix link to spring-boot-maven-plugin
+gs-uploading-files/complete/pom.xml,b2a2c5e37ec13221acd66ad6f180b593459dc0e5,Greg Turnquist,Fri Aug 9 13:18:42 2013 -0500,Fri Aug 9 13:18:42 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-uploading-files/complete/pom.xml,88f5d27b26e531262ee45fb181d07f02690127dc,Greg Turnquist,Tue Aug 6 14:44:06 2013 -0500,Tue Aug 6 14:44:06 2013 -0500,Use libs-snapshot instead of snapshot
+gs-uploading-files/complete/pom.xml,28e8e97386ba30b4436c56d2439e9b4220d769a9,Greg Turnquist,Tue Aug 6 11:24:20 2013 -0500,Tue Aug 6 11:24:20 2013 -0500,Remove 'TODO' from pom.xml and rebuild guide
+gs-uploading-files/complete/pom.xml,80da8fe25a99b92f82e658d0e737bd1c2c83f7d7,Greg Turnquist,Wed Jul 31 15:43:16 2013 -0400,Wed Jul 31 15:43:16 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-uploading-files/complete/pom.xml,26860237512fdb1e2e88b2d41d56416c99c8d652,Greg Turnquist,Tue Jul 30 10:19:54 2013 -0400,Tue Jul 30 10:19:54 2013 -0400,Upgrade to Spring Boot
+gs-uploading-files/complete/pom.xml,7bdd9eea2a1d9fb2cfa4046d57dfb2e968c63c49,Dave Syer,Tue Jul 23 10:49:47 2013 +0100,Tue Jul 23 10:49:47 2013 +0100,Add mainClass to starter-parent for package plugin
+gs-uploading-files/complete/pom.xml,9c729337e2ee4022aa7fc16b8700ee96cc761e08,Greg Turnquist,Mon Jul 22 14:38:27 2013 -0400,Mon Jul 22 14:38:27 2013 -0400,Convert to spring-package-maven-plugin and Spring Zero
+gs-uploading-files/complete/pom.xml,056987f722da87ad604c235fd353d92f447a5db4,Greg Turnquist,Thu Jul 18 10:41:41 2013 -0400,Thu Jul 18 10:41:41 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-uploading-files/complete/pom.xml,d6665cf4677726d1e9dd3bf40e865ceac09b71a7,Greg Turnquist,Thu Jun 20 16:56:25 2013 -0400,Thu Jun 20 17:05:50 2013 -0400,Rewrite code and guide to use Spring Bootstrap
+gs-uploading-files/initial/pom.xml,81d7f939736f6ef0c3b155223486391cf2ec846f,Greg Turnquist,Mon Sep 17 10:51:55 2018 -0500,Mon Sep 17 10:51:55 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-uploading-files/initial/pom.xml,d05e99a89dfd23e59be7e3ac24fd62a11f78e561,Greg Turnquist,Mon Jun 18 16:17:52 2018 -0500,Mon Jun 18 16:17:52 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-uploading-files/initial/pom.xml,afdaa520f2902b6ddf2437a946f12e27dced7944,Greg Turnquist,Wed May 9 11:27:37 2018 -0500,Wed May 9 11:27:37 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-uploading-files/initial/pom.xml,fcdafe4db828a5ed91806dbc3b842fb05e461c7e,Greg Turnquist,Thu Apr 5 11:45:51 2018 -0500,Thu Apr 5 11:45:51 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-uploading-files/initial/pom.xml,13b53b1fd56dc81e09425b221c1cf0190ad506d5,Brian Clozel,Mon Mar 5 18:50:20 2018 +0100,Mon Mar 5 20:02:45 2018 +0100,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-uploading-files/initial/pom.xml,7e64e61fd41484609bf21fde808eddeb3f9290e6,Greg Turnquist,Wed Jan 31 09:17:12 2018 -0600,Wed Jan 31 09:17:12 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-uploading-files/initial/pom.xml,d9865cb0a0420390609551cfb089d766d4e13188,Greg Turnquist,Thu Nov 30 11:07:55 2017 -0600,Thu Nov 30 11:07:55 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-uploading-files/initial/pom.xml,ac01f95f557887fa2276f551072db4071fdd2b87,Greg Turnquist,Tue Oct 17 15:43:17 2017 -0500,Tue Oct 17 15:43:17 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-uploading-files/initial/pom.xml,221915de0cc3d37690c86631919728c735015db1,Greg Turnquist,Wed Sep 13 13:16:25 2017 -0500,Wed Sep 13 13:16:25 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-uploading-files/initial/pom.xml,02188d408950fac57ec4d85af58ae8bb4343649f,Greg Turnquist,Thu Jul 27 10:05:49 2017 -0500,Thu Jul 27 10:05:49 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-uploading-files/initial/pom.xml,c5681e98feb7004e26b56c2d93d895d9cb0f63be,Greg Turnquist,Wed Jul 26 12:23:54 2017 -0500,Wed Jul 26 12:23:54 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-uploading-files/initial/pom.xml,3f86010609e92548482ef86b485456e2ffdeacff,Greg Turnquist,Fri Apr 21 09:21:07 2017 -0500,Fri Apr 21 09:21:07 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-uploading-files/initial/pom.xml,cd54e301842dbced411f0243af769445153c0225,Greg Turnquist,Fri Mar 3 11:14:12 2017 -0600,Fri Mar 3 11:14:12 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-uploading-files/initial/pom.xml,3659bfbf7288180e761c3ba086bbe7e4af8c86a8,Greg Turnquist,Mon Jan 30 23:35:11 2017 -0600,Mon Jan 30 23:35:11 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-uploading-files/initial/pom.xml,b596315b2ce6850588c4a2e77f414c05f5b807f3,Greg Turnquist,Mon Jan 30 13:55:24 2017 -0600,Mon Jan 30 13:55:24 2017 -0600,Remove unused dependencies.
+gs-uploading-files/initial/pom.xml,1dc807e56c8992e38986c0ab0a7b14a0b2fc49fb,Greg Turnquist,Mon Jan 30 11:39:32 2017 -0600,Mon Jan 30 11:39:32 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-uploading-files/initial/pom.xml,abbe95836c761fd2a8f4978c46c6ffb6dce7a812,Greg Turnquist,Thu Jan 26 12:48:56 2017 -0600,Thu Jan 26 12:48:56 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-uploading-files/initial/pom.xml,d141e6815cb503496d95e3799c92d61e479a3d4c,Greg Turnquist,Thu Jan 26 12:38:38 2017 -0600,Thu Jan 26 12:38:38 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-uploading-files/initial/pom.xml,f82372149b7af80364e32d64ee1cdb39ebd4e0e7,Greg Turnquist,Thu Dec 22 22:33:59 2016 -0600,Thu Dec 22 22:33:59 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-uploading-files/initial/pom.xml,5ffc9776e598b3aef269799a58d451f18f62f720,Greg Turnquist,Tue Nov 8 11:53:17 2016 -0600,Tue Nov 8 11:53:17 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-uploading-files/initial/pom.xml,b8537f5d28620b6c4a624869bc5e063224556128,Greg Turnquist,Fri Sep 23 16:36:55 2016 -0500,Fri Sep 23 16:36:55 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-uploading-files/initial/pom.xml,801429a2de8f24c6494008f2981d19ee8469f04a,Brian Clozel,Thu Sep 1 18:13:55 2016 +0200,Thu Sep 1 18:13:55 2016 +0200,Merge pull request #30 from bclozel/testing
+gs-uploading-files/initial/pom.xml,4d0d8d4d493e999dced95e6037860fc6b0d15c18,Greg Turnquist,Fri Jul 29 11:32:10 2016 -0500,Fri Jul 29 11:32:10 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-uploading-files/initial/pom.xml,d5dd88742bfc22726f610c43aa67fccb735f78ff,Greg Turnquist,Thu Jul 28 06:53:30 2016 -0500,Thu Jul 28 06:53:30 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-uploading-files/initial/pom.xml,a74a297de8c98b426ef193a13a133f48bb2f1e72,Greg Turnquist,Tue Jul 5 13:53:00 2016 -0500,Tue Jul 5 13:53:00 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-uploading-files/initial/pom.xml,bc402eea88422278b51e3a4735be5ac371eab286,Greg Turnquist,Mon Jun 27 14:38:02 2016 -0500,Mon Jun 27 14:38:02 2016 -0500,Update the guide using new APIS
+gs-uploading-files/initial/pom.xml,08307661f406a561967e0654dd8f877e2953b1f7,Greg Turnquist,Tue May 10 10:27:07 2016 -0500,Tue May 10 10:27:07 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-uploading-files/initial/pom.xml,a493150746d70502494936c816ef873604ae4415,Greg Turnquist,Fri May 6 09:49:32 2016 -0500,Fri May 6 09:49:32 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-uploading-files/initial/pom.xml,88741814857b422592765b61e479c8b28e82f944,Greg Turnquist,Fri Feb 26 07:30:33 2016 -0600,Fri Feb 26 07:30:33 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-uploading-files/initial/pom.xml,c536c798df41a716ea17444ae99923b75a08ca61,Greg Turnquist,Wed Feb 24 12:06:19 2016 -0600,Wed Feb 24 12:06:19 2016 -0600,Enhance experience
+gs-uploading-files/initial/pom.xml,4a5f1d41f79a05c6df539f4a149e986a1a4e5612,Greg Turnquist,Thu Jan 21 21:29:30 2016 -0600,Thu Jan 21 21:29:30 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-uploading-files/initial/pom.xml,041cdda1a710f62185c7455dbc64446d2d975668,Greg Turnquist,Fri Dec 18 09:40:45 2015 -0600,Fri Dec 18 09:40:45 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-uploading-files/initial/pom.xml,1b95c79987bc1746f86c3e457af8541808b6795e,Greg Turnquist,Mon Nov 16 11:11:11 2015 -0600,Mon Nov 16 11:11:11 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-uploading-files/initial/pom.xml,65a4498745dad709609bcef6e3a3b8ee802eebe7,Greg Turnquist,Fri Oct 16 09:44:12 2015 -0400,Fri Oct 16 09:44:12 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-uploading-files/initial/pom.xml,d6b0a8026a04348d2dd1103ec4c923864cb4ffe7,Greg Turnquist,Sun Sep 20 15:42:07 2015 -0500,Sun Sep 20 15:42:07 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-uploading-files/initial/pom.xml,c31705e1304d6b6df85e5326dcbb9935415f1eae,Greg Turnquist,Thu Jul 2 08:46:56 2015 -0500,Thu Jul 2 08:46:56 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-uploading-files/initial/pom.xml,6552192d07a450d7a9d0e4b73e4858a17baff30c,Greg Turnquist,Fri Jun 12 13:49:49 2015 -0400,Fri Jun 12 13:49:49 2015 -0400,Upgrade to Java 8
+gs-uploading-files/initial/pom.xml,d21ed02cc6fbc0df8c4094fd2dd5da86ab062316,Greg Turnquist,Tue Jun 9 09:42:11 2015 -0400,Tue Jun 9 09:42:11 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-uploading-files/initial/pom.xml,736a6cfd5a881ed532715ee221e3a429cccae71a,Greg Turnquist,Tue Mar 31 16:56:30 2015 -0500,Tue Mar 31 16:56:30 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-uploading-files/initial/pom.xml,d86b288610bb071d2f3cc55a6bb18d8a94232b29,Greg Turnquist,Tue Mar 17 13:14:13 2015 -0500,Tue Mar 17 13:14:13 2015 -0500,Upgrade maven build to Java 7
+gs-uploading-files/initial/pom.xml,ca64455edb1d407fe35e022c9cb717e06a2cca50,Greg Turnquist,Thu Feb 26 22:40:14 2015 -0600,Thu Feb 26 22:40:14 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-uploading-files/initial/pom.xml,cf4ce9909554e2e0c9245c7e7edf0850677beb20,Greg Turnquist,Wed Feb 18 11:08:24 2015 -0600,Wed Feb 18 11:08:24 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-uploading-files/initial/pom.xml,a54ea2a58dc23f38d1348cad4dd92f135ae0b80d,Greg Turnquist,Wed Jan 14 12:34:19 2015 -0600,Wed Jan 14 12:34:19 2015 -0600,Remove legacy start-class property from maven builds
+gs-uploading-files/initial/pom.xml,0a1d2f5d19db555ac3ba73ff8a3ec16e25ade5b7,Greg Turnquist,Thu Dec 11 11:08:20 2014 -0600,Thu Dec 11 11:08:20 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-uploading-files/initial/pom.xml,33edf883ee3a910541db20cfa34c635dae2e3487,Greg Turnquist,Thu Nov 20 10:15:32 2014 -0600,Thu Nov 20 10:15:32 2014 -0600,Convert to use https for repositories
+gs-uploading-files/initial/pom.xml,2fdfa4dab3d4975374e8818ee1081433eaadd9a4,Greg Turnquist,Wed Nov 12 13:08:52 2014 -0600,Wed Nov 12 13:08:52 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-uploading-files/initial/pom.xml,94ae19246947676a4ff0d36ebc7b047b1ffcbc4b,Greg Turnquist,Fri Oct 10 22:06:33 2014 -0500,Fri Oct 10 22:06:33 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-uploading-files/initial/pom.xml,0e2521525482ff7ad3554126cbc6dd8d17d5a39a,Greg Turnquist,Mon Sep 29 12:42:55 2014 -0500,Mon Sep 29 12:42:55 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-uploading-files/initial/pom.xml,0a56db38307a36fe962e8ba01e04b293e6e5c0cb,Greg Turnquist,Fri Sep 5 11:14:26 2014 -0500,Fri Sep 5 11:14:26 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-uploading-files/initial/pom.xml,9dd9657f92f9a99181ab90210132f556a2d68e07,Greg Turnquist,Fri Aug 8 22:12:57 2014 -0500,Fri Aug 8 22:12:57 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-uploading-files/initial/pom.xml,bc829282197f4a212cd0ab755a7707765496835b,Greg Turnquist,Tue Jul 8 15:42:15 2014 -0500,Tue Jul 8 15:42:15 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-uploading-files/initial/pom.xml,fcf30c0293902f26b57684da5e6771af83dfbe87,Greg Turnquist,Fri Jun 27 22:55:46 2014 -0400,Fri Jun 27 22:55:46 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-uploading-files/initial/pom.xml,5a441405d2852ca3c87f1ae339fc84f15d331de4,Greg Turnquist,Tue Jun 24 19:56:12 2014 -0400,Tue Jun 24 19:56:12 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-uploading-files/initial/pom.xml,da5ec20677aab5b6059da63b5fedb2bc0b2ef490,Greg Turnquist,Wed Jun 11 16:49:09 2014 -0500,Wed Jun 11 16:49:09 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-uploading-files/initial/pom.xml,df0c6c99a5e475911f482ea1fd472ff03c8312ed,Greg Turnquist,Wed Jun 11 09:09:18 2014 -0500,Wed Jun 11 09:09:18 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-uploading-files/initial/pom.xml,2bc27843d9d93d0addb4c9190f2ae319c8712ec0,Greg Turnquist,Tue Jun 10 19:16:55 2014 -0500,Tue Jun 10 19:16:55 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-uploading-files/initial/pom.xml,0d304778525e0595f4b75c05b9f3b5f6863f07f0,Greg Turnquist,Thu Apr 24 09:37:39 2014 -0500,Thu Apr 24 09:37:39 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-uploading-files/initial/pom.xml,2d6e5e5458c5f710f85b301a079ea3460da79428,Greg Turnquist,Mon Apr 7 10:10:14 2014 -0500,Mon Apr 7 10:10:14 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-uploading-files/initial/pom.xml,f502cfbfbbae59abe773d99850197393cc050adf,Greg Turnquist,Tue Apr 1 15:11:52 2014 -0500,Tue Apr 1 15:11:52 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-uploading-files/initial/pom.xml,f4298f3c87e79d6ed3c398e60cab88373b824889,Greg Turnquist,Sat Mar 22 07:21:18 2014 -0500,Sat Mar 22 07:21:18 2014 -0500,Upgrade initial version of build files to Spring Boot 1.0.0.RC5
+gs-uploading-files/initial/pom.xml,de087fe69a265e773c3bbe2e1cb3e164e5e996b1,Greg Turnquist,Wed Mar 5 08:22:59 2014 -0500,Wed Mar 5 08:22:59 2014 -0500,Polish guide
+gs-uploading-files/initial/pom.xml,bb6b5c3ebd9ccb25c9b7937be910e45106d4c409,Greg Turnquist,Tue Mar 4 15:11:18 2014 -0500,Tue Mar 4 15:11:18 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-uploading-files/initial/pom.xml,3a6265ce92f3835c98f47734da142ca36e4a33d0,Greg Turnquist,Tue Feb 18 16:34:53 2014 -0600,Tue Feb 18 16:34:53 2014 -0600,Move final build file to the beginning and update guides to reflect this
+gs-uploading-files/initial/pom.xml,cf5d0c63e22025dc7079d16d80219340b3ad09b5,Greg Turnquist,Fri Feb 14 11:24:08 2014 -0600,Fri Feb 14 11:24:08 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-uploading-files/initial/pom.xml,8d648648e0a3a919e4b47d02d41c8ff9df523e3f,Greg Turnquist,Thu Feb 13 12:38:45 2014 -0600,Thu Feb 13 12:38:45 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-uploading-files/initial/pom.xml,8392434192332d118379aeba53386259b73e34d0,Greg Turnquist,Wed Jan 22 12:21:47 2014 -0600,Wed Jan 22 12:21:47 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-uploading-files/initial/pom.xml,064d53c15ba632c20fcc857fab3fa78534f48b11,Greg Turnquist,Mon Nov 18 15:15:25 2013 -0600,Mon Nov 18 15:15:25 2013 -0600,Upgrade to Spring Boot 0.5.0.M6
+gs-uploading-files/initial/pom.xml,a1fefcba028d1c83b4dfa1a26be03ebc94759aa8,Greg Turnquist,Wed Oct 30 10:04:03 2013 -0500,Wed Oct 30 10:04:03 2013 -0500,Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+gs-uploading-files/initial/pom.xml,0f54c7f895a022ba9a405afe07a9c9e3f83cfd9a,Greg Turnquist,Mon Sep 30 08:19:26 2013 -0500,Mon Sep 30 08:19:26 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-uploading-files/initial/pom.xml,e96c3a744d7455a236084169eaf366b189d120bb,Greg Turnquist,Fri Sep 27 10:32:26 2013 -0500,Fri Sep 27 10:32:26 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-uploading-files/initial/pom.xml,efdb5d77d04cd6c5d38f60b7928c9bd6a055e059,Greg Turnquist,Fri Aug 30 16:42:27 2013 -0500,Fri Aug 30 16:42:27 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-uploading-files/initial/pom.xml,b2a2c5e37ec13221acd66ad6f180b593459dc0e5,Greg Turnquist,Fri Aug 9 13:18:42 2013 -0500,Fri Aug 9 13:18:42 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-uploading-files/initial/pom.xml,88f5d27b26e531262ee45fb181d07f02690127dc,Greg Turnquist,Tue Aug 6 14:44:06 2013 -0500,Tue Aug 6 14:44:06 2013 -0500,Use libs-snapshot instead of snapshot
+gs-uploading-files/initial/pom.xml,28e8e97386ba30b4436c56d2439e9b4220d769a9,Greg Turnquist,Tue Aug 6 11:24:20 2013 -0500,Tue Aug 6 11:24:20 2013 -0500,Remove 'TODO' from pom.xml and rebuild guide
+gs-uploading-files/initial/pom.xml,80da8fe25a99b92f82e658d0e737bd1c2c83f7d7,Greg Turnquist,Wed Jul 31 15:43:16 2013 -0400,Wed Jul 31 15:43:16 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-uploading-files/initial/pom.xml,26860237512fdb1e2e88b2d41d56416c99c8d652,Greg Turnquist,Tue Jul 30 10:19:54 2013 -0400,Tue Jul 30 10:19:54 2013 -0400,Upgrade to Spring Boot
+gs-uploading-files/initial/pom.xml,9c729337e2ee4022aa7fc16b8700ee96cc761e08,Greg Turnquist,Mon Jul 22 14:38:27 2013 -0400,Mon Jul 22 14:38:27 2013 -0400,Convert to spring-package-maven-plugin and Spring Zero
+gs-uploading-files/initial/pom.xml,056987f722da87ad604c235fd353d92f447a5db4,Greg Turnquist,Thu Jul 18 10:41:41 2013 -0400,Thu Jul 18 10:41:41 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-uploading-files/initial/pom.xml,d6665cf4677726d1e9dd3bf40e865ceac09b71a7,Greg Turnquist,Thu Jun 20 16:56:25 2013 -0400,Thu Jun 20 17:05:50 2013 -0400,Rewrite code and guide to use Spring Bootstrap

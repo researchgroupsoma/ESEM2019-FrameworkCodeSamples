@@ -1,0 +1,38 @@
+android-testdpc/build.gradle,78bcb1a4135642ec9214da70669b3fea605d9584,Tony Mak,Thu Mar 15 19:33:24 2018 +0000,Thu Mar 15 19:36:08 2018 +0000,Release TestDPC 5.0.0 source code
+android-testdpc/build.gradle,8d4dbeedec694b747ac9d69f93e80d6574faaa0a,Andrew Scull,Mon Jun 12 14:59:37 2017 +0100,Mon Jun 12 14:59:37 2017 +0100,Update build scripts for API 26
+android-testdpc/build.gradle,ec115a3db0f88268a1ceba75fa1c8e61972119f4,Andrew Scull,Fri Jun 2 15:49:30 2017 +0100,Fri Jun 2 15:49:30 2017 +0100,Update build config.
+android-testdpc/build.gradle,b6e0e921bc7f66f7d396a56b9bea81156b554365,Tony Mak,Sat May 20 08:58:18 2017 +0100,Sat May 20 08:58:18 2017 +0100,Fix testdpc target25 build flavor can't be installed in pre-O devices
+android-testdpc/build.gradle,5946da7cc2f56541149be4499805fedf7d9c179d,Tony Mak,Fri Mar 24 11:32:30 2017 +0000,Fri Mar 24 11:41:06 2017 +0000,Pulling TestDPC 4.0.0 source
+android-testdpc/build.gradle,f1f3a5db268c7b129f0ac8c1e8820c2dd9326a41,Tony Mak,Thu Jun 9 13:16:20 2016 +0100,Thu Jun 9 13:16:20 2016 +0100,Upstream 3.0.8 source
+android-testdpc/build.gradle,966c93d3eaa99de67024c3b50ade3a13f0e4fb2b,Eric Tang,Wed May 27 15:41:20 2015 +0100,Wed May 27 15:41:20 2015 +0100,Merge branch 'master' of ../testdpc-clone-temp
+android-testdpc/build.gradle,3bafcfc0925bf719119ba18c4afe0f4ac2061aa9,Eric Tang,Wed May 27 15:41:03 2015 +0100,Wed May 27 15:41:03 2015 +0100,remove all files to prepare for re-import
+android-testdpc/build.gradle,5fc6229fcffda4ec237b37561276c286daf6afc6,Eric Tang,Fri May 15 16:46:00 2015 +0100,Fri May 15 16:46:00 2015 +0100,initial import
+android-testdpc/app/build.gradle,3f316bfec34fe20fb235f52a3b6182e9e7462593,yuemingw,Tue Jul 31 16:59:04 2018 +0100,Tue Jul 31 16:59:04 2018 +0100,Merge /usr/local/google/home/yuemingw/android/ub-testdpc-pic-release/vendor/unbundled_google/packages/TestDPC into new-version
+android-testdpc/app/build.gradle,89d1d8a6a1dd438368da4f2841376b7f439e3957,yuemingw,Thu May 3 10:35:27 2018 +0100,Tue May 8 14:16:13 2018 +0100,Release TestDpc 5.0.1 source code.
+android-testdpc/app/build.gradle,78bcb1a4135642ec9214da70669b3fea605d9584,Tony Mak,Thu Mar 15 19:33:24 2018 +0000,Thu Mar 15 19:36:08 2018 +0000,Release TestDPC 5.0.0 source code
+android-testdpc/app/build.gradle,d252de918d6bbee53dd92d50296464c7ad3f757c,Andrew Scull,Wed Dec 13 14:57:08 2017 +0000,Wed Dec 13 14:57:08 2017 +0000,Merge /usr/local/google/home/ascull/projects/ub-testdpc-oc-release/vendor/unbundled_google/packages/TestDPC into new-version
+android-testdpc/app/build.gradle,18cea73d1f5ebaad64c90adfbf1fb2a2e9e755c8,Andrew Scull,Fri Sep 1 14:44:56 2017 +0100,Fri Sep 1 14:44:56 2017 +0100,Merge /usr/local/google/home/ascull/ub-testdpc-oc-release/vendor/unbundled_google/packages/TestDPC into new-version
+android-testdpc/app/build.gradle,13632382fac24a2a75b3d59eb2cfe8c929373327,Tony Mak,Thu Jun 15 18:35:26 2017 +0100,Thu Jun 15 18:35:26 2017 +0100,Fix build.gradle
+android-testdpc/app/build.gradle,8d4dbeedec694b747ac9d69f93e80d6574faaa0a,Andrew Scull,Mon Jun 12 14:59:37 2017 +0100,Mon Jun 12 14:59:37 2017 +0100,Update build scripts for API 26
+android-testdpc/app/build.gradle,ba2ea49f0188a02def38efc0a96b32eb14a22c15,Andrew Scull,Mon Jun 12 14:50:44 2017 +0100,Mon Jun 12 14:50:44 2017 +0100,Merge /usr/local/google/home/ascull/projects/ub-testdpc-oc-release/vendor/unbundled_google/packages/TestDPC into new-version
+android-testdpc/app/build.gradle,ec115a3db0f88268a1ceba75fa1c8e61972119f4,Andrew Scull,Fri Jun 2 15:49:30 2017 +0100,Fri Jun 2 15:49:30 2017 +0100,Update build config.
+android-testdpc/app/build.gradle,6396db3bcde68ece43920a78cc2fc5cb7de6ef11,Andrew Scull,Fri Jun 2 15:42:08 2017 +0100,Fri Jun 2 15:42:08 2017 +0100,Merge /usr/local/google/home/ascull/projects/ub-testdpc-oc-release/vendor/unbundled_google/packages/TestDPC into new-version
+android-testdpc/app/build.gradle,b6e0e921bc7f66f7d396a56b9bea81156b554365,Tony Mak,Sat May 20 08:58:18 2017 +0100,Sat May 20 08:58:18 2017 +0100,Fix testdpc target25 build flavor can't be installed in pre-O devices
+android-testdpc/app/build.gradle,a47cdfb8abf61a8662dd03eec1cd481ec53c8410,Andrew Scull,Fri May 19 19:48:09 2017 +0100,Fri May 19 19:48:09 2017 +0100,Merge branch 'release' of /usr/local/google/home/ascull/projects/ub-testdpc-oc-release/vendor/unbundled_google/packages/TestDPC into new-version
+android-testdpc/app/build.gradle,41897d9df5d8ad883d7b3c88ddd6a0a5d36b549f,Andrew Scull,Wed May 17 17:19:45 2017 +0100,Wed May 17 17:19:45 2017 +0100,Update build tools version.
+android-testdpc/app/build.gradle,d60049149e830f18c067dd420be43fe3f2d15b19,Andrew Scull,Wed May 17 16:26:53 2017 +0100,Wed May 17 16:26:53 2017 +0100,Merge /usr/local/google/home/ascull/projects/ub-testdpc-oc-release/vendor/unbundled_google/packages/TestDPC into dp2
+android-testdpc/app/build.gradle,10a2353291962e12e362ac68193ffcbf7160eaef,Tony Mak,Fri Mar 24 11:41:30 2017 +0000,Fri Mar 24 11:43:05 2017 +0000,Update compileSdkVersion and buildToolsVersion and Readme file
+android-testdpc/app/build.gradle,5946da7cc2f56541149be4499805fedf7d9c179d,Tony Mak,Fri Mar 24 11:32:30 2017 +0000,Fri Mar 24 11:41:06 2017 +0000,Pulling TestDPC 4.0.0 source
+android-testdpc/app/build.gradle,5b8297e9d51983a774ba3391e28a6aa35ca3f062,Tony Mak,Thu Aug 11 21:25:05 2016 +0100,Thu Aug 11 21:25:05 2016 +0100,Upstream 3.0.11 source
+android-testdpc/app/build.gradle,79db80f2c89c6e28ee97c376aec15a5457d74440,Andrew Scull,Wed Jul 20 15:42:40 2016 +0100,Wed Jul 20 15:42:40 2016 +0100,Upstream 3.0.9 source
+android-testdpc/app/build.gradle,f1f3a5db268c7b129f0ac8c1e8820c2dd9326a41,Tony Mak,Thu Jun 9 13:16:20 2016 +0100,Thu Jun 9 13:16:20 2016 +0100,Upstream 3.0.8 source
+android-testdpc/app/build.gradle,fe17b52ccfb3e3e4d4362d38da13e56a75db15a4,Tony Mak,Wed May 18 17:45:10 2016 +0100,Wed May 18 17:45:10 2016 +0100,Upstream 3.0.3 source
+android-testdpc/app/build.gradle,3f80a582c2083ad4ac479ac4ee5d020939a62c95,Tony Mak,Thu Apr 14 16:58:06 2016 +0100,Thu Apr 14 16:58:06 2016 +0100,Bump version to 3.0.2
+android-testdpc/app/build.gradle,5e6f0e81c534535f835889979058a8403979b930,Tony Mak,Wed Apr 13 23:54:01 2016 +0100,Wed Apr 13 23:54:01 2016 +0100,Merge /media/tonymak/SSD/testdpc-release/vendor/unbundled_google/packages/TestDPC
+android-testdpc/app/build.gradle,41676fa1b815ecaecea73709aef5c96129b7e90e,Tony Mak,Thu Mar 10 11:55:07 2016 +0000,Thu Mar 10 11:55:07 2016 +0000,Upload version 3.0.0
+android-testdpc/app/build.gradle,ba1789073334d9ab9e70ac98b49dd0621cae3467,Sudheer,Thu Oct 15 21:34:30 2015 +0100,Thu Oct 15 21:36:33 2015 +0100,Upload version 2.0.6
+android-testdpc/app/build.gradle,efdf008b354cde06a04e6183228168efcfe7e209,Sudheer,Fri Oct 9 14:39:36 2015 +0100,Fri Oct 9 17:12:41 2015 +0100,Upload version-2
+android-testdpc/app/build.gradle,2bd01e29b0246f3a48624c40d4cf7bf910621d8d,Eric Tang,Tue Jul 28 17:56:51 2015 +0100,Tue Jul 28 17:56:51 2015 +0100,Update NetworkUsageStat => NetworkStat
+android-testdpc/app/build.gradle,966c93d3eaa99de67024c3b50ade3a13f0e4fb2b,Eric Tang,Wed May 27 15:41:20 2015 +0100,Wed May 27 15:41:20 2015 +0100,Merge branch 'master' of ../testdpc-clone-temp
+android-testdpc/app/build.gradle,3bafcfc0925bf719119ba18c4afe0f4ac2061aa9,Eric Tang,Wed May 27 15:41:03 2015 +0100,Wed May 27 15:41:03 2015 +0100,remove all files to prepare for re-import
+android-testdpc/app/build.gradle,5fc6229fcffda4ec237b37561276c286daf6afc6,Eric Tang,Fri May 15 16:46:00 2015 +0100,Fri May 15 16:46:00 2015 +0100,initial import

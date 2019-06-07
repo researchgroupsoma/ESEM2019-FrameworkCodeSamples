@@ -1,0 +1,121 @@
+gs-accessing-data-rest/complete/pom.xml,c6e3625d426908a0b58d21e63e71ed45f58b1777,Greg Turnquist,Mon Sep 17 10:49:16 2018 -0500,Mon Sep 17 10:59:10 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-accessing-data-rest/complete/pom.xml,ad914e45fd39482ba62e0a47f34833570be92479,Greg Turnquist,Mon Jun 18 16:15:24 2018 -0500,Mon Jun 18 16:15:24 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-accessing-data-rest/complete/pom.xml,1f5e17100604eb35f08f6cffc6d9e789991108d1,Greg Turnquist,Wed May 9 11:25:13 2018 -0500,Wed May 9 11:25:13 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-accessing-data-rest/complete/pom.xml,b655b0a2ded4b6eaaba8222404623b619521a007,Greg Turnquist,Thu Apr 5 11:43:41 2018 -0500,Thu Apr 5 11:43:41 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-accessing-data-rest/complete/pom.xml,761795ec285aa7755ec9878833c1485e27cf6661,Greg Turnquist,Thu Mar 1 09:47:47 2018 -0600,Thu Mar 1 09:47:47 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-accessing-data-rest/complete/pom.xml,022d01b1b874b4cbc90ff48e38e4fb2ae52c037e,Greg Turnquist,Wed Jan 31 09:14:52 2018 -0600,Wed Jan 31 09:14:52 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-accessing-data-rest/complete/pom.xml,889c982ac1501e0cad22a62b95475ed3a2e0c74e,Greg Turnquist,Thu Nov 30 11:05:38 2017 -0600,Thu Nov 30 11:05:38 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-accessing-data-rest/complete/pom.xml,b18229f5f171b49082915e7e703432f7a4c3a8f6,Greg Turnquist,Tue Oct 17 15:41:33 2017 -0500,Tue Oct 17 15:41:33 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-accessing-data-rest/complete/pom.xml,751ed73bfb2fc85f7a38bcd4adbbf54fc7509420,Greg Turnquist,Wed Sep 13 13:14:33 2017 -0500,Wed Sep 13 13:14:33 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-accessing-data-rest/complete/pom.xml,404d616e2e0963267411d7270abf5c47e9e418da,Greg Turnquist,Thu Jul 27 10:03:40 2017 -0500,Thu Jul 27 10:03:40 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-accessing-data-rest/complete/pom.xml,9564059282a7d7266abfe1d75f734b51425c8c0f,Greg Turnquist,Wed Jul 26 12:22:24 2017 -0500,Wed Jul 26 12:22:24 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-accessing-data-rest/complete/pom.xml,9bd4ce5a813e101ec27cc9d80a2309d8c578ef95,Greg Turnquist,Fri Apr 21 09:19:23 2017 -0500,Fri Apr 21 09:19:23 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-accessing-data-rest/complete/pom.xml,b3d36085f99eaaf43d853728a7cb0eafe6e55f34,Greg Turnquist,Fri Mar 3 11:12:16 2017 -0600,Fri Mar 3 11:12:16 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-accessing-data-rest/complete/pom.xml,07d8b993da873dbc2c1155ab314ac18e68a534eb,Greg Turnquist,Mon Jan 30 23:27:49 2017 -0600,Mon Jan 30 23:27:49 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-accessing-data-rest/complete/pom.xml,cb8df7dc8e06281b3b01cdb21d45c172bffac86d,Greg Turnquist,Mon Jan 30 11:35:09 2017 -0600,Mon Jan 30 11:35:09 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-accessing-data-rest/complete/pom.xml,013bdf569c7205f0afc5351f4bfb97586b572c9d,Greg Turnquist,Thu Jan 26 12:46:40 2017 -0600,Thu Jan 26 12:46:40 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-accessing-data-rest/complete/pom.xml,23215565555fe8b8216e534d01b69e524d23b62b,Greg Turnquist,Thu Jan 26 12:36:04 2017 -0600,Thu Jan 26 12:36:04 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-accessing-data-rest/complete/pom.xml,484b510449af3cec2594593803db112a5439bb01,Greg Turnquist,Thu Dec 22 22:31:21 2016 -0600,Thu Dec 22 22:31:21 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-accessing-data-rest/complete/pom.xml,49773c09f1550decc5a891767b1ea44e6713ba19,Greg Turnquist,Tue Nov 8 11:51:45 2016 -0600,Tue Nov 8 12:01:57 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-accessing-data-rest/complete/pom.xml,ba8ac6279cbac4d657bfd9f20db2656bd28406eb,Greg Turnquist,Fri Sep 23 16:35:18 2016 -0500,Fri Sep 23 16:35:18 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-accessing-data-rest/complete/pom.xml,f860be281ab27400d6b7d0f4d708f5cbc4ad1e9c,Mark Paluch,Sat Aug 27 20:28:19 2016 +0200,Sat Aug 27 20:28:19 2016 +0200,Add tests
+gs-accessing-data-rest/complete/pom.xml,d10cb55c8bde7433c044befeeda877ee8b1d8410,Greg Turnquist,Tue Aug 2 06:48:23 2016 -0700,Tue Aug 2 06:48:23 2016 -0700,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-accessing-data-rest/complete/pom.xml,f2833524daa1ca35a9927895c2a8577aa2091f03,Greg Turnquist,Thu Jul 28 06:52:19 2016 -0500,Thu Jul 28 06:52:19 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-accessing-data-rest/complete/pom.xml,39b73685e5407f21b5853499bb0544573210123f,Greg Turnquist,Tue Jul 5 13:51:45 2016 -0500,Tue Jul 5 13:51:45 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-accessing-data-rest/complete/pom.xml,679870f99568362f4b5234783e3d9747a73f6958,Greg Turnquist,Tue May 10 10:25:52 2016 -0500,Tue May 10 10:25:52 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-accessing-data-rest/complete/pom.xml,9599843860ab2880e7817adfe77929d436f8214f,Greg Turnquist,Fri May 6 09:48:13 2016 -0500,Fri May 6 09:48:13 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-accessing-data-rest/complete/pom.xml,36f8b91a16862c190448d370273795b64b7fb01e,Greg Turnquist,Fri Feb 26 07:29:12 2016 -0600,Fri Feb 26 07:29:12 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-accessing-data-rest/complete/pom.xml,d41e804613fa28e6870c0346668f42350587b279,Greg Turnquist,Thu Jan 21 21:28:13 2016 -0600,Thu Jan 21 21:28:13 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-accessing-data-rest/complete/pom.xml,a624f6801a212b84c5a6fb8e02e8d089529e89d9,Greg Turnquist,Fri Dec 18 09:39:43 2015 -0600,Fri Dec 18 09:39:43 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-accessing-data-rest/complete/pom.xml,0c6944a6c7dd6e75e6293d54503199d15419a18c,Greg Turnquist,Mon Nov 16 11:10:11 2015 -0600,Mon Nov 16 11:10:11 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-accessing-data-rest/complete/pom.xml,c1f0913523d12dc2a83b29b7fd4be8e8c1e91223,Greg Turnquist,Fri Oct 16 09:43:12 2015 -0400,Fri Oct 16 09:43:12 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-accessing-data-rest/complete/pom.xml,b714e6ad73b4111c8b2db1661f7799f9a3eb29e4,Greg Turnquist,Sun Sep 20 15:41:09 2015 -0500,Sun Sep 20 15:41:09 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-accessing-data-rest/complete/pom.xml,5a7e9c1a260762498f36008dd2b4d09332919a87,Greg Turnquist,Thu Jul 2 08:45:19 2015 -0500,Thu Jul 2 08:45:19 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-accessing-data-rest/complete/pom.xml,eb4f8d6ccc85ca929cfccb1a4b65106a7a05b318,Greg Turnquist,Mon Jun 15 13:59:15 2015 -0400,Mon Jun 15 13:59:15 2015 -0400,Fix build
+gs-accessing-data-rest/complete/pom.xml,af5639bcdde10afa4340888761fffc08aef2e2b1,Greg Turnquist,Fri Jun 12 14:02:20 2015 -0400,Fri Jun 12 14:02:20 2015 -0400,Upgrade non-specific guides to Java 8
+gs-accessing-data-rest/complete/pom.xml,6b135cd4e59365742f5fe4d029a8045ef5a0bfd2,Greg Turnquist,Tue Jun 9 09:41:27 2015 -0400,Tue Jun 9 09:41:27 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-accessing-data-rest/complete/pom.xml,1d6d47974b289b756870d4cbbf9309356383c1a8,Greg Turnquist,Tue May 26 10:54:29 2015 -0500,Tue May 26 10:54:29 2015 -0500,Remove encodings because they are supplied by the starter POM
+gs-accessing-data-rest/complete/pom.xml,f595d2734c41c68f4b1965960d1da6a9b22a9d95,Greg Turnquist,Tue Mar 31 16:55:48 2015 -0500,Tue Mar 31 16:57:48 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-accessing-data-rest/complete/pom.xml,acb552c202d9b02db9f4a04badf5e5ff066ee033,Greg Turnquist,Thu Feb 26 22:39:15 2015 -0600,Thu Feb 26 22:39:15 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-accessing-data-rest/complete/pom.xml,9cb52412de4481536a7b60fdcc98257ba9c15293,Greg Turnquist,Wed Feb 18 11:07:34 2015 -0600,Wed Feb 18 11:07:34 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-accessing-data-rest/complete/pom.xml,dd5d66786922cb21568fe09ecbf2d455c6cddc49,Greg Turnquist,Wed Jan 14 12:33:40 2015 -0600,Wed Jan 14 12:33:40 2015 -0600,Remove legacy start-class property from maven builds
+gs-accessing-data-rest/complete/pom.xml,fc8a2ede703037e27716dd9b010e562e809d087e,Greg Turnquist,Thu Dec 11 11:07:29 2014 -0600,Thu Dec 11 11:07:29 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-accessing-data-rest/complete/pom.xml,a51b94ccf6a31c2db22c879bc3e80256f5f7e44f,Greg Turnquist,Thu Nov 20 10:14:47 2014 -0600,Thu Nov 20 10:14:47 2014 -0600,Convert to use https for repositories
+gs-accessing-data-rest/complete/pom.xml,a1ae97ae7cfc91e139f17f17c3d7ba03f4784f55,Greg Turnquist,Wed Nov 12 13:07:46 2014 -0600,Wed Nov 12 13:07:46 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-accessing-data-rest/complete/pom.xml,bbad48f12732a27d4481e810782c7e267328e8eb,Greg Turnquist,Fri Oct 10 22:04:45 2014 -0500,Fri Oct 10 22:04:45 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-accessing-data-rest/complete/pom.xml,0fb24fd2e6a4ab886a39920951bc987814cf12bb,Greg Turnquist,Mon Sep 29 12:42:11 2014 -0500,Mon Sep 29 12:42:11 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-accessing-data-rest/complete/pom.xml,22f236035c1196f172a68c8159d36c571f260d05,Greg Turnquist,Fri Sep 5 11:13:31 2014 -0500,Fri Sep 5 11:13:31 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-accessing-data-rest/complete/pom.xml,e09cde0de33e734158007bdd9edbacaa3122b45f,Greg Turnquist,Fri Aug 8 22:12:07 2014 -0500,Fri Aug 8 22:12:07 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-accessing-data-rest/complete/pom.xml,0230ae0744235e8635d9245619da91c02a8b11fa,Greg Turnquist,Tue Jul 8 15:41:27 2014 -0500,Tue Jul 8 15:41:27 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-accessing-data-rest/complete/pom.xml,8ed441fc5f76f8ae0414f3e9c36529dbafb26efa,Greg Turnquist,Fri Jun 27 22:54:54 2014 -0400,Fri Jun 27 22:54:54 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-accessing-data-rest/complete/pom.xml,d76b41af9e9c42dcff3c54109096008be10d4004,Greg Turnquist,Tue Jun 24 19:53:43 2014 -0400,Tue Jun 24 19:53:43 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-accessing-data-rest/complete/pom.xml,5a209af51b5af7b8affd9914801e1ec105eed060,Greg Turnquist,Wed Jun 11 16:47:51 2014 -0500,Wed Jun 11 16:47:51 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-accessing-data-rest/complete/pom.xml,339929f57f130ed328405a63b9f81823c8f676b9,Greg Turnquist,Wed Jun 11 09:08:43 2014 -0500,Wed Jun 11 09:08:43 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-accessing-data-rest/complete/pom.xml,020ee76291ba55d440087acca5afdfeca16cfd83,Greg Turnquist,Tue Jun 10 19:16:06 2014 -0500,Tue Jun 10 19:16:06 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-accessing-data-rest/complete/pom.xml,7c098112867a101876c20ac287b3bae762d6b8f3,Greg Turnquist,Thu Apr 24 09:36:40 2014 -0500,Thu Apr 24 09:36:40 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-accessing-data-rest/complete/pom.xml,74bc3aa740ea73da1606856d2b88c2b4ff648b2a,Greg Turnquist,Mon Apr 7 10:09:09 2014 -0500,Mon Apr 7 10:09:09 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-accessing-data-rest/complete/pom.xml,08f7631d1af12e245728e0717ce43be6bf45fb7a,Greg Turnquist,Tue Apr 1 15:10:51 2014 -0500,Tue Apr 1 15:10:51 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-accessing-data-rest/complete/pom.xml,ac0c67c571f09c4ef73861e2552d4422f8c46eac,Greg Turnquist,Sat Mar 22 07:17:32 2014 -0500,Sat Mar 22 07:17:32 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-accessing-data-rest/complete/pom.xml,fc58a92fba8738fa7f79414cc1ced3821bf7f9b7,Greg Turnquist,Tue Mar 4 15:08:46 2014 -0500,Tue Mar 4 15:08:46 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-accessing-data-rest/complete/pom.xml,250a6ffd6ebf09b85b10e241d51ac26da77d1075,Greg Turnquist,Wed Feb 26 16:01:29 2014 -0500,Wed Feb 26 16:01:29 2014 -0500,Write the guide
+gs-accessing-data-rest/complete/pom.xml,ff6c866964eaa8cb55fecbfde337588e571fda77,Greg Turnquist,Mon Feb 24 16:13:23 2014 -0500,Mon Feb 24 16:13:23 2014 -0500,Initial commit
+gs-accessing-data-rest/initial/pom.xml,c6e3625d426908a0b58d21e63e71ed45f58b1777,Greg Turnquist,Mon Sep 17 10:49:16 2018 -0500,Mon Sep 17 10:59:10 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-accessing-data-rest/initial/pom.xml,ad914e45fd39482ba62e0a47f34833570be92479,Greg Turnquist,Mon Jun 18 16:15:24 2018 -0500,Mon Jun 18 16:15:24 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-accessing-data-rest/initial/pom.xml,1f5e17100604eb35f08f6cffc6d9e789991108d1,Greg Turnquist,Wed May 9 11:25:13 2018 -0500,Wed May 9 11:25:13 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-accessing-data-rest/initial/pom.xml,b655b0a2ded4b6eaaba8222404623b619521a007,Greg Turnquist,Thu Apr 5 11:43:41 2018 -0500,Thu Apr 5 11:43:41 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-accessing-data-rest/initial/pom.xml,761795ec285aa7755ec9878833c1485e27cf6661,Greg Turnquist,Thu Mar 1 09:47:47 2018 -0600,Thu Mar 1 09:47:47 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-accessing-data-rest/initial/pom.xml,022d01b1b874b4cbc90ff48e38e4fb2ae52c037e,Greg Turnquist,Wed Jan 31 09:14:52 2018 -0600,Wed Jan 31 09:14:52 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-accessing-data-rest/initial/pom.xml,889c982ac1501e0cad22a62b95475ed3a2e0c74e,Greg Turnquist,Thu Nov 30 11:05:38 2017 -0600,Thu Nov 30 11:05:38 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-accessing-data-rest/initial/pom.xml,b18229f5f171b49082915e7e703432f7a4c3a8f6,Greg Turnquist,Tue Oct 17 15:41:33 2017 -0500,Tue Oct 17 15:41:33 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-accessing-data-rest/initial/pom.xml,751ed73bfb2fc85f7a38bcd4adbbf54fc7509420,Greg Turnquist,Wed Sep 13 13:14:33 2017 -0500,Wed Sep 13 13:14:33 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-accessing-data-rest/initial/pom.xml,404d616e2e0963267411d7270abf5c47e9e418da,Greg Turnquist,Thu Jul 27 10:03:40 2017 -0500,Thu Jul 27 10:03:40 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-accessing-data-rest/initial/pom.xml,9564059282a7d7266abfe1d75f734b51425c8c0f,Greg Turnquist,Wed Jul 26 12:22:24 2017 -0500,Wed Jul 26 12:22:24 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-accessing-data-rest/initial/pom.xml,9bd4ce5a813e101ec27cc9d80a2309d8c578ef95,Greg Turnquist,Fri Apr 21 09:19:23 2017 -0500,Fri Apr 21 09:19:23 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-accessing-data-rest/initial/pom.xml,b3d36085f99eaaf43d853728a7cb0eafe6e55f34,Greg Turnquist,Fri Mar 3 11:12:16 2017 -0600,Fri Mar 3 11:12:16 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-accessing-data-rest/initial/pom.xml,07d8b993da873dbc2c1155ab314ac18e68a534eb,Greg Turnquist,Mon Jan 30 23:27:49 2017 -0600,Mon Jan 30 23:27:49 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-accessing-data-rest/initial/pom.xml,cb8df7dc8e06281b3b01cdb21d45c172bffac86d,Greg Turnquist,Mon Jan 30 11:35:09 2017 -0600,Mon Jan 30 11:35:09 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-accessing-data-rest/initial/pom.xml,013bdf569c7205f0afc5351f4bfb97586b572c9d,Greg Turnquist,Thu Jan 26 12:46:40 2017 -0600,Thu Jan 26 12:46:40 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-accessing-data-rest/initial/pom.xml,23215565555fe8b8216e534d01b69e524d23b62b,Greg Turnquist,Thu Jan 26 12:36:04 2017 -0600,Thu Jan 26 12:36:04 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-accessing-data-rest/initial/pom.xml,484b510449af3cec2594593803db112a5439bb01,Greg Turnquist,Thu Dec 22 22:31:21 2016 -0600,Thu Dec 22 22:31:21 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-accessing-data-rest/initial/pom.xml,49773c09f1550decc5a891767b1ea44e6713ba19,Greg Turnquist,Tue Nov 8 11:51:45 2016 -0600,Tue Nov 8 12:01:57 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-accessing-data-rest/initial/pom.xml,ba8ac6279cbac4d657bfd9f20db2656bd28406eb,Greg Turnquist,Fri Sep 23 16:35:18 2016 -0500,Fri Sep 23 16:35:18 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-accessing-data-rest/initial/pom.xml,f860be281ab27400d6b7d0f4d708f5cbc4ad1e9c,Mark Paluch,Sat Aug 27 20:28:19 2016 +0200,Sat Aug 27 20:28:19 2016 +0200,Add tests
+gs-accessing-data-rest/initial/pom.xml,d10cb55c8bde7433c044befeeda877ee8b1d8410,Greg Turnquist,Tue Aug 2 06:48:23 2016 -0700,Tue Aug 2 06:48:23 2016 -0700,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-accessing-data-rest/initial/pom.xml,f2833524daa1ca35a9927895c2a8577aa2091f03,Greg Turnquist,Thu Jul 28 06:52:19 2016 -0500,Thu Jul 28 06:52:19 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-accessing-data-rest/initial/pom.xml,39b73685e5407f21b5853499bb0544573210123f,Greg Turnquist,Tue Jul 5 13:51:45 2016 -0500,Tue Jul 5 13:51:45 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-accessing-data-rest/initial/pom.xml,679870f99568362f4b5234783e3d9747a73f6958,Greg Turnquist,Tue May 10 10:25:52 2016 -0500,Tue May 10 10:25:52 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-accessing-data-rest/initial/pom.xml,9599843860ab2880e7817adfe77929d436f8214f,Greg Turnquist,Fri May 6 09:48:13 2016 -0500,Fri May 6 09:48:13 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-accessing-data-rest/initial/pom.xml,36f8b91a16862c190448d370273795b64b7fb01e,Greg Turnquist,Fri Feb 26 07:29:12 2016 -0600,Fri Feb 26 07:29:12 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-accessing-data-rest/initial/pom.xml,d41e804613fa28e6870c0346668f42350587b279,Greg Turnquist,Thu Jan 21 21:28:13 2016 -0600,Thu Jan 21 21:28:13 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-accessing-data-rest/initial/pom.xml,a624f6801a212b84c5a6fb8e02e8d089529e89d9,Greg Turnquist,Fri Dec 18 09:39:43 2015 -0600,Fri Dec 18 09:39:43 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-accessing-data-rest/initial/pom.xml,0c6944a6c7dd6e75e6293d54503199d15419a18c,Greg Turnquist,Mon Nov 16 11:10:11 2015 -0600,Mon Nov 16 11:10:11 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-accessing-data-rest/initial/pom.xml,c1f0913523d12dc2a83b29b7fd4be8e8c1e91223,Greg Turnquist,Fri Oct 16 09:43:12 2015 -0400,Fri Oct 16 09:43:12 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-accessing-data-rest/initial/pom.xml,b714e6ad73b4111c8b2db1661f7799f9a3eb29e4,Greg Turnquist,Sun Sep 20 15:41:09 2015 -0500,Sun Sep 20 15:41:09 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-accessing-data-rest/initial/pom.xml,5a7e9c1a260762498f36008dd2b4d09332919a87,Greg Turnquist,Thu Jul 2 08:45:19 2015 -0500,Thu Jul 2 08:45:19 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-accessing-data-rest/initial/pom.xml,eb4f8d6ccc85ca929cfccb1a4b65106a7a05b318,Greg Turnquist,Mon Jun 15 13:59:15 2015 -0400,Mon Jun 15 13:59:15 2015 -0400,Fix build
+gs-accessing-data-rest/initial/pom.xml,af5639bcdde10afa4340888761fffc08aef2e2b1,Greg Turnquist,Fri Jun 12 14:02:20 2015 -0400,Fri Jun 12 14:02:20 2015 -0400,Upgrade non-specific guides to Java 8
+gs-accessing-data-rest/initial/pom.xml,6b135cd4e59365742f5fe4d029a8045ef5a0bfd2,Greg Turnquist,Tue Jun 9 09:41:27 2015 -0400,Tue Jun 9 09:41:27 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-accessing-data-rest/initial/pom.xml,1d6d47974b289b756870d4cbbf9309356383c1a8,Greg Turnquist,Tue May 26 10:54:29 2015 -0500,Tue May 26 10:54:29 2015 -0500,Remove encodings because they are supplied by the starter POM
+gs-accessing-data-rest/initial/pom.xml,f595d2734c41c68f4b1965960d1da6a9b22a9d95,Greg Turnquist,Tue Mar 31 16:55:48 2015 -0500,Tue Mar 31 16:57:48 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-accessing-data-rest/initial/pom.xml,acb552c202d9b02db9f4a04badf5e5ff066ee033,Greg Turnquist,Thu Feb 26 22:39:15 2015 -0600,Thu Feb 26 22:39:15 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-accessing-data-rest/initial/pom.xml,9cb52412de4481536a7b60fdcc98257ba9c15293,Greg Turnquist,Wed Feb 18 11:07:34 2015 -0600,Wed Feb 18 11:07:34 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-accessing-data-rest/initial/pom.xml,dd5d66786922cb21568fe09ecbf2d455c6cddc49,Greg Turnquist,Wed Jan 14 12:33:40 2015 -0600,Wed Jan 14 12:33:40 2015 -0600,Remove legacy start-class property from maven builds
+gs-accessing-data-rest/initial/pom.xml,fc8a2ede703037e27716dd9b010e562e809d087e,Greg Turnquist,Thu Dec 11 11:07:29 2014 -0600,Thu Dec 11 11:07:29 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-accessing-data-rest/initial/pom.xml,a51b94ccf6a31c2db22c879bc3e80256f5f7e44f,Greg Turnquist,Thu Nov 20 10:14:47 2014 -0600,Thu Nov 20 10:14:47 2014 -0600,Convert to use https for repositories
+gs-accessing-data-rest/initial/pom.xml,a1ae97ae7cfc91e139f17f17c3d7ba03f4784f55,Greg Turnquist,Wed Nov 12 13:07:46 2014 -0600,Wed Nov 12 13:07:46 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-accessing-data-rest/initial/pom.xml,bbad48f12732a27d4481e810782c7e267328e8eb,Greg Turnquist,Fri Oct 10 22:04:45 2014 -0500,Fri Oct 10 22:04:45 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-accessing-data-rest/initial/pom.xml,0fb24fd2e6a4ab886a39920951bc987814cf12bb,Greg Turnquist,Mon Sep 29 12:42:11 2014 -0500,Mon Sep 29 12:42:11 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-accessing-data-rest/initial/pom.xml,22f236035c1196f172a68c8159d36c571f260d05,Greg Turnquist,Fri Sep 5 11:13:31 2014 -0500,Fri Sep 5 11:13:31 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-accessing-data-rest/initial/pom.xml,e09cde0de33e734158007bdd9edbacaa3122b45f,Greg Turnquist,Fri Aug 8 22:12:07 2014 -0500,Fri Aug 8 22:12:07 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-accessing-data-rest/initial/pom.xml,0230ae0744235e8635d9245619da91c02a8b11fa,Greg Turnquist,Tue Jul 8 15:41:27 2014 -0500,Tue Jul 8 15:41:27 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-accessing-data-rest/initial/pom.xml,8ed441fc5f76f8ae0414f3e9c36529dbafb26efa,Greg Turnquist,Fri Jun 27 22:54:54 2014 -0400,Fri Jun 27 22:54:54 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-accessing-data-rest/initial/pom.xml,d76b41af9e9c42dcff3c54109096008be10d4004,Greg Turnquist,Tue Jun 24 19:53:43 2014 -0400,Tue Jun 24 19:53:43 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-accessing-data-rest/initial/pom.xml,5a209af51b5af7b8affd9914801e1ec105eed060,Greg Turnquist,Wed Jun 11 16:47:51 2014 -0500,Wed Jun 11 16:47:51 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-accessing-data-rest/initial/pom.xml,339929f57f130ed328405a63b9f81823c8f676b9,Greg Turnquist,Wed Jun 11 09:08:43 2014 -0500,Wed Jun 11 09:08:43 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-accessing-data-rest/initial/pom.xml,020ee76291ba55d440087acca5afdfeca16cfd83,Greg Turnquist,Tue Jun 10 19:16:06 2014 -0500,Tue Jun 10 19:16:06 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-accessing-data-rest/initial/pom.xml,7c098112867a101876c20ac287b3bae762d6b8f3,Greg Turnquist,Thu Apr 24 09:36:40 2014 -0500,Thu Apr 24 09:36:40 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-accessing-data-rest/initial/pom.xml,74bc3aa740ea73da1606856d2b88c2b4ff648b2a,Greg Turnquist,Mon Apr 7 10:09:09 2014 -0500,Mon Apr 7 10:09:09 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-accessing-data-rest/initial/pom.xml,08f7631d1af12e245728e0717ce43be6bf45fb7a,Greg Turnquist,Tue Apr 1 15:10:51 2014 -0500,Tue Apr 1 15:10:51 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-accessing-data-rest/initial/pom.xml,ac0c67c571f09c4ef73861e2552d4422f8c46eac,Greg Turnquist,Sat Mar 22 07:17:32 2014 -0500,Sat Mar 22 07:17:32 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-accessing-data-rest/initial/pom.xml,fc58a92fba8738fa7f79414cc1ced3821bf7f9b7,Greg Turnquist,Tue Mar 4 15:08:46 2014 -0500,Tue Mar 4 15:08:46 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-accessing-data-rest/initial/pom.xml,250a6ffd6ebf09b85b10e241d51ac26da77d1075,Greg Turnquist,Wed Feb 26 16:01:29 2014 -0500,Wed Feb 26 16:01:29 2014 -0500,Write the guide

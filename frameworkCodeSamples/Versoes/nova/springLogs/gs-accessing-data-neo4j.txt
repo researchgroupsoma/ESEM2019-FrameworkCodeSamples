@@ -1,0 +1,166 @@
+gs-accessing-data-neo4j/complete/pom.xml,8ed42573ddb1c71e7027189f4dd5da8c2ff55171,Greg Turnquist,Mon Sep 17 10:49:12 2018 -0500,Mon Sep 17 10:49:12 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-accessing-data-neo4j/complete/pom.xml,67802164c9eb5a46e37556be6cbf661e4cf0ce93,Greg Turnquist,Mon Jun 18 16:15:21 2018 -0500,Mon Jun 18 16:15:21 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,3a440c33a29e5116972631722369989b41ca3b3f,Greg Turnquist,Wed May 9 11:25:10 2018 -0500,Wed May 9 11:25:10 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-accessing-data-neo4j/complete/pom.xml,6091d651d108d3904be71483d9ca60816bfe28c0,Greg Turnquist,Thu Apr 5 11:43:38 2018 -0500,Thu Apr 5 11:43:38 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,0751e1109138bff1280bb1c87b9df2bde1dc09b2,Greg Turnquist,Thu Mar 1 09:47:42 2018 -0600,Mon Mar 5 14:18:06 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,b6e82e999ab6b9ab0bd8cd23ac23131a75d1d5ee,Greg Turnquist,Wed Jan 31 09:14:50 2018 -0600,Wed Jan 31 09:14:50 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,2254961fa3ff9d7afba8d0a2f25385f1be73292f,Greg Turnquist,Thu Nov 30 11:05:36 2017 -0600,Thu Nov 30 11:05:36 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,e1057271e5677785cbfd3a6453661d5d30e412bd,Greg Turnquist,Tue Oct 17 15:41:30 2017 -0500,Tue Oct 17 15:41:30 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,b298ef1c1de2807e46f4d8f4e1ce2a6bc34a79b3,Greg Turnquist,Wed Sep 13 13:14:31 2017 -0500,Wed Sep 13 13:14:31 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,cbcf166b13bf5e3726e727ea3e3d283096009647,Greg Turnquist,Thu Jul 27 10:03:34 2017 -0500,Thu Jul 27 10:03:34 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,85b25ee0ecedd7d4f45ef7f81c273dbe43a2327f,Greg Turnquist,Wed Jul 26 12:22:21 2017 -0500,Wed Jul 26 12:22:21 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,342d917c0c16cf69ab74843d1d7f6591fa17672f,Greg Turnquist,Fri Apr 21 09:19:21 2017 -0500,Fri Apr 21 09:19:21 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,0ade2b072bd9ea360b5c18453ddb95f67da2e335,Greg Turnquist,Fri Mar 3 11:12:14 2017 -0600,Fri Mar 3 11:12:14 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,15fdaa428a468a0aa4b32ee138f233891498b6bf,Greg Turnquist,Mon Jan 30 23:27:46 2017 -0600,Mon Jan 30 23:27:46 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,4a6262ccd3a2446c3bdd5f8c731709bbce54ce8d,Greg Turnquist,Mon Jan 30 11:34:56 2017 -0600,Mon Jan 30 11:34:56 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,11879ef538bc335dac81dc02926e1796e54298b8,Greg Turnquist,Thu Jan 26 12:46:37 2017 -0600,Thu Jan 26 12:46:37 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,e1dcdc4fbd25f840e054c20cfb5a3587e2c95827,Greg Turnquist,Thu Jan 26 12:36:00 2017 -0600,Thu Jan 26 12:36:00 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,1bf8bc53077943811618c8dcc80d3c142e0e2e39,Greg Turnquist,Thu Dec 22 22:31:19 2016 -0600,Thu Dec 22 22:31:19 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,443f962d2fee800d2762bd10b419c45def8092c3,Greg Turnquist,Tue Nov 8 11:51:43 2016 -0600,Tue Nov 8 11:51:43 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,9654d008666ef7fe1efe8553fe7aebcff9c77489,Greg Turnquist,Mon Oct 3 12:31:11 2016 -0500,Mon Oct 3 12:31:11 2016 -0500,Migrate from embedded to HTTP-based community edition of Neo4j
+gs-accessing-data-neo4j/complete/pom.xml,722d6cc6560e5235b80a1d5e3308263d9f4e5455,Greg Turnquist,Fri Sep 23 16:35:16 2016 -0500,Fri Sep 23 16:35:16 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,4db129259592603b1129ccc474b342b3f700f5e3,Zoltan Altfatter,Tue Sep 20 21:16:32 2016 +0200,Tue Sep 20 14:16:32 2016 -0500,small fixes (#20)
+gs-accessing-data-neo4j/complete/pom.xml,def4922c27c799be69970109914dba54418b6937,Mark Paluch,Sun Aug 28 14:21:01 2016 +0200,Sun Aug 28 14:25:26 2016 +0200,Upgrade to Spring Data Neo4j 4.1
+gs-accessing-data-neo4j/complete/pom.xml,65c96966ade36ee083e81567cf352b156048d7f2,Greg Turnquist,Tue Aug 2 06:48:21 2016 -0700,Tue Aug 2 06:48:21 2016 -0700,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,bb373830d6b371291604bcb1bdad742dc204442a,Greg Turnquist,Thu Jul 28 06:52:17 2016 -0500,Thu Jul 28 06:52:17 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,6c7bf069716d263b83fdb03d8e8f34c46e593013,Greg Turnquist,Tue Jul 5 13:51:44 2016 -0500,Tue Jul 5 13:51:44 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,0c765da3a5218b595db6df3ecabaa36f16ff834a,Greg Turnquist,Tue May 10 10:25:50 2016 -0500,Tue May 10 10:25:50 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,c0b5e87f0aff3785ebac94824a292b699d1aaf0b,Greg Turnquist,Fri May 6 09:48:12 2016 -0500,Fri May 6 09:48:12 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,785f452bc09c50bb8ef8a559caccb274995dd5b5,Greg Turnquist,Fri Mar 11 11:10:38 2016 -0600,Fri Mar 11 11:10:38 2016 -0600,Clean up this guide
+gs-accessing-data-neo4j/complete/pom.xml,435c5b1b1a7a49415398ee4e0eefd13593cebe60,Greg Turnquist,Fri Feb 26 07:29:10 2016 -0600,Fri Feb 26 07:29:10 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,d8c85bdd775f708d7945f825d8488ea3ca86811c,Greg Turnquist,Thu Jan 21 21:28:12 2016 -0600,Thu Jan 21 21:28:12 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,abd968085962427511d269f736f4a71a813a80a5,Greg Turnquist,Fri Dec 18 09:39:42 2015 -0600,Fri Dec 18 09:39:42 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,2c04c47daab3c8f9aad5b3af5fbba6dd228c3f27,Greg Turnquist,Mon Nov 16 11:10:10 2015 -0600,Mon Nov 16 11:10:10 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,3decb5d53b21421e616189d434e6b62a5cd75ece,Greg Turnquist,Fri Oct 16 09:43:10 2015 -0400,Fri Oct 16 09:43:10 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,dd59865540080275ca3c40af6a17181fa662cab5,Greg Turnquist,Sun Sep 20 15:41:07 2015 -0500,Sun Sep 20 15:41:07 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,04fb0cb03cc9ffc7159802de930bc1ec30b85475,Greg Turnquist,Thu Jul 2 08:45:13 2015 -0500,Thu Jul 2 08:45:13 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,38698184b536296a02b344e5207aee13a2fed60c,Greg Turnquist,Fri Jun 12 14:02:04 2015 -0400,Fri Jun 12 14:02:04 2015 -0400,Upgrade non-specific guides to Java 8
+gs-accessing-data-neo4j/complete/pom.xml,8c64a6e82dfbaebb1b06ebc17440dccd1fe5ee32,Greg Turnquist,Tue Jun 9 09:41:26 2015 -0400,Tue Jun 9 09:41:26 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-accessing-data-neo4j/complete/pom.xml,1cba7bea788e9fee5eecf74ebdec565afbf5e758,Greg Turnquist,Tue Mar 31 16:55:47 2015 -0500,Tue Mar 31 16:55:47 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,4dfac2df0a8e586e990c2b03dc844738d33ef18c,Greg Turnquist,Thu Feb 26 22:39:14 2015 -0600,Thu Feb 26 22:39:14 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,10fe7fbc46f7103c257d51bd322d6ebd01529207,Greg Turnquist,Wed Feb 25 10:52:38 2015 -0600,Wed Feb 25 10:52:38 2015 -0600,Fix neo4j dependencies
+gs-accessing-data-neo4j/complete/pom.xml,67b9d4f53588564b04dfedad2e3f5c95c040eb06,Thomas Darimont,Tue Feb 24 11:09:24 2015 +0100,Tue Feb 24 11:09:24 2015 +0100,Updated example to be able to use @SpringBootApplication.
+gs-accessing-data-neo4j/complete/pom.xml,126bf0799bed0fbc8e196649b3c5f6e6ee75cd69,Greg Turnquist,Wed Feb 18 11:07:32 2015 -0600,Wed Feb 18 11:07:32 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,499b52ecd2ca0a39de7a2e8c0ff241e0c1492b18,Greg Turnquist,Thu Dec 11 11:07:28 2014 -0600,Thu Dec 11 11:07:28 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,05092a0beeaf5e4c55559f914044d5c176d0d2cb,Greg Turnquist,Thu Nov 20 10:14:46 2014 -0600,Thu Nov 20 10:14:46 2014 -0600,Convert to use https for repositories
+gs-accessing-data-neo4j/complete/pom.xml,ae0cb106dfb0e24a3f5484f991747ef9b180d022,Greg Turnquist,Wed Nov 12 13:07:45 2014 -0600,Wed Nov 12 13:07:45 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,0085da4ba5b3a7c81b2a768aabb3026f86b65b7e,Greg Turnquist,Fri Oct 10 22:04:44 2014 -0500,Fri Oct 10 22:04:44 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,007a6c5b344053d0ef17d7b2b50fb40be9edd414,Greg Turnquist,Mon Sep 29 12:42:10 2014 -0500,Mon Sep 29 12:42:10 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,727621c16a7b3119e754d60ceaeed3600ee81300,Greg Turnquist,Fri Sep 5 11:13:30 2014 -0500,Fri Sep 5 11:13:30 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,bcb2f650e87d3aa57bd1be71fa643634b9c16335,Greg Turnquist,Fri Aug 8 22:12:06 2014 -0500,Fri Aug 8 22:12:06 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,f8c81309c154a3b87ec11d3140fcd1d7696f740e,Greg Turnquist,Tue Jul 8 15:41:26 2014 -0500,Tue Jul 8 15:41:26 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,885a8b022e5f1915905752b96ed6dbd8e4becf7e,Greg Turnquist,Fri Jun 27 22:54:53 2014 -0400,Fri Jun 27 22:54:53 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,1d416f570d6eeb9037dd838564903ed6346c562a,Greg Turnquist,Tue Jun 24 19:53:23 2014 -0400,Tue Jun 24 19:53:23 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,9493ebec7813a6828cf629d9f2025143413e86aa,Greg Turnquist,Thu Jun 12 09:40:45 2014 -0500,Thu Jun 12 09:40:45 2014 -0500,Upgrade neo4j version
+gs-accessing-data-neo4j/complete/pom.xml,75b47f16bde013291dd2733039b014ba79d4c69a,Greg Turnquist,Wed Jun 11 16:47:50 2014 -0500,Wed Jun 11 16:47:50 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,0f5a38850bd5cbd5d3b15e06c82970fd9d2a958c,Greg Turnquist,Wed Jun 11 09:08:42 2014 -0500,Wed Jun 11 09:08:42 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-accessing-data-neo4j/complete/pom.xml,2230ee5a9262ecc23f44124f23f757834f7de68a,Greg Turnquist,Tue Jun 10 19:16:05 2014 -0500,Tue Jun 10 19:16:05 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,93efa36dd9d117d87abf60d841d5eedeb8af27db,Greg Turnquist,Thu Apr 24 09:36:38 2014 -0500,Thu Apr 24 09:36:38 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,d1ab4ceb9d1280712162fed60ca0ab13dc882c2b,Greg Turnquist,Thu Apr 17 22:49:53 2014 -0500,Thu Apr 17 22:49:53 2014 -0500,Replace javax.validate with hibernate-validator
+gs-accessing-data-neo4j/complete/pom.xml,4c9239bdd210e50326ca140b08e4b2a444014d07,Greg Turnquist,Mon Apr 7 10:09:08 2014 -0500,Mon Apr 7 10:09:08 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,4ef4e680403e011cdebd4c3c611740ed00f45d27,Greg Turnquist,Tue Apr 1 16:07:56 2014 -0500,Tue Apr 1 16:07:56 2014 -0500,Fix overlapping version conflict
+gs-accessing-data-neo4j/complete/pom.xml,c3437552b49e7316cdc6acc300bf9ce93581bbf5,Greg Turnquist,Tue Apr 1 15:10:49 2014 -0500,Tue Apr 1 15:10:49 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-accessing-data-neo4j/complete/pom.xml,96ea25076e949a0d906fef2de49033f6ba899991,Greg Turnquist,Sat Mar 22 07:17:31 2014 -0500,Sat Mar 22 07:17:31 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-accessing-data-neo4j/complete/pom.xml,fa114719fba1828f7241ca02d4f56ab7c4eec0b0,Greg Turnquist,Tue Mar 4 15:08:45 2014 -0500,Tue Mar 4 15:08:45 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-accessing-data-neo4j/complete/pom.xml,3edadf361b3033ad0d985470b89812d90d69ed91,Greg Turnquist,Fri Feb 14 11:23:23 2014 -0600,Fri Feb 14 11:23:23 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-accessing-data-neo4j/complete/pom.xml,c8d17fb38c2202e9aab363c1ed1e6288d9fb136e,Greg Turnquist,Thu Feb 13 12:38:03 2014 -0600,Thu Feb 13 12:38:03 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-accessing-data-neo4j/complete/pom.xml,10178188170f7f87fff56429ceff113095f23d25,Greg Turnquist,Wed Jan 22 12:21:06 2014 -0600,Wed Jan 22 12:21:06 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-accessing-data-neo4j/complete/pom.xml,1cd28a4024de68e3f53ef6e416c426c115d460ad,Greg Turnquist,Thu Dec 5 15:52:06 2013 -0600,Thu Dec 5 15:52:06 2013 -0600,Resolves #8: Fix typo in artifact name
+gs-accessing-data-neo4j/complete/pom.xml,530f7d6b11088404bbb4b2c331da9d350422450c,Greg Turnquist,Thu Dec 5 15:19:13 2013 -0600,Thu Dec 5 15:19:13 2013 -0600,Resolves #5: Removing log4j deps fixed startup problem
+gs-accessing-data-neo4j/complete/pom.xml,b6b7cfc7b1907128ba757b6788d995ac5f2b6b64,Greg Turnquist,Tue Nov 19 16:12:57 2013 -0600,Tue Nov 19 16:12:57 2013 -0600,Upgrade to Spring Boot 0.5.0.M6 and switch over to maven macros
+gs-accessing-data-neo4j/complete/pom.xml,fa5c12e438a7d2379edbfcafd264764c867fe739,Greg Turnquist,Mon Nov 4 16:23:50 2013 -0600,Mon Nov 4 16:23:50 2013 -0600,Edit Application.java to use Spring Boot's SpringApplication.run()
+gs-accessing-data-neo4j/complete/pom.xml,9aa6cce059c7654a4434cac634b3b5b781f8e5bc,Greg Turnquist,Mon Nov 4 16:05:03 2013 -0600,Mon Nov 4 16:05:03 2013 -0600,Upgrade neo4j guide to Spring 4 and Boot
+gs-accessing-data-neo4j/complete/pom.xml,38108e2f63e71aafbaccda2cbaf10e0c15a7ebee,Roy Clarkson,Mon Nov 4 16:38:04 2013 -0500,Mon Nov 4 16:38:04 2013 -0500,Upgrade to maven compiler plugin 3.1
+gs-accessing-data-neo4j/complete/pom.xml,b6e63009de31509872f108d09dbdeda5e7055261,Roy Clarkson,Mon Nov 4 16:32:57 2013 -0500,Mon Nov 4 16:32:57 2013 -0500,Use libs-milestone instead of libs-snapshot
+gs-accessing-data-neo4j/complete/pom.xml,4e0ae48de8aa316619a3e3819d3fb005745f4b43,Roy Clarkson,Mon Nov 4 13:13:36 2013 -0800,Mon Nov 4 13:13:36 2013 -0800,Merge pull request #4 from kdvolder/fix-gh-issue-3
+gs-accessing-data-neo4j/complete/pom.xml,b1bbb115c9251d5e6f42b8b8ec07094bc8f71e74,Greg Turnquist,Mon Sep 30 08:18:36 2013 -0500,Mon Sep 30 08:18:36 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-accessing-data-neo4j/complete/pom.xml,4897500b08ce77aec52c8d423442075438c8a75c,Roy Clarkson,Fri Aug 16 14:12:12 2013 -0400,Fri Aug 16 14:12:12 2013 -0400,Update dependencies
+gs-accessing-data-neo4j/complete/pom.xml,6894d7854c07b6b6603821dd2aa8cd2830da3ca7,Roy Clarkson,Thu Aug 8 17:41:04 2013 -0400,Thu Aug 8 17:41:04 2013 -0400,Detab poms and source
+gs-accessing-data-neo4j/complete/pom.xml,352b22ac20b07a37760cceaf1f9c4fa0645d314a,Greg Turnquist,Thu Aug 8 15:28:00 2013 -0500,Thu Aug 8 15:28:00 2013 -0500,Explicitly specify version of maven-compiler-plugin
+gs-accessing-data-neo4j/complete/pom.xml,499caec90fc2ef6df2e3dc6259f6ed685c68e147,Greg Turnquist,Tue Aug 6 14:43:09 2013 -0500,Tue Aug 6 14:43:09 2013 -0500,Use libs-snapshot instead of snapshot
+gs-accessing-data-neo4j/complete/pom.xml,f1ba3069413ee821fe9882cdc26c67628748ae07,Greg Turnquist,Tue Aug 6 11:23:45 2013 -0500,Tue Aug 6 11:23:45 2013 -0500,Remove 'TODO' from pom.xml and rebuild guide
+gs-accessing-data-neo4j/complete/pom.xml,d3df138e34f9a85af1e1a77aba2bd4c8f61ea324,Greg Turnquist,Thu Jul 18 10:40:52 2013 -0400,Thu Jul 18 10:40:52 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-accessing-data-neo4j/complete/pom.xml,cc14ee77364f42f7bbed0a794b1285498e63ca85,Greg Turnquist,Fri Jun 21 15:04:44 2013 -0400,Fri Jun 21 15:04:44 2013 -0400,Update build system to use maven
+gs-accessing-data-neo4j/initial/pom.xml,8ed42573ddb1c71e7027189f4dd5da8c2ff55171,Greg Turnquist,Mon Sep 17 10:49:12 2018 -0500,Mon Sep 17 10:49:12 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-accessing-data-neo4j/initial/pom.xml,67802164c9eb5a46e37556be6cbf661e4cf0ce93,Greg Turnquist,Mon Jun 18 16:15:21 2018 -0500,Mon Jun 18 16:15:21 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,3a440c33a29e5116972631722369989b41ca3b3f,Greg Turnquist,Wed May 9 11:25:10 2018 -0500,Wed May 9 11:25:10 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-accessing-data-neo4j/initial/pom.xml,6091d651d108d3904be71483d9ca60816bfe28c0,Greg Turnquist,Thu Apr 5 11:43:38 2018 -0500,Thu Apr 5 11:43:38 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,0751e1109138bff1280bb1c87b9df2bde1dc09b2,Greg Turnquist,Thu Mar 1 09:47:42 2018 -0600,Mon Mar 5 14:18:06 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,b6e82e999ab6b9ab0bd8cd23ac23131a75d1d5ee,Greg Turnquist,Wed Jan 31 09:14:50 2018 -0600,Wed Jan 31 09:14:50 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,2254961fa3ff9d7afba8d0a2f25385f1be73292f,Greg Turnquist,Thu Nov 30 11:05:36 2017 -0600,Thu Nov 30 11:05:36 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,e1057271e5677785cbfd3a6453661d5d30e412bd,Greg Turnquist,Tue Oct 17 15:41:30 2017 -0500,Tue Oct 17 15:41:30 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,b298ef1c1de2807e46f4d8f4e1ce2a6bc34a79b3,Greg Turnquist,Wed Sep 13 13:14:31 2017 -0500,Wed Sep 13 13:14:31 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,cbcf166b13bf5e3726e727ea3e3d283096009647,Greg Turnquist,Thu Jul 27 10:03:34 2017 -0500,Thu Jul 27 10:03:34 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,85b25ee0ecedd7d4f45ef7f81c273dbe43a2327f,Greg Turnquist,Wed Jul 26 12:22:21 2017 -0500,Wed Jul 26 12:22:21 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,342d917c0c16cf69ab74843d1d7f6591fa17672f,Greg Turnquist,Fri Apr 21 09:19:21 2017 -0500,Fri Apr 21 09:19:21 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,0ade2b072bd9ea360b5c18453ddb95f67da2e335,Greg Turnquist,Fri Mar 3 11:12:14 2017 -0600,Fri Mar 3 11:12:14 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,15fdaa428a468a0aa4b32ee138f233891498b6bf,Greg Turnquist,Mon Jan 30 23:27:46 2017 -0600,Mon Jan 30 23:27:46 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,4a6262ccd3a2446c3bdd5f8c731709bbce54ce8d,Greg Turnquist,Mon Jan 30 11:34:56 2017 -0600,Mon Jan 30 11:34:56 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,11879ef538bc335dac81dc02926e1796e54298b8,Greg Turnquist,Thu Jan 26 12:46:37 2017 -0600,Thu Jan 26 12:46:37 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,e1dcdc4fbd25f840e054c20cfb5a3587e2c95827,Greg Turnquist,Thu Jan 26 12:36:00 2017 -0600,Thu Jan 26 12:36:00 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,1bf8bc53077943811618c8dcc80d3c142e0e2e39,Greg Turnquist,Thu Dec 22 22:31:19 2016 -0600,Thu Dec 22 22:31:19 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,443f962d2fee800d2762bd10b419c45def8092c3,Greg Turnquist,Tue Nov 8 11:51:43 2016 -0600,Tue Nov 8 11:51:43 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,9654d008666ef7fe1efe8553fe7aebcff9c77489,Greg Turnquist,Mon Oct 3 12:31:11 2016 -0500,Mon Oct 3 12:31:11 2016 -0500,Migrate from embedded to HTTP-based community edition of Neo4j
+gs-accessing-data-neo4j/initial/pom.xml,722d6cc6560e5235b80a1d5e3308263d9f4e5455,Greg Turnquist,Fri Sep 23 16:35:16 2016 -0500,Fri Sep 23 16:35:16 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,4db129259592603b1129ccc474b342b3f700f5e3,Zoltan Altfatter,Tue Sep 20 21:16:32 2016 +0200,Tue Sep 20 14:16:32 2016 -0500,small fixes (#20)
+gs-accessing-data-neo4j/initial/pom.xml,def4922c27c799be69970109914dba54418b6937,Mark Paluch,Sun Aug 28 14:21:01 2016 +0200,Sun Aug 28 14:25:26 2016 +0200,Upgrade to Spring Data Neo4j 4.1
+gs-accessing-data-neo4j/initial/pom.xml,65c96966ade36ee083e81567cf352b156048d7f2,Greg Turnquist,Tue Aug 2 06:48:21 2016 -0700,Tue Aug 2 06:48:21 2016 -0700,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,bb373830d6b371291604bcb1bdad742dc204442a,Greg Turnquist,Thu Jul 28 06:52:17 2016 -0500,Thu Jul 28 06:52:17 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,6c7bf069716d263b83fdb03d8e8f34c46e593013,Greg Turnquist,Tue Jul 5 13:51:44 2016 -0500,Tue Jul 5 13:51:44 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,0c765da3a5218b595db6df3ecabaa36f16ff834a,Greg Turnquist,Tue May 10 10:25:50 2016 -0500,Tue May 10 10:25:50 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,c0b5e87f0aff3785ebac94824a292b699d1aaf0b,Greg Turnquist,Fri May 6 09:48:12 2016 -0500,Fri May 6 09:48:12 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,785f452bc09c50bb8ef8a559caccb274995dd5b5,Greg Turnquist,Fri Mar 11 11:10:38 2016 -0600,Fri Mar 11 11:10:38 2016 -0600,Clean up this guide
+gs-accessing-data-neo4j/initial/pom.xml,435c5b1b1a7a49415398ee4e0eefd13593cebe60,Greg Turnquist,Fri Feb 26 07:29:10 2016 -0600,Fri Feb 26 07:29:10 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,d8c85bdd775f708d7945f825d8488ea3ca86811c,Greg Turnquist,Thu Jan 21 21:28:12 2016 -0600,Thu Jan 21 21:28:12 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,abd968085962427511d269f736f4a71a813a80a5,Greg Turnquist,Fri Dec 18 09:39:42 2015 -0600,Fri Dec 18 09:39:42 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,2c04c47daab3c8f9aad5b3af5fbba6dd228c3f27,Greg Turnquist,Mon Nov 16 11:10:10 2015 -0600,Mon Nov 16 11:10:10 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,3decb5d53b21421e616189d434e6b62a5cd75ece,Greg Turnquist,Fri Oct 16 09:43:10 2015 -0400,Fri Oct 16 09:43:10 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,dd59865540080275ca3c40af6a17181fa662cab5,Greg Turnquist,Sun Sep 20 15:41:07 2015 -0500,Sun Sep 20 15:41:07 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,04fb0cb03cc9ffc7159802de930bc1ec30b85475,Greg Turnquist,Thu Jul 2 08:45:13 2015 -0500,Thu Jul 2 08:45:13 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,38698184b536296a02b344e5207aee13a2fed60c,Greg Turnquist,Fri Jun 12 14:02:04 2015 -0400,Fri Jun 12 14:02:04 2015 -0400,Upgrade non-specific guides to Java 8
+gs-accessing-data-neo4j/initial/pom.xml,8c64a6e82dfbaebb1b06ebc17440dccd1fe5ee32,Greg Turnquist,Tue Jun 9 09:41:26 2015 -0400,Tue Jun 9 09:41:26 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-accessing-data-neo4j/initial/pom.xml,1cba7bea788e9fee5eecf74ebdec565afbf5e758,Greg Turnquist,Tue Mar 31 16:55:47 2015 -0500,Tue Mar 31 16:55:47 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,4dfac2df0a8e586e990c2b03dc844738d33ef18c,Greg Turnquist,Thu Feb 26 22:39:14 2015 -0600,Thu Feb 26 22:39:14 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,10fe7fbc46f7103c257d51bd322d6ebd01529207,Greg Turnquist,Wed Feb 25 10:52:38 2015 -0600,Wed Feb 25 10:52:38 2015 -0600,Fix neo4j dependencies
+gs-accessing-data-neo4j/initial/pom.xml,67b9d4f53588564b04dfedad2e3f5c95c040eb06,Thomas Darimont,Tue Feb 24 11:09:24 2015 +0100,Tue Feb 24 11:09:24 2015 +0100,Updated example to be able to use @SpringBootApplication.
+gs-accessing-data-neo4j/initial/pom.xml,126bf0799bed0fbc8e196649b3c5f6e6ee75cd69,Greg Turnquist,Wed Feb 18 11:07:32 2015 -0600,Wed Feb 18 11:07:32 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,499b52ecd2ca0a39de7a2e8c0ff241e0c1492b18,Greg Turnquist,Thu Dec 11 11:07:28 2014 -0600,Thu Dec 11 11:07:28 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,05092a0beeaf5e4c55559f914044d5c176d0d2cb,Greg Turnquist,Thu Nov 20 10:14:46 2014 -0600,Thu Nov 20 10:14:46 2014 -0600,Convert to use https for repositories
+gs-accessing-data-neo4j/initial/pom.xml,ae0cb106dfb0e24a3f5484f991747ef9b180d022,Greg Turnquist,Wed Nov 12 13:07:45 2014 -0600,Wed Nov 12 13:07:45 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,0085da4ba5b3a7c81b2a768aabb3026f86b65b7e,Greg Turnquist,Fri Oct 10 22:04:44 2014 -0500,Fri Oct 10 22:04:44 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,007a6c5b344053d0ef17d7b2b50fb40be9edd414,Greg Turnquist,Mon Sep 29 12:42:10 2014 -0500,Mon Sep 29 12:42:10 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,727621c16a7b3119e754d60ceaeed3600ee81300,Greg Turnquist,Fri Sep 5 11:13:30 2014 -0500,Fri Sep 5 11:13:30 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,bcb2f650e87d3aa57bd1be71fa643634b9c16335,Greg Turnquist,Fri Aug 8 22:12:06 2014 -0500,Fri Aug 8 22:12:06 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,f8c81309c154a3b87ec11d3140fcd1d7696f740e,Greg Turnquist,Tue Jul 8 15:41:26 2014 -0500,Tue Jul 8 15:41:26 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,885a8b022e5f1915905752b96ed6dbd8e4becf7e,Greg Turnquist,Fri Jun 27 22:54:53 2014 -0400,Fri Jun 27 22:54:53 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,1d416f570d6eeb9037dd838564903ed6346c562a,Greg Turnquist,Tue Jun 24 19:53:23 2014 -0400,Tue Jun 24 19:53:23 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,9493ebec7813a6828cf629d9f2025143413e86aa,Greg Turnquist,Thu Jun 12 09:40:45 2014 -0500,Thu Jun 12 09:40:45 2014 -0500,Upgrade neo4j version
+gs-accessing-data-neo4j/initial/pom.xml,75b47f16bde013291dd2733039b014ba79d4c69a,Greg Turnquist,Wed Jun 11 16:47:50 2014 -0500,Wed Jun 11 16:47:50 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,0f5a38850bd5cbd5d3b15e06c82970fd9d2a958c,Greg Turnquist,Wed Jun 11 09:08:42 2014 -0500,Wed Jun 11 09:08:42 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-accessing-data-neo4j/initial/pom.xml,2230ee5a9262ecc23f44124f23f757834f7de68a,Greg Turnquist,Tue Jun 10 19:16:05 2014 -0500,Tue Jun 10 19:16:05 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,93efa36dd9d117d87abf60d841d5eedeb8af27db,Greg Turnquist,Thu Apr 24 09:36:38 2014 -0500,Thu Apr 24 09:36:38 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,d1ab4ceb9d1280712162fed60ca0ab13dc882c2b,Greg Turnquist,Thu Apr 17 22:49:53 2014 -0500,Thu Apr 17 22:49:53 2014 -0500,Replace javax.validate with hibernate-validator
+gs-accessing-data-neo4j/initial/pom.xml,4c9239bdd210e50326ca140b08e4b2a444014d07,Greg Turnquist,Mon Apr 7 10:09:08 2014 -0500,Mon Apr 7 10:09:08 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,4ef4e680403e011cdebd4c3c611740ed00f45d27,Greg Turnquist,Tue Apr 1 16:07:56 2014 -0500,Tue Apr 1 16:07:56 2014 -0500,Fix overlapping version conflict
+gs-accessing-data-neo4j/initial/pom.xml,c3437552b49e7316cdc6acc300bf9ce93581bbf5,Greg Turnquist,Tue Apr 1 15:10:49 2014 -0500,Tue Apr 1 15:10:49 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-accessing-data-neo4j/initial/pom.xml,96ea25076e949a0d906fef2de49033f6ba899991,Greg Turnquist,Sat Mar 22 07:17:31 2014 -0500,Sat Mar 22 07:17:31 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-accessing-data-neo4j/initial/pom.xml,fa114719fba1828f7241ca02d4f56ab7c4eec0b0,Greg Turnquist,Tue Mar 4 15:08:45 2014 -0500,Tue Mar 4 15:08:45 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-accessing-data-neo4j/initial/pom.xml,ce20d87d3c5079c095335127205c8fb3bb013727,Greg Turnquist,Tue Feb 18 16:32:49 2014 -0600,Tue Feb 18 16:32:49 2014 -0600,Move final build file to the beginning and update guides to reflect this
+gs-accessing-data-neo4j/initial/pom.xml,3edadf361b3033ad0d985470b89812d90d69ed91,Greg Turnquist,Fri Feb 14 11:23:23 2014 -0600,Fri Feb 14 11:23:23 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-accessing-data-neo4j/initial/pom.xml,c8d17fb38c2202e9aab363c1ed1e6288d9fb136e,Greg Turnquist,Thu Feb 13 12:38:03 2014 -0600,Thu Feb 13 12:38:03 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-accessing-data-neo4j/initial/pom.xml,10178188170f7f87fff56429ceff113095f23d25,Greg Turnquist,Wed Jan 22 12:21:06 2014 -0600,Wed Jan 22 12:21:06 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-accessing-data-neo4j/initial/pom.xml,1cd28a4024de68e3f53ef6e416c426c115d460ad,Greg Turnquist,Thu Dec 5 15:52:06 2013 -0600,Thu Dec 5 15:52:06 2013 -0600,Resolves #8: Fix typo in artifact name
+gs-accessing-data-neo4j/initial/pom.xml,530f7d6b11088404bbb4b2c331da9d350422450c,Greg Turnquist,Thu Dec 5 15:19:13 2013 -0600,Thu Dec 5 15:19:13 2013 -0600,Resolves #5: Removing log4j deps fixed startup problem
+gs-accessing-data-neo4j/initial/pom.xml,b6b7cfc7b1907128ba757b6788d995ac5f2b6b64,Greg Turnquist,Tue Nov 19 16:12:57 2013 -0600,Tue Nov 19 16:12:57 2013 -0600,Upgrade to Spring Boot 0.5.0.M6 and switch over to maven macros
+gs-accessing-data-neo4j/initial/pom.xml,9aa6cce059c7654a4434cac634b3b5b781f8e5bc,Greg Turnquist,Mon Nov 4 16:05:03 2013 -0600,Mon Nov 4 16:05:03 2013 -0600,Upgrade neo4j guide to Spring 4 and Boot
+gs-accessing-data-neo4j/initial/pom.xml,38108e2f63e71aafbaccda2cbaf10e0c15a7ebee,Roy Clarkson,Mon Nov 4 16:38:04 2013 -0500,Mon Nov 4 16:38:04 2013 -0500,Upgrade to maven compiler plugin 3.1
+gs-accessing-data-neo4j/initial/pom.xml,b6e63009de31509872f108d09dbdeda5e7055261,Roy Clarkson,Mon Nov 4 16:32:57 2013 -0500,Mon Nov 4 16:32:57 2013 -0500,Use libs-milestone instead of libs-snapshot
+gs-accessing-data-neo4j/initial/pom.xml,4e0ae48de8aa316619a3e3819d3fb005745f4b43,Roy Clarkson,Mon Nov 4 13:13:36 2013 -0800,Mon Nov 4 13:13:36 2013 -0800,Merge pull request #4 from kdvolder/fix-gh-issue-3
+gs-accessing-data-neo4j/initial/pom.xml,b1bbb115c9251d5e6f42b8b8ec07094bc8f71e74,Greg Turnquist,Mon Sep 30 08:18:36 2013 -0500,Mon Sep 30 08:18:36 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-accessing-data-neo4j/initial/pom.xml,4897500b08ce77aec52c8d423442075438c8a75c,Roy Clarkson,Fri Aug 16 14:12:12 2013 -0400,Fri Aug 16 14:12:12 2013 -0400,Update dependencies
+gs-accessing-data-neo4j/initial/pom.xml,413c2e65e4a766145127a9c1b2fbd1c4e2116caf,Greg Turnquist,Fri Aug 9 13:17:52 2013 -0500,Fri Aug 9 13:17:52 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-accessing-data-neo4j/initial/pom.xml,6894d7854c07b6b6603821dd2aa8cd2830da3ca7,Roy Clarkson,Thu Aug 8 17:41:04 2013 -0400,Thu Aug 8 17:41:04 2013 -0400,Detab poms and source
+gs-accessing-data-neo4j/initial/pom.xml,499caec90fc2ef6df2e3dc6259f6ed685c68e147,Greg Turnquist,Tue Aug 6 14:43:09 2013 -0500,Tue Aug 6 14:43:09 2013 -0500,Use libs-snapshot instead of snapshot
+gs-accessing-data-neo4j/initial/pom.xml,f1ba3069413ee821fe9882cdc26c67628748ae07,Greg Turnquist,Tue Aug 6 11:23:45 2013 -0500,Tue Aug 6 11:23:45 2013 -0500,Remove 'TODO' from pom.xml and rebuild guide
+gs-accessing-data-neo4j/initial/pom.xml,d3df138e34f9a85af1e1a77aba2bd4c8f61ea324,Greg Turnquist,Thu Jul 18 10:40:52 2013 -0400,Thu Jul 18 10:40:52 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-accessing-data-neo4j/initial/pom.xml,cc14ee77364f42f7bbed0a794b1285498e63ca85,Greg Turnquist,Fri Jun 21 15:04:44 2013 -0400,Fri Jun 21 15:04:44 2013 -0400,Update build system to use maven

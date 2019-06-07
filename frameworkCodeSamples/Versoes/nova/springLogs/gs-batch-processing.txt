@@ -1,0 +1,154 @@
+gs-batch-processing/complete/pom.xml,5fa701cdc146070d47fb51c9f5c4659c338cf58a,Greg Turnquist,Mon Sep 17 10:49:41 2018 -0500,Mon Sep 17 10:49:41 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-batch-processing/complete/pom.xml,abdb11734f014a7d1c08c77b5bc27f386fed7720,Greg Turnquist,Mon Jun 18 16:15:51 2018 -0500,Mon Jun 18 16:15:51 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-batch-processing/complete/pom.xml,b67a0e719baa558416bef71b13061565f21b8e45,Greg Turnquist,Wed May 9 11:25:38 2018 -0500,Wed May 9 11:25:38 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-batch-processing/complete/pom.xml,cfa2e7183ac89d662e02ac1891a45d9f9cd0031a,Greg Turnquist,Thu Apr 5 11:44:07 2018 -0500,Thu Apr 5 11:44:07 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-batch-processing/complete/pom.xml,634772ee07edf578ccbea23be8e88d5f2e833d64,Greg Turnquist,Thu Mar 1 09:50:33 2018 -0600,Thu Mar 1 09:50:33 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-batch-processing/complete/pom.xml,d61946c4f5e7ec7702dfd412e4517fac9dcaa224,Greg Turnquist,Wed Jan 31 09:15:26 2018 -0600,Wed Jan 31 09:15:26 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-batch-processing/complete/pom.xml,52ac38f8faf097acad27e2cbd5be47e60426fb2f,Greg Turnquist,Thu Nov 30 11:06:02 2017 -0600,Thu Nov 30 11:06:02 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-batch-processing/complete/pom.xml,df8e4460c0dff68c5e93305644b311c69f8dd575,Greg Turnquist,Tue Oct 17 15:41:54 2017 -0500,Tue Oct 17 15:41:54 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-batch-processing/complete/pom.xml,326735e17123472195b82ad709d64b3bc036fab7,Greg Turnquist,Wed Sep 13 13:14:55 2017 -0500,Wed Sep 13 13:14:55 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-batch-processing/complete/pom.xml,d3631e4fe1005e0d34e2268a85c98b38a6b05555,Greg Turnquist,Thu Jul 27 10:04:03 2017 -0500,Thu Jul 27 10:04:03 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-batch-processing/complete/pom.xml,357303190df1ddc5fabb4a9d5bb39f475d5123f9,Greg Turnquist,Wed Jul 26 12:22:42 2017 -0500,Wed Jul 26 12:22:42 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-batch-processing/complete/pom.xml,24a22cc824db854d0c90184f1d76802ad4dfb448,Greg Turnquist,Fri Apr 21 09:19:44 2017 -0500,Fri Apr 21 09:19:44 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-batch-processing/complete/pom.xml,03e985ea51be10ec5de4129bac9e9af8f86578c7,Greg Turnquist,Fri Mar 3 11:12:37 2017 -0600,Fri Mar 3 11:12:37 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-batch-processing/complete/pom.xml,5b9579ea14b8f0602595c050d1f087defeadf21b,Greg Turnquist,Mon Jan 30 23:28:17 2017 -0600,Mon Jan 30 23:28:17 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-batch-processing/complete/pom.xml,f831c9fae4e2a6b6483f936479ff5e214deaf3c7,Greg Turnquist,Mon Jan 30 11:36:35 2017 -0600,Mon Jan 30 11:36:35 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-batch-processing/complete/pom.xml,b7e382dbfad42392506598447aa9e091219ba305,Greg Turnquist,Thu Jan 26 12:47:06 2017 -0600,Thu Jan 26 12:47:06 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-batch-processing/complete/pom.xml,aa2a65903bf953e2d8a4c3c9f3b6285ef571f1f3,Greg Turnquist,Thu Jan 26 12:36:31 2017 -0600,Thu Jan 26 12:36:31 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-batch-processing/complete/pom.xml,a7e1c9b3d59e4dd58da1d6ee29dacf2fd539d77b,Greg Turnquist,Thu Dec 22 22:31:48 2016 -0600,Thu Dec 22 22:31:48 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-batch-processing/complete/pom.xml,a4ebc5cc1413edac707d07662e54e40526a66498,Greg Turnquist,Tue Nov 8 11:51:59 2016 -0600,Tue Nov 8 12:02:11 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-batch-processing/complete/pom.xml,96d26d3ca4378dae7096bbb316ef9ca5acaf0413,Greg Turnquist,Fri Sep 23 16:35:33 2016 -0500,Fri Sep 23 16:35:33 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-batch-processing/complete/pom.xml,40972549c206e19988f3cbfdc2ae459a3ec961f6,Greg Turnquist,Fri Jul 29 11:25:42 2016 -0500,Fri Jul 29 11:25:42 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-batch-processing/complete/pom.xml,f75c3cbbcf2adba16cd07b08e0d5c2ceeee6fd57,Greg Turnquist,Thu Jul 28 06:52:32 2016 -0500,Thu Jul 28 06:52:32 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-batch-processing/complete/pom.xml,10e793b8241ff06dab793ed711931a2c1ecceddf,Greg Turnquist,Tue Jul 5 13:51:57 2016 -0500,Tue Jul 5 13:51:57 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-batch-processing/complete/pom.xml,a0742bb20772e47aea6d666d7061823fdb73da77,Greg Turnquist,Tue May 10 10:26:08 2016 -0500,Tue May 10 10:26:08 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-batch-processing/complete/pom.xml,a0509a11f5215c9b441759474db50c06f021a857,Greg Turnquist,Fri May 6 09:48:32 2016 -0500,Fri May 6 09:48:32 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-batch-processing/complete/pom.xml,c4ab03790222c5d05bc9fda8a1d5b373e00633db,Greg Turnquist,Fri Feb 26 07:29:31 2016 -0600,Fri Feb 26 07:29:31 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-batch-processing/complete/pom.xml,68d9997561b9591acedbaefa1c57205959d854e1,Greg Turnquist,Thu Jan 21 21:28:30 2016 -0600,Thu Jan 21 21:28:30 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-batch-processing/complete/pom.xml,706d99911d956160f35e36b9b6b4fe044f031e8f,Greg Turnquist,Fri Dec 18 09:39:53 2015 -0600,Fri Dec 18 09:39:53 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-batch-processing/complete/pom.xml,a48e9c9bfbca215c9919a32befc382f82cedb56a,Greg Turnquist,Mon Nov 16 11:10:22 2015 -0600,Mon Nov 16 11:10:22 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-batch-processing/complete/pom.xml,0cc4392b3f279219568cc83ab52876a1bb875e72,Greg Turnquist,Fri Oct 16 09:43:21 2015 -0400,Fri Oct 16 09:43:21 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-batch-processing/complete/pom.xml,d4c0f67d35dcb3d5e36229ad5c953a8d110304a2,Greg Turnquist,Sun Sep 20 15:41:20 2015 -0500,Sun Sep 20 15:41:20 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-batch-processing/complete/pom.xml,8f5fb181c2a7eb70980dc455b476435a10db1310,Greg Turnquist,Thu Jul 2 08:45:36 2015 -0500,Thu Jul 2 08:45:36 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-batch-processing/complete/pom.xml,7e4f6dd74dcb14204bc353745f29ed387facb4fd,Greg Turnquist,Fri Jun 12 14:03:07 2015 -0400,Fri Jun 12 14:03:07 2015 -0400,Upgrade non-specific guides to Java 8
+gs-batch-processing/complete/pom.xml,5fe27892592ed98d3a890d7823759b8aa4c9128d,Greg Turnquist,Tue Jun 9 09:41:36 2015 -0400,Tue Jun 9 09:41:36 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-batch-processing/complete/pom.xml,72ef54da25c89d2105d32698bc1dd0d8ee6cc61f,Greg Turnquist,Tue Mar 31 16:55:57 2015 -0500,Tue Mar 31 16:55:57 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-batch-processing/complete/pom.xml,df8ee54b65561af081005862f7d14538052f04b6,Greg Turnquist,Thu Feb 26 22:39:26 2015 -0600,Thu Feb 26 22:39:26 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-batch-processing/complete/pom.xml,cee9eabde2438d3e8e6deb72a2386bdeb0653b7a,Greg Turnquist,Tue Feb 24 15:18:43 2015 -0600,Tue Feb 24 15:18:43 2015 -0600,Upgrade to @SpringBootApplication
+gs-batch-processing/complete/pom.xml,50d2b0dcdb2b4852096c7f7a7f75c28aefaf75d8,Greg Turnquist,Wed Feb 18 11:07:44 2015 -0600,Wed Feb 18 11:07:44 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-batch-processing/complete/pom.xml,ffef67e6abe04fb501c8236e36a10e7abcb8f2df,Greg Turnquist,Wed Jan 14 12:33:49 2015 -0600,Wed Jan 14 12:33:49 2015 -0600,Remove legacy start-class property from maven builds
+gs-batch-processing/complete/pom.xml,dc152d801744b5ac9c8544a54201a7adb80be789,Greg Turnquist,Thu Dec 11 11:07:39 2014 -0600,Thu Dec 11 11:07:39 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-batch-processing/complete/pom.xml,c4dbac50abe55256abca330420d48ba382555008,Greg Turnquist,Thu Nov 20 10:14:57 2014 -0600,Thu Nov 20 10:14:57 2014 -0600,Convert to use https for repositories
+gs-batch-processing/complete/pom.xml,ed55b93f32fc47f415b79e78b0c0645f1e8a832c,Greg Turnquist,Wed Nov 12 13:07:57 2014 -0600,Wed Nov 12 13:07:57 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-batch-processing/complete/pom.xml,b0fc787cc2af1ec1cc08e625cb0e0a69d1b2d61f,Greg Turnquist,Fri Oct 10 22:04:58 2014 -0500,Fri Oct 10 22:04:58 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-batch-processing/complete/pom.xml,5a9162659e7601c2adcb3b168860c3b625e08a28,Greg Turnquist,Mon Sep 29 12:42:19 2014 -0500,Mon Sep 29 12:42:19 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-batch-processing/complete/pom.xml,daa7ad9a575bdbbe72e9f1f57a45948972f4ee74,Greg Turnquist,Fri Sep 5 11:13:42 2014 -0500,Fri Sep 5 11:13:42 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-batch-processing/complete/pom.xml,59d1b67f6fbe7740006cd8e2918512097793f6f2,Greg Turnquist,Fri Aug 8 22:12:17 2014 -0500,Fri Aug 8 22:12:17 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-batch-processing/complete/pom.xml,e2d14ddf21d8faf4356b119f259ee57b375aa961,Greg Turnquist,Tue Jul 8 15:41:35 2014 -0500,Tue Jul 8 15:41:35 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-batch-processing/complete/pom.xml,290eade1ed89ca6a2becd128c0796e23002f9ee0,Greg Turnquist,Fri Jun 27 22:55:01 2014 -0400,Fri Jun 27 22:55:01 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-batch-processing/complete/pom.xml,86aa2140a4574c25155b580ee8761db05765873b,Greg Turnquist,Tue Jun 24 19:55:05 2014 -0400,Tue Jun 24 19:55:05 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-batch-processing/complete/pom.xml,8a779f2b867b9cbc552944781b9870ff61cc4d82,Greg Turnquist,Wed Jun 11 16:48:00 2014 -0500,Wed Jun 11 16:48:00 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-batch-processing/complete/pom.xml,ce6862bf8516aeb5123977f9a8cb2027c086b844,Greg Turnquist,Wed Jun 11 09:08:50 2014 -0500,Wed Jun 11 09:08:50 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-batch-processing/complete/pom.xml,fb8e5ca257b53875fda448e1d78ca4cb31f75f1e,Greg Turnquist,Tue Jun 10 19:16:14 2014 -0500,Tue Jun 10 19:16:14 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-batch-processing/complete/pom.xml,ae3ab287da652aa27bde4870f341598ec0a9aacd,Greg Turnquist,Thu Apr 24 09:36:51 2014 -0500,Thu Apr 24 09:36:51 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-batch-processing/complete/pom.xml,7a129f257f413d20f492d35cb2f2e0afa5105f2c,Greg Turnquist,Mon Apr 7 10:09:21 2014 -0500,Mon Apr 7 10:09:21 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-batch-processing/complete/pom.xml,6b02eb326b226326f483d3155ebd8af64f527258,Greg Turnquist,Tue Apr 1 15:11:04 2014 -0500,Tue Apr 1 15:11:04 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-batch-processing/complete/pom.xml,97ef07015776e0454693986dd0117e47d84fdd33,Greg Turnquist,Sat Mar 22 07:17:43 2014 -0500,Sat Mar 22 07:17:43 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-batch-processing/complete/pom.xml,542a69596fdb5a855028718561476c83197fca0d,Greg Turnquist,Tue Mar 4 15:09:02 2014 -0500,Tue Mar 4 15:09:02 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-batch-processing/complete/pom.xml,acdbd6a991d6dc832752fa4a765bf7711c750658,Greg Turnquist,Fri Feb 14 11:23:31 2014 -0600,Fri Feb 14 11:23:31 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-batch-processing/complete/pom.xml,aa43cbe81f494a0bd0569f6a0352fe26c1a8f814,Greg Turnquist,Thu Feb 13 12:38:11 2014 -0600,Thu Feb 13 12:38:11 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-batch-processing/complete/pom.xml,0a847b11fdf48c99208eb8accd9245e9d625d0a0,Greg Turnquist,Wed Jan 22 12:21:13 2014 -0600,Wed Jan 22 12:21:13 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-batch-processing/complete/pom.xml,d45f6542514cfb384e4a5a6d539b12b55a243ef5,Greg Turnquist,Tue Nov 19 10:50:27 2013 -0600,Tue Nov 19 10:50:27 2013 -0600,Upgrade to Spring Boot 0.5.0.M6
+gs-batch-processing/complete/pom.xml,6915a41669f8c2660d078173c650cff30fb6bb85,Greg Turnquist,Wed Oct 30 10:03:30 2013 -0500,Wed Oct 30 10:03:30 2013 -0500,Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+gs-batch-processing/complete/pom.xml,976a19fcc8f4815dcb3c4bf8f9ffcf4aafa31baa,Greg Turnquist,Mon Sep 30 08:18:46 2013 -0500,Mon Sep 30 08:18:46 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-batch-processing/complete/pom.xml,c08348f2d519bc95c47ad0a7eada322a95701ff8,Greg Turnquist,Fri Sep 27 10:31:53 2013 -0500,Fri Sep 27 10:31:53 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-batch-processing/complete/pom.xml,17999d62352e2903c978dfc9c69ca47f2313e627,Greg Turnquist,Fri Aug 30 16:41:49 2013 -0500,Fri Aug 30 16:41:49 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-batch-processing/complete/pom.xml,8e9fa7f9ab5bb40ff321b1ac2c731f88e4cf5f81,Roy Clarkson,Tue Aug 13 16:22:44 2013 -0400,Tue Aug 13 16:22:44 2013 -0400,Add "Application" class for consistency with other guides.
+gs-batch-processing/complete/pom.xml,e63334ecaf4bbc998fbfae0a779d4246d19d07bd,Greg Turnquist,Fri Aug 9 13:18:06 2013 -0500,Fri Aug 9 13:18:06 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-batch-processing/complete/pom.xml,fc8fc09804348e8cf701fea769610e607e4ca089,Roy Clarkson,Thu Aug 8 18:08:44 2013 -0400,Thu Aug 8 18:08:44 2013 -0400,Detab poms and source
+gs-batch-processing/complete/pom.xml,6a68df49271ffb8c7b6b274dfc9c0ca6cdb02f8e,Greg Turnquist,Tue Aug 6 14:43:29 2013 -0500,Tue Aug 6 14:43:29 2013 -0500,Use libs-snapshot instead of snapshot
+gs-batch-processing/complete/pom.xml,5d2e49c5db9a57e953570804afb7c4788fe74e0f,Greg Turnquist,Wed Jul 31 15:42:31 2013 -0400,Wed Jul 31 15:42:31 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-batch-processing/complete/pom.xml,b597faada0d3e90ea314ca816976ce8260023199,Greg Turnquist,Tue Jul 30 10:19:08 2013 -0400,Tue Jul 30 10:19:08 2013 -0400,Upgrade to Spring Boot
+gs-batch-processing/complete/pom.xml,5a0a5d7ff63278e897227ae90cb87eb632809367,Greg Turnquist,Mon Jul 22 08:34:02 2013 -0400,Mon Jul 22 08:34:02 2013 -0400,Convert to spring-package-maven-plugin and Spring Zero
+gs-batch-processing/complete/pom.xml,f3ff1f34a800a11cc08f1cbbcd415b319853e731,Greg Turnquist,Thu Jul 18 10:41:06 2013 -0400,Thu Jul 18 10:41:06 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-batch-processing/complete/pom.xml,64d031939fe42b58ace2e0b794dc2ad51f224b64,Greg Turnquist,Fri Jul 5 16:50:39 2013 -0500,Fri Jul 5 16:50:39 2013 -0500,Convert to fpp
+gs-batch-processing/complete/pom.xml,79dbf05bbaea71819fb4f1b6387663b270f18438,Chris Beams,Mon Jun 3 09:16:24 2013 +0200,Mon Jun 3 09:16:24 2013 +0200,Pull in code blocks with {!include:...} syntax
+gs-batch-processing/complete/pom.xml,c194ea1a1b83ad2fa16e3fdfedcc7743baef25ee,Chris Beams,Tue May 28 11:48:13 2013 +0200,Tue May 28 11:48:13 2013 +0200,Version all GS guides at 0.1.0 per http://semver.org
+gs-batch-processing/complete/pom.xml,ea6920389b973dbefb6e71c3346807d564b2577a,Greg Turnquist,Thu May 16 15:14:19 2013 -0400,Thu May 16 15:14:19 2013 -0400,Logging isn't enough to see the outcome. Removed logging and instead use JdbcTemplate to query DB.
+gs-batch-processing/complete/pom.xml,2855461e85216e7b2c3f0f47a712b1f7ac098b06,Greg Turnquist,Thu May 16 08:29:00 2013 -0700,Thu May 16 08:29:00 2013 -0700,Merge pull request #1 from dsyer/feature/bootstrap
+gs-batch-processing/complete/pom.xml,ee95d7cbbbf692053431951c73b8b57dfda84da5,Greg Turnquist,Thu May 16 11:12:00 2013 -0400,Thu May 16 11:12:00 2013 -0400,Initial commit of the working, complete example.
+gs-batch-processing/initial/pom.xml,5fa701cdc146070d47fb51c9f5c4659c338cf58a,Greg Turnquist,Mon Sep 17 10:49:41 2018 -0500,Mon Sep 17 10:49:41 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-batch-processing/initial/pom.xml,abdb11734f014a7d1c08c77b5bc27f386fed7720,Greg Turnquist,Mon Jun 18 16:15:51 2018 -0500,Mon Jun 18 16:15:51 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-batch-processing/initial/pom.xml,b67a0e719baa558416bef71b13061565f21b8e45,Greg Turnquist,Wed May 9 11:25:38 2018 -0500,Wed May 9 11:25:38 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-batch-processing/initial/pom.xml,cfa2e7183ac89d662e02ac1891a45d9f9cd0031a,Greg Turnquist,Thu Apr 5 11:44:07 2018 -0500,Thu Apr 5 11:44:07 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-batch-processing/initial/pom.xml,634772ee07edf578ccbea23be8e88d5f2e833d64,Greg Turnquist,Thu Mar 1 09:50:33 2018 -0600,Thu Mar 1 09:50:33 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-batch-processing/initial/pom.xml,d61946c4f5e7ec7702dfd412e4517fac9dcaa224,Greg Turnquist,Wed Jan 31 09:15:26 2018 -0600,Wed Jan 31 09:15:26 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-batch-processing/initial/pom.xml,52ac38f8faf097acad27e2cbd5be47e60426fb2f,Greg Turnquist,Thu Nov 30 11:06:02 2017 -0600,Thu Nov 30 11:06:02 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-batch-processing/initial/pom.xml,df8e4460c0dff68c5e93305644b311c69f8dd575,Greg Turnquist,Tue Oct 17 15:41:54 2017 -0500,Tue Oct 17 15:41:54 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-batch-processing/initial/pom.xml,326735e17123472195b82ad709d64b3bc036fab7,Greg Turnquist,Wed Sep 13 13:14:55 2017 -0500,Wed Sep 13 13:14:55 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-batch-processing/initial/pom.xml,d3631e4fe1005e0d34e2268a85c98b38a6b05555,Greg Turnquist,Thu Jul 27 10:04:03 2017 -0500,Thu Jul 27 10:04:03 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-batch-processing/initial/pom.xml,357303190df1ddc5fabb4a9d5bb39f475d5123f9,Greg Turnquist,Wed Jul 26 12:22:42 2017 -0500,Wed Jul 26 12:22:42 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-batch-processing/initial/pom.xml,24a22cc824db854d0c90184f1d76802ad4dfb448,Greg Turnquist,Fri Apr 21 09:19:44 2017 -0500,Fri Apr 21 09:19:44 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-batch-processing/initial/pom.xml,03e985ea51be10ec5de4129bac9e9af8f86578c7,Greg Turnquist,Fri Mar 3 11:12:37 2017 -0600,Fri Mar 3 11:12:37 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-batch-processing/initial/pom.xml,5b9579ea14b8f0602595c050d1f087defeadf21b,Greg Turnquist,Mon Jan 30 23:28:17 2017 -0600,Mon Jan 30 23:28:17 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-batch-processing/initial/pom.xml,f831c9fae4e2a6b6483f936479ff5e214deaf3c7,Greg Turnquist,Mon Jan 30 11:36:35 2017 -0600,Mon Jan 30 11:36:35 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-batch-processing/initial/pom.xml,b7e382dbfad42392506598447aa9e091219ba305,Greg Turnquist,Thu Jan 26 12:47:06 2017 -0600,Thu Jan 26 12:47:06 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-batch-processing/initial/pom.xml,aa2a65903bf953e2d8a4c3c9f3b6285ef571f1f3,Greg Turnquist,Thu Jan 26 12:36:31 2017 -0600,Thu Jan 26 12:36:31 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-batch-processing/initial/pom.xml,a7e1c9b3d59e4dd58da1d6ee29dacf2fd539d77b,Greg Turnquist,Thu Dec 22 22:31:48 2016 -0600,Thu Dec 22 22:31:48 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-batch-processing/initial/pom.xml,a4ebc5cc1413edac707d07662e54e40526a66498,Greg Turnquist,Tue Nov 8 11:51:59 2016 -0600,Tue Nov 8 12:02:11 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-batch-processing/initial/pom.xml,96d26d3ca4378dae7096bbb316ef9ca5acaf0413,Greg Turnquist,Fri Sep 23 16:35:33 2016 -0500,Fri Sep 23 16:35:33 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-batch-processing/initial/pom.xml,40972549c206e19988f3cbfdc2ae459a3ec961f6,Greg Turnquist,Fri Jul 29 11:25:42 2016 -0500,Fri Jul 29 11:25:42 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-batch-processing/initial/pom.xml,f75c3cbbcf2adba16cd07b08e0d5c2ceeee6fd57,Greg Turnquist,Thu Jul 28 06:52:32 2016 -0500,Thu Jul 28 06:52:32 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-batch-processing/initial/pom.xml,10e793b8241ff06dab793ed711931a2c1ecceddf,Greg Turnquist,Tue Jul 5 13:51:57 2016 -0500,Tue Jul 5 13:51:57 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-batch-processing/initial/pom.xml,a0742bb20772e47aea6d666d7061823fdb73da77,Greg Turnquist,Tue May 10 10:26:08 2016 -0500,Tue May 10 10:26:08 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-batch-processing/initial/pom.xml,a0509a11f5215c9b441759474db50c06f021a857,Greg Turnquist,Fri May 6 09:48:32 2016 -0500,Fri May 6 09:48:32 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-batch-processing/initial/pom.xml,c4ab03790222c5d05bc9fda8a1d5b373e00633db,Greg Turnquist,Fri Feb 26 07:29:31 2016 -0600,Fri Feb 26 07:29:31 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-batch-processing/initial/pom.xml,68d9997561b9591acedbaefa1c57205959d854e1,Greg Turnquist,Thu Jan 21 21:28:30 2016 -0600,Thu Jan 21 21:28:30 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-batch-processing/initial/pom.xml,706d99911d956160f35e36b9b6b4fe044f031e8f,Greg Turnquist,Fri Dec 18 09:39:53 2015 -0600,Fri Dec 18 09:39:53 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-batch-processing/initial/pom.xml,a48e9c9bfbca215c9919a32befc382f82cedb56a,Greg Turnquist,Mon Nov 16 11:10:22 2015 -0600,Mon Nov 16 11:10:22 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-batch-processing/initial/pom.xml,0cc4392b3f279219568cc83ab52876a1bb875e72,Greg Turnquist,Fri Oct 16 09:43:21 2015 -0400,Fri Oct 16 09:43:21 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-batch-processing/initial/pom.xml,d4c0f67d35dcb3d5e36229ad5c953a8d110304a2,Greg Turnquist,Sun Sep 20 15:41:20 2015 -0500,Sun Sep 20 15:41:20 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-batch-processing/initial/pom.xml,8f5fb181c2a7eb70980dc455b476435a10db1310,Greg Turnquist,Thu Jul 2 08:45:36 2015 -0500,Thu Jul 2 08:45:36 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-batch-processing/initial/pom.xml,7e4f6dd74dcb14204bc353745f29ed387facb4fd,Greg Turnquist,Fri Jun 12 14:03:07 2015 -0400,Fri Jun 12 14:03:07 2015 -0400,Upgrade non-specific guides to Java 8
+gs-batch-processing/initial/pom.xml,5fe27892592ed98d3a890d7823759b8aa4c9128d,Greg Turnquist,Tue Jun 9 09:41:36 2015 -0400,Tue Jun 9 09:41:36 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-batch-processing/initial/pom.xml,72ef54da25c89d2105d32698bc1dd0d8ee6cc61f,Greg Turnquist,Tue Mar 31 16:55:57 2015 -0500,Tue Mar 31 16:55:57 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-batch-processing/initial/pom.xml,df8ee54b65561af081005862f7d14538052f04b6,Greg Turnquist,Thu Feb 26 22:39:26 2015 -0600,Thu Feb 26 22:39:26 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-batch-processing/initial/pom.xml,cee9eabde2438d3e8e6deb72a2386bdeb0653b7a,Greg Turnquist,Tue Feb 24 15:18:43 2015 -0600,Tue Feb 24 15:18:43 2015 -0600,Upgrade to @SpringBootApplication
+gs-batch-processing/initial/pom.xml,50d2b0dcdb2b4852096c7f7a7f75c28aefaf75d8,Greg Turnquist,Wed Feb 18 11:07:44 2015 -0600,Wed Feb 18 11:07:44 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-batch-processing/initial/pom.xml,ffef67e6abe04fb501c8236e36a10e7abcb8f2df,Greg Turnquist,Wed Jan 14 12:33:49 2015 -0600,Wed Jan 14 12:33:49 2015 -0600,Remove legacy start-class property from maven builds
+gs-batch-processing/initial/pom.xml,dc152d801744b5ac9c8544a54201a7adb80be789,Greg Turnquist,Thu Dec 11 11:07:39 2014 -0600,Thu Dec 11 11:07:39 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-batch-processing/initial/pom.xml,c4dbac50abe55256abca330420d48ba382555008,Greg Turnquist,Thu Nov 20 10:14:57 2014 -0600,Thu Nov 20 10:14:57 2014 -0600,Convert to use https for repositories
+gs-batch-processing/initial/pom.xml,ed55b93f32fc47f415b79e78b0c0645f1e8a832c,Greg Turnquist,Wed Nov 12 13:07:57 2014 -0600,Wed Nov 12 13:07:57 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-batch-processing/initial/pom.xml,b0fc787cc2af1ec1cc08e625cb0e0a69d1b2d61f,Greg Turnquist,Fri Oct 10 22:04:58 2014 -0500,Fri Oct 10 22:04:58 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-batch-processing/initial/pom.xml,5a9162659e7601c2adcb3b168860c3b625e08a28,Greg Turnquist,Mon Sep 29 12:42:19 2014 -0500,Mon Sep 29 12:42:19 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-batch-processing/initial/pom.xml,daa7ad9a575bdbbe72e9f1f57a45948972f4ee74,Greg Turnquist,Fri Sep 5 11:13:42 2014 -0500,Fri Sep 5 11:13:42 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-batch-processing/initial/pom.xml,59d1b67f6fbe7740006cd8e2918512097793f6f2,Greg Turnquist,Fri Aug 8 22:12:17 2014 -0500,Fri Aug 8 22:12:17 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-batch-processing/initial/pom.xml,e2d14ddf21d8faf4356b119f259ee57b375aa961,Greg Turnquist,Tue Jul 8 15:41:35 2014 -0500,Tue Jul 8 15:41:35 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-batch-processing/initial/pom.xml,290eade1ed89ca6a2becd128c0796e23002f9ee0,Greg Turnquist,Fri Jun 27 22:55:01 2014 -0400,Fri Jun 27 22:55:01 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-batch-processing/initial/pom.xml,86aa2140a4574c25155b580ee8761db05765873b,Greg Turnquist,Tue Jun 24 19:55:05 2014 -0400,Tue Jun 24 19:55:05 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-batch-processing/initial/pom.xml,8a779f2b867b9cbc552944781b9870ff61cc4d82,Greg Turnquist,Wed Jun 11 16:48:00 2014 -0500,Wed Jun 11 16:48:00 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-batch-processing/initial/pom.xml,ce6862bf8516aeb5123977f9a8cb2027c086b844,Greg Turnquist,Wed Jun 11 09:08:50 2014 -0500,Wed Jun 11 09:08:50 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-batch-processing/initial/pom.xml,fb8e5ca257b53875fda448e1d78ca4cb31f75f1e,Greg Turnquist,Tue Jun 10 19:16:14 2014 -0500,Tue Jun 10 19:16:14 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-batch-processing/initial/pom.xml,ae3ab287da652aa27bde4870f341598ec0a9aacd,Greg Turnquist,Thu Apr 24 09:36:51 2014 -0500,Thu Apr 24 09:36:51 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-batch-processing/initial/pom.xml,7a129f257f413d20f492d35cb2f2e0afa5105f2c,Greg Turnquist,Mon Apr 7 10:09:21 2014 -0500,Mon Apr 7 10:09:21 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-batch-processing/initial/pom.xml,6b02eb326b226326f483d3155ebd8af64f527258,Greg Turnquist,Tue Apr 1 15:11:04 2014 -0500,Tue Apr 1 15:11:04 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-batch-processing/initial/pom.xml,97ef07015776e0454693986dd0117e47d84fdd33,Greg Turnquist,Sat Mar 22 07:17:43 2014 -0500,Sat Mar 22 07:17:43 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-batch-processing/initial/pom.xml,542a69596fdb5a855028718561476c83197fca0d,Greg Turnquist,Tue Mar 4 15:09:02 2014 -0500,Tue Mar 4 15:09:02 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-batch-processing/initial/pom.xml,0b25ed6092c26b13eb64bea90cab4fac6013130c,Greg Turnquist,Tue Feb 18 16:33:02 2014 -0600,Tue Feb 18 16:33:02 2014 -0600,Move final build file to the beginning and update guides to reflect this
+gs-batch-processing/initial/pom.xml,acdbd6a991d6dc832752fa4a765bf7711c750658,Greg Turnquist,Fri Feb 14 11:23:31 2014 -0600,Fri Feb 14 11:23:31 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-batch-processing/initial/pom.xml,aa43cbe81f494a0bd0569f6a0352fe26c1a8f814,Greg Turnquist,Thu Feb 13 12:38:11 2014 -0600,Thu Feb 13 12:38:11 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-batch-processing/initial/pom.xml,0a847b11fdf48c99208eb8accd9245e9d625d0a0,Greg Turnquist,Wed Jan 22 12:21:13 2014 -0600,Wed Jan 22 12:21:13 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-batch-processing/initial/pom.xml,d45f6542514cfb384e4a5a6d539b12b55a243ef5,Greg Turnquist,Tue Nov 19 10:50:27 2013 -0600,Tue Nov 19 10:50:27 2013 -0600,Upgrade to Spring Boot 0.5.0.M6
+gs-batch-processing/initial/pom.xml,6915a41669f8c2660d078173c650cff30fb6bb85,Greg Turnquist,Wed Oct 30 10:03:30 2013 -0500,Wed Oct 30 10:03:30 2013 -0500,Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+gs-batch-processing/initial/pom.xml,976a19fcc8f4815dcb3c4bf8f9ffcf4aafa31baa,Greg Turnquist,Mon Sep 30 08:18:46 2013 -0500,Mon Sep 30 08:18:46 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-batch-processing/initial/pom.xml,c08348f2d519bc95c47ad0a7eada322a95701ff8,Greg Turnquist,Fri Sep 27 10:31:53 2013 -0500,Fri Sep 27 10:31:53 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-batch-processing/initial/pom.xml,17999d62352e2903c978dfc9c69ca47f2313e627,Greg Turnquist,Fri Aug 30 16:41:49 2013 -0500,Fri Aug 30 16:41:49 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-batch-processing/initial/pom.xml,e63334ecaf4bbc998fbfae0a779d4246d19d07bd,Greg Turnquist,Fri Aug 9 13:18:06 2013 -0500,Fri Aug 9 13:18:06 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-batch-processing/initial/pom.xml,fc8fc09804348e8cf701fea769610e607e4ca089,Roy Clarkson,Thu Aug 8 18:08:44 2013 -0400,Thu Aug 8 18:08:44 2013 -0400,Detab poms and source
+gs-batch-processing/initial/pom.xml,6a68df49271ffb8c7b6b274dfc9c0ca6cdb02f8e,Greg Turnquist,Tue Aug 6 14:43:29 2013 -0500,Tue Aug 6 14:43:29 2013 -0500,Use libs-snapshot instead of snapshot
+gs-batch-processing/initial/pom.xml,5d2e49c5db9a57e953570804afb7c4788fe74e0f,Greg Turnquist,Wed Jul 31 15:42:31 2013 -0400,Wed Jul 31 15:42:31 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-batch-processing/initial/pom.xml,b597faada0d3e90ea314ca816976ce8260023199,Greg Turnquist,Tue Jul 30 10:19:08 2013 -0400,Tue Jul 30 10:19:08 2013 -0400,Upgrade to Spring Boot
+gs-batch-processing/initial/pom.xml,5a0a5d7ff63278e897227ae90cb87eb632809367,Greg Turnquist,Mon Jul 22 08:34:02 2013 -0400,Mon Jul 22 08:34:02 2013 -0400,Convert to spring-package-maven-plugin and Spring Zero
+gs-batch-processing/initial/pom.xml,f3ff1f34a800a11cc08f1cbbcd415b319853e731,Greg Turnquist,Thu Jul 18 10:41:06 2013 -0400,Thu Jul 18 10:41:06 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-batch-processing/initial/pom.xml,c194ea1a1b83ad2fa16e3fdfedcc7743baef25ee,Chris Beams,Tue May 28 11:48:13 2013 +0200,Tue May 28 11:48:13 2013 +0200,Version all GS guides at 0.1.0 per http://semver.org
+gs-batch-processing/initial/pom.xml,ee3e6fd3c837b5b9ae2b2e50ed654313eb590f08,Greg Turnquist,Fri May 17 09:46:47 2013 -0400,Fri May 17 09:46:47 2013 -0400,Added 'initial' version of the guide.

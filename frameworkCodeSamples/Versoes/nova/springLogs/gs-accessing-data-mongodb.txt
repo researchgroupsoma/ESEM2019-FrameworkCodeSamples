@@ -1,0 +1,157 @@
+gs-accessing-data-mongodb/complete/pom.xml,3b8407c4d84c85d8b85647d8fc91f117424f0e50,Greg Turnquist,Mon Sep 17 10:49:04 2018 -0500,Mon Sep 17 10:49:04 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-accessing-data-mongodb/complete/pom.xml,c2032b006c7f6796d036ee39ceabb0b85391f147,Greg Turnquist,Mon Jun 18 16:15:17 2018 -0500,Mon Jun 18 16:15:17 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,8dacb20b0e29603ffcef270ba52511503c19917f,Greg Turnquist,Wed May 9 11:25:00 2018 -0500,Wed May 9 11:25:00 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-accessing-data-mongodb/complete/pom.xml,15e8210aa83b7a23f8093082d5dc3daaaae7fb2c,Greg Turnquist,Thu Apr 5 11:43:32 2018 -0500,Thu Apr 5 11:43:32 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,066dbf2fcbab4979025f65853e75278cec31dc62,Greg Turnquist,Thu Mar 1 09:47:19 2018 -0600,Thu Mar 1 09:47:19 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,4c73713058ef95aa60e46f1c8001e7085e502e7d,Greg Turnquist,Wed Jan 31 09:14:43 2018 -0600,Wed Jan 31 09:14:43 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,0ccc1db5bf114d33441d7aa42df6f0c2a28b70b9,Greg Turnquist,Thu Nov 30 11:05:31 2017 -0600,Thu Nov 30 11:05:31 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,ec19657ca78740fbe18d6a287396aa4663f8c62e,Greg Turnquist,Tue Oct 17 15:41:25 2017 -0500,Tue Oct 17 15:41:25 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,a7d3c3158fdd3242e8809d3062a8aca54246123a,Greg Turnquist,Wed Sep 13 13:14:27 2017 -0500,Wed Sep 13 13:14:27 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,96bb116b8bcb583f68284a72dd28de3514f67d5f,Greg Turnquist,Thu Jul 27 10:03:29 2017 -0500,Thu Jul 27 10:03:29 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,8001d3855105a05da549208686c8146569225c75,Greg Turnquist,Wed Jul 26 12:22:16 2017 -0500,Wed Jul 26 12:22:16 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,d40ae513f03e89baae0b2124b945d5bb8aff7f50,Greg Turnquist,Fri Apr 21 09:19:16 2017 -0500,Fri Apr 21 09:19:16 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,98961b88be880f1ccb9173d50e9bba53c5d1c137,Greg Turnquist,Fri Mar 3 11:12:08 2017 -0600,Fri Mar 3 11:12:08 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,1b9299fa52aa41e144ce019820c1652b229aaaf3,Greg Turnquist,Mon Jan 30 23:27:42 2017 -0600,Mon Jan 30 23:27:42 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,fc873463cfa46f3d2c60f70198ba9f1ad25c781d,Greg Turnquist,Mon Jan 30 11:34:35 2017 -0600,Mon Jan 30 11:34:35 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,5ac541ff5882764fbd31579d1f97090ba1986385,Greg Turnquist,Thu Jan 26 12:46:32 2017 -0600,Thu Jan 26 12:46:32 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,cdc851453b246cb18cdf44542b559aa36bfdb6f2,Greg Turnquist,Thu Jan 26 12:35:55 2017 -0600,Thu Jan 26 12:35:55 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,d4f478f3f8a242198e155826dadae6a1fd695f33,Greg Turnquist,Thu Dec 22 22:31:16 2016 -0600,Thu Dec 22 22:31:16 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,d3d8f93f711f503253beed12d924c1eb77b9c1b7,Greg Turnquist,Tue Nov 8 11:51:41 2016 -0600,Tue Nov 8 11:51:41 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,bd56c191ac122db79ce29487143177bdab0bed94,Greg Turnquist,Fri Sep 23 16:35:14 2016 -0500,Fri Sep 23 16:35:14 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,afb566fa54cdceb62b385be0e9a0eb765edbef5b,Mark Paluch,Sun Aug 28 19:27:41 2016 +0200,Sun Aug 28 19:27:41 2016 +0200,Add tests
+gs-accessing-data-mongodb/complete/pom.xml,06b135791be4765cde9dde11df888279c408e5d4,Greg Turnquist,Tue Aug 2 06:48:19 2016 -0700,Tue Aug 2 06:48:19 2016 -0700,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,10de46450d27a9253bc690f6f7b21e350295fda1,Greg Turnquist,Thu Jul 28 06:52:16 2016 -0500,Thu Jul 28 06:52:16 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,dbaaa97fc3dcd457a74901ca570a961d624c54ab,Greg Turnquist,Tue Jul 5 13:51:42 2016 -0500,Tue Jul 5 13:51:42 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,95095afc53b5ae67edb0d11013b6ed7379cb1777,Greg Turnquist,Tue May 10 10:25:49 2016 -0500,Tue May 10 10:25:49 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,40ac496d51a933cea03358a3f0b22b57583890cc,Greg Turnquist,Fri May 6 09:48:10 2016 -0500,Fri May 6 09:48:10 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,392cbde0516f84b4074f1438cafdf9ce6adf6d49,Greg Turnquist,Fri Feb 26 07:28:58 2016 -0600,Fri Feb 26 07:28:58 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,0490f61759fea48fb97a49de3113090880ad16f7,Greg Turnquist,Thu Jan 21 21:28:11 2016 -0600,Thu Jan 21 21:28:11 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,14785098a96293047b29e9ef628a25784dddae06,Greg Turnquist,Fri Dec 18 09:39:40 2015 -0600,Fri Dec 18 09:39:40 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,fbe4ee89336e38c5ba61f17b371ae27a2f1a6649,Greg Turnquist,Mon Nov 16 11:10:08 2015 -0600,Mon Nov 16 11:10:08 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,7b1a8be0126c2c41ec7ed21fb74a4bdac378fde6,Greg Turnquist,Fri Oct 16 09:43:09 2015 -0400,Fri Oct 16 09:43:09 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,bb1e71c82500045f90fd7b90826a1dc5c141bedd,Greg Turnquist,Sun Sep 20 15:41:06 2015 -0500,Sun Sep 20 15:41:06 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,0f3aca56ed874eef624396c41b04ed23f3b7dece,Greg Turnquist,Thu Jul 2 08:45:06 2015 -0500,Thu Jul 2 08:45:06 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,2a8ffc62b146d154903ef19f221b139256fceb8f,Greg Turnquist,Fri Jun 12 14:01:52 2015 -0400,Fri Jun 12 14:01:52 2015 -0400,Upgrade non-specific guides to Java 8
+gs-accessing-data-mongodb/complete/pom.xml,c3f6b89fde13c4a155ecb600d4dee594d407ae8f,Greg Turnquist,Tue Jun 9 09:41:25 2015 -0400,Tue Jun 9 09:41:25 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-accessing-data-mongodb/complete/pom.xml,d36f5395b443f53e4f1a1ec7630e299b5b26b92a,Greg Turnquist,Tue Mar 31 16:55:47 2015 -0500,Tue Mar 31 16:55:47 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,68523fdc44c38525e5b17514d21c8e8fdf133ccf,Greg Turnquist,Thu Feb 26 22:39:12 2015 -0600,Thu Feb 26 22:39:12 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,b82264fc992d5d1507e565f9dd7ac557a68efcb4,Greg Turnquist,Wed Feb 18 11:07:31 2015 -0600,Wed Feb 18 11:07:31 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,891f71212932ae11dc949288c1a09b1f40b03e9f,Greg Turnquist,Wed Jan 14 12:33:39 2015 -0600,Wed Jan 14 12:33:39 2015 -0600,Remove legacy start-class property from maven builds
+gs-accessing-data-mongodb/complete/pom.xml,20b26e929003bb7c228aeb0f87ebf4fbf234b1c2,Greg Turnquist,Thu Dec 11 11:07:26 2014 -0600,Thu Dec 11 11:07:26 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,805da95aeb1ea40bfdeaac2e9760067e6b962e5e,Greg Turnquist,Thu Nov 20 10:14:45 2014 -0600,Thu Nov 20 10:14:45 2014 -0600,Convert to use https for repositories
+gs-accessing-data-mongodb/complete/pom.xml,2078b2d20f15024190645547e116c1492348e3ef,Greg Turnquist,Wed Nov 12 13:07:43 2014 -0600,Wed Nov 12 13:07:43 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,bb0ee9a7333c958b7986ae2cf28970dad2977dcd,Greg Turnquist,Fri Oct 10 22:04:43 2014 -0500,Fri Oct 10 22:04:43 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,09a89c44965b20255e5b7fa2bfa542145ed8493d,Greg Turnquist,Mon Sep 29 12:42:09 2014 -0500,Mon Sep 29 12:42:09 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,7a639fb1ee2e30bcd69adb4c47295bbfd3aa25ce,Greg Turnquist,Fri Sep 5 11:13:29 2014 -0500,Fri Sep 5 11:13:29 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,d2e320ba78de8f1ded7560b185ef71294f1a7297,Greg Turnquist,Fri Aug 8 22:12:05 2014 -0500,Fri Aug 8 22:12:05 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,98f252468932d205e6f3524f16b1269285a680c0,Greg Turnquist,Tue Jul 8 15:41:25 2014 -0500,Tue Jul 8 15:41:25 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,c36ba80bec375ea4a53b13a42e89e9105c4fd88d,Greg Turnquist,Fri Jun 27 22:54:52 2014 -0400,Fri Jun 27 22:54:52 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,a877e9d90b028ba646a61e4c5939077f6b4b9374,Greg Turnquist,Tue Jun 24 19:53:10 2014 -0400,Tue Jun 24 19:53:10 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,be029ce35ac1984f905d900848238b73e9979485,Greg Turnquist,Wed Jun 11 16:47:49 2014 -0500,Wed Jun 11 16:47:49 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,0ae0ac9e7353be280410a7b545958cb5b809af64,Greg Turnquist,Wed Jun 11 09:08:41 2014 -0500,Wed Jun 11 09:08:41 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-accessing-data-mongodb/complete/pom.xml,31030b9a972a587ed6dcbfcb64b1d206d69be872,Greg Turnquist,Tue Jun 10 19:16:04 2014 -0500,Tue Jun 10 19:16:04 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,07464a2a2f46926f595e1d6a6a6c55e68cb812ba,Greg Turnquist,Thu Apr 24 09:36:37 2014 -0500,Thu Apr 24 09:36:37 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,9c52a4f9a734b2432b75095f77ff43c750fbed79,Greg Turnquist,Mon Apr 7 10:09:06 2014 -0500,Mon Apr 7 10:09:06 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,51c8d5ff1c40a1ed8b84b5355a49a3e3f3bd6be2,Greg Turnquist,Tue Apr 1 15:10:48 2014 -0500,Tue Apr 1 15:10:48 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,1ee415c56081ec74d153a0a360dfcdf381ce40d2,Greg Turnquist,Sat Mar 22 07:17:29 2014 -0500,Sat Mar 22 07:17:29 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-accessing-data-mongodb/complete/pom.xml,ac5aaab20750376a4e87afde840d4791f73fefa7,Dave Syer,Wed Mar 5 11:10:40 2014 +0000,Wed Mar 5 11:10:40 2014 +0000,Remove JPA and JDBC dependencies
+gs-accessing-data-mongodb/complete/pom.xml,95ad8ef2256d9eac54c49cfe25c6b993eeac455a,Greg Turnquist,Tue Mar 4 15:08:42 2014 -0500,Tue Mar 4 15:08:42 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-accessing-data-mongodb/complete/pom.xml,7d97795d8323581cd2b16b1406ad1168a4f565c7,Greg Turnquist,Fri Feb 14 11:23:21 2014 -0600,Fri Feb 14 11:23:21 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-accessing-data-mongodb/complete/pom.xml,15e6043f9797d3125e9591a7e1e6cbd19be86d20,Greg Turnquist,Thu Feb 13 12:38:02 2014 -0600,Thu Feb 13 12:38:02 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-accessing-data-mongodb/complete/pom.xml,ea0b53b452165f96eabaa802c8c9accc0638bc2a,Greg Turnquist,Wed Feb 5 09:19:21 2014 -0600,Wed Feb 5 09:19:21 2014 -0600,Rename everything to MongoDB
+gs-accessing-data-mongodb/complete/pom.xml,601dea288f4b574fe7e121fce985e2642d1620ea,Greg Turnquist,Wed Jan 22 12:21:04 2014 -0600,Wed Jan 22 12:21:04 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-accessing-data-mongodb/complete/pom.xml,be5d9d862fa9b4126df995554ee03e5234e00e8f,Greg Turnquist,Mon Dec 9 08:04:42 2013 -0600,Mon Dec 9 08:04:42 2013 -0600,Resolves #4: Fix typo in artifact name
+gs-accessing-data-mongodb/complete/pom.xml,a773e14ad8b754a4fabacdcfab7b8a7120990189,Greg Turnquist,Tue Nov 19 10:54:18 2013 -0600,Tue Nov 19 10:54:18 2013 -0600,Upgrade to Spring Boot 0.5.0.M6 and Spring Data Mongo 1.3.2.RELEASE
+gs-accessing-data-mongodb/complete/pom.xml,5e5ae2a2e17267f24dbffa5f15a4c43948bab54b,Greg Turnquist,Mon Nov 18 08:45:33 2013 -0600,Mon Nov 18 08:45:33 2013 -0600,Merge @dsyer's changes and resolve conflicts
+gs-accessing-data-mongodb/complete/pom.xml,49cb49d67a96a1b2177b3bf84f8446484b624caf,Greg Turnquist,Wed Oct 30 10:03:13 2013 -0500,Wed Oct 30 10:03:13 2013 -0500,Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+gs-accessing-data-mongodb/complete/pom.xml,fa43287e64e318e22b4e39b5ddd2b2d5788c0fa2,Greg Turnquist,Mon Sep 30 08:18:35 2013 -0500,Mon Sep 30 08:18:35 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-accessing-data-mongodb/complete/pom.xml,2515ae352a54a8c6d7ae3ead6ed99a9b1072fc92,Greg Turnquist,Fri Sep 27 10:31:42 2013 -0500,Fri Sep 27 10:31:42 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-accessing-data-mongodb/complete/pom.xml,71b47dc02c2ae3b51a7a614d263839d923890ce5,Greg Turnquist,Fri Aug 30 16:41:37 2013 -0500,Fri Aug 30 16:41:37 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-accessing-data-mongodb/complete/pom.xml,7095d6c8441165c5883a972f5889ef9b20519046,Greg Turnquist,Fri Aug 9 13:17:51 2013 -0500,Fri Aug 9 13:17:51 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-accessing-data-mongodb/complete/pom.xml,40b3e8166faae2da0a49c348c2dc68b51bdec4f0,Roy Clarkson,Thu Aug 8 17:32:03 2013 -0400,Thu Aug 8 17:32:10 2013 -0400,Detab poms and source
+gs-accessing-data-mongodb/complete/pom.xml,65097ace68aa55147f019a99590e2a2e76ce6642,Greg Turnquist,Tue Aug 6 14:43:08 2013 -0500,Tue Aug 6 14:43:08 2013 -0500,Use libs-snapshot instead of snapshot
+gs-accessing-data-mongodb/complete/pom.xml,f03141b2cd581a075cee0e60f100f87a1b8a49f4,Greg Turnquist,Tue Aug 6 11:23:44 2013 -0500,Tue Aug 6 11:23:44 2013 -0500,Remove 'TODO' from pom.xml and rebuild guide
+gs-accessing-data-mongodb/complete/pom.xml,9b6621d04fa1cc790859fbf4af920cb7224b25a1,Greg Turnquist,Wed Jul 31 15:42:18 2013 -0400,Wed Jul 31 15:42:18 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-accessing-data-mongodb/complete/pom.xml,67bfc4defc62d27a39c91d89904a07cdb6f97715,Greg Turnquist,Tue Jul 30 10:18:48 2013 -0400,Tue Jul 30 10:18:48 2013 -0400,Upgrade to Spring Boot
+gs-accessing-data-mongodb/complete/pom.xml,7ef5cdcc1da8c0202fef7468953bcac22d7a4a6e,Greg Turnquist,Fri Jul 19 11:36:31 2013 -0400,Fri Jul 19 11:36:31 2013 -0400,Convert to spring-package-maven-plugin and Spring Zero
+gs-accessing-data-mongodb/complete/pom.xml,084710c21b7a4c32f66b31ad28274c1fbb7cb6c0,Greg Turnquist,Thu Jul 18 10:40:51 2013 -0400,Thu Jul 18 10:40:51 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-accessing-data-mongodb/complete/pom.xml,d054c10f30ee053d9a1da718be83edb9f8d8caba,Greg Turnquist,Thu Jul 11 14:52:24 2013 -0500,Thu Jul 11 14:52:24 2013 -0500,Initial commit with working code and SIDEBAR
+gs-accessing-data-mongodb/initial/pom.xml,3b8407c4d84c85d8b85647d8fc91f117424f0e50,Greg Turnquist,Mon Sep 17 10:49:04 2018 -0500,Mon Sep 17 10:49:04 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-accessing-data-mongodb/initial/pom.xml,c2032b006c7f6796d036ee39ceabb0b85391f147,Greg Turnquist,Mon Jun 18 16:15:17 2018 -0500,Mon Jun 18 16:15:17 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,8dacb20b0e29603ffcef270ba52511503c19917f,Greg Turnquist,Wed May 9 11:25:00 2018 -0500,Wed May 9 11:25:00 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-accessing-data-mongodb/initial/pom.xml,15e8210aa83b7a23f8093082d5dc3daaaae7fb2c,Greg Turnquist,Thu Apr 5 11:43:32 2018 -0500,Thu Apr 5 11:43:32 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,066dbf2fcbab4979025f65853e75278cec31dc62,Greg Turnquist,Thu Mar 1 09:47:19 2018 -0600,Thu Mar 1 09:47:19 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,4c73713058ef95aa60e46f1c8001e7085e502e7d,Greg Turnquist,Wed Jan 31 09:14:43 2018 -0600,Wed Jan 31 09:14:43 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,0ccc1db5bf114d33441d7aa42df6f0c2a28b70b9,Greg Turnquist,Thu Nov 30 11:05:31 2017 -0600,Thu Nov 30 11:05:31 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,ec19657ca78740fbe18d6a287396aa4663f8c62e,Greg Turnquist,Tue Oct 17 15:41:25 2017 -0500,Tue Oct 17 15:41:25 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,a7d3c3158fdd3242e8809d3062a8aca54246123a,Greg Turnquist,Wed Sep 13 13:14:27 2017 -0500,Wed Sep 13 13:14:27 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,96bb116b8bcb583f68284a72dd28de3514f67d5f,Greg Turnquist,Thu Jul 27 10:03:29 2017 -0500,Thu Jul 27 10:03:29 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,8001d3855105a05da549208686c8146569225c75,Greg Turnquist,Wed Jul 26 12:22:16 2017 -0500,Wed Jul 26 12:22:16 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,d40ae513f03e89baae0b2124b945d5bb8aff7f50,Greg Turnquist,Fri Apr 21 09:19:16 2017 -0500,Fri Apr 21 09:19:16 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,98961b88be880f1ccb9173d50e9bba53c5d1c137,Greg Turnquist,Fri Mar 3 11:12:08 2017 -0600,Fri Mar 3 11:12:08 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,1b9299fa52aa41e144ce019820c1652b229aaaf3,Greg Turnquist,Mon Jan 30 23:27:42 2017 -0600,Mon Jan 30 23:27:42 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,fc873463cfa46f3d2c60f70198ba9f1ad25c781d,Greg Turnquist,Mon Jan 30 11:34:35 2017 -0600,Mon Jan 30 11:34:35 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,5ac541ff5882764fbd31579d1f97090ba1986385,Greg Turnquist,Thu Jan 26 12:46:32 2017 -0600,Thu Jan 26 12:46:32 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,cdc851453b246cb18cdf44542b559aa36bfdb6f2,Greg Turnquist,Thu Jan 26 12:35:55 2017 -0600,Thu Jan 26 12:35:55 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,d4f478f3f8a242198e155826dadae6a1fd695f33,Greg Turnquist,Thu Dec 22 22:31:16 2016 -0600,Thu Dec 22 22:31:16 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,d3d8f93f711f503253beed12d924c1eb77b9c1b7,Greg Turnquist,Tue Nov 8 11:51:41 2016 -0600,Tue Nov 8 11:51:41 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,bd56c191ac122db79ce29487143177bdab0bed94,Greg Turnquist,Fri Sep 23 16:35:14 2016 -0500,Fri Sep 23 16:35:14 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,afb566fa54cdceb62b385be0e9a0eb765edbef5b,Mark Paluch,Sun Aug 28 19:27:41 2016 +0200,Sun Aug 28 19:27:41 2016 +0200,Add tests
+gs-accessing-data-mongodb/initial/pom.xml,06b135791be4765cde9dde11df888279c408e5d4,Greg Turnquist,Tue Aug 2 06:48:19 2016 -0700,Tue Aug 2 06:48:19 2016 -0700,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,10de46450d27a9253bc690f6f7b21e350295fda1,Greg Turnquist,Thu Jul 28 06:52:16 2016 -0500,Thu Jul 28 06:52:16 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,dbaaa97fc3dcd457a74901ca570a961d624c54ab,Greg Turnquist,Tue Jul 5 13:51:42 2016 -0500,Tue Jul 5 13:51:42 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,95095afc53b5ae67edb0d11013b6ed7379cb1777,Greg Turnquist,Tue May 10 10:25:49 2016 -0500,Tue May 10 10:25:49 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,40ac496d51a933cea03358a3f0b22b57583890cc,Greg Turnquist,Fri May 6 09:48:10 2016 -0500,Fri May 6 09:48:10 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,392cbde0516f84b4074f1438cafdf9ce6adf6d49,Greg Turnquist,Fri Feb 26 07:28:58 2016 -0600,Fri Feb 26 07:28:58 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,0490f61759fea48fb97a49de3113090880ad16f7,Greg Turnquist,Thu Jan 21 21:28:11 2016 -0600,Thu Jan 21 21:28:11 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,14785098a96293047b29e9ef628a25784dddae06,Greg Turnquist,Fri Dec 18 09:39:40 2015 -0600,Fri Dec 18 09:39:40 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,fbe4ee89336e38c5ba61f17b371ae27a2f1a6649,Greg Turnquist,Mon Nov 16 11:10:08 2015 -0600,Mon Nov 16 11:10:08 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,7b1a8be0126c2c41ec7ed21fb74a4bdac378fde6,Greg Turnquist,Fri Oct 16 09:43:09 2015 -0400,Fri Oct 16 09:43:09 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,bb1e71c82500045f90fd7b90826a1dc5c141bedd,Greg Turnquist,Sun Sep 20 15:41:06 2015 -0500,Sun Sep 20 15:41:06 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,0f3aca56ed874eef624396c41b04ed23f3b7dece,Greg Turnquist,Thu Jul 2 08:45:06 2015 -0500,Thu Jul 2 08:45:06 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,2a8ffc62b146d154903ef19f221b139256fceb8f,Greg Turnquist,Fri Jun 12 14:01:52 2015 -0400,Fri Jun 12 14:01:52 2015 -0400,Upgrade non-specific guides to Java 8
+gs-accessing-data-mongodb/initial/pom.xml,c3f6b89fde13c4a155ecb600d4dee594d407ae8f,Greg Turnquist,Tue Jun 9 09:41:25 2015 -0400,Tue Jun 9 09:41:25 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-accessing-data-mongodb/initial/pom.xml,d36f5395b443f53e4f1a1ec7630e299b5b26b92a,Greg Turnquist,Tue Mar 31 16:55:47 2015 -0500,Tue Mar 31 16:55:47 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,68523fdc44c38525e5b17514d21c8e8fdf133ccf,Greg Turnquist,Thu Feb 26 22:39:12 2015 -0600,Thu Feb 26 22:39:12 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,b82264fc992d5d1507e565f9dd7ac557a68efcb4,Greg Turnquist,Wed Feb 18 11:07:31 2015 -0600,Wed Feb 18 11:07:31 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,891f71212932ae11dc949288c1a09b1f40b03e9f,Greg Turnquist,Wed Jan 14 12:33:39 2015 -0600,Wed Jan 14 12:33:39 2015 -0600,Remove legacy start-class property from maven builds
+gs-accessing-data-mongodb/initial/pom.xml,20b26e929003bb7c228aeb0f87ebf4fbf234b1c2,Greg Turnquist,Thu Dec 11 11:07:26 2014 -0600,Thu Dec 11 11:07:26 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,805da95aeb1ea40bfdeaac2e9760067e6b962e5e,Greg Turnquist,Thu Nov 20 10:14:45 2014 -0600,Thu Nov 20 10:14:45 2014 -0600,Convert to use https for repositories
+gs-accessing-data-mongodb/initial/pom.xml,2078b2d20f15024190645547e116c1492348e3ef,Greg Turnquist,Wed Nov 12 13:07:43 2014 -0600,Wed Nov 12 13:07:43 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,bb0ee9a7333c958b7986ae2cf28970dad2977dcd,Greg Turnquist,Fri Oct 10 22:04:43 2014 -0500,Fri Oct 10 22:04:43 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,09a89c44965b20255e5b7fa2bfa542145ed8493d,Greg Turnquist,Mon Sep 29 12:42:09 2014 -0500,Mon Sep 29 12:42:09 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,7a639fb1ee2e30bcd69adb4c47295bbfd3aa25ce,Greg Turnquist,Fri Sep 5 11:13:29 2014 -0500,Fri Sep 5 11:13:29 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,d2e320ba78de8f1ded7560b185ef71294f1a7297,Greg Turnquist,Fri Aug 8 22:12:05 2014 -0500,Fri Aug 8 22:12:05 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,98f252468932d205e6f3524f16b1269285a680c0,Greg Turnquist,Tue Jul 8 15:41:25 2014 -0500,Tue Jul 8 15:41:25 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,c36ba80bec375ea4a53b13a42e89e9105c4fd88d,Greg Turnquist,Fri Jun 27 22:54:52 2014 -0400,Fri Jun 27 22:54:52 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,a877e9d90b028ba646a61e4c5939077f6b4b9374,Greg Turnquist,Tue Jun 24 19:53:10 2014 -0400,Tue Jun 24 19:53:10 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,be029ce35ac1984f905d900848238b73e9979485,Greg Turnquist,Wed Jun 11 16:47:49 2014 -0500,Wed Jun 11 16:47:49 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,0ae0ac9e7353be280410a7b545958cb5b809af64,Greg Turnquist,Wed Jun 11 09:08:41 2014 -0500,Wed Jun 11 09:08:41 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-accessing-data-mongodb/initial/pom.xml,31030b9a972a587ed6dcbfcb64b1d206d69be872,Greg Turnquist,Tue Jun 10 19:16:04 2014 -0500,Tue Jun 10 19:16:04 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,07464a2a2f46926f595e1d6a6a6c55e68cb812ba,Greg Turnquist,Thu Apr 24 09:36:37 2014 -0500,Thu Apr 24 09:36:37 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,9c52a4f9a734b2432b75095f77ff43c750fbed79,Greg Turnquist,Mon Apr 7 10:09:06 2014 -0500,Mon Apr 7 10:09:06 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,51c8d5ff1c40a1ed8b84b5355a49a3e3f3bd6be2,Greg Turnquist,Tue Apr 1 15:10:48 2014 -0500,Tue Apr 1 15:10:48 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,1ee415c56081ec74d153a0a360dfcdf381ce40d2,Greg Turnquist,Sat Mar 22 07:17:29 2014 -0500,Sat Mar 22 07:17:29 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-accessing-data-mongodb/initial/pom.xml,be4541ce2744c8a7f826d0ae8f57eddde7ea936f,Greg Turnquist,Wed Mar 5 08:35:38 2014 -0500,Wed Mar 5 08:35:38 2014 -0500,Copy complete build files into initial
+gs-accessing-data-mongodb/initial/pom.xml,95ad8ef2256d9eac54c49cfe25c6b993eeac455a,Greg Turnquist,Tue Mar 4 15:08:42 2014 -0500,Tue Mar 4 15:08:42 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-accessing-data-mongodb/initial/pom.xml,b302d1a01f49f9c19dc6e520f3a1291680354c0d,Greg Turnquist,Tue Feb 18 16:32:48 2014 -0600,Tue Feb 18 16:32:48 2014 -0600,Move final build file to the beginning and update guides to reflect this
+gs-accessing-data-mongodb/initial/pom.xml,7d97795d8323581cd2b16b1406ad1168a4f565c7,Greg Turnquist,Fri Feb 14 11:23:21 2014 -0600,Fri Feb 14 11:23:21 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-accessing-data-mongodb/initial/pom.xml,15e6043f9797d3125e9591a7e1e6cbd19be86d20,Greg Turnquist,Thu Feb 13 12:38:02 2014 -0600,Thu Feb 13 12:38:02 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-accessing-data-mongodb/initial/pom.xml,ea0b53b452165f96eabaa802c8c9accc0638bc2a,Greg Turnquist,Wed Feb 5 09:19:21 2014 -0600,Wed Feb 5 09:19:21 2014 -0600,Rename everything to MongoDB
+gs-accessing-data-mongodb/initial/pom.xml,601dea288f4b574fe7e121fce985e2642d1620ea,Greg Turnquist,Wed Jan 22 12:21:04 2014 -0600,Wed Jan 22 12:21:04 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-accessing-data-mongodb/initial/pom.xml,be5d9d862fa9b4126df995554ee03e5234e00e8f,Greg Turnquist,Mon Dec 9 08:04:42 2013 -0600,Mon Dec 9 08:04:42 2013 -0600,Resolves #4: Fix typo in artifact name
+gs-accessing-data-mongodb/initial/pom.xml,a773e14ad8b754a4fabacdcfab7b8a7120990189,Greg Turnquist,Tue Nov 19 10:54:18 2013 -0600,Tue Nov 19 10:54:18 2013 -0600,Upgrade to Spring Boot 0.5.0.M6 and Spring Data Mongo 1.3.2.RELEASE
+gs-accessing-data-mongodb/initial/pom.xml,5e5ae2a2e17267f24dbffa5f15a4c43948bab54b,Greg Turnquist,Mon Nov 18 08:45:33 2013 -0600,Mon Nov 18 08:45:33 2013 -0600,Merge @dsyer's changes and resolve conflicts
+gs-accessing-data-mongodb/initial/pom.xml,49cb49d67a96a1b2177b3bf84f8446484b624caf,Greg Turnquist,Wed Oct 30 10:03:13 2013 -0500,Wed Oct 30 10:03:13 2013 -0500,Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+gs-accessing-data-mongodb/initial/pom.xml,fa43287e64e318e22b4e39b5ddd2b2d5788c0fa2,Greg Turnquist,Mon Sep 30 08:18:35 2013 -0500,Mon Sep 30 08:18:35 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-accessing-data-mongodb/initial/pom.xml,2515ae352a54a8c6d7ae3ead6ed99a9b1072fc92,Greg Turnquist,Fri Sep 27 10:31:42 2013 -0500,Fri Sep 27 10:31:42 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-accessing-data-mongodb/initial/pom.xml,71b47dc02c2ae3b51a7a614d263839d923890ce5,Greg Turnquist,Fri Aug 30 16:41:37 2013 -0500,Fri Aug 30 16:41:37 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-accessing-data-mongodb/initial/pom.xml,7095d6c8441165c5883a972f5889ef9b20519046,Greg Turnquist,Fri Aug 9 13:17:51 2013 -0500,Fri Aug 9 13:17:51 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-accessing-data-mongodb/initial/pom.xml,40b3e8166faae2da0a49c348c2dc68b51bdec4f0,Roy Clarkson,Thu Aug 8 17:32:03 2013 -0400,Thu Aug 8 17:32:10 2013 -0400,Detab poms and source
+gs-accessing-data-mongodb/initial/pom.xml,65097ace68aa55147f019a99590e2a2e76ce6642,Greg Turnquist,Tue Aug 6 14:43:08 2013 -0500,Tue Aug 6 14:43:08 2013 -0500,Use libs-snapshot instead of snapshot
+gs-accessing-data-mongodb/initial/pom.xml,f03141b2cd581a075cee0e60f100f87a1b8a49f4,Greg Turnquist,Tue Aug 6 11:23:44 2013 -0500,Tue Aug 6 11:23:44 2013 -0500,Remove 'TODO' from pom.xml and rebuild guide
+gs-accessing-data-mongodb/initial/pom.xml,9b6621d04fa1cc790859fbf4af920cb7224b25a1,Greg Turnquist,Wed Jul 31 15:42:18 2013 -0400,Wed Jul 31 15:42:18 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-accessing-data-mongodb/initial/pom.xml,67bfc4defc62d27a39c91d89904a07cdb6f97715,Greg Turnquist,Tue Jul 30 10:18:48 2013 -0400,Tue Jul 30 10:18:48 2013 -0400,Upgrade to Spring Boot
+gs-accessing-data-mongodb/initial/pom.xml,7ef5cdcc1da8c0202fef7468953bcac22d7a4a6e,Greg Turnquist,Fri Jul 19 11:36:31 2013 -0400,Fri Jul 19 11:36:31 2013 -0400,Convert to spring-package-maven-plugin and Spring Zero
+gs-accessing-data-mongodb/initial/pom.xml,084710c21b7a4c32f66b31ad28274c1fbb7cb6c0,Greg Turnquist,Thu Jul 18 10:40:51 2013 -0400,Thu Jul 18 10:40:51 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-accessing-data-mongodb/initial/pom.xml,d054c10f30ee053d9a1da718be83edb9f8d8caba,Greg Turnquist,Thu Jul 11 14:52:24 2013 -0500,Thu Jul 11 14:52:24 2013 -0500,Initial commit with working code and SIDEBAR

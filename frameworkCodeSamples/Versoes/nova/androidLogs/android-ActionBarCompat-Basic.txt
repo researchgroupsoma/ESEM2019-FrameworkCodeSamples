@@ -1,0 +1,19 @@
+android-ActionBarCompat-Basic/build.gradle,c1a107aea8d8e667ae71139b9a0035abc6341c5a,google-automerger,Tue Sep 2 10:56:00 2014 -0700,Tue Sep 2 10:56:00 2014 -0700,Initial Commit
+android-ActionBarCompat-Basic/Application/build.gradle,4bebeb9f8b852231701719cc644141deaec77821,google-automerger,Thu Feb 15 16:33:54 2018 -0800,Thu Feb 15 16:33:54 2018 -0800,Auto-update
+android-ActionBarCompat-Basic/Application/build.gradle,27deae43bb737e7b04e51fa475f0df5494ac15d9,google-automerger,Tue Oct 10 17:50:12 2017 -0700,Tue Oct 10 17:50:12 2017 -0700,Auto-update
+android-ActionBarCompat-Basic/Application/build.gradle,5eab5f30c0379710171969de17b19b3446d7bd80,google-automerger,Thu Jun 8 09:32:01 2017 -0700,Thu Jun 8 09:32:01 2017 -0700,Auto-update
+android-ActionBarCompat-Basic/Application/build.gradle,dfab7e41b497e9f8e04f61bf6a1cae51d14375ef,google-automerger,Wed May 17 13:30:49 2017 -0700,Wed May 17 13:30:49 2017 -0700,Auto-update
+android-ActionBarCompat-Basic/Application/build.gradle,a6880479f52216ce68c1e9f90400a9245007811a,google-automerger,Tue Dec 13 09:38:09 2016 -0800,Tue Dec 13 09:38:09 2016 -0800,Auto-update
+android-ActionBarCompat-Basic/Application/build.gradle,66ad6a56ecefd74d089ad769a281f8387746065e,google-automerger,Fri Aug 12 15:16:59 2016 -0700,Fri Aug 12 15:16:59 2016 -0700,Auto-update
+android-ActionBarCompat-Basic/Application/build.gradle,fc66062207bbac794b310724b4bc35725b610341,google-automerger,Wed May 18 11:37:20 2016 -0700,Wed May 18 11:37:20 2016 -0700,Auto-update
+android-ActionBarCompat-Basic/Application/build.gradle,aaa501c03847cbc86fb72fcedc1473a31b45d7c2,google-automerger,Wed Apr 20 12:25:13 2016 -0700,Wed Apr 20 12:25:13 2016 -0700,Auto-update
+android-ActionBarCompat-Basic/Application/build.gradle,41f0d87c9e74ce63319e9f30e461c2ff57d7eb2a,google-automerger,Wed Nov 18 09:32:21 2015 -0800,Wed Nov 18 09:32:21 2015 -0800,Auto-update
+android-ActionBarCompat-Basic/Application/build.gradle,7af4e6b7442f1d33d29bbcb9c359266231b7d4de,google-automerger,Thu Oct 8 17:41:39 2015 -0700,Thu Oct 8 17:41:39 2015 -0700,Auto-update
+android-ActionBarCompat-Basic/Application/build.gradle,779dcf51d3bb28a079dd0cb876a8f4c292bdaae7,google-automerger,Mon Aug 17 09:53:37 2015 -0700,Mon Aug 17 09:53:37 2015 -0700,Auto-update
+android-ActionBarCompat-Basic/Application/build.gradle,f5a0d8c88b14b3dc0b536550a9872f7d7ea651dd,google-automerger,Thu Jul 9 11:09:32 2015 -0700,Thu Jul 9 11:09:32 2015 -0700,Auto-update
+android-ActionBarCompat-Basic/Application/build.gradle,a0b3bf57f6209e54081895a0b7425c1a3786a596,google-automerger,Thu May 21 10:03:09 2015 -0700,Thu May 21 10:03:09 2015 -0700,Auto-update
+android-ActionBarCompat-Basic/Application/build.gradle,1bfe279a1d5e8c336538ce6e23aa0fe090cbbebb,google-automerger,Tue Apr 28 10:52:47 2015 -0700,Tue Apr 28 10:52:47 2015 -0700,Auto-update
+android-ActionBarCompat-Basic/Application/build.gradle,818ac84f80142b7ed933692d710fbe4e97c34234,google-automerger,Mon Mar 30 17:42:17 2015 -0700,Mon Mar 30 17:42:17 2015 -0700,Auto-update
+android-ActionBarCompat-Basic/Application/build.gradle,7735a601967ea1e636e63811e215ee79fbb9b198,google-automerger,Mon Dec 8 17:47:02 2014 -0800,Mon Dec 8 17:47:02 2014 -0800,Auto-update
+android-ActionBarCompat-Basic/Application/build.gradle,afa0b3a292ed18e96df07bcb5376f975c137bbf1,google-automerger,Wed Dec 3 01:40:39 2014 -0800,Wed Dec 3 01:40:39 2014 -0800,Auto-update
+android-ActionBarCompat-Basic/Application/build.gradle,e38fae179469ee851540f40f6d84325f5cf9b5a8,google-automerger,Tue Nov 18 15:32:39 2014 -0800,Tue Nov 18 15:32:39 2014 -0800,Auto-update

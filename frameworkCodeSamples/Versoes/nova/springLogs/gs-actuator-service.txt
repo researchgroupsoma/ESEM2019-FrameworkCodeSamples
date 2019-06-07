@@ -1,0 +1,155 @@
+gs-actuator-service/complete/pom.xml,1ae69a727ffb739594e2416ea0e9a9f09d164367,Greg Turnquist,Mon Sep 17 10:49:31 2018 -0500,Mon Sep 17 10:49:31 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-actuator-service/complete/pom.xml,c320e628c7f009cc86cd4a271bd06383a21b91d5,Greg Turnquist,Mon Jun 18 16:15:40 2018 -0500,Mon Jun 18 16:15:40 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-actuator-service/complete/pom.xml,e98bc3f2b4a70e00b809d4f76d569d3bba86666c,Greg Turnquist,Wed May 9 11:25:28 2018 -0500,Wed May 9 11:25:28 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-actuator-service/complete/pom.xml,895b30ed2cc7b213b6372d99e2a0132add0f7c37,Greg Turnquist,Thu Apr 5 11:43:58 2018 -0500,Thu Apr 5 11:43:58 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-actuator-service/complete/pom.xml,24ecaab7d87b748a0719cd159e81887a780de334,Brian Clozel,Mon Mar 5 20:47:04 2018 +0100,Mon Mar 5 20:47:04 2018 +0100,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-actuator-service/complete/pom.xml,7519dd7b96b1ccbd255261bdbb58ab586a7228f6,Greg Turnquist,Wed Jan 31 09:15:16 2018 -0600,Wed Jan 31 09:15:16 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-actuator-service/complete/pom.xml,3c11e7e7cea607b9e358adef68a6a34b0f199996,Greg Turnquist,Thu Nov 30 11:05:53 2017 -0600,Thu Nov 30 11:05:53 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-actuator-service/complete/pom.xml,c3f6438e91b4b71ce0c61489380f23cbc52aba32,Greg Turnquist,Tue Oct 17 15:41:47 2017 -0500,Tue Oct 17 15:41:47 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-actuator-service/complete/pom.xml,ce7083e87c09bd38b29755db9bc20b08634d3ba5,Greg Turnquist,Wed Sep 13 13:14:48 2017 -0500,Wed Sep 13 13:14:48 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-actuator-service/complete/pom.xml,83f5f9e5bca0e9ca0f76059431fca0b19bcfc53f,Greg Turnquist,Thu Jul 27 10:03:55 2017 -0500,Thu Jul 27 10:03:55 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-actuator-service/complete/pom.xml,bc6c9e60b66d907e6f61877474d9f53f5653a433,Greg Turnquist,Wed Jul 26 12:22:37 2017 -0500,Wed Jul 26 12:24:47 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-actuator-service/complete/pom.xml,e44e3d112eed367551783983b46673127a20ae5c,Greg Turnquist,Fri Apr 21 09:19:36 2017 -0500,Fri Apr 21 09:19:36 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-actuator-service/complete/pom.xml,40c4e1aaca783fff143a27817dc982dc95baa85c,Greg Turnquist,Fri Mar 3 11:12:31 2017 -0600,Fri Mar 3 11:12:31 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-actuator-service/complete/pom.xml,2702d34531dcf00cf7e290ed5c4d255bf9a507ac,Greg Turnquist,Mon Jan 30 23:28:07 2017 -0600,Mon Jan 30 23:28:07 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-actuator-service/complete/pom.xml,333d0a68f3a57abffb599809774af4cad6ad6e2d,Greg Turnquist,Mon Jan 30 11:36:12 2017 -0600,Mon Jan 30 11:36:12 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-actuator-service/complete/pom.xml,07b1185896cc4c1468afc74ec9663f391842cafd,Greg Turnquist,Thu Jan 26 12:46:57 2017 -0600,Thu Jan 26 12:46:57 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-actuator-service/complete/pom.xml,c30307bce219b784b85973ff061ec5d14e0b4c1b,Greg Turnquist,Thu Jan 26 12:36:21 2017 -0600,Thu Jan 26 12:36:21 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-actuator-service/complete/pom.xml,d59139bb1f28b4db1a8701cddae193f0a9f21a3e,Greg Turnquist,Thu Dec 22 22:31:40 2016 -0600,Thu Dec 22 22:31:40 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-actuator-service/complete/pom.xml,44779588d5a147166a180ca1a9dc0897dd54cc19,Greg Turnquist,Tue Nov 8 11:51:53 2016 -0600,Tue Nov 8 11:51:53 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-actuator-service/complete/pom.xml,ab449e0b934aa31fbb94f5cf5cf1926fc6c2277c,Greg Turnquist,Fri Sep 23 16:35:28 2016 -0500,Fri Sep 23 16:35:28 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-actuator-service/complete/pom.xml,dcaba0ad1cf74fbb86f7d7b67b63ace8dcf12dd4,Greg Turnquist,Fri Jul 29 11:24:18 2016 -0500,Fri Jul 29 11:24:18 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-actuator-service/complete/pom.xml,1ff5409a2bfcd21b5016a0d8879d93dd8b545ceb,Greg Turnquist,Thu Jul 28 06:52:28 2016 -0500,Thu Jul 28 06:52:28 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-actuator-service/complete/pom.xml,25182c751c2166d57ea05a3bd263c3f31a6bc8e6,Greg Turnquist,Tue Jul 5 13:51:53 2016 -0500,Tue Jul 5 13:51:53 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-actuator-service/complete/pom.xml,0a4273cc56f5deb2b34fd020361e540d8fab70ee,Greg Turnquist,Tue May 10 10:26:00 2016 -0500,Tue May 10 10:26:00 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-actuator-service/complete/pom.xml,ef80b5d9d6935fb987b4e9e4fc511687aa2a46b6,Greg Turnquist,Fri May 6 09:48:27 2016 -0500,Fri May 6 09:48:27 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-actuator-service/complete/pom.xml,0b50eab4775038758614a361b322e36a1287f94f,Greg Turnquist,Fri Feb 26 07:29:27 2016 -0600,Fri Feb 26 07:29:27 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-actuator-service/complete/pom.xml,f7e3531741c2d95bc6dd09293b2726319e85a916,Greg Turnquist,Thu Jan 21 21:28:23 2016 -0600,Thu Jan 21 21:28:23 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-actuator-service/complete/pom.xml,e6c8c50a5b7868c4ef83728a6cb5ff6964df0920,Greg Turnquist,Fri Dec 18 09:39:50 2015 -0600,Fri Dec 18 09:39:50 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-actuator-service/complete/pom.xml,f6a2e143b468bad1b5ba8df0599be249eda32a99,Greg Turnquist,Mon Nov 16 11:10:18 2015 -0600,Mon Nov 16 11:10:18 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-actuator-service/complete/pom.xml,f21d42a554d5794e2790c28bea4f0b1c1e561de8,Greg Turnquist,Fri Oct 16 09:43:18 2015 -0400,Fri Oct 16 09:43:18 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-actuator-service/complete/pom.xml,e3041f574d70b64f92d9a482e052577c3f397068,Greg Turnquist,Sun Sep 20 15:41:17 2015 -0500,Sun Sep 20 15:41:17 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-actuator-service/complete/pom.xml,06436472444f11208690ea8f1c9e0857b4981a2e,Greg Turnquist,Thu Jul 2 08:45:31 2015 -0500,Thu Jul 2 08:45:31 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-actuator-service/complete/pom.xml,9bff10272361d3075f1543dded202c23bb58783d,Greg Turnquist,Fri Jun 12 13:49:20 2015 -0400,Fri Jun 12 13:49:20 2015 -0400,Upgrade to Java 8
+gs-actuator-service/complete/pom.xml,1198c207b32cddf3124ebdc96a7daef9cf77f458,Greg Turnquist,Tue Jun 9 09:41:33 2015 -0400,Tue Jun 9 09:41:33 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-actuator-service/complete/pom.xml,3607aeac7cdeb55b78e24ea41f59b8589162eb36,Greg Turnquist,Tue Mar 31 16:55:54 2015 -0500,Tue Mar 31 16:55:54 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-actuator-service/complete/pom.xml,821a53ece28c5e673269b3e8255ce39fc69c8af2,Greg Turnquist,Thu Mar 5 15:05:50 2015 -0600,Thu Mar 5 15:05:50 2015 -0600,Upgrade build files to proper JDK version
+gs-actuator-service/complete/pom.xml,aaa1a2b0468fcb0d421b7abae72a4ba52e818254,Greg Turnquist,Thu Feb 26 22:39:22 2015 -0600,Thu Feb 26 22:39:22 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-actuator-service/complete/pom.xml,eab712a6b900dce5a681611706f59f1ef1ca64a9,Dave Syer,Fri Feb 20 16:54:27 2015 +0000,Fri Feb 20 16:54:27 2015 +0000,Update for Boot 1.2 and add a test
+gs-actuator-service/complete/pom.xml,db0faf5a8a63a9a4df11e19a814648f2b23b0dae,Greg Turnquist,Wed Feb 18 11:07:40 2015 -0600,Wed Feb 18 11:07:40 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-actuator-service/complete/pom.xml,52ae8dd77e017086e8b20d5dfd4de44efd9af108,Greg Turnquist,Wed Jan 14 12:33:46 2015 -0600,Wed Jan 14 12:33:46 2015 -0600,Remove legacy start-class property from maven builds
+gs-actuator-service/complete/pom.xml,ad49ac84ca0b75a740f5672ff382c39eccde5323,Greg Turnquist,Thu Dec 11 11:07:36 2014 -0600,Thu Dec 11 11:07:36 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-actuator-service/complete/pom.xml,3252ca18bd7af554a65accbe6cf15c8130cbbcf3,Greg Turnquist,Thu Nov 20 10:14:54 2014 -0600,Thu Nov 20 10:14:54 2014 -0600,Convert to use https for repositories
+gs-actuator-service/complete/pom.xml,ed9db192db79f83c6af549f8b83a306b22789635,Greg Turnquist,Wed Nov 12 13:07:53 2014 -0600,Wed Nov 12 13:07:53 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-actuator-service/complete/pom.xml,59eb9e5c947a5d71bdaa3ce78cea8df36d26be2a,Greg Turnquist,Fri Oct 10 22:04:54 2014 -0500,Fri Oct 10 22:04:54 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-actuator-service/complete/pom.xml,b74b792aacb439731fe40a6d59cb5ec1ef2b1fdb,Greg Turnquist,Mon Sep 29 12:42:16 2014 -0500,Mon Sep 29 12:42:16 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-actuator-service/complete/pom.xml,1516c2d73969b85a2bffa9d9bc40ac14605c8280,Greg Turnquist,Fri Sep 5 11:13:38 2014 -0500,Fri Sep 5 11:13:38 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-actuator-service/complete/pom.xml,45e7962b8c9da6b4cf6dc3fba2c53eb03b571963,Greg Turnquist,Fri Aug 8 22:12:13 2014 -0500,Fri Aug 8 22:12:13 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-actuator-service/complete/pom.xml,3b93a0cdb25d09fadee8cf854f6cd1b0e127688d,Greg Turnquist,Tue Jul 8 15:41:32 2014 -0500,Tue Jul 8 15:41:32 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-actuator-service/complete/pom.xml,e91917f543fd26771b22808793214f6227fbdb66,Greg Turnquist,Fri Jun 27 22:54:58 2014 -0400,Fri Jun 27 22:54:58 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-actuator-service/complete/pom.xml,7e80cee1d599f28c1fc8aef0b298a3b45328c585,Greg Turnquist,Tue Jun 24 19:54:30 2014 -0400,Tue Jun 24 19:54:30 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-actuator-service/complete/pom.xml,f51fd4cd052f4c9afe877ebba2118c657a03f011,Greg Turnquist,Wed Jun 11 16:47:56 2014 -0500,Wed Jun 11 16:47:56 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-actuator-service/complete/pom.xml,de667b85a4790c09f2aae45917185388ccb04630,Greg Turnquist,Wed Jun 11 09:08:47 2014 -0500,Wed Jun 11 09:08:47 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-actuator-service/complete/pom.xml,83213706977d9ce7991a2b73a6cd3df614e676c4,Greg Turnquist,Tue Jun 10 19:16:11 2014 -0500,Tue Jun 10 19:16:11 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-actuator-service/complete/pom.xml,a8f9167d953dcc5e026a91c115b315726d371334,Greg Turnquist,Thu Apr 24 09:36:47 2014 -0500,Thu Apr 24 09:36:47 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-actuator-service/complete/pom.xml,efe4dbd04518fca63b06af1796b91cb5306a3fb5,Greg Turnquist,Mon Apr 7 10:09:17 2014 -0500,Mon Apr 7 10:09:17 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-actuator-service/complete/pom.xml,f4bacea46a0d473522193e56cddaec76cae2ae3c,Greg Turnquist,Tue Apr 1 15:11:00 2014 -0500,Tue Apr 1 15:11:00 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-actuator-service/complete/pom.xml,47f512f1bd93084acd787975a349402d92798be9,Greg Turnquist,Sat Mar 22 07:17:39 2014 -0500,Sat Mar 22 07:17:39 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-actuator-service/complete/pom.xml,1df7b957c1a5a229674cc882dcae4d9784c5a910,Greg Turnquist,Tue Mar 4 15:08:56 2014 -0500,Tue Mar 4 15:08:56 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-actuator-service/complete/pom.xml,cb61acc2efe9b316d39a9bbf738ecf04c33d97fa,Greg Turnquist,Fri Feb 14 11:23:26 2014 -0600,Fri Feb 14 11:23:26 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-actuator-service/complete/pom.xml,a4d78d7a099b266d80c3f6dc26acb4be908d21ce,Greg Turnquist,Thu Feb 13 12:38:06 2014 -0600,Thu Feb 13 12:38:06 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-actuator-service/complete/pom.xml,884ca63cae8b66d6db2a24fed4d2669e499e67db,Greg Turnquist,Wed Jan 22 12:21:10 2014 -0600,Wed Jan 22 12:21:10 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-actuator-service/complete/pom.xml,fe2e64d48edd9e6b1758e6db8c4ec0643e63b0bb,Greg Turnquist,Tue Nov 19 11:02:00 2013 -0600,Tue Nov 19 11:02:00 2013 -0600,Upgrade to Spring Boot 0.5.0.M6
+gs-actuator-service/complete/pom.xml,f2d5388b393c04c39d29bea0b27207b36f21a859,Greg Turnquist,Wed Oct 30 10:03:24 2013 -0500,Wed Oct 30 10:03:24 2013 -0500,Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+gs-actuator-service/complete/pom.xml,07eacf1edc488d3aba6dbd98cd7500d671fa287e,Greg Turnquist,Mon Sep 30 08:18:41 2013 -0500,Mon Sep 30 08:18:41 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-actuator-service/complete/pom.xml,63e55ca236264e152a9120ec82e29ce9f2bc1532,Greg Turnquist,Fri Sep 27 10:31:48 2013 -0500,Fri Sep 27 10:31:48 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-actuator-service/complete/pom.xml,33c0eef52dcca2e5ae4c37e67381dcf49c2c7c4a,Greg Turnquist,Fri Aug 30 16:41:43 2013 -0500,Fri Aug 30 16:41:43 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-actuator-service/complete/pom.xml,1cc06a2c2831f557e6e137e3079c6339a761488b,Greg Turnquist,Fri Aug 9 13:18:01 2013 -0500,Fri Aug 9 13:18:01 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-actuator-service/complete/pom.xml,791fd7af2faac15718c98849f96abbc317f08e71,Roy Clarkson,Thu Aug 8 17:53:57 2013 -0400,Thu Aug 8 17:53:57 2013 -0400,Detab poms and source
+gs-actuator-service/complete/pom.xml,06fd653272b10c5a3a7526540fea40492d45e465,Greg Turnquist,Tue Aug 6 14:43:23 2013 -0500,Tue Aug 6 14:43:23 2013 -0500,Use libs-snapshot instead of snapshot
+gs-actuator-service/complete/pom.xml,79dc727d317009fcb6d3d9501f5ba51ad3e42dd7,Greg Turnquist,Wed Jul 31 17:25:18 2013 -0400,Wed Jul 31 17:25:18 2013 -0400,Update to spring-boot-starter-actuator
+gs-actuator-service/complete/pom.xml,69641793c623380df40f4178909fcb99c1ff5a8c,Greg Turnquist,Wed Jul 31 15:42:25 2013 -0400,Wed Jul 31 15:42:25 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-actuator-service/complete/pom.xml,987b8189de43f68e51340b10989074a452efe6f2,Greg Turnquist,Tue Jul 30 10:18:57 2013 -0400,Tue Jul 30 10:18:57 2013 -0400,Upgrade to Spring Boot
+gs-actuator-service/complete/pom.xml,478c99e7634d9da2b3b9e880cb5ee7e0f6219a36,Greg Turnquist,Fri Jul 19 15:01:06 2013 -0400,Fri Jul 19 15:01:06 2013 -0400,Switch to spring-package-maven-plugin and Spring Zero
+gs-actuator-service/complete/pom.xml,77ab26d9d121f0c822906ad33566a423c581cef7,Greg Turnquist,Thu Jul 18 10:40:58 2013 -0400,Thu Jul 18 10:40:58 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-actuator-service/complete/pom.xml,b6f97f6711a8434d9513f7baf41e7aba1a24930d,Chris Beams,Tue May 28 11:48:13 2013 +0200,Tue May 28 11:48:13 2013 +0200,Version all GS guides at 0.1.0 per http://semver.org
+gs-actuator-service/complete/pom.xml,54e7a17436ca842ba4cd6cd1d0441efd151c8f86,Dave Syer,Thu May 9 16:31:46 2013 +0100,Thu May 9 16:31:46 2013 +0100,Use starter for actuator dependency
+gs-actuator-service/complete/pom.xml,fb2277b9d224376136e01c7825c9738d33ff80e7,Dave Syer,Thu May 9 09:44:34 2013 +0100,Thu May 9 09:47:26 2013 +0100,Initial commit of working project
+gs-actuator-service/initial/pom.xml,1ae69a727ffb739594e2416ea0e9a9f09d164367,Greg Turnquist,Mon Sep 17 10:49:31 2018 -0500,Mon Sep 17 10:49:31 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-actuator-service/initial/pom.xml,c320e628c7f009cc86cd4a271bd06383a21b91d5,Greg Turnquist,Mon Jun 18 16:15:40 2018 -0500,Mon Jun 18 16:15:40 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-actuator-service/initial/pom.xml,e98bc3f2b4a70e00b809d4f76d569d3bba86666c,Greg Turnquist,Wed May 9 11:25:28 2018 -0500,Wed May 9 11:25:28 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-actuator-service/initial/pom.xml,895b30ed2cc7b213b6372d99e2a0132add0f7c37,Greg Turnquist,Thu Apr 5 11:43:58 2018 -0500,Thu Apr 5 11:43:58 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-actuator-service/initial/pom.xml,24ecaab7d87b748a0719cd159e81887a780de334,Brian Clozel,Mon Mar 5 20:47:04 2018 +0100,Mon Mar 5 20:47:04 2018 +0100,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-actuator-service/initial/pom.xml,7519dd7b96b1ccbd255261bdbb58ab586a7228f6,Greg Turnquist,Wed Jan 31 09:15:16 2018 -0600,Wed Jan 31 09:15:16 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-actuator-service/initial/pom.xml,3c11e7e7cea607b9e358adef68a6a34b0f199996,Greg Turnquist,Thu Nov 30 11:05:53 2017 -0600,Thu Nov 30 11:05:53 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-actuator-service/initial/pom.xml,c3f6438e91b4b71ce0c61489380f23cbc52aba32,Greg Turnquist,Tue Oct 17 15:41:47 2017 -0500,Tue Oct 17 15:41:47 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-actuator-service/initial/pom.xml,ce7083e87c09bd38b29755db9bc20b08634d3ba5,Greg Turnquist,Wed Sep 13 13:14:48 2017 -0500,Wed Sep 13 13:14:48 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-actuator-service/initial/pom.xml,83f5f9e5bca0e9ca0f76059431fca0b19bcfc53f,Greg Turnquist,Thu Jul 27 10:03:55 2017 -0500,Thu Jul 27 10:03:55 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-actuator-service/initial/pom.xml,bc6c9e60b66d907e6f61877474d9f53f5653a433,Greg Turnquist,Wed Jul 26 12:22:37 2017 -0500,Wed Jul 26 12:24:47 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-actuator-service/initial/pom.xml,e44e3d112eed367551783983b46673127a20ae5c,Greg Turnquist,Fri Apr 21 09:19:36 2017 -0500,Fri Apr 21 09:19:36 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-actuator-service/initial/pom.xml,40c4e1aaca783fff143a27817dc982dc95baa85c,Greg Turnquist,Fri Mar 3 11:12:31 2017 -0600,Fri Mar 3 11:12:31 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-actuator-service/initial/pom.xml,2702d34531dcf00cf7e290ed5c4d255bf9a507ac,Greg Turnquist,Mon Jan 30 23:28:07 2017 -0600,Mon Jan 30 23:28:07 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-actuator-service/initial/pom.xml,333d0a68f3a57abffb599809774af4cad6ad6e2d,Greg Turnquist,Mon Jan 30 11:36:12 2017 -0600,Mon Jan 30 11:36:12 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-actuator-service/initial/pom.xml,07b1185896cc4c1468afc74ec9663f391842cafd,Greg Turnquist,Thu Jan 26 12:46:57 2017 -0600,Thu Jan 26 12:46:57 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-actuator-service/initial/pom.xml,c30307bce219b784b85973ff061ec5d14e0b4c1b,Greg Turnquist,Thu Jan 26 12:36:21 2017 -0600,Thu Jan 26 12:36:21 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-actuator-service/initial/pom.xml,d59139bb1f28b4db1a8701cddae193f0a9f21a3e,Greg Turnquist,Thu Dec 22 22:31:40 2016 -0600,Thu Dec 22 22:31:40 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-actuator-service/initial/pom.xml,44779588d5a147166a180ca1a9dc0897dd54cc19,Greg Turnquist,Tue Nov 8 11:51:53 2016 -0600,Tue Nov 8 11:51:53 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-actuator-service/initial/pom.xml,ab449e0b934aa31fbb94f5cf5cf1926fc6c2277c,Greg Turnquist,Fri Sep 23 16:35:28 2016 -0500,Fri Sep 23 16:35:28 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-actuator-service/initial/pom.xml,dcaba0ad1cf74fbb86f7d7b67b63ace8dcf12dd4,Greg Turnquist,Fri Jul 29 11:24:18 2016 -0500,Fri Jul 29 11:24:18 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-actuator-service/initial/pom.xml,1ff5409a2bfcd21b5016a0d8879d93dd8b545ceb,Greg Turnquist,Thu Jul 28 06:52:28 2016 -0500,Thu Jul 28 06:52:28 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-actuator-service/initial/pom.xml,25182c751c2166d57ea05a3bd263c3f31a6bc8e6,Greg Turnquist,Tue Jul 5 13:51:53 2016 -0500,Tue Jul 5 13:51:53 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-actuator-service/initial/pom.xml,0a4273cc56f5deb2b34fd020361e540d8fab70ee,Greg Turnquist,Tue May 10 10:26:00 2016 -0500,Tue May 10 10:26:00 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-actuator-service/initial/pom.xml,ef80b5d9d6935fb987b4e9e4fc511687aa2a46b6,Greg Turnquist,Fri May 6 09:48:27 2016 -0500,Fri May 6 09:48:27 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-actuator-service/initial/pom.xml,0b50eab4775038758614a361b322e36a1287f94f,Greg Turnquist,Fri Feb 26 07:29:27 2016 -0600,Fri Feb 26 07:29:27 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-actuator-service/initial/pom.xml,f7e3531741c2d95bc6dd09293b2726319e85a916,Greg Turnquist,Thu Jan 21 21:28:23 2016 -0600,Thu Jan 21 21:28:23 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-actuator-service/initial/pom.xml,e6c8c50a5b7868c4ef83728a6cb5ff6964df0920,Greg Turnquist,Fri Dec 18 09:39:50 2015 -0600,Fri Dec 18 09:39:50 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-actuator-service/initial/pom.xml,f6a2e143b468bad1b5ba8df0599be249eda32a99,Greg Turnquist,Mon Nov 16 11:10:18 2015 -0600,Mon Nov 16 11:10:18 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-actuator-service/initial/pom.xml,f21d42a554d5794e2790c28bea4f0b1c1e561de8,Greg Turnquist,Fri Oct 16 09:43:18 2015 -0400,Fri Oct 16 09:43:18 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-actuator-service/initial/pom.xml,e3041f574d70b64f92d9a482e052577c3f397068,Greg Turnquist,Sun Sep 20 15:41:17 2015 -0500,Sun Sep 20 15:41:17 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-actuator-service/initial/pom.xml,06436472444f11208690ea8f1c9e0857b4981a2e,Greg Turnquist,Thu Jul 2 08:45:31 2015 -0500,Thu Jul 2 08:45:31 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-actuator-service/initial/pom.xml,9bff10272361d3075f1543dded202c23bb58783d,Greg Turnquist,Fri Jun 12 13:49:20 2015 -0400,Fri Jun 12 13:49:20 2015 -0400,Upgrade to Java 8
+gs-actuator-service/initial/pom.xml,1198c207b32cddf3124ebdc96a7daef9cf77f458,Greg Turnquist,Tue Jun 9 09:41:33 2015 -0400,Tue Jun 9 09:41:33 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-actuator-service/initial/pom.xml,3607aeac7cdeb55b78e24ea41f59b8589162eb36,Greg Turnquist,Tue Mar 31 16:55:54 2015 -0500,Tue Mar 31 16:55:54 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-actuator-service/initial/pom.xml,821a53ece28c5e673269b3e8255ce39fc69c8af2,Greg Turnquist,Thu Mar 5 15:05:50 2015 -0600,Thu Mar 5 15:05:50 2015 -0600,Upgrade build files to proper JDK version
+gs-actuator-service/initial/pom.xml,aaa1a2b0468fcb0d421b7abae72a4ba52e818254,Greg Turnquist,Thu Feb 26 22:39:22 2015 -0600,Thu Feb 26 22:39:22 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-actuator-service/initial/pom.xml,f03a8b0e4887a990444d414124191044605603c7,Greg Turnquist,Tue Feb 24 14:56:46 2015 -0600,Tue Feb 24 14:56:46 2015 -0600,Upgrade 'initial' to @SpringBootApplication
+gs-actuator-service/initial/pom.xml,4243538896cb851b0832360d832ba1081d0f1a39,Greg Turnquist,Tue Feb 24 13:08:24 2015 -0600,Tue Feb 24 13:08:24 2015 -0600,Fix build deps
+gs-actuator-service/initial/pom.xml,db0faf5a8a63a9a4df11e19a814648f2b23b0dae,Greg Turnquist,Wed Feb 18 11:07:40 2015 -0600,Wed Feb 18 11:07:40 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-actuator-service/initial/pom.xml,52ae8dd77e017086e8b20d5dfd4de44efd9af108,Greg Turnquist,Wed Jan 14 12:33:46 2015 -0600,Wed Jan 14 12:33:46 2015 -0600,Remove legacy start-class property from maven builds
+gs-actuator-service/initial/pom.xml,ad49ac84ca0b75a740f5672ff382c39eccde5323,Greg Turnquist,Thu Dec 11 11:07:36 2014 -0600,Thu Dec 11 11:07:36 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-actuator-service/initial/pom.xml,3252ca18bd7af554a65accbe6cf15c8130cbbcf3,Greg Turnquist,Thu Nov 20 10:14:54 2014 -0600,Thu Nov 20 10:14:54 2014 -0600,Convert to use https for repositories
+gs-actuator-service/initial/pom.xml,ed9db192db79f83c6af549f8b83a306b22789635,Greg Turnquist,Wed Nov 12 13:07:53 2014 -0600,Wed Nov 12 13:07:53 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-actuator-service/initial/pom.xml,59eb9e5c947a5d71bdaa3ce78cea8df36d26be2a,Greg Turnquist,Fri Oct 10 22:04:54 2014 -0500,Fri Oct 10 22:04:54 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-actuator-service/initial/pom.xml,b74b792aacb439731fe40a6d59cb5ec1ef2b1fdb,Greg Turnquist,Mon Sep 29 12:42:16 2014 -0500,Mon Sep 29 12:42:16 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-actuator-service/initial/pom.xml,1516c2d73969b85a2bffa9d9bc40ac14605c8280,Greg Turnquist,Fri Sep 5 11:13:38 2014 -0500,Fri Sep 5 11:13:38 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-actuator-service/initial/pom.xml,45e7962b8c9da6b4cf6dc3fba2c53eb03b571963,Greg Turnquist,Fri Aug 8 22:12:13 2014 -0500,Fri Aug 8 22:12:13 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-actuator-service/initial/pom.xml,3b93a0cdb25d09fadee8cf854f6cd1b0e127688d,Greg Turnquist,Tue Jul 8 15:41:32 2014 -0500,Tue Jul 8 15:41:32 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-actuator-service/initial/pom.xml,e91917f543fd26771b22808793214f6227fbdb66,Greg Turnquist,Fri Jun 27 22:54:58 2014 -0400,Fri Jun 27 22:54:58 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-actuator-service/initial/pom.xml,7e80cee1d599f28c1fc8aef0b298a3b45328c585,Greg Turnquist,Tue Jun 24 19:54:30 2014 -0400,Tue Jun 24 19:54:30 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-actuator-service/initial/pom.xml,f51fd4cd052f4c9afe877ebba2118c657a03f011,Greg Turnquist,Wed Jun 11 16:47:56 2014 -0500,Wed Jun 11 16:47:56 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-actuator-service/initial/pom.xml,de667b85a4790c09f2aae45917185388ccb04630,Greg Turnquist,Wed Jun 11 09:08:47 2014 -0500,Wed Jun 11 09:08:47 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-actuator-service/initial/pom.xml,83213706977d9ce7991a2b73a6cd3df614e676c4,Greg Turnquist,Tue Jun 10 19:16:11 2014 -0500,Tue Jun 10 19:16:11 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-actuator-service/initial/pom.xml,a8f9167d953dcc5e026a91c115b315726d371334,Greg Turnquist,Thu Apr 24 09:36:47 2014 -0500,Thu Apr 24 09:36:47 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-actuator-service/initial/pom.xml,efe4dbd04518fca63b06af1796b91cb5306a3fb5,Greg Turnquist,Mon Apr 7 10:09:17 2014 -0500,Mon Apr 7 10:09:17 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-actuator-service/initial/pom.xml,f4bacea46a0d473522193e56cddaec76cae2ae3c,Greg Turnquist,Tue Apr 1 15:11:00 2014 -0500,Tue Apr 1 15:11:00 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-actuator-service/initial/pom.xml,47f512f1bd93084acd787975a349402d92798be9,Greg Turnquist,Sat Mar 22 07:17:39 2014 -0500,Sat Mar 22 07:17:39 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-actuator-service/initial/pom.xml,1df7b957c1a5a229674cc882dcae4d9784c5a910,Greg Turnquist,Tue Mar 4 15:08:56 2014 -0500,Tue Mar 4 15:08:56 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-actuator-service/initial/pom.xml,aa33e5ad1994bbbbcee26289f78a422b75778348,Greg Turnquist,Tue Feb 18 16:32:57 2014 -0600,Tue Feb 18 16:32:57 2014 -0600,Move final build file to the beginning and update guides to reflect this
+gs-actuator-service/initial/pom.xml,cb61acc2efe9b316d39a9bbf738ecf04c33d97fa,Greg Turnquist,Fri Feb 14 11:23:26 2014 -0600,Fri Feb 14 11:23:26 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-actuator-service/initial/pom.xml,a4d78d7a099b266d80c3f6dc26acb4be908d21ce,Greg Turnquist,Thu Feb 13 12:38:06 2014 -0600,Thu Feb 13 12:38:06 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-actuator-service/initial/pom.xml,884ca63cae8b66d6db2a24fed4d2669e499e67db,Greg Turnquist,Wed Jan 22 12:21:10 2014 -0600,Wed Jan 22 12:21:10 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-actuator-service/initial/pom.xml,fe2e64d48edd9e6b1758e6db8c4ec0643e63b0bb,Greg Turnquist,Tue Nov 19 11:02:00 2013 -0600,Tue Nov 19 11:02:00 2013 -0600,Upgrade to Spring Boot 0.5.0.M6
+gs-actuator-service/initial/pom.xml,f2d5388b393c04c39d29bea0b27207b36f21a859,Greg Turnquist,Wed Oct 30 10:03:24 2013 -0500,Wed Oct 30 10:03:24 2013 -0500,Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+gs-actuator-service/initial/pom.xml,07eacf1edc488d3aba6dbd98cd7500d671fa287e,Greg Turnquist,Mon Sep 30 08:18:41 2013 -0500,Mon Sep 30 08:18:41 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-actuator-service/initial/pom.xml,63e55ca236264e152a9120ec82e29ce9f2bc1532,Greg Turnquist,Fri Sep 27 10:31:48 2013 -0500,Fri Sep 27 10:31:48 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-actuator-service/initial/pom.xml,33c0eef52dcca2e5ae4c37e67381dcf49c2c7c4a,Greg Turnquist,Fri Aug 30 16:41:43 2013 -0500,Fri Aug 30 16:41:43 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-actuator-service/initial/pom.xml,1cc06a2c2831f557e6e137e3079c6339a761488b,Greg Turnquist,Fri Aug 9 13:18:01 2013 -0500,Fri Aug 9 13:18:01 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-actuator-service/initial/pom.xml,791fd7af2faac15718c98849f96abbc317f08e71,Roy Clarkson,Thu Aug 8 17:53:57 2013 -0400,Thu Aug 8 17:53:57 2013 -0400,Detab poms and source
+gs-actuator-service/initial/pom.xml,06fd653272b10c5a3a7526540fea40492d45e465,Greg Turnquist,Tue Aug 6 14:43:23 2013 -0500,Tue Aug 6 14:43:23 2013 -0500,Use libs-snapshot instead of snapshot
+gs-actuator-service/initial/pom.xml,79dc727d317009fcb6d3d9501f5ba51ad3e42dd7,Greg Turnquist,Wed Jul 31 17:25:18 2013 -0400,Wed Jul 31 17:25:18 2013 -0400,Update to spring-boot-starter-actuator
+gs-actuator-service/initial/pom.xml,69641793c623380df40f4178909fcb99c1ff5a8c,Greg Turnquist,Wed Jul 31 15:42:25 2013 -0400,Wed Jul 31 15:42:25 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-actuator-service/initial/pom.xml,987b8189de43f68e51340b10989074a452efe6f2,Greg Turnquist,Tue Jul 30 10:18:57 2013 -0400,Tue Jul 30 10:18:57 2013 -0400,Upgrade to Spring Boot
+gs-actuator-service/initial/pom.xml,478c99e7634d9da2b3b9e880cb5ee7e0f6219a36,Greg Turnquist,Fri Jul 19 15:01:06 2013 -0400,Fri Jul 19 15:01:06 2013 -0400,Switch to spring-package-maven-plugin and Spring Zero
+gs-actuator-service/initial/pom.xml,b6f97f6711a8434d9513f7baf41e7aba1a24930d,Chris Beams,Tue May 28 11:48:13 2013 +0200,Tue May 28 11:48:13 2013 +0200,Version all GS guides at 0.1.0 per http://semver.org
+gs-actuator-service/initial/pom.xml,54e7a17436ca842ba4cd6cd1d0441efd151c8f86,Dave Syer,Thu May 9 16:31:46 2013 +0100,Thu May 9 16:31:46 2013 +0100,Use starter for actuator dependency
+gs-actuator-service/initial/pom.xml,fb2277b9d224376136e01c7825c9738d33ff80e7,Dave Syer,Thu May 9 09:44:34 2013 +0100,Thu May 9 09:47:26 2013 +0100,Initial commit of working project

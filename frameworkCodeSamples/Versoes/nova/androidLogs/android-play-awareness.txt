@@ -1,0 +1,4 @@
+android-play-awareness/basic-awareness-sample/build.gradle,60c02c6e14b475fce16880b8459cb4fbb517a406,shailen,Fri Sep 15 08:20:47 2017 -0700,Fri Sep 15 11:40:29 2017 -0700,Updated awareness sample to connectionless GAC
+android-play-awareness/basic-awareness-sample/build.gradle,ce4fc61d19bbbef12a991e3a9aef91c1507fb034,Alexander Lucas,Wed Jun 15 15:12:26 2016 -0700,Wed Jun 22 11:29:12 2016 -0700,Initial commit, basic awareness API sample.
+android-play-awareness/basic-awareness-sample/app/build.gradle,60c02c6e14b475fce16880b8459cb4fbb517a406,shailen,Fri Sep 15 08:20:47 2017 -0700,Fri Sep 15 11:40:29 2017 -0700,Updated awareness sample to connectionless GAC
+android-play-awareness/basic-awareness-sample/app/build.gradle,ce4fc61d19bbbef12a991e3a9aef91c1507fb034,Alexander Lucas,Wed Jun 15 15:12:26 2016 -0700,Wed Jun 22 11:29:12 2016 -0700,Initial commit, basic awareness API sample.

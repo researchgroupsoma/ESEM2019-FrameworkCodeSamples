@@ -1,0 +1,19 @@
+android-SwipeRefreshMultipleViews/build.gradle,50e06537683eddb2cc5828aab6d9972076d8fb64,google-automerger,Tue Sep 2 11:01:43 2014 -0700,Tue Sep 2 11:01:43 2014 -0700,Initial Commit
+android-SwipeRefreshMultipleViews/Application/build.gradle,aa88c0ac65132ec000d7c09f4bb90244bf74af1f,google-automerger,Thu Feb 15 16:38:23 2018 -0800,Thu Feb 15 16:38:23 2018 -0800,Auto-update
+android-SwipeRefreshMultipleViews/Application/build.gradle,b048ef1aab5fefa034544a36808253ece47c8d14,google-automerger,Tue Oct 10 17:55:00 2017 -0700,Tue Oct 10 17:55:00 2017 -0700,Auto-update
+android-SwipeRefreshMultipleViews/Application/build.gradle,5aad239017c71e56f764636dbccaa1ce8f050a7b,google-automerger,Thu Jun 8 09:36:16 2017 -0700,Thu Jun 8 09:36:16 2017 -0700,Auto-update
+android-SwipeRefreshMultipleViews/Application/build.gradle,fbb4f063d83a6b8d07e6e7030dead1f6a099b2c1,google-automerger,Wed May 17 13:35:11 2017 -0700,Wed May 17 13:35:11 2017 -0700,Auto-update
+android-SwipeRefreshMultipleViews/Application/build.gradle,536295c137cd1f8b6fa407759d15e9b538487ca5,google-automerger,Tue Dec 13 09:41:20 2016 -0800,Tue Dec 13 09:41:20 2016 -0800,Auto-update
+android-SwipeRefreshMultipleViews/Application/build.gradle,6c7606344be4d79c5c76c41afa5aecda79847e3f,google-automerger,Fri Aug 12 15:20:16 2016 -0700,Fri Aug 12 15:20:16 2016 -0700,Auto-update
+android-SwipeRefreshMultipleViews/Application/build.gradle,0c1cc4b4c9040b8b16983d04d2e3809a95f93f43,google-automerger,Wed May 18 11:39:42 2016 -0700,Wed May 18 11:39:42 2016 -0700,Auto-update
+android-SwipeRefreshMultipleViews/Application/build.gradle,b1899d31dd47372a9313ed8cbe8211bceeb61a98,google-automerger,Wed Apr 20 12:27:45 2016 -0700,Wed Apr 20 12:27:45 2016 -0700,Auto-update
+android-SwipeRefreshMultipleViews/Application/build.gradle,fb4587f59f9736c8c3a15b5ae10679402d17d432,google-automerger,Wed Nov 18 09:34:50 2015 -0800,Wed Nov 18 09:34:50 2015 -0800,Auto-update
+android-SwipeRefreshMultipleViews/Application/build.gradle,ab89a11c90964198df42d3d680d0a094c5419577,google-automerger,Thu Oct 8 17:44:00 2015 -0700,Thu Oct 8 17:44:00 2015 -0700,Auto-update
+android-SwipeRefreshMultipleViews/Application/build.gradle,ae1ea8b24008fdb3a886650d3a864b24243af676,google-automerger,Mon Aug 17 09:55:39 2015 -0700,Mon Aug 17 09:55:39 2015 -0700,Auto-update
+android-SwipeRefreshMultipleViews/Application/build.gradle,fefb55baee01fc9e95f64a501f07bcc814f90062,google-automerger,Thu Jul 9 11:11:27 2015 -0700,Thu Jul 9 11:11:27 2015 -0700,Auto-update
+android-SwipeRefreshMultipleViews/Application/build.gradle,5a9a97897329a18a048b75a6bcacfccb76a5d7ef,google-automerger,Thu May 21 10:05:31 2015 -0700,Thu May 21 10:05:31 2015 -0700,Auto-update
+android-SwipeRefreshMultipleViews/Application/build.gradle,8cf649c14f8d852db15ed292e4bc2d8e37859999,google-automerger,Tue Apr 28 10:57:09 2015 -0700,Tue Apr 28 10:57:09 2015 -0700,Auto-update
+android-SwipeRefreshMultipleViews/Application/build.gradle,9ff306bc2814386557a62ba8484f96516cd3a869,google-automerger,Mon Mar 30 17:45:57 2015 -0700,Mon Mar 30 17:45:57 2015 -0700,Auto-update
+android-SwipeRefreshMultipleViews/Application/build.gradle,431dc2a88d60c9f196a9be4da6b017bff0db300c,google-automerger,Mon Dec 8 17:52:57 2014 -0800,Mon Dec 8 17:52:57 2014 -0800,Auto-update
+android-SwipeRefreshMultipleViews/Application/build.gradle,49eebddffecfd468a4296e16fe9100c5557dffef,google-automerger,Wed Dec 3 01:59:31 2014 -0800,Wed Dec 3 01:59:31 2014 -0800,Auto-update
+android-SwipeRefreshMultipleViews/Application/build.gradle,2a6f1ebb86a6ee6423aed89165ff6f71a4625101,google-automerger,Tue Nov 18 16:21:02 2014 -0800,Tue Nov 18 16:21:02 2014 -0800,Auto-update

@@ -1,0 +1,163 @@
+gs-rest-service/complete/pom.xml,4d4c7bdea52c7baac6e39914eefb3b26ebc208f4,Greg Turnquist,Mon Sep 17 10:51:18 2018 -0500,Mon Sep 17 10:51:18 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-rest-service/complete/pom.xml,35e9bb97bf9286fb4bab2799dccd98d0fa440c17,Greg Turnquist,Mon Jun 18 16:17:18 2018 -0500,Mon Jun 18 16:17:18 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-rest-service/complete/pom.xml,a1b292ba59c54a2372654f79dd4d7014c373b212,Greg Turnquist,Wed May 9 11:27:01 2018 -0500,Wed May 9 11:27:01 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-rest-service/complete/pom.xml,d930b891366da31a93d385779bc9bc5c89898f6c,Greg Turnquist,Thu Apr 5 11:45:23 2018 -0500,Thu Apr 5 11:45:23 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-rest-service/complete/pom.xml,fcab0400178400504ec3ddb596180cf77acf6d9c,Greg Turnquist,Thu Mar 1 09:54:21 2018 -0600,Thu Mar 1 09:54:21 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-rest-service/complete/pom.xml,06de9042def70861c4ca4a66d564a25417a425f8,Greg Turnquist,Wed Jan 31 09:16:41 2018 -0600,Wed Jan 31 09:16:41 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-rest-service/complete/pom.xml,d3a3d4d79a2863254f5d1e2638587eb4658cc6db,Greg Turnquist,Thu Nov 30 11:07:22 2017 -0600,Thu Nov 30 11:07:22 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-rest-service/complete/pom.xml,827b0de493cd2c6cb8fb1f040e6ce4756c6e5cfc,Greg Turnquist,Tue Oct 17 15:42:55 2017 -0500,Tue Oct 17 15:42:55 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-rest-service/complete/pom.xml,227e5f05e609c874b1bda811b3f4f45149527662,Greg Turnquist,Wed Sep 13 13:16:01 2017 -0500,Wed Sep 13 13:16:01 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-rest-service/complete/pom.xml,1ed8149ce9d49d4fc766f06012c9598d056aa069,Greg Turnquist,Thu Jul 27 10:05:19 2017 -0500,Thu Jul 27 10:05:19 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-rest-service/complete/pom.xml,fb6ae95cbefe09e092da3ca858bfe329dfcf38ae,Greg Turnquist,Wed Jul 26 12:23:36 2017 -0500,Wed Jul 26 12:23:36 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-rest-service/complete/pom.xml,0398a33fe29ba56aa3525b435a830d270322df8e,Greg Turnquist,Fri Apr 21 09:20:43 2017 -0500,Fri Apr 21 09:20:43 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-rest-service/complete/pom.xml,de1507cd615e84221e1c596d0cac8907d0e858a5,Greg Turnquist,Fri Mar 3 11:13:43 2017 -0600,Fri Mar 3 11:13:43 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-rest-service/complete/pom.xml,56d74e608fca857e0187d305dc23f5cc5777ba48,Greg Turnquist,Mon Jan 30 23:34:09 2017 -0600,Mon Jan 30 23:34:09 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-rest-service/complete/pom.xml,c06db2804ea9b1fc89754d102e3362e64e5ddd50,Greg Turnquist,Mon Jan 30 11:39:00 2017 -0600,Mon Jan 30 11:39:00 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-rest-service/complete/pom.xml,2685f1e9c9f87a1ba2b0e56e9551c20f0b4bff3e,Greg Turnquist,Thu Jan 26 12:48:27 2017 -0600,Thu Jan 26 12:48:27 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-rest-service/complete/pom.xml,5af160c0e42b22dff2a581759374d32aa2283b3a,Greg Turnquist,Thu Jan 26 12:38:07 2017 -0600,Thu Jan 26 12:38:07 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-rest-service/complete/pom.xml,0a52469cfd0b2d5c189f5911c3e3c2c258867256,Greg Turnquist,Thu Dec 22 22:33:25 2016 -0600,Thu Dec 22 22:33:25 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-rest-service/complete/pom.xml,ba006361a9dbbf0d13ee07dd7a76d9d089515e7f,Greg Turnquist,Tue Nov 8 11:52:57 2016 -0600,Tue Nov 8 11:52:57 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-rest-service/complete/pom.xml,457d20a72787b597b4b20999bcf85321b919529e,Greg Turnquist,Fri Sep 23 16:36:35 2016 -0500,Fri Sep 23 16:36:35 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-rest-service/complete/pom.xml,d56b06adc9247ea45d547fe97f649169a41c40af,Greg Turnquist,Fri Jul 29 11:29:39 2016 -0500,Fri Jul 29 11:29:39 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-rest-service/complete/pom.xml,d05e89da853912e92a31f82362be916480e77b83,Greg Turnquist,Thu Jul 28 06:53:18 2016 -0500,Thu Jul 28 06:53:18 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-rest-service/complete/pom.xml,e5aee3f977fe2a2f7da6fe5ffd84791de094658a,Greg Turnquist,Tue Jul 5 13:52:47 2016 -0500,Tue Jul 5 13:52:47 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-rest-service/complete/pom.xml,a042ec14e82181e1e37134f7d5af76f220097594,Greg Turnquist,Tue May 31 07:50:40 2016 -0500,Tue May 31 07:50:46 2016 -0500,Replace curl-based test with Spring Mock MVC
+gs-rest-service/complete/pom.xml,2cda7bc81d930d923ebb114f997251dd7392faae,Greg Turnquist,Tue May 10 10:26:51 2016 -0500,Tue May 10 10:26:51 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-rest-service/complete/pom.xml,d94f34d37d7caf4bb4ebf76ec0fccba61db77de8,Greg Turnquist,Fri May 6 09:49:19 2016 -0500,Fri May 6 09:49:19 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-rest-service/complete/pom.xml,12ac8e6a6a3ab25ff7721b36b7f729997b565610,Greg Turnquist,Fri Feb 26 07:30:22 2016 -0600,Fri Feb 26 07:30:22 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-rest-service/complete/pom.xml,95a5692741568aef86e8dacaaa7294bc60ea9b16,Greg Turnquist,Thu Jan 21 21:29:17 2016 -0600,Thu Jan 21 21:29:17 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-rest-service/complete/pom.xml,0edc8e5084920d0a68e808728a623ab9730b31aa,Greg Turnquist,Fri Dec 18 09:40:33 2015 -0600,Fri Dec 18 09:40:33 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-rest-service/complete/pom.xml,5849da6dedcf7f8a91c2e92a3d59431972749b07,Greg Turnquist,Mon Nov 16 11:10:57 2015 -0600,Mon Nov 16 11:10:57 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-rest-service/complete/pom.xml,f627e052a577f574bf5c4fe3185bc64d7a27ed96,Greg Turnquist,Fri Oct 16 09:44:02 2015 -0400,Fri Oct 16 09:44:02 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-rest-service/complete/pom.xml,30c473765843fcbf30851bc366af4ba660df173b,Greg Turnquist,Sun Sep 20 15:41:56 2015 -0500,Wed Sep 23 12:29:58 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-rest-service/complete/pom.xml,a02413e1c1036b6fbeb9e8e8892888bdef95e3ec,Greg Turnquist,Thu Jul 2 08:46:38 2015 -0500,Thu Jul 2 08:46:38 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-rest-service/complete/pom.xml,5e2176f37698d61c7c2434b76948683b24692174,Greg Turnquist,Fri Jun 12 13:49:34 2015 -0400,Fri Jun 12 13:49:34 2015 -0400,Upgrade to Java 8
+gs-rest-service/complete/pom.xml,449099ad2edd607c5f2879a26fce609e7772d480,Greg Turnquist,Tue Jun 9 09:42:02 2015 -0400,Tue Jun 9 09:42:02 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-rest-service/complete/pom.xml,8609022eb89b1e0845bd46c13706baf8f8cd79d5,Greg Turnquist,Tue Mar 31 16:56:23 2015 -0500,Tue Mar 31 16:56:23 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-rest-service/complete/pom.xml,f9196f354a3684eca81f8304a2080ab0cadd9a62,Greg Turnquist,Tue Mar 17 13:14:05 2015 -0500,Tue Mar 17 13:14:05 2015 -0500,Upgrade maven build to Java 7
+gs-rest-service/complete/pom.xml,3ff7ce46721ae3d2ee9971cb92a3937202443b5e,Greg Turnquist,Thu Feb 26 22:39:59 2015 -0600,Thu Feb 26 22:39:59 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-rest-service/complete/pom.xml,9273368a874cc6f3bfae4f90d36a395107b75a37,Greg Turnquist,Wed Feb 18 11:08:15 2015 -0600,Wed Feb 18 11:08:15 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-rest-service/complete/pom.xml,92403fe70b3a7dd969df51bf2c6c25c08460872a,Greg Turnquist,Wed Jan 14 12:34:11 2015 -0600,Wed Jan 14 12:34:11 2015 -0600,Remove legacy start-class property from maven builds
+gs-rest-service/complete/pom.xml,de4e78c882277b7a44fdd655a6ef34c2d12db466,Greg Turnquist,Thu Dec 11 11:08:11 2014 -0600,Thu Dec 11 11:08:11 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-rest-service/complete/pom.xml,89cd08a67c4352cc4a90d52ea02e9a9fc76935fe,Greg Turnquist,Thu Nov 20 10:15:25 2014 -0600,Thu Nov 20 10:15:25 2014 -0600,Convert to use https for repositories
+gs-rest-service/complete/pom.xml,ab98483efe9ce19c86e7e449e0462a1a4b221bb1,Greg Turnquist,Wed Nov 12 13:08:43 2014 -0600,Wed Nov 12 13:08:43 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-rest-service/complete/pom.xml,6dd0e7ffdd58a42212b6d299d1476e11a83d0847,Greg Turnquist,Fri Oct 10 22:05:34 2014 -0500,Fri Oct 10 22:05:34 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-rest-service/complete/pom.xml,fa1e04344617f3e46cca8a04f830afe771d756f8,Greg Turnquist,Mon Sep 29 12:42:46 2014 -0500,Mon Sep 29 12:42:46 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-rest-service/complete/pom.xml,24679dae80134ac3e1cb3d9bd83f5c3d4f42f041,Greg Turnquist,Fri Sep 5 11:14:17 2014 -0500,Fri Sep 5 11:14:17 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-rest-service/complete/pom.xml,68f204e32638767af81c1e4041a05fdcf04d8da6,Greg Turnquist,Fri Aug 8 22:12:48 2014 -0500,Fri Aug 8 22:12:48 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-rest-service/complete/pom.xml,ebdd2ae2feec68a8b380478e78f9ede1bc5e5788,Greg Turnquist,Tue Jul 8 15:42:06 2014 -0500,Tue Jul 8 15:42:06 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-rest-service/complete/pom.xml,1a08d99a90a1bc3dcd55043c1c7d29e4b33caae8,Greg Turnquist,Fri Jun 27 22:55:38 2014 -0400,Fri Jun 27 22:55:38 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-rest-service/complete/pom.xml,6571bac4f373f37bf90550240619477264c221df,Greg Turnquist,Tue Jun 24 19:56:04 2014 -0400,Tue Jun 24 19:56:04 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-rest-service/complete/pom.xml,68c254eab4a8f107eaa7f48b87e74e76556dc2d4,Greg Turnquist,Tue Jun 17 11:12:56 2014 -0400,Tue Jun 17 11:12:56 2014 -0400,Clean up text based on RestController
+gs-rest-service/complete/pom.xml,4d9909d898a2f6f474053a0d17e61078ac4d5d06,Greg Turnquist,Wed Jun 11 16:48:47 2014 -0500,Wed Jun 11 16:48:47 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-rest-service/complete/pom.xml,39be78ef8b6a914f20058b21dd3d4ced82860597,Greg Turnquist,Wed Jun 11 09:09:11 2014 -0500,Wed Jun 11 09:09:11 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-rest-service/complete/pom.xml,8e50a985bf0b32b1fb11e3ee594c1cbd8c06fbe9,Greg Turnquist,Tue Jun 10 19:16:46 2014 -0500,Tue Jun 10 19:16:46 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-rest-service/complete/pom.xml,b6d1b09c118f59ac65d5535c02d9c4c0715563a9,Greg Turnquist,Thu Apr 24 09:37:28 2014 -0500,Thu Apr 24 09:37:28 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-rest-service/complete/pom.xml,ae58c99a64175daf6b1015fa2a2ba6b171bb0d75,Greg Turnquist,Mon Apr 7 10:10:02 2014 -0500,Mon Apr 7 10:10:02 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-rest-service/complete/pom.xml,7a3b0f5fd644a89eb14aa483ed2c1d3bbdb5c36f,Greg Turnquist,Tue Apr 1 15:11:42 2014 -0500,Tue Apr 1 15:11:42 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-rest-service/complete/pom.xml,8d1ef64d805f02da44aa6b3bb5389b41f63edb37,Greg Turnquist,Sat Mar 22 07:10:08 2014 -0500,Sat Mar 22 07:10:08 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-rest-service/complete/pom.xml,a7d68be4446d5aef749a36da20a4e93637633fcf,Greg Turnquist,Tue Mar 4 15:10:18 2014 -0500,Tue Mar 4 15:10:18 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-rest-service/complete/pom.xml,d8abd12581a67db06345d7ef3ddc6eeed14424df,Greg Turnquist,Fri Feb 14 11:24:02 2014 -0600,Fri Feb 14 11:24:02 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-rest-service/complete/pom.xml,d992c172b55943e1f66afbafc27b8993ec9d4fe0,Greg Turnquist,Thu Feb 13 12:38:38 2014 -0600,Thu Feb 13 12:38:38 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-rest-service/complete/pom.xml,94b9aa50164a815a63bc720f873bfa605d118a7f,Greg Turnquist,Wed Jan 22 12:21:38 2014 -0600,Wed Jan 22 12:21:38 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-rest-service/complete/pom.xml,5629808aa2aefd0a19ba38203d2e43eb2f3a33d4,Greg Turnquist,Mon Nov 18 10:35:58 2013 -0600,Mon Nov 18 10:35:58 2013 -0600,Resolves #15: Upgrade to Spring Boot 0.5.0.M6 to fix gradle build issue
+gs-rest-service/complete/pom.xml,e1eaae8821d71c46b8ef635286fa40d586d9ed00,Greg Turnquist,Wed Oct 30 10:03:54 2013 -0500,Wed Oct 30 10:03:54 2013 -0500,Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+gs-rest-service/complete/pom.xml,497c3c67c52906686e8b975d6d18e7bb48d60523,Greg Turnquist,Mon Sep 30 08:19:16 2013 -0500,Mon Sep 30 08:19:16 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-rest-service/complete/pom.xml,8a2a1d6446c70a3b6c917fece69aadbefe0942d2,Greg Turnquist,Fri Sep 27 10:32:17 2013 -0500,Fri Sep 27 10:32:17 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-rest-service/complete/pom.xml,f45d0476525466a67305fba235b66a6dfb265fb5,Greg Turnquist,Fri Aug 30 16:42:19 2013 -0500,Fri Aug 30 16:42:19 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-rest-service/complete/pom.xml,d9a6e9a18cc8c57db6fb49b357faebd3d1c3bb25,Greg Turnquist,Fri Aug 9 13:18:35 2013 -0500,Fri Aug 9 13:18:35 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-rest-service/complete/pom.xml,683f87fd88e410481571a5e9d61dbafcc34e0881,Greg Turnquist,Tue Aug 6 14:43:59 2013 -0500,Tue Aug 6 14:43:59 2013 -0500,Use libs-snapshot instead of snapshot
+gs-rest-service/complete/pom.xml,6c697d378a2429969c0392d1b174a1fa64ac17e9,Greg Turnquist,Tue Aug 6 11:24:15 2013 -0500,Tue Aug 6 11:24:15 2013 -0500,Remove 'TODO' from pom.xml and rebuild guide
+gs-rest-service/complete/pom.xml,8eacee4160d450eeafbad244b0c7c4868f4c6dde,Greg Turnquist,Wed Jul 31 15:43:07 2013 -0400,Wed Jul 31 15:43:07 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-rest-service/complete/pom.xml,edf501cd7dd721199bfa9f1b59da476c982dca60,Greg Turnquist,Tue Jul 30 10:19:47 2013 -0400,Tue Jul 30 10:19:47 2013 -0400,Upgrade to Spring Boot
+gs-rest-service/complete/pom.xml,1036bc5faf90755ee8c633dd6eaa411d845c809b,Greg Turnquist,Fri Jul 19 16:33:35 2013 -0400,Fri Jul 19 16:33:35 2013 -0400,Convert to spring-package-maven-plugin and Spring Zero
+gs-rest-service/complete/pom.xml,3d0669935d5e0ec6b4c3ad85d7dd0f0d12c9d9bf,Greg Turnquist,Thu Jul 18 10:41:35 2013 -0400,Thu Jul 18 10:41:35 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-rest-service/complete/pom.xml,133bdac019bb77d6fd1914156a39151cefa301d5,Chris Beams,Tue May 28 11:48:14 2013 +0200,Tue May 28 11:48:14 2013 +0200,Version all GS guides at 0.1.0 per http://semver.org
+gs-rest-service/complete/pom.xml,5c9477bf75bce4e677977bcc2a1a05e887644bd1,Chris Beams,Tue May 21 01:16:00 2013 +0200,Tue May 21 12:10:35 2013 +0200,Rename ServiceMain=>Application
+gs-rest-service/complete/pom.xml,f103b1701926341487233ecb3fdbca026f404d23,Chris Beams,Fri May 17 14:28:08 2013 +0200,Mon May 20 14:21:01 2013 +0200,Edit content and style
+gs-rest-service/complete/pom.xml,8cc595e485c45ff8ef53527b1acf8a7c2067379a,Chris Beams,Thu May 9 15:01:18 2013 +0200,Thu May 9 15:01:18 2013 +0200,Drop -SNAPSHOT from artifact versioning
+gs-rest-service/complete/pom.xml,3c52c4297fd592b837eb4b709a0c502105a1d08a,Chris Beams,Thu May 9 11:25:09 2013 +0200,Thu May 9 14:54:32 2013 +0200,Introduce test for CI
+gs-rest-service/complete/pom.xml,6990e39d6d724f6fd055a449cb0fb2b68b6dbbd9,Chris Beams,Thu May 9 00:31:55 2013 -0700,Thu May 9 00:31:55 2013 -0700,Merge pull request #4 from dsyer/feature/gradle
+gs-rest-service/complete/pom.xml,af59e05f4509aaae53fc59e5edef2f3cd5cd2873,Greg Turnquist,Wed May 8 12:06:49 2013 -0700,Wed May 8 12:06:49 2013 -0700,Merge pull request #3 from dsyer/feature/repos
+gs-rest-service/complete/pom.xml,47f5f3114c99a3fd526f981f762c010c2c66addf,Chris Beams,Wed May 8 04:27:13 2013 -0700,Wed May 8 04:27:13 2013 -0700,Merge pull request #2 from dsyer/feature/bootstrap
+gs-rest-service/complete/pom.xml,44caa7acd4d7ffee66e1915f73ad15bcca9c76f6,Craig Walls,Tue May 7 16:19:25 2013 -0500,Tue May 7 16:19:25 2013 -0500,Address TODO items in README.md
+gs-rest-service/complete/pom.xml,e9b70e710b8a6ea83e5306972202f5b5244a1b68,Chris Beams,Tue May 7 18:24:16 2013 +0200,Tue May 7 18:24:16 2013 +0200,Add final version of pom to complete
+gs-rest-service/initial/pom.xml,4d4c7bdea52c7baac6e39914eefb3b26ebc208f4,Greg Turnquist,Mon Sep 17 10:51:18 2018 -0500,Mon Sep 17 10:51:18 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-rest-service/initial/pom.xml,35e9bb97bf9286fb4bab2799dccd98d0fa440c17,Greg Turnquist,Mon Jun 18 16:17:18 2018 -0500,Mon Jun 18 16:17:18 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-rest-service/initial/pom.xml,a1b292ba59c54a2372654f79dd4d7014c373b212,Greg Turnquist,Wed May 9 11:27:01 2018 -0500,Wed May 9 11:27:01 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-rest-service/initial/pom.xml,d930b891366da31a93d385779bc9bc5c89898f6c,Greg Turnquist,Thu Apr 5 11:45:23 2018 -0500,Thu Apr 5 11:45:23 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-rest-service/initial/pom.xml,fcab0400178400504ec3ddb596180cf77acf6d9c,Greg Turnquist,Thu Mar 1 09:54:21 2018 -0600,Thu Mar 1 09:54:21 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-rest-service/initial/pom.xml,06de9042def70861c4ca4a66d564a25417a425f8,Greg Turnquist,Wed Jan 31 09:16:41 2018 -0600,Wed Jan 31 09:16:41 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-rest-service/initial/pom.xml,d3a3d4d79a2863254f5d1e2638587eb4658cc6db,Greg Turnquist,Thu Nov 30 11:07:22 2017 -0600,Thu Nov 30 11:07:22 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-rest-service/initial/pom.xml,827b0de493cd2c6cb8fb1f040e6ce4756c6e5cfc,Greg Turnquist,Tue Oct 17 15:42:55 2017 -0500,Tue Oct 17 15:42:55 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-rest-service/initial/pom.xml,227e5f05e609c874b1bda811b3f4f45149527662,Greg Turnquist,Wed Sep 13 13:16:01 2017 -0500,Wed Sep 13 13:16:01 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-rest-service/initial/pom.xml,1ed8149ce9d49d4fc766f06012c9598d056aa069,Greg Turnquist,Thu Jul 27 10:05:19 2017 -0500,Thu Jul 27 10:05:19 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-rest-service/initial/pom.xml,fb6ae95cbefe09e092da3ca858bfe329dfcf38ae,Greg Turnquist,Wed Jul 26 12:23:36 2017 -0500,Wed Jul 26 12:23:36 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-rest-service/initial/pom.xml,0398a33fe29ba56aa3525b435a830d270322df8e,Greg Turnquist,Fri Apr 21 09:20:43 2017 -0500,Fri Apr 21 09:20:43 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-rest-service/initial/pom.xml,de1507cd615e84221e1c596d0cac8907d0e858a5,Greg Turnquist,Fri Mar 3 11:13:43 2017 -0600,Fri Mar 3 11:13:43 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-rest-service/initial/pom.xml,56d74e608fca857e0187d305dc23f5cc5777ba48,Greg Turnquist,Mon Jan 30 23:34:09 2017 -0600,Mon Jan 30 23:34:09 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-rest-service/initial/pom.xml,c06db2804ea9b1fc89754d102e3362e64e5ddd50,Greg Turnquist,Mon Jan 30 11:39:00 2017 -0600,Mon Jan 30 11:39:00 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-rest-service/initial/pom.xml,2685f1e9c9f87a1ba2b0e56e9551c20f0b4bff3e,Greg Turnquist,Thu Jan 26 12:48:27 2017 -0600,Thu Jan 26 12:48:27 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-rest-service/initial/pom.xml,5af160c0e42b22dff2a581759374d32aa2283b3a,Greg Turnquist,Thu Jan 26 12:38:07 2017 -0600,Thu Jan 26 12:38:07 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-rest-service/initial/pom.xml,0a52469cfd0b2d5c189f5911c3e3c2c258867256,Greg Turnquist,Thu Dec 22 22:33:25 2016 -0600,Thu Dec 22 22:33:25 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-rest-service/initial/pom.xml,ba006361a9dbbf0d13ee07dd7a76d9d089515e7f,Greg Turnquist,Tue Nov 8 11:52:57 2016 -0600,Tue Nov 8 11:52:57 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-rest-service/initial/pom.xml,457d20a72787b597b4b20999bcf85321b919529e,Greg Turnquist,Fri Sep 23 16:36:35 2016 -0500,Fri Sep 23 16:36:35 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-rest-service/initial/pom.xml,d56b06adc9247ea45d547fe97f649169a41c40af,Greg Turnquist,Fri Jul 29 11:29:39 2016 -0500,Fri Jul 29 11:29:39 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-rest-service/initial/pom.xml,d05e89da853912e92a31f82362be916480e77b83,Greg Turnquist,Thu Jul 28 06:53:18 2016 -0500,Thu Jul 28 06:53:18 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-rest-service/initial/pom.xml,e5aee3f977fe2a2f7da6fe5ffd84791de094658a,Greg Turnquist,Tue Jul 5 13:52:47 2016 -0500,Tue Jul 5 13:52:47 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-rest-service/initial/pom.xml,a042ec14e82181e1e37134f7d5af76f220097594,Greg Turnquist,Tue May 31 07:50:40 2016 -0500,Tue May 31 07:50:46 2016 -0500,Replace curl-based test with Spring Mock MVC
+gs-rest-service/initial/pom.xml,2cda7bc81d930d923ebb114f997251dd7392faae,Greg Turnquist,Tue May 10 10:26:51 2016 -0500,Tue May 10 10:26:51 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-rest-service/initial/pom.xml,d94f34d37d7caf4bb4ebf76ec0fccba61db77de8,Greg Turnquist,Fri May 6 09:49:19 2016 -0500,Fri May 6 09:49:19 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-rest-service/initial/pom.xml,12ac8e6a6a3ab25ff7721b36b7f729997b565610,Greg Turnquist,Fri Feb 26 07:30:22 2016 -0600,Fri Feb 26 07:30:22 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-rest-service/initial/pom.xml,95a5692741568aef86e8dacaaa7294bc60ea9b16,Greg Turnquist,Thu Jan 21 21:29:17 2016 -0600,Thu Jan 21 21:29:17 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-rest-service/initial/pom.xml,0edc8e5084920d0a68e808728a623ab9730b31aa,Greg Turnquist,Fri Dec 18 09:40:33 2015 -0600,Fri Dec 18 09:40:33 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-rest-service/initial/pom.xml,5849da6dedcf7f8a91c2e92a3d59431972749b07,Greg Turnquist,Mon Nov 16 11:10:57 2015 -0600,Mon Nov 16 11:10:57 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-rest-service/initial/pom.xml,f627e052a577f574bf5c4fe3185bc64d7a27ed96,Greg Turnquist,Fri Oct 16 09:44:02 2015 -0400,Fri Oct 16 09:44:02 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-rest-service/initial/pom.xml,30c473765843fcbf30851bc366af4ba660df173b,Greg Turnquist,Sun Sep 20 15:41:56 2015 -0500,Wed Sep 23 12:29:58 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-rest-service/initial/pom.xml,a02413e1c1036b6fbeb9e8e8892888bdef95e3ec,Greg Turnquist,Thu Jul 2 08:46:38 2015 -0500,Thu Jul 2 08:46:38 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-rest-service/initial/pom.xml,5e2176f37698d61c7c2434b76948683b24692174,Greg Turnquist,Fri Jun 12 13:49:34 2015 -0400,Fri Jun 12 13:49:34 2015 -0400,Upgrade to Java 8
+gs-rest-service/initial/pom.xml,449099ad2edd607c5f2879a26fce609e7772d480,Greg Turnquist,Tue Jun 9 09:42:02 2015 -0400,Tue Jun 9 09:42:02 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-rest-service/initial/pom.xml,8609022eb89b1e0845bd46c13706baf8f8cd79d5,Greg Turnquist,Tue Mar 31 16:56:23 2015 -0500,Tue Mar 31 16:56:23 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-rest-service/initial/pom.xml,f9196f354a3684eca81f8304a2080ab0cadd9a62,Greg Turnquist,Tue Mar 17 13:14:05 2015 -0500,Tue Mar 17 13:14:05 2015 -0500,Upgrade maven build to Java 7
+gs-rest-service/initial/pom.xml,3ff7ce46721ae3d2ee9971cb92a3937202443b5e,Greg Turnquist,Thu Feb 26 22:39:59 2015 -0600,Thu Feb 26 22:39:59 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-rest-service/initial/pom.xml,9273368a874cc6f3bfae4f90d36a395107b75a37,Greg Turnquist,Wed Feb 18 11:08:15 2015 -0600,Wed Feb 18 11:08:15 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-rest-service/initial/pom.xml,92403fe70b3a7dd969df51bf2c6c25c08460872a,Greg Turnquist,Wed Jan 14 12:34:11 2015 -0600,Wed Jan 14 12:34:11 2015 -0600,Remove legacy start-class property from maven builds
+gs-rest-service/initial/pom.xml,de4e78c882277b7a44fdd655a6ef34c2d12db466,Greg Turnquist,Thu Dec 11 11:08:11 2014 -0600,Thu Dec 11 11:08:11 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-rest-service/initial/pom.xml,89cd08a67c4352cc4a90d52ea02e9a9fc76935fe,Greg Turnquist,Thu Nov 20 10:15:25 2014 -0600,Thu Nov 20 10:15:25 2014 -0600,Convert to use https for repositories
+gs-rest-service/initial/pom.xml,ab98483efe9ce19c86e7e449e0462a1a4b221bb1,Greg Turnquist,Wed Nov 12 13:08:43 2014 -0600,Wed Nov 12 13:08:43 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-rest-service/initial/pom.xml,6dd0e7ffdd58a42212b6d299d1476e11a83d0847,Greg Turnquist,Fri Oct 10 22:05:34 2014 -0500,Fri Oct 10 22:05:34 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-rest-service/initial/pom.xml,fa1e04344617f3e46cca8a04f830afe771d756f8,Greg Turnquist,Mon Sep 29 12:42:46 2014 -0500,Mon Sep 29 12:42:46 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-rest-service/initial/pom.xml,24679dae80134ac3e1cb3d9bd83f5c3d4f42f041,Greg Turnquist,Fri Sep 5 11:14:17 2014 -0500,Fri Sep 5 11:14:17 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-rest-service/initial/pom.xml,68f204e32638767af81c1e4041a05fdcf04d8da6,Greg Turnquist,Fri Aug 8 22:12:48 2014 -0500,Fri Aug 8 22:12:48 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-rest-service/initial/pom.xml,ebdd2ae2feec68a8b380478e78f9ede1bc5e5788,Greg Turnquist,Tue Jul 8 15:42:06 2014 -0500,Tue Jul 8 15:42:06 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-rest-service/initial/pom.xml,1a08d99a90a1bc3dcd55043c1c7d29e4b33caae8,Greg Turnquist,Fri Jun 27 22:55:38 2014 -0400,Fri Jun 27 22:55:38 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-rest-service/initial/pom.xml,6571bac4f373f37bf90550240619477264c221df,Greg Turnquist,Tue Jun 24 19:56:04 2014 -0400,Tue Jun 24 19:56:04 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-rest-service/initial/pom.xml,68c254eab4a8f107eaa7f48b87e74e76556dc2d4,Greg Turnquist,Tue Jun 17 11:12:56 2014 -0400,Tue Jun 17 11:12:56 2014 -0400,Clean up text based on RestController
+gs-rest-service/initial/pom.xml,4d9909d898a2f6f474053a0d17e61078ac4d5d06,Greg Turnquist,Wed Jun 11 16:48:47 2014 -0500,Wed Jun 11 16:48:47 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-rest-service/initial/pom.xml,39be78ef8b6a914f20058b21dd3d4ced82860597,Greg Turnquist,Wed Jun 11 09:09:11 2014 -0500,Wed Jun 11 09:09:11 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-rest-service/initial/pom.xml,8e50a985bf0b32b1fb11e3ee594c1cbd8c06fbe9,Greg Turnquist,Tue Jun 10 19:16:46 2014 -0500,Tue Jun 10 19:16:46 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-rest-service/initial/pom.xml,b6d1b09c118f59ac65d5535c02d9c4c0715563a9,Greg Turnquist,Thu Apr 24 09:37:28 2014 -0500,Thu Apr 24 09:37:28 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-rest-service/initial/pom.xml,ae58c99a64175daf6b1015fa2a2ba6b171bb0d75,Greg Turnquist,Mon Apr 7 10:10:02 2014 -0500,Mon Apr 7 10:10:02 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-rest-service/initial/pom.xml,7a3b0f5fd644a89eb14aa483ed2c1d3bbdb5c36f,Greg Turnquist,Tue Apr 1 15:11:42 2014 -0500,Tue Apr 1 15:11:42 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-rest-service/initial/pom.xml,8d1ef64d805f02da44aa6b3bb5389b41f63edb37,Greg Turnquist,Sat Mar 22 07:10:08 2014 -0500,Sat Mar 22 07:10:08 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-rest-service/initial/pom.xml,a7d68be4446d5aef749a36da20a4e93637633fcf,Greg Turnquist,Tue Mar 4 15:10:18 2014 -0500,Tue Mar 4 15:10:18 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-rest-service/initial/pom.xml,488b5d4da59d4f4a1d45c59cc56f5e9d67d99d59,Greg Turnquist,Tue Feb 18 16:34:43 2014 -0600,Tue Feb 18 16:34:43 2014 -0600,Move final build file to the beginning and update guides to reflect this
+gs-rest-service/initial/pom.xml,d8abd12581a67db06345d7ef3ddc6eeed14424df,Greg Turnquist,Fri Feb 14 11:24:02 2014 -0600,Fri Feb 14 11:24:02 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-rest-service/initial/pom.xml,d992c172b55943e1f66afbafc27b8993ec9d4fe0,Greg Turnquist,Thu Feb 13 12:38:38 2014 -0600,Thu Feb 13 12:38:38 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-rest-service/initial/pom.xml,94b9aa50164a815a63bc720f873bfa605d118a7f,Greg Turnquist,Wed Jan 22 12:21:38 2014 -0600,Wed Jan 22 12:21:38 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-rest-service/initial/pom.xml,5629808aa2aefd0a19ba38203d2e43eb2f3a33d4,Greg Turnquist,Mon Nov 18 10:35:58 2013 -0600,Mon Nov 18 10:35:58 2013 -0600,Resolves #15: Upgrade to Spring Boot 0.5.0.M6 to fix gradle build issue
+gs-rest-service/initial/pom.xml,e1eaae8821d71c46b8ef635286fa40d586d9ed00,Greg Turnquist,Wed Oct 30 10:03:54 2013 -0500,Wed Oct 30 10:03:54 2013 -0500,Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+gs-rest-service/initial/pom.xml,497c3c67c52906686e8b975d6d18e7bb48d60523,Greg Turnquist,Mon Sep 30 08:19:16 2013 -0500,Mon Sep 30 08:19:16 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-rest-service/initial/pom.xml,8a2a1d6446c70a3b6c917fece69aadbefe0942d2,Greg Turnquist,Fri Sep 27 10:32:17 2013 -0500,Fri Sep 27 10:32:17 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-rest-service/initial/pom.xml,f45d0476525466a67305fba235b66a6dfb265fb5,Greg Turnquist,Fri Aug 30 16:42:19 2013 -0500,Fri Aug 30 16:42:19 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-rest-service/initial/pom.xml,d9a6e9a18cc8c57db6fb49b357faebd3d1c3bb25,Greg Turnquist,Fri Aug 9 13:18:35 2013 -0500,Fri Aug 9 13:18:35 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-rest-service/initial/pom.xml,683f87fd88e410481571a5e9d61dbafcc34e0881,Greg Turnquist,Tue Aug 6 14:43:59 2013 -0500,Tue Aug 6 14:43:59 2013 -0500,Use libs-snapshot instead of snapshot
+gs-rest-service/initial/pom.xml,6c697d378a2429969c0392d1b174a1fa64ac17e9,Greg Turnquist,Tue Aug 6 11:24:15 2013 -0500,Tue Aug 6 11:24:15 2013 -0500,Remove 'TODO' from pom.xml and rebuild guide
+gs-rest-service/initial/pom.xml,8eacee4160d450eeafbad244b0c7c4868f4c6dde,Greg Turnquist,Wed Jul 31 15:43:07 2013 -0400,Wed Jul 31 15:43:07 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-rest-service/initial/pom.xml,edf501cd7dd721199bfa9f1b59da476c982dca60,Greg Turnquist,Tue Jul 30 10:19:47 2013 -0400,Tue Jul 30 10:19:47 2013 -0400,Upgrade to Spring Boot
+gs-rest-service/initial/pom.xml,1036bc5faf90755ee8c633dd6eaa411d845c809b,Greg Turnquist,Fri Jul 19 16:33:35 2013 -0400,Fri Jul 19 16:33:35 2013 -0400,Convert to spring-package-maven-plugin and Spring Zero
+gs-rest-service/initial/pom.xml,133bdac019bb77d6fd1914156a39151cefa301d5,Chris Beams,Tue May 28 11:48:14 2013 +0200,Tue May 28 11:48:14 2013 +0200,Version all GS guides at 0.1.0 per http://semver.org
+gs-rest-service/initial/pom.xml,f103b1701926341487233ecb3fdbca026f404d23,Chris Beams,Fri May 17 14:28:08 2013 +0200,Mon May 20 14:21:01 2013 +0200,Edit content and style
+gs-rest-service/initial/pom.xml,8cc595e485c45ff8ef53527b1acf8a7c2067379a,Chris Beams,Thu May 9 15:01:18 2013 +0200,Thu May 9 15:01:18 2013 +0200,Drop -SNAPSHOT from artifact versioning
+gs-rest-service/initial/pom.xml,3c52c4297fd592b837eb4b709a0c502105a1d08a,Chris Beams,Thu May 9 11:25:09 2013 +0200,Thu May 9 14:54:32 2013 +0200,Introduce test for CI
+gs-rest-service/initial/pom.xml,49574d65b11f1da0d27e09b8e12ef7be65237093,Chris Beams,Thu May 9 09:58:04 2013 +0200,Thu May 9 09:58:04 2013 +0200,Rename start => initial

@@ -1,0 +1,4 @@
+leanback-assistant/build.gradle,40081e72a9f7c25940ee460b3b821785fcb1a96a,Benjamin Baxter,Wed Sep 13 14:19:04 2017 -0700,Thu Sep 28 08:23:33 2017 -0700,Preparing for OSS
+leanback-assistant/build.gradle,18bbac978a838860e9077308d12e2b98dcbfea7a,Benjamin Baxter,Tue Aug 29 16:28:29 2017 -0700,Thu Sep 28 08:23:17 2017 -0700,Assistant integration with playback.
+leanback-assistant/app/build.gradle,40081e72a9f7c25940ee460b3b821785fcb1a96a,Benjamin Baxter,Wed Sep 13 14:19:04 2017 -0700,Thu Sep 28 08:23:33 2017 -0700,Preparing for OSS
+leanback-assistant/app/build.gradle,18bbac978a838860e9077308d12e2b98dcbfea7a,Benjamin Baxter,Tue Aug 29 16:28:29 2017 -0700,Thu Sep 28 08:23:17 2017 -0700,Assistant integration with playback.

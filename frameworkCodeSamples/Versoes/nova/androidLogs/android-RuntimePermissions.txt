@@ -1,0 +1,6 @@
+android-RuntimePermissions/build.gradle,230cecd4256b0d0d88b8f0da28874ffb9dfa5260,google-automerger,Thu Feb 15 16:37:54 2018 -0800,Thu Feb 15 16:37:54 2018 -0800,Auto-update
+android-RuntimePermissions/build.gradle,6a94bb036771f7718812fdc5131c020a7dcf8b2e,google-automerger,Tue Oct 10 17:54:26 2017 -0700,Tue Oct 10 17:54:26 2017 -0700,Auto-update
+android-RuntimePermissions/build.gradle,b8e5e3a70d50340dcd45aa1fad90380caab0e514,google-automerger,Thu May 28 12:00:22 2015 -0700,Thu May 28 12:00:22 2015 -0700,Auto-update
+android-RuntimePermissions/kotlinApp/build.gradle,230cecd4256b0d0d88b8f0da28874ffb9dfa5260,google-automerger,Thu Feb 15 16:37:54 2018 -0800,Thu Feb 15 16:37:54 2018 -0800,Auto-update
+android-RuntimePermissions/kotlinApp/build.gradle,6a94bb036771f7718812fdc5131c020a7dcf8b2e,google-automerger,Tue Oct 10 17:54:26 2017 -0700,Tue Oct 10 17:54:26 2017 -0700,Auto-update
+android-RuntimePermissions/kotlinApp/app/build.gradle,6a94bb036771f7718812fdc5131c020a7dcf8b2e,google-automerger,Tue Oct 10 17:54:26 2017 -0700,Tue Oct 10 17:54:26 2017 -0700,Auto-update

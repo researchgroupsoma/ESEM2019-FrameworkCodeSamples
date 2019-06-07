@@ -1,0 +1,11 @@
+android-AsymmetricFingerprintDialog/build.gradle,78f602db7ad2891219378addf7cc3137448b0a79,google-automerger,Thu Oct 8 18:02:55 2015 -0700,Thu Oct 8 18:02:55 2015 -0700,Auto-update
+android-AsymmetricFingerprintDialog/Application/build.gradle,8cd8a32908557352821eebc7543d4ff0159c70c4,google-automerger,Thu Feb 15 16:34:24 2018 -0800,Thu Feb 15 16:34:24 2018 -0800,Auto-update
+android-AsymmetricFingerprintDialog/Application/build.gradle,a841a0dce3918526d09235954a45448dd6ab3c53,google-automerger,Tue Oct 10 17:50:46 2017 -0700,Tue Oct 10 17:50:46 2017 -0700,Auto-update
+android-AsymmetricFingerprintDialog/Application/build.gradle,0cb6e5d23ea10631c8aa9d06bc3a6e0217587b7c,google-automerger,Thu Jun 8 09:32:30 2017 -0700,Thu Jun 8 09:32:30 2017 -0700,Auto-update
+android-AsymmetricFingerprintDialog/Application/build.gradle,7cd8482133610b867ef39cff84f0d12b984aaa4c,google-automerger,Wed May 17 13:31:19 2017 -0700,Wed May 17 13:31:19 2017 -0700,Auto-update
+android-AsymmetricFingerprintDialog/Application/build.gradle,a57e69d43a0b14af2ffb3b454aeb3622784e1a02,google-automerger,Tue Dec 13 09:38:32 2016 -0800,Tue Dec 13 09:38:32 2016 -0800,Auto-update
+android-AsymmetricFingerprintDialog/Application/build.gradle,8bb9f9f972cda5f47d0a5effe9f77db9807b14b1,google-automerger,Fri Aug 12 15:17:25 2016 -0700,Fri Aug 12 15:17:25 2016 -0700,Auto-update
+android-AsymmetricFingerprintDialog/Application/build.gradle,77b1e35148a7d0153d24aa61c065ef36f511f258,google-automerger,Wed May 18 11:37:38 2016 -0700,Wed May 18 11:37:38 2016 -0700,Auto-update
+android-AsymmetricFingerprintDialog/Application/build.gradle,823833d6596d896fa5c534081de02357658738b4,google-automerger,Wed Apr 20 12:25:36 2016 -0700,Wed Apr 20 12:25:36 2016 -0700,Auto-update
+android-AsymmetricFingerprintDialog/Application/build.gradle,101974638c64954ea53efaca951e37b4a6209e57,google-automerger,Wed Nov 18 09:32:41 2015 -0800,Wed Nov 18 09:32:41 2015 -0800,Auto-update
+android-AsymmetricFingerprintDialog/Application/build.gradle,78f602db7ad2891219378addf7cc3137448b0a79,google-automerger,Thu Oct 8 18:02:55 2015 -0700,Thu Oct 8 18:02:55 2015 -0700,Auto-update

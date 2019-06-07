@@ -1,0 +1,18 @@
+gs-testing-restdocs/complete/pom.xml,4103ff04e1b102f35cd28a52f71921c8115bc663,Greg Turnquist,Mon Sep 17 10:51:49 2018 -0500,Mon Sep 17 10:51:49 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-testing-restdocs/complete/pom.xml,7ab733b702aa1390303130c67d2203ace6422e90,Greg Turnquist,Mon Jun 18 16:17:46 2018 -0500,Mon Jun 18 16:17:46 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-testing-restdocs/complete/pom.xml,c37b74c4e768cb9b43feba3f2251712f71dcda3a,Greg Turnquist,Wed May 9 11:27:31 2018 -0500,Wed May 9 11:27:31 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-testing-restdocs/complete/pom.xml,af3812ea37585c1904012ab334f50991c9cb689a,Greg Turnquist,Thu Apr 5 11:45:45 2018 -0500,Thu Apr 5 11:45:45 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-testing-restdocs/complete/pom.xml,9e57b1946bc819aa29f6c054e8ad9f7bc85124da,Greg Turnquist,Thu Mar 1 09:55:10 2018 -0600,Thu Mar 1 09:55:10 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-testing-restdocs/complete/pom.xml,24baa998e96837f865264e11d8052d0e894a5dd8,Greg Turnquist,Wed Jan 31 09:17:07 2018 -0600,Wed Jan 31 09:17:07 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-testing-restdocs/complete/pom.xml,2bcbfc6f177f809a5d710314bfa3d3e434eca2db,Greg Turnquist,Thu Nov 30 11:07:50 2017 -0600,Thu Nov 30 11:07:50 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-testing-restdocs/complete/pom.xml,1683a60ad89ac581546c5a4be8a42128dae5770d,Dave Syer,Tue Mar 14 16:18:40 2017 +0000,Tue Mar 14 16:18:43 2017 +0000,Remove some unused asciidoc config
+gs-testing-restdocs/complete/pom.xml,463294015f10e67be7067ca7b0cd0117b340e6d1,Dave Syer,Tue Mar 14 12:07:49 2017 +0000,Tue Mar 14 13:26:42 2017 +0000,Try to fix adoc include sample
+gs-testing-restdocs/complete/pom.xml,ba7c58cf962dd27e0d094cca2b319e990d6753e7,Dave Syer,Tue Mar 14 11:59:32 2017 +0000,Tue Mar 14 11:59:32 2017 +0000,Basic first draft of REST Docs guide
+gs-testing-restdocs/initial/pom.xml,4103ff04e1b102f35cd28a52f71921c8115bc663,Greg Turnquist,Mon Sep 17 10:51:49 2018 -0500,Mon Sep 17 10:51:49 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-testing-restdocs/initial/pom.xml,7ab733b702aa1390303130c67d2203ace6422e90,Greg Turnquist,Mon Jun 18 16:17:46 2018 -0500,Mon Jun 18 16:17:46 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-testing-restdocs/initial/pom.xml,c37b74c4e768cb9b43feba3f2251712f71dcda3a,Greg Turnquist,Wed May 9 11:27:31 2018 -0500,Wed May 9 11:27:31 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-testing-restdocs/initial/pom.xml,af3812ea37585c1904012ab334f50991c9cb689a,Greg Turnquist,Thu Apr 5 11:45:45 2018 -0500,Thu Apr 5 11:45:45 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-testing-restdocs/initial/pom.xml,9e57b1946bc819aa29f6c054e8ad9f7bc85124da,Greg Turnquist,Thu Mar 1 09:55:10 2018 -0600,Thu Mar 1 09:55:10 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-testing-restdocs/initial/pom.xml,24baa998e96837f865264e11d8052d0e894a5dd8,Greg Turnquist,Wed Jan 31 09:17:07 2018 -0600,Wed Jan 31 09:17:07 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-testing-restdocs/initial/pom.xml,2bcbfc6f177f809a5d710314bfa3d3e434eca2db,Greg Turnquist,Thu Nov 30 11:07:50 2017 -0600,Thu Nov 30 11:07:50 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-testing-restdocs/initial/pom.xml,ba7c58cf962dd27e0d094cca2b319e990d6753e7,Dave Syer,Tue Mar 14 11:59:32 2017 +0000,Tue Mar 14 11:59:32 2017 +0000,Basic first draft of REST Docs guide

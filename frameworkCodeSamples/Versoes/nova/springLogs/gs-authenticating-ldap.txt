@@ -1,0 +1,167 @@
+gs-authenticating-ldap/complete/pom.xml,9582b0a4d53c1db07babaaae3b7bd63ff97f7134,Greg Turnquist,Mon Sep 17 10:49:38 2018 -0500,Mon Sep 17 10:49:38 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-authenticating-ldap/complete/pom.xml,999416a05efdefe5f1fa52ba731b54c20c2ab32d,Greg Turnquist,Mon Jun 18 16:15:47 2018 -0500,Mon Jun 18 16:15:47 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-authenticating-ldap/complete/pom.xml,0397862daa6539b96d82ea751f8ed112156390d6,Greg Turnquist,Wed May 9 11:25:34 2018 -0500,Wed May 9 11:25:34 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-authenticating-ldap/complete/pom.xml,7217a80436a54c8b30351a9c2d82864ccedc8203,Greg Turnquist,Thu Apr 5 11:44:04 2018 -0500,Thu Apr 5 11:44:04 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-authenticating-ldap/complete/pom.xml,434b87adc44918f55202f7dbf32a567846dea2a6,Josh Cummings,Thu Mar 1 09:50:24 2018 -0600,Wed Mar 7 17:53:37 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-authenticating-ldap/complete/pom.xml,564befd1e3408c4f671764ba663f6911d34d1fd5,Greg Turnquist,Wed Jan 31 09:15:22 2018 -0600,Wed Jan 31 09:15:22 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-authenticating-ldap/complete/pom.xml,061eb3337e56deb4fa54fc0ec9d36af680d9c3c1,Greg Turnquist,Thu Nov 30 11:05:59 2017 -0600,Thu Nov 30 11:05:59 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-authenticating-ldap/complete/pom.xml,074d8893def32c807caf94cc230d09d53fe45ce6,Greg Turnquist,Tue Oct 17 15:41:53 2017 -0500,Tue Oct 17 15:48:47 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-authenticating-ldap/complete/pom.xml,24210e8d04deaa478726dd9c5a7109cdea59a9b7,Greg Turnquist,Wed Sep 13 13:14:53 2017 -0500,Wed Sep 13 13:14:53 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-authenticating-ldap/complete/pom.xml,d6056c7acfec81e46fc06f838342aa1c6b31b95d,Greg Turnquist,Thu Jul 27 10:04:00 2017 -0500,Thu Jul 27 10:04:00 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-authenticating-ldap/complete/pom.xml,5a744ad520a329c043680f0c4fa283a85d6a62ff,Greg Turnquist,Wed Jul 26 12:22:39 2017 -0500,Wed Jul 26 12:22:39 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-authenticating-ldap/complete/pom.xml,95cd6443720abd3ac58d4b3c0d3bf186eb096e86,Greg Turnquist,Fri Apr 21 09:19:41 2017 -0500,Fri Apr 21 09:19:41 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-authenticating-ldap/complete/pom.xml,a46d06febdbfeacd153f07f4561a85b73fa309df,Greg Turnquist,Fri Mar 3 11:12:36 2017 -0600,Fri Mar 3 11:16:35 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-authenticating-ldap/complete/pom.xml,4d65099095e415a0947e1f8e1c7d2734a3404045,Eddú Meléndez Gonzales,Fri Feb 3 16:05:52 2017 -0500,Fri Feb 3 15:05:52 2017 -0600,Polish (#18)
+gs-authenticating-ldap/complete/pom.xml,510000ff8fcea7feff000d24e3701f481cb391a6,Greg Turnquist,Mon Jan 30 23:28:14 2017 -0600,Mon Jan 30 23:28:14 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-authenticating-ldap/complete/pom.xml,6a20d48dbb6b46893427344a5767b9be3e9de9e1,Greg Turnquist,Mon Jan 30 11:36:25 2017 -0600,Mon Jan 30 11:36:25 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-authenticating-ldap/complete/pom.xml,bd8a29dcca80a465c85d2c9664d474baf2110a25,Greg Turnquist,Thu Jan 26 12:47:03 2017 -0600,Thu Jan 26 12:47:03 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-authenticating-ldap/complete/pom.xml,7cd2676920b74c4db23684d355652a6574acfa2f,Greg Turnquist,Thu Jan 26 12:36:28 2017 -0600,Thu Jan 26 12:36:28 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-authenticating-ldap/complete/pom.xml,8d935045520b3f1ae5b0a4c56b8693ad516c9734,Greg Turnquist,Thu Dec 22 22:31:45 2016 -0600,Thu Dec 22 22:31:45 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-authenticating-ldap/complete/pom.xml,3cc1dbd78dec2ab8bd0ffc99fb7291df513c715a,Greg Turnquist,Tue Nov 8 11:51:57 2016 -0600,Tue Nov 8 11:51:57 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-authenticating-ldap/complete/pom.xml,ffa2c7e9965460c0bdbd5ad015130a0813436547,Greg Turnquist,Fri Sep 23 16:35:32 2016 -0500,Fri Sep 23 16:35:32 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-authenticating-ldap/complete/pom.xml,0d0789e50aa824b133f5ee363794ef6023fd8b38,Rob Winch,Mon Aug 29 11:25:08 2016 -0500,Mon Aug 29 11:26:09 2016 -0500,Add MockMvc Tests
+gs-authenticating-ldap/complete/pom.xml,5245dbd7dfb72f22f2484acae5789c6e8960dc5f,Greg Turnquist,Fri Jul 29 11:24:21 2016 -0500,Fri Jul 29 11:24:21 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-authenticating-ldap/complete/pom.xml,10bcfaa03298142686888ae424a1923021cd8e2b,Greg Turnquist,Thu Jul 28 06:52:31 2016 -0500,Thu Jul 28 06:52:31 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-authenticating-ldap/complete/pom.xml,8e6b62586c8d09e85236d0f37c30df459497aab3,Greg Turnquist,Tue Jul 5 13:51:56 2016 -0500,Tue Jul 5 13:51:56 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-authenticating-ldap/complete/pom.xml,d91f1decc6dfb0c206aac4ce801fdd6374bf2c0a,Greg Turnquist,Tue May 10 10:26:06 2016 -0500,Tue May 10 10:26:06 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-authenticating-ldap/complete/pom.xml,81034ae8211ebf2f6a6b678ce36824a26bf1f65b,Greg Turnquist,Fri May 6 09:48:30 2016 -0500,Fri May 6 09:48:30 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-authenticating-ldap/complete/pom.xml,e2bee44edfbaa38434b592e45f12c3f70646f046,Greg Turnquist,Fri Mar 11 12:13:17 2016 -0600,Fri Mar 11 12:13:17 2016 -0600,Cleanup guide
+gs-authenticating-ldap/complete/pom.xml,83222ee855d5d9b82665ad2aec40a0ed9d277ff3,Greg Turnquist,Fri Feb 26 07:29:30 2016 -0600,Fri Feb 26 07:29:30 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-authenticating-ldap/complete/pom.xml,e0abe6ed16bdb942c4f3be44bc22c311d87f41da,Greg Turnquist,Thu Jan 21 21:28:28 2016 -0600,Thu Jan 21 21:28:28 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-authenticating-ldap/complete/pom.xml,8f0aa98fcd03f8c617596292df006b3ff0b63363,Greg Turnquist,Fri Dec 18 09:39:52 2015 -0600,Fri Dec 18 09:39:52 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-authenticating-ldap/complete/pom.xml,628a02486bc2b29fd6be8b86ed925277d1ea0e12,Greg Turnquist,Mon Nov 16 11:10:21 2015 -0600,Mon Nov 16 11:10:21 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-authenticating-ldap/complete/pom.xml,4388789a2a94565005037033520a008f313a1de3,Greg Turnquist,Fri Oct 16 09:43:20 2015 -0400,Fri Oct 16 09:43:20 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-authenticating-ldap/complete/pom.xml,0089fa287c76d11c82042748b2f3fa9f5bed75e8,Greg Turnquist,Sun Sep 20 15:41:19 2015 -0500,Sun Sep 20 15:41:19 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-authenticating-ldap/complete/pom.xml,d3d4211e0ce3786b70b6bc3e64d98e591586aefd,Greg Turnquist,Thu Jul 2 08:45:34 2015 -0500,Thu Jul 2 08:45:34 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-authenticating-ldap/complete/pom.xml,a39e7bc95cf10b2bd6a3cbab45e38685117b9943,Greg Turnquist,Fri Jun 12 13:49:22 2015 -0400,Fri Jun 12 13:49:22 2015 -0400,Upgrade to Java 8
+gs-authenticating-ldap/complete/pom.xml,c55df82e0ff892558d7de2ef0c1b25c0b72349d0,Greg Turnquist,Tue Jun 9 09:41:35 2015 -0400,Tue Jun 9 09:41:35 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-authenticating-ldap/complete/pom.xml,e190841f997394eda112a1ea89903502fa373c6d,Greg Turnquist,Tue Mar 31 16:55:56 2015 -0500,Tue Mar 31 16:55:56 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-authenticating-ldap/complete/pom.xml,f9ead696e340e35ec9b4a18031d93631b632ef0d,Greg Turnquist,Tue Mar 17 13:13:56 2015 -0500,Tue Mar 17 13:13:56 2015 -0500,Upgrade maven build to Java 7
+gs-authenticating-ldap/complete/pom.xml,5d5348f01374712d629d1d509983630f2745d84c,Greg Turnquist,Thu Mar 5 13:55:29 2015 -0600,Thu Mar 5 13:55:29 2015 -0600,Handle difference between maven and gradle
+gs-authenticating-ldap/complete/pom.xml,26a6790da6ad263df72c8b38da3d0bd5e825f545,Greg Turnquist,Thu Feb 26 22:39:25 2015 -0600,Thu Feb 26 22:39:25 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-authenticating-ldap/complete/pom.xml,8400050f277e273764c24386a55b8e5492ebe32d,Greg Turnquist,Tue Feb 24 15:12:24 2015 -0600,Tue Feb 24 15:12:24 2015 -0600,Upgrade to @SpringBootApplication
+gs-authenticating-ldap/complete/pom.xml,4703bbbfb48f52c4e535031edf019d94aab9a325,Greg Turnquist,Wed Feb 18 11:07:43 2015 -0600,Wed Feb 18 11:07:43 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-authenticating-ldap/complete/pom.xml,605bdbbe8334cb3f8d27f6aa26d0adc55ee11e32,Greg Turnquist,Wed Jan 14 12:33:48 2015 -0600,Wed Jan 14 12:33:48 2015 -0600,Remove legacy start-class property from maven builds
+gs-authenticating-ldap/complete/pom.xml,84394f6c81c60e565c496ddac03e8fad221287d0,Greg Turnquist,Thu Dec 11 11:07:38 2014 -0600,Thu Dec 11 11:07:38 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-authenticating-ldap/complete/pom.xml,d5894d65df42ff33eb3ed63c762f53c00cd89a13,Greg Turnquist,Wed Nov 12 13:07:55 2014 -0600,Wed Nov 12 13:07:55 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-authenticating-ldap/complete/pom.xml,c2d44b144bd4a8b70bf0ebc453d0e35445271c6a,Greg Turnquist,Fri Oct 10 22:04:57 2014 -0500,Fri Oct 10 22:04:57 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-authenticating-ldap/complete/pom.xml,9950706e63027ac8f4723589c15db875de0f7a35,Greg Turnquist,Mon Sep 29 12:42:18 2014 -0500,Mon Sep 29 12:42:18 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-authenticating-ldap/complete/pom.xml,454ae19fe9e10df674f46ab35e9d4027a5078fbd,Greg Turnquist,Fri Sep 5 11:13:40 2014 -0500,Fri Sep 5 11:13:40 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-authenticating-ldap/complete/pom.xml,9a481cab29023d3fc8a88a47a8e07b4eaa0f674e,Greg Turnquist,Wed Sep 3 15:54:53 2014 -0500,Wed Sep 3 15:54:53 2014 -0500,Add steps to enhance build files
+gs-authenticating-ldap/complete/pom.xml,3142bb0c0e30894d601a945b0f83a6221841b9c2,Greg Turnquist,Wed Aug 13 16:18:44 2014 -0500,Wed Aug 13 16:18:44 2014 -0500,Update to work with Boot 1.1.5
+gs-authenticating-ldap/complete/pom.xml,abf3cfa030e2b690ccece42d38dde355adb118b6,Greg Turnquist,Fri Aug 8 22:12:16 2014 -0500,Fri Aug 8 22:12:16 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-authenticating-ldap/complete/pom.xml,0f4e1ec3126c9e50ed23cd2a82f873e32f70b412,Greg Turnquist,Tue Jul 8 15:41:34 2014 -0500,Tue Jul 8 15:41:34 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-authenticating-ldap/complete/pom.xml,c993cb2e01bcec2fba936c697b16c0675529b2f4,Greg Turnquist,Fri Jun 27 22:55:00 2014 -0400,Fri Jun 27 22:55:00 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-authenticating-ldap/complete/pom.xml,eacd8aa0616ecacc5cab8f566e1a6f7bcb816d6e,Greg Turnquist,Tue Jun 24 19:54:53 2014 -0400,Tue Jun 24 19:54:53 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-authenticating-ldap/complete/pom.xml,56fa27020b20b206f59f82a5f04cb41edabdbcec,Greg Turnquist,Wed Jun 11 16:47:59 2014 -0500,Wed Jun 11 16:47:59 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-authenticating-ldap/complete/pom.xml,4807120f2500aab83f0c056206438cd08d110271,Greg Turnquist,Wed Jun 11 09:08:49 2014 -0500,Wed Jun 11 09:08:49 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-authenticating-ldap/complete/pom.xml,6d03362e6687463f4c4bfdec0271b8200d9bd1b3,Greg Turnquist,Tue Jun 10 19:16:13 2014 -0500,Tue Jun 10 19:16:13 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-authenticating-ldap/complete/pom.xml,83947274c2114b7e00658ddb9d9ade019fadb2f5,Greg Turnquist,Mon Jun 2 14:18:11 2014 -0500,Mon Jun 2 14:19:00 2014 -0500,Fix unsecured section and a typo in the guide
+gs-authenticating-ldap/complete/pom.xml,b802729238b172305e36007247a3cea754f95783,Greg Turnquist,Thu Apr 24 09:36:50 2014 -0500,Thu Apr 24 09:36:50 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-authenticating-ldap/complete/pom.xml,a1a4cd71086ecacc4640f5309316d70e80e09ffb,Greg Turnquist,Mon Apr 7 10:09:20 2014 -0500,Mon Apr 7 10:09:20 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-authenticating-ldap/complete/pom.xml,56b80cdaa77c9cb0e64a94827730a8f59c425495,Greg Turnquist,Tue Apr 1 15:11:03 2014 -0500,Tue Apr 1 15:11:03 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-authenticating-ldap/complete/pom.xml,e50b7930d8343bb0e40fadec14d823a298a7a333,Greg Turnquist,Sat Mar 22 07:17:42 2014 -0500,Sat Mar 22 07:17:42 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-authenticating-ldap/complete/pom.xml,7eea8d28f40a02c636f7cf34dadcb6cf4b721d66,Greg Turnquist,Tue Mar 4 15:09:00 2014 -0500,Tue Mar 4 15:09:00 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-authenticating-ldap/complete/pom.xml,c5455902cafafd6ad8b86ce8df9c118f8814714f,Greg Turnquist,Fri Feb 14 11:23:30 2014 -0600,Fri Feb 14 11:23:30 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-authenticating-ldap/complete/pom.xml,7c8ccd6fc972c5450e1e965804c5a2bae2d175bc,Greg Turnquist,Thu Feb 13 12:38:09 2014 -0600,Thu Feb 13 12:38:09 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-authenticating-ldap/complete/pom.xml,f52fa6f90a110282d232df3cb75e6f35f71eed37,Greg Turnquist,Wed Jan 22 12:21:12 2014 -0600,Wed Jan 22 12:21:12 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-authenticating-ldap/complete/pom.xml,e98c6bde50d9db1c5fd751f5d850431fd6303790,Greg Turnquist,Tue Nov 19 15:52:46 2013 -0600,Tue Nov 19 15:52:46 2013 -0600,Upgrade to Spring Boot 0.5.0.M6 and Spring Security LDAP 3.2.0.RC1
+gs-authenticating-ldap/complete/pom.xml,4a05cf6300dae134a26290482f2cac5c69154b72,Greg Turnquist,Wed Oct 30 10:03:27 2013 -0500,Wed Oct 30 10:03:27 2013 -0500,Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+gs-authenticating-ldap/complete/pom.xml,b8bcd0122f97568ace295cf65c23351d1c42e3d8,Greg Turnquist,Mon Sep 30 08:18:45 2013 -0500,Mon Sep 30 08:18:45 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-authenticating-ldap/complete/pom.xml,30bef124258e4dddab074a53fe69c279ce272de6,Greg Turnquist,Fri Sep 27 10:31:51 2013 -0500,Fri Sep 27 10:31:51 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-authenticating-ldap/complete/pom.xml,e8b44e91747162faa22edba69a2cdef6e0292224,Greg Turnquist,Fri Aug 30 16:41:47 2013 -0500,Fri Aug 30 16:41:47 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-authenticating-ldap/complete/pom.xml,cd4078bb36dffecb530930ca8da580263b798013,Greg Turnquist,Mon Aug 26 14:13:23 2013 -0700,Mon Aug 26 14:13:23 2013 -0700,Merge pull request #2 from rwinch/polish-security
+gs-authenticating-ldap/complete/pom.xml,c2595b5a42ae87df5b1c0aa0fd50c04808afe165,Greg Turnquist,Fri Aug 9 13:18:04 2013 -0500,Fri Aug 9 13:18:04 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-authenticating-ldap/complete/pom.xml,d8b2cf1694603151aa871fa0e1a9617b07ee1025,Roy Clarkson,Thu Aug 8 18:03:05 2013 -0400,Thu Aug 8 18:03:05 2013 -0400,Detab poms and source
+gs-authenticating-ldap/complete/pom.xml,5e8a9a145792cdcd1557f5e88950bbf5d891e8e5,Greg Turnquist,Tue Aug 6 14:43:27 2013 -0500,Tue Aug 6 14:43:27 2013 -0500,Use libs-snapshot instead of snapshot
+gs-authenticating-ldap/complete/pom.xml,b2149f721acb93c156a04e2c1beef04e93b81756,Greg Turnquist,Tue Aug 6 11:23:49 2013 -0500,Tue Aug 6 11:23:49 2013 -0500,Remove 'TODO' from pom.xml and rebuild guide
+gs-authenticating-ldap/complete/pom.xml,460a96b7d02043d2764c4c4bed1834b4d1716799,Greg Turnquist,Wed Jul 31 15:42:28 2013 -0400,Wed Jul 31 15:42:28 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-authenticating-ldap/complete/pom.xml,c22d3ee978b79770372aeebaccba4f4553b22dfe,Greg Turnquist,Tue Jul 30 10:19:01 2013 -0400,Tue Jul 30 10:19:01 2013 -0400,Upgrade to Spring Boot
+gs-authenticating-ldap/complete/pom.xml,2f8827e0909d0bf5ad4ffcf65d5c20df9b7c1ca6,Greg Turnquist,Fri Jul 19 15:09:06 2013 -0400,Fri Jul 19 15:09:06 2013 -0400,Update to spring-package-maven-plugin, Spring Zero, and Spring Security 3.2
+gs-authenticating-ldap/complete/pom.xml,0c09878f772e7d9aefacd9e2c62716788ea327fb,Greg Turnquist,Thu Jul 18 10:41:02 2013 -0400,Thu Jul 18 10:41:02 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-authenticating-ldap/complete/pom.xml,06b8fe9bc27ee1e05da441547867548c3ca943cd,Greg Turnquist,Fri Jun 7 13:32:48 2013 -0400,Fri Jun 7 13:32:48 2013 -0400,Remove unnecessary dependency
+gs-authenticating-ldap/complete/pom.xml,dd5983e2f0fe7f560c952a04ab95015d8fd67da6,Greg Turnquist,Fri Jun 7 09:38:08 2013 -0400,Fri Jun 7 09:38:08 2013 -0400,Fix group membership
+gs-authenticating-ldap/complete/pom.xml,96bd6ac486233821e1e8d9770476ae415f9e2630,Greg Turnquist,Fri Jun 7 09:03:46 2013 -0400,Fri Jun 7 09:03:46 2013 -0400,Convert to maven and upgrade to use Spring Bootstrap
+gs-authenticating-ldap/initial/pom.xml,9582b0a4d53c1db07babaaae3b7bd63ff97f7134,Greg Turnquist,Mon Sep 17 10:49:38 2018 -0500,Mon Sep 17 10:49:38 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-authenticating-ldap/initial/pom.xml,999416a05efdefe5f1fa52ba731b54c20c2ab32d,Greg Turnquist,Mon Jun 18 16:15:47 2018 -0500,Mon Jun 18 16:15:47 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-authenticating-ldap/initial/pom.xml,0397862daa6539b96d82ea751f8ed112156390d6,Greg Turnquist,Wed May 9 11:25:34 2018 -0500,Wed May 9 11:25:34 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-authenticating-ldap/initial/pom.xml,7217a80436a54c8b30351a9c2d82864ccedc8203,Greg Turnquist,Thu Apr 5 11:44:04 2018 -0500,Thu Apr 5 11:44:04 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-authenticating-ldap/initial/pom.xml,434b87adc44918f55202f7dbf32a567846dea2a6,Josh Cummings,Thu Mar 1 09:50:24 2018 -0600,Wed Mar 7 17:53:37 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-authenticating-ldap/initial/pom.xml,564befd1e3408c4f671764ba663f6911d34d1fd5,Greg Turnquist,Wed Jan 31 09:15:22 2018 -0600,Wed Jan 31 09:15:22 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-authenticating-ldap/initial/pom.xml,061eb3337e56deb4fa54fc0ec9d36af680d9c3c1,Greg Turnquist,Thu Nov 30 11:05:59 2017 -0600,Thu Nov 30 11:05:59 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-authenticating-ldap/initial/pom.xml,074d8893def32c807caf94cc230d09d53fe45ce6,Greg Turnquist,Tue Oct 17 15:41:53 2017 -0500,Tue Oct 17 15:48:47 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-authenticating-ldap/initial/pom.xml,24210e8d04deaa478726dd9c5a7109cdea59a9b7,Greg Turnquist,Wed Sep 13 13:14:53 2017 -0500,Wed Sep 13 13:14:53 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-authenticating-ldap/initial/pom.xml,d6056c7acfec81e46fc06f838342aa1c6b31b95d,Greg Turnquist,Thu Jul 27 10:04:00 2017 -0500,Thu Jul 27 10:04:00 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-authenticating-ldap/initial/pom.xml,5a744ad520a329c043680f0c4fa283a85d6a62ff,Greg Turnquist,Wed Jul 26 12:22:39 2017 -0500,Wed Jul 26 12:22:39 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-authenticating-ldap/initial/pom.xml,95cd6443720abd3ac58d4b3c0d3bf186eb096e86,Greg Turnquist,Fri Apr 21 09:19:41 2017 -0500,Fri Apr 21 09:19:41 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-authenticating-ldap/initial/pom.xml,a46d06febdbfeacd153f07f4561a85b73fa309df,Greg Turnquist,Fri Mar 3 11:12:36 2017 -0600,Fri Mar 3 11:16:35 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-authenticating-ldap/initial/pom.xml,510000ff8fcea7feff000d24e3701f481cb391a6,Greg Turnquist,Mon Jan 30 23:28:14 2017 -0600,Mon Jan 30 23:28:14 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-authenticating-ldap/initial/pom.xml,6a20d48dbb6b46893427344a5767b9be3e9de9e1,Greg Turnquist,Mon Jan 30 11:36:25 2017 -0600,Mon Jan 30 11:36:25 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-authenticating-ldap/initial/pom.xml,bd8a29dcca80a465c85d2c9664d474baf2110a25,Greg Turnquist,Thu Jan 26 12:47:03 2017 -0600,Thu Jan 26 12:47:03 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-authenticating-ldap/initial/pom.xml,7cd2676920b74c4db23684d355652a6574acfa2f,Greg Turnquist,Thu Jan 26 12:36:28 2017 -0600,Thu Jan 26 12:36:28 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-authenticating-ldap/initial/pom.xml,8d935045520b3f1ae5b0a4c56b8693ad516c9734,Greg Turnquist,Thu Dec 22 22:31:45 2016 -0600,Thu Dec 22 22:31:45 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-authenticating-ldap/initial/pom.xml,3cc1dbd78dec2ab8bd0ffc99fb7291df513c715a,Greg Turnquist,Tue Nov 8 11:51:57 2016 -0600,Tue Nov 8 11:51:57 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-authenticating-ldap/initial/pom.xml,c85583c209196354becbd14d1815d62b48b1c4d8,Layik,Mon Oct 3 15:23:25 2016 +0100,Mon Oct 3 09:23:25 2016 -0500,Start unsecured, then securing it + remove Application.java (#14)
+gs-authenticating-ldap/initial/pom.xml,ffa2c7e9965460c0bdbd5ad015130a0813436547,Greg Turnquist,Fri Sep 23 16:35:32 2016 -0500,Fri Sep 23 16:35:32 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-authenticating-ldap/initial/pom.xml,0d0789e50aa824b133f5ee363794ef6023fd8b38,Rob Winch,Mon Aug 29 11:25:08 2016 -0500,Mon Aug 29 11:26:09 2016 -0500,Add MockMvc Tests
+gs-authenticating-ldap/initial/pom.xml,56d630141a56a9f292b340a9a137c42a7be19891,Rob Winch,Mon Aug 29 11:26:02 2016 -0500,Mon Aug 29 11:26:02 2016 -0500,Sync build.gradle / pom.xml
+gs-authenticating-ldap/initial/pom.xml,5245dbd7dfb72f22f2484acae5789c6e8960dc5f,Greg Turnquist,Fri Jul 29 11:24:21 2016 -0500,Fri Jul 29 11:24:21 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-authenticating-ldap/initial/pom.xml,10bcfaa03298142686888ae424a1923021cd8e2b,Greg Turnquist,Thu Jul 28 06:52:31 2016 -0500,Thu Jul 28 06:52:31 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-authenticating-ldap/initial/pom.xml,8e6b62586c8d09e85236d0f37c30df459497aab3,Greg Turnquist,Tue Jul 5 13:51:56 2016 -0500,Tue Jul 5 13:51:56 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-authenticating-ldap/initial/pom.xml,d91f1decc6dfb0c206aac4ce801fdd6374bf2c0a,Greg Turnquist,Tue May 10 10:26:06 2016 -0500,Tue May 10 10:26:06 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-authenticating-ldap/initial/pom.xml,81034ae8211ebf2f6a6b678ce36824a26bf1f65b,Greg Turnquist,Fri May 6 09:48:30 2016 -0500,Fri May 6 09:48:30 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-authenticating-ldap/initial/pom.xml,e2bee44edfbaa38434b592e45f12c3f70646f046,Greg Turnquist,Fri Mar 11 12:13:17 2016 -0600,Fri Mar 11 12:13:17 2016 -0600,Cleanup guide
+gs-authenticating-ldap/initial/pom.xml,83222ee855d5d9b82665ad2aec40a0ed9d277ff3,Greg Turnquist,Fri Feb 26 07:29:30 2016 -0600,Fri Feb 26 07:29:30 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-authenticating-ldap/initial/pom.xml,e0abe6ed16bdb942c4f3be44bc22c311d87f41da,Greg Turnquist,Thu Jan 21 21:28:28 2016 -0600,Thu Jan 21 21:28:28 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-authenticating-ldap/initial/pom.xml,8f0aa98fcd03f8c617596292df006b3ff0b63363,Greg Turnquist,Fri Dec 18 09:39:52 2015 -0600,Fri Dec 18 09:39:52 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-authenticating-ldap/initial/pom.xml,628a02486bc2b29fd6be8b86ed925277d1ea0e12,Greg Turnquist,Mon Nov 16 11:10:21 2015 -0600,Mon Nov 16 11:10:21 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-authenticating-ldap/initial/pom.xml,4388789a2a94565005037033520a008f313a1de3,Greg Turnquist,Fri Oct 16 09:43:20 2015 -0400,Fri Oct 16 09:43:20 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-authenticating-ldap/initial/pom.xml,0089fa287c76d11c82042748b2f3fa9f5bed75e8,Greg Turnquist,Sun Sep 20 15:41:19 2015 -0500,Sun Sep 20 15:41:19 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-authenticating-ldap/initial/pom.xml,d3d4211e0ce3786b70b6bc3e64d98e591586aefd,Greg Turnquist,Thu Jul 2 08:45:34 2015 -0500,Thu Jul 2 08:45:34 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-authenticating-ldap/initial/pom.xml,a39e7bc95cf10b2bd6a3cbab45e38685117b9943,Greg Turnquist,Fri Jun 12 13:49:22 2015 -0400,Fri Jun 12 13:49:22 2015 -0400,Upgrade to Java 8
+gs-authenticating-ldap/initial/pom.xml,c55df82e0ff892558d7de2ef0c1b25c0b72349d0,Greg Turnquist,Tue Jun 9 09:41:35 2015 -0400,Tue Jun 9 09:41:35 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-authenticating-ldap/initial/pom.xml,e190841f997394eda112a1ea89903502fa373c6d,Greg Turnquist,Tue Mar 31 16:55:56 2015 -0500,Tue Mar 31 16:55:56 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-authenticating-ldap/initial/pom.xml,f9ead696e340e35ec9b4a18031d93631b632ef0d,Greg Turnquist,Tue Mar 17 13:13:56 2015 -0500,Tue Mar 17 13:13:56 2015 -0500,Upgrade maven build to Java 7
+gs-authenticating-ldap/initial/pom.xml,26a6790da6ad263df72c8b38da3d0bd5e825f545,Greg Turnquist,Thu Feb 26 22:39:25 2015 -0600,Thu Feb 26 22:39:25 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-authenticating-ldap/initial/pom.xml,8400050f277e273764c24386a55b8e5492ebe32d,Greg Turnquist,Tue Feb 24 15:12:24 2015 -0600,Tue Feb 24 15:12:24 2015 -0600,Upgrade to @SpringBootApplication
+gs-authenticating-ldap/initial/pom.xml,4703bbbfb48f52c4e535031edf019d94aab9a325,Greg Turnquist,Wed Feb 18 11:07:43 2015 -0600,Wed Feb 18 11:07:43 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-authenticating-ldap/initial/pom.xml,605bdbbe8334cb3f8d27f6aa26d0adc55ee11e32,Greg Turnquist,Wed Jan 14 12:33:48 2015 -0600,Wed Jan 14 12:33:48 2015 -0600,Remove legacy start-class property from maven builds
+gs-authenticating-ldap/initial/pom.xml,84394f6c81c60e565c496ddac03e8fad221287d0,Greg Turnquist,Thu Dec 11 11:07:38 2014 -0600,Thu Dec 11 11:07:38 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-authenticating-ldap/initial/pom.xml,4aca90cf1a3b16325940b66cfc24559f7cd47f5e,Greg Turnquist,Thu Nov 20 10:14:56 2014 -0600,Thu Nov 20 10:14:56 2014 -0600,Convert to use https for repositories
+gs-authenticating-ldap/initial/pom.xml,d5894d65df42ff33eb3ed63c762f53c00cd89a13,Greg Turnquist,Wed Nov 12 13:07:55 2014 -0600,Wed Nov 12 13:07:55 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-authenticating-ldap/initial/pom.xml,c2d44b144bd4a8b70bf0ebc453d0e35445271c6a,Greg Turnquist,Fri Oct 10 22:04:57 2014 -0500,Fri Oct 10 22:04:57 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-authenticating-ldap/initial/pom.xml,9950706e63027ac8f4723589c15db875de0f7a35,Greg Turnquist,Mon Sep 29 12:42:18 2014 -0500,Mon Sep 29 12:42:18 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-authenticating-ldap/initial/pom.xml,454ae19fe9e10df674f46ab35e9d4027a5078fbd,Greg Turnquist,Fri Sep 5 11:13:40 2014 -0500,Fri Sep 5 11:13:40 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-authenticating-ldap/initial/pom.xml,abf3cfa030e2b690ccece42d38dde355adb118b6,Greg Turnquist,Fri Aug 8 22:12:16 2014 -0500,Fri Aug 8 22:12:16 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-authenticating-ldap/initial/pom.xml,0f4e1ec3126c9e50ed23cd2a82f873e32f70b412,Greg Turnquist,Tue Jul 8 15:41:34 2014 -0500,Tue Jul 8 15:41:34 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-authenticating-ldap/initial/pom.xml,c993cb2e01bcec2fba936c697b16c0675529b2f4,Greg Turnquist,Fri Jun 27 22:55:00 2014 -0400,Fri Jun 27 22:55:00 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-authenticating-ldap/initial/pom.xml,eacd8aa0616ecacc5cab8f566e1a6f7bcb816d6e,Greg Turnquist,Tue Jun 24 19:54:53 2014 -0400,Tue Jun 24 19:54:53 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-authenticating-ldap/initial/pom.xml,56fa27020b20b206f59f82a5f04cb41edabdbcec,Greg Turnquist,Wed Jun 11 16:47:59 2014 -0500,Wed Jun 11 16:47:59 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-authenticating-ldap/initial/pom.xml,4807120f2500aab83f0c056206438cd08d110271,Greg Turnquist,Wed Jun 11 09:08:49 2014 -0500,Wed Jun 11 09:08:49 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-authenticating-ldap/initial/pom.xml,6d03362e6687463f4c4bfdec0271b8200d9bd1b3,Greg Turnquist,Tue Jun 10 19:16:13 2014 -0500,Tue Jun 10 19:16:13 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-authenticating-ldap/initial/pom.xml,83947274c2114b7e00658ddb9d9ade019fadb2f5,Greg Turnquist,Mon Jun 2 14:18:11 2014 -0500,Mon Jun 2 14:19:00 2014 -0500,Fix unsecured section and a typo in the guide
+gs-authenticating-ldap/initial/pom.xml,b802729238b172305e36007247a3cea754f95783,Greg Turnquist,Thu Apr 24 09:36:50 2014 -0500,Thu Apr 24 09:36:50 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-authenticating-ldap/initial/pom.xml,a1a4cd71086ecacc4640f5309316d70e80e09ffb,Greg Turnquist,Mon Apr 7 10:09:20 2014 -0500,Mon Apr 7 10:09:20 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-authenticating-ldap/initial/pom.xml,56b80cdaa77c9cb0e64a94827730a8f59c425495,Greg Turnquist,Tue Apr 1 15:11:03 2014 -0500,Tue Apr 1 15:11:03 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-authenticating-ldap/initial/pom.xml,e50b7930d8343bb0e40fadec14d823a298a7a333,Greg Turnquist,Sat Mar 22 07:17:42 2014 -0500,Sat Mar 22 07:17:42 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-authenticating-ldap/initial/pom.xml,7eea8d28f40a02c636f7cf34dadcb6cf4b721d66,Greg Turnquist,Tue Mar 4 15:09:00 2014 -0500,Tue Mar 4 15:09:00 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-authenticating-ldap/initial/pom.xml,1cfef434a3b3cdea83b68c3d0d932f2d3ba053ca,Greg Turnquist,Tue Feb 18 16:33:01 2014 -0600,Tue Feb 18 16:33:01 2014 -0600,Move final build file to the beginning and update guides to reflect this
+gs-authenticating-ldap/initial/pom.xml,c5455902cafafd6ad8b86ce8df9c118f8814714f,Greg Turnquist,Fri Feb 14 11:23:30 2014 -0600,Fri Feb 14 11:23:30 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-authenticating-ldap/initial/pom.xml,7c8ccd6fc972c5450e1e965804c5a2bae2d175bc,Greg Turnquist,Thu Feb 13 12:38:09 2014 -0600,Thu Feb 13 12:38:09 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-authenticating-ldap/initial/pom.xml,f52fa6f90a110282d232df3cb75e6f35f71eed37,Greg Turnquist,Wed Jan 22 12:21:12 2014 -0600,Wed Jan 22 12:21:12 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-authenticating-ldap/initial/pom.xml,e98c6bde50d9db1c5fd751f5d850431fd6303790,Greg Turnquist,Tue Nov 19 15:52:46 2013 -0600,Tue Nov 19 15:52:46 2013 -0600,Upgrade to Spring Boot 0.5.0.M6 and Spring Security LDAP 3.2.0.RC1
+gs-authenticating-ldap/initial/pom.xml,4a05cf6300dae134a26290482f2cac5c69154b72,Greg Turnquist,Wed Oct 30 10:03:27 2013 -0500,Wed Oct 30 10:03:27 2013 -0500,Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+gs-authenticating-ldap/initial/pom.xml,b8bcd0122f97568ace295cf65c23351d1c42e3d8,Greg Turnquist,Mon Sep 30 08:18:45 2013 -0500,Mon Sep 30 08:18:45 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-authenticating-ldap/initial/pom.xml,30bef124258e4dddab074a53fe69c279ce272de6,Greg Turnquist,Fri Sep 27 10:31:51 2013 -0500,Fri Sep 27 10:31:51 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-authenticating-ldap/initial/pom.xml,e8b44e91747162faa22edba69a2cdef6e0292224,Greg Turnquist,Fri Aug 30 16:41:47 2013 -0500,Fri Aug 30 16:41:47 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-authenticating-ldap/initial/pom.xml,c2595b5a42ae87df5b1c0aa0fd50c04808afe165,Greg Turnquist,Fri Aug 9 13:18:04 2013 -0500,Fri Aug 9 13:18:04 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-authenticating-ldap/initial/pom.xml,d8b2cf1694603151aa871fa0e1a9617b07ee1025,Roy Clarkson,Thu Aug 8 18:03:05 2013 -0400,Thu Aug 8 18:03:05 2013 -0400,Detab poms and source
+gs-authenticating-ldap/initial/pom.xml,5e8a9a145792cdcd1557f5e88950bbf5d891e8e5,Greg Turnquist,Tue Aug 6 14:43:27 2013 -0500,Tue Aug 6 14:43:27 2013 -0500,Use libs-snapshot instead of snapshot
+gs-authenticating-ldap/initial/pom.xml,b2149f721acb93c156a04e2c1beef04e93b81756,Greg Turnquist,Tue Aug 6 11:23:49 2013 -0500,Tue Aug 6 11:23:49 2013 -0500,Remove 'TODO' from pom.xml and rebuild guide
+gs-authenticating-ldap/initial/pom.xml,460a96b7d02043d2764c4c4bed1834b4d1716799,Greg Turnquist,Wed Jul 31 15:42:28 2013 -0400,Wed Jul 31 15:42:28 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-authenticating-ldap/initial/pom.xml,c22d3ee978b79770372aeebaccba4f4553b22dfe,Greg Turnquist,Tue Jul 30 10:19:01 2013 -0400,Tue Jul 30 10:19:01 2013 -0400,Upgrade to Spring Boot
+gs-authenticating-ldap/initial/pom.xml,2f8827e0909d0bf5ad4ffcf65d5c20df9b7c1ca6,Greg Turnquist,Fri Jul 19 15:09:06 2013 -0400,Fri Jul 19 15:09:06 2013 -0400,Update to spring-package-maven-plugin, Spring Zero, and Spring Security 3.2
+gs-authenticating-ldap/initial/pom.xml,0c09878f772e7d9aefacd9e2c62716788ea327fb,Greg Turnquist,Thu Jul 18 10:41:02 2013 -0400,Thu Jul 18 10:41:02 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-authenticating-ldap/initial/pom.xml,06b8fe9bc27ee1e05da441547867548c3ca943cd,Greg Turnquist,Fri Jun 7 13:32:48 2013 -0400,Fri Jun 7 13:32:48 2013 -0400,Remove unnecessary dependency
+gs-authenticating-ldap/initial/pom.xml,e210a196eacc9a9b48a806b1743747b5d202c0ed,Greg Turnquist,Fri Jun 7 13:29:21 2013 -0400,Fri Jun 7 13:29:21 2013 -0400,Overhaul guide to reflect current guidelines
+gs-authenticating-ldap/initial/pom.xml,96bd6ac486233821e1e8d9770476ae415f9e2630,Greg Turnquist,Fri Jun 7 09:03:46 2013 -0400,Fri Jun 7 09:03:46 2013 -0400,Convert to maven and upgrade to use Spring Bootstrap

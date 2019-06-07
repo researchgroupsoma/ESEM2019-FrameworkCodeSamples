@@ -1,0 +1,19 @@
+android-BasicMediaRouter/build.gradle,df1d7f0f105227e4758839416c1b99bbd24da02e,google-automerger,Tue Sep 2 11:00:21 2014 -0700,Tue Sep 2 11:00:21 2014 -0700,Initial Commit
+android-BasicMediaRouter/Application/build.gradle,d7570e6d65891b748e1e01955f0da2c838431abe,google-automerger,Thu Feb 15 16:34:48 2018 -0800,Thu Feb 15 16:34:48 2018 -0800,Auto-update
+android-BasicMediaRouter/Application/build.gradle,023844d230c39cb6af33cee5b849895a1ffbde25,google-automerger,Tue Oct 10 17:51:11 2017 -0700,Tue Oct 10 17:51:11 2017 -0700,Auto-update
+android-BasicMediaRouter/Application/build.gradle,dd8c85b904590cc12c9417eccb43831e404e7049,google-automerger,Thu Jun 8 09:32:52 2017 -0700,Thu Jun 8 09:32:52 2017 -0700,Auto-update
+android-BasicMediaRouter/Application/build.gradle,1569831dd6121b4cdff0b63cf58628e9b209cfb3,google-automerger,Wed May 17 13:31:43 2017 -0700,Wed May 17 13:31:43 2017 -0700,Auto-update
+android-BasicMediaRouter/Application/build.gradle,81b79eaf8084d70e0e948b673152961f6e77745a,google-automerger,Tue Dec 13 09:38:49 2016 -0800,Tue Dec 13 09:38:49 2016 -0800,Auto-update
+android-BasicMediaRouter/Application/build.gradle,8ea71be7f2df05974aee5a65d00bacc79ff88776,google-automerger,Fri Aug 12 15:17:41 2016 -0700,Fri Aug 12 15:17:41 2016 -0700,Auto-update
+android-BasicMediaRouter/Application/build.gradle,2fead306175c8ceea5b176a293cb2e138330fe18,google-automerger,Wed May 18 11:37:50 2016 -0700,Wed May 18 11:37:50 2016 -0700,Auto-update
+android-BasicMediaRouter/Application/build.gradle,d9f29de500fc2c8e04686afbc9e167fa9f51fa65,google-automerger,Wed Apr 20 12:25:48 2016 -0700,Wed Apr 20 12:25:48 2016 -0700,Auto-update
+android-BasicMediaRouter/Application/build.gradle,8d63bc8705c8f1b6e5594cc9b9c271d078834730,google-automerger,Wed Nov 18 09:32:54 2015 -0800,Wed Nov 18 09:32:54 2015 -0800,Auto-update
+android-BasicMediaRouter/Application/build.gradle,ec0af4c3e706933dc582096ae8468d8dd81a4998,google-automerger,Thu Oct 8 17:42:10 2015 -0700,Thu Oct 8 17:42:10 2015 -0700,Auto-update
+android-BasicMediaRouter/Application/build.gradle,6d63f804487c2e1d0586b7f2f6c06f0dbeaec2e7,google-automerger,Mon Aug 17 09:54:04 2015 -0700,Mon Aug 17 09:54:04 2015 -0700,Auto-update
+android-BasicMediaRouter/Application/build.gradle,c168f2f33bdae64a26c6aec15a9952eed2ff4e23,google-automerger,Thu Jul 9 11:09:57 2015 -0700,Thu Jul 9 11:09:57 2015 -0700,Auto-update
+android-BasicMediaRouter/Application/build.gradle,ee09af69e834f15fc844ca05c1bb378c9f1456fd,google-automerger,Thu May 21 10:04:04 2015 -0700,Thu May 21 10:04:04 2015 -0700,Auto-update
+android-BasicMediaRouter/Application/build.gradle,1aadf5bc307de9d3a72f04334731b341be82c676,google-automerger,Tue Apr 28 10:53:20 2015 -0700,Tue Apr 28 10:53:20 2015 -0700,Auto-update
+android-BasicMediaRouter/Application/build.gradle,8dc04fc515f7151a2ec42ca3b027ce41d094c11a,google-automerger,Mon Mar 30 17:42:57 2015 -0700,Mon Mar 30 17:42:57 2015 -0700,Auto-update
+android-BasicMediaRouter/Application/build.gradle,2b02c5e744af46ea10bde7b8e5c95688257880e4,google-automerger,Mon Dec 8 17:48:38 2014 -0800,Mon Dec 8 17:48:38 2014 -0800,Auto-update
+android-BasicMediaRouter/Application/build.gradle,9b41cd975ae5a4caa9137862c148e1a0b09c88b9,google-automerger,Wed Dec 3 01:47:32 2014 -0800,Wed Dec 3 01:47:32 2014 -0800,Auto-update
+android-BasicMediaRouter/Application/build.gradle,9772d3ebc1d920b88576b3a4554ab9c8688fd898,google-automerger,Tue Nov 18 16:17:19 2014 -0800,Tue Nov 18 16:17:19 2014 -0800,Auto-update

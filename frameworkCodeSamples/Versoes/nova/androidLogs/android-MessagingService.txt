@@ -1,0 +1,23 @@
+android-MessagingService/build.gradle,52b9f14255ff104987b9bf4629e04cf5e1cb3895,google-automerger,Tue Nov 18 09:12:08 2014 -0800,Tue Nov 18 09:12:08 2014 -0800,Initial Commit
+android-MessagingService/Application/build.gradle,27ae4b06a804e415b4657233302cbc666e94aee8,google-automerger,Thu Feb 15 16:37:13 2018 -0800,Thu Feb 15 16:37:13 2018 -0800,Auto-update
+android-MessagingService/Application/build.gradle,def0bb0f823be0537133eb950ec97f3bc2acce87,google-automerger,Tue Oct 10 17:53:41 2017 -0700,Tue Oct 10 17:53:41 2017 -0700,Auto-update
+android-MessagingService/Application/build.gradle,d91aa8af24b64d757cbf21455cd8433c5edd31d7,google-automerger,Thu Jun 8 09:35:04 2017 -0700,Thu Jun 8 09:35:04 2017 -0700,Auto-update
+android-MessagingService/Application/build.gradle,f5df7bce4484a702afb2b12338029843a5bd0d0e,google-automerger,Wed May 17 13:33:58 2017 -0700,Wed May 17 13:33:58 2017 -0700,Auto-update
+android-MessagingService/Application/build.gradle,fdcaaab062c17243d96fb71225f18e65561e0855,google-automerger,Tue Dec 13 09:40:27 2016 -0800,Tue Dec 13 09:40:27 2016 -0800,Auto-update
+android-MessagingService/Application/build.gradle,41ff7e3cb6d891487a8dc6aa13149a2e818c82e2,google-automerger,Fri Aug 12 15:19:20 2016 -0700,Fri Aug 12 15:19:20 2016 -0700,Auto-update
+android-MessagingService/Application/build.gradle,f1d8ee2950fab567530a506fb02ec55a2377b388,google-automerger,Wed Jun 15 09:41:59 2016 -0700,Wed Jun 15 09:41:59 2016 -0700,Auto-update
+android-MessagingService/Application/build.gradle,9fe7bff7c390f618fb258687d24394454a1fb599,google-automerger,Wed May 18 11:43:20 2016 -0700,Wed May 18 11:43:20 2016 -0700,Auto-update
+android-MessagingService/Application/build.gradle,a55348369deee80a3fdaea774077b5998ba7ed23,google-automerger,Mon Apr 25 19:14:27 2016 -0700,Mon Apr 25 19:14:27 2016 -0700,Auto-update
+android-MessagingService/Application/build.gradle,f116b3f76861d5c659ff77492b86a90350a0d607,google-automerger,Wed Apr 13 09:44:59 2016 -0700,Wed Apr 13 09:44:59 2016 -0700,Auto-update
+android-MessagingService/Application/build.gradle,77ef7e6f82e490e46664229f0df39378cdff30c0,google-automerger,Wed Mar 9 09:38:54 2016 -0800,Wed Mar 9 09:38:54 2016 -0800,Auto-update
+android-MessagingService/Application/build.gradle,7e0c38412560f0e8681e50d5733d1213f3c14342,google-automerger,Wed Nov 18 09:34:12 2015 -0800,Wed Nov 18 09:34:12 2015 -0800,Auto-update
+android-MessagingService/Application/build.gradle,a5bc5df9d0b673e2167d1836212875fc963ff331,google-automerger,Thu Oct 8 17:43:24 2015 -0700,Thu Oct 8 17:43:24 2015 -0700,Auto-update
+android-MessagingService/Application/build.gradle,45c203205d4d58c9c07515163346b40d6ef5a1d8,google-automerger,Thu Aug 20 23:46:39 2015 -0700,Thu Aug 20 23:46:39 2015 -0700,Auto-update
+android-MessagingService/Application/build.gradle,f6df9be9c99cebc30f6c03932fe17ad26a17fda1,google-automerger,Mon Aug 17 09:55:10 2015 -0700,Mon Aug 17 09:55:10 2015 -0700,Auto-update
+android-MessagingService/Application/build.gradle,38afc6d355fe048f36ca2bba87c55ae20d333d60,google-automerger,Thu Jul 9 11:11:00 2015 -0700,Thu Jul 9 11:11:00 2015 -0700,Auto-update
+android-MessagingService/Application/build.gradle,43ce8b8ac0fd45ad8e21c26704843f728595db4b,google-automerger,Thu May 21 10:05:03 2015 -0700,Thu May 21 10:05:03 2015 -0700,Auto-update
+android-MessagingService/Application/build.gradle,a91441a4d277d8517a3f87a97ce20f2ebce20e93,google-automerger,Tue Apr 28 10:55:33 2015 -0700,Tue Apr 28 10:55:33 2015 -0700,Auto-update
+android-MessagingService/Application/build.gradle,86c4aae253fdb35f65921ef20c51188db0f17949,google-automerger,Mon Mar 30 17:44:51 2015 -0700,Mon Mar 30 17:44:51 2015 -0700,Auto-update
+android-MessagingService/Application/build.gradle,3fafef68cc878019520eb4e950ac62335bcfa541,google-automerger,Mon Dec 8 17:51:45 2014 -0800,Mon Dec 8 17:51:45 2014 -0800,Auto-update
+android-MessagingService/Application/build.gradle,ddbda80c61ade1e91799f006e92a79d8a2b8a73c,google-automerger,Wed Dec 3 01:53:46 2014 -0800,Wed Dec 3 01:53:46 2014 -0800,Auto-update
+android-MessagingService/Application/build.gradle,52b9f14255ff104987b9bf4629e04cf5e1cb3895,google-automerger,Tue Nov 18 09:12:08 2014 -0800,Tue Nov 18 09:12:08 2014 -0800,Initial Commit

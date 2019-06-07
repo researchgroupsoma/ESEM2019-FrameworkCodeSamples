@@ -1,0 +1,78 @@
+gs-spring-boot-docker/complete/pom.xml,8958ec7ba2a768d4f9e30c4a80ee3ea892414bac,Dave Syer,Tue Oct 16 13:12:16 2018 +0100,Tue Oct 16 13:12:16 2018 +0100,Use default unpacked dependency location in pom.xml
+gs-spring-boot-docker/complete/pom.xml,bb927706a40f25ebc7c3da34c5a4e675bd7b417c,Dave Syer,Fri Oct 5 17:27:47 2018 +0100,Fri Oct 5 17:39:28 2018 +0100,Break up docker images into layers
+gs-spring-boot-docker/complete/pom.xml,5706c3f34dd26f81b6bb5b45fd6fd3538d8582ae,Greg Turnquist,Mon Sep 17 10:51:42 2018 -0500,Mon Sep 17 10:51:42 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-spring-boot-docker/complete/pom.xml,833ae95541dd5b4dd924274ba00589eca40aca28,Greg Turnquist,Mon Jun 18 16:17:42 2018 -0500,Mon Jun 18 16:19:56 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-spring-boot-docker/complete/pom.xml,ac422b780c97bedcb81b42d5a3ebd572302e1c77,Greg Turnquist,Wed May 9 11:27:27 2018 -0500,Wed May 9 12:19:36 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-spring-boot-docker/complete/pom.xml,1c8ad64f09ea25e5f0a38e192726b94b110fc1cd,Johannes Faigle,Sat Apr 21 20:09:46 2018 +0200,Sun Apr 22 07:45:51 2018 +0100,Fix indentation
+gs-spring-boot-docker/complete/pom.xml,31b21222af455f7cdd44ce9c06339f9fca72d8d1,Greg Turnquist,Thu Apr 5 11:45:42 2018 -0500,Thu Apr 5 11:45:42 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-spring-boot-docker/complete/pom.xml,abbda7b960b572f5a5f627a783acd5944134a808,Greg Turnquist,Thu Mar 1 09:54:57 2018 -0600,Mon Mar 5 18:47:21 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-spring-boot-docker/complete/pom.xml,ed22797675788fcf30f9910c3a7294c8d2433268,Greg Turnquist,Wed Jan 31 09:16:59 2018 -0600,Wed Jan 31 09:16:59 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-spring-boot-docker/complete/pom.xml,87bbb12d38cd083c94504b21bdda65c89c04a660,Greg Turnquist,Thu Nov 30 11:07:44 2017 -0600,Thu Nov 30 11:07:44 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-spring-boot-docker/complete/pom.xml,044f4e82bc59e16d45952c7a11f45b1c411e20ab,Dave Syer,Fri Nov 17 10:15:22 2017 +0000,Fri Nov 17 10:16:58 2017 +0000,Update to latest plugins and use build arg to locate jar
+gs-spring-boot-docker/complete/pom.xml,5726773cd084f6419c0ded2d558bfba7a80b6c2d,Greg Turnquist,Tue Oct 17 15:43:12 2017 -0500,Tue Oct 17 15:52:59 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-spring-boot-docker/complete/pom.xml,549cda9ea62902c70bf59836898eb7039766893d,Greg Turnquist,Wed Sep 13 13:16:18 2017 -0500,Wed Sep 13 13:16:18 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-spring-boot-docker/complete/pom.xml,5900c67185137e2a7b8e071ace05e3459ef53f12,Greg Turnquist,Thu Jul 27 10:05:39 2017 -0500,Thu Jul 27 10:05:39 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-spring-boot-docker/complete/pom.xml,fbe74b128432fdd3b2df65b1530dcb4ce0b14863,Greg Turnquist,Wed Jul 26 12:31:51 2017 -0500,Wed Jul 26 12:31:51 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-spring-boot-docker/complete/pom.xml,ff4c7dda5b486144e4459a639b0b56aff6177d62,Dave Syer,Tue Jul 18 16:42:25 2017 +0100,Tue Jul 18 16:42:25 2017 +0100,Update to latest Maven plugin
+gs-spring-boot-docker/complete/pom.xml,ce5663cfd37c01c7159495ead529aa7584757ebc,Dave Syer,Tue Jul 18 11:07:45 2017 +0100,Tue Jul 18 11:07:45 2017 +0100,Remove default push
+gs-spring-boot-docker/complete/pom.xml,1d13e5143a6b688c4d50c9cabef9252d2d1c96fe,Dave Syer,Tue Jul 18 09:51:02 2017 +0100,Tue Jul 18 09:51:02 2017 +0100,Update Spring Boot to 1.5.4
+gs-spring-boot-docker/complete/pom.xml,cdfa4c1095df362731782ad86cdf2ad26d4c5ae7,Dave Syer,Tue Jul 18 09:35:53 2017 +0100,Tue Jul 18 09:35:53 2017 +0100,Update to use most recent spotify plugin for Maven
+gs-spring-boot-docker/complete/pom.xml,ae98e78934dd02057f71eea462cacc3f23c9417d,Greg Turnquist,Fri Apr 21 09:20:58 2017 -0500,Fri Apr 21 09:20:58 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-spring-boot-docker/complete/pom.xml,ce6dc76ecead66c970dbca75d3b1e42bd1bade58,Greg Turnquist,Fri Mar 3 11:14:04 2017 -0600,Fri Mar 3 11:14:04 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-spring-boot-docker/complete/pom.xml,e30f827c4da55fbe0bd29d555192c4ae8414b297,Greg Turnquist,Mon Jan 30 23:34:56 2017 -0600,Mon Jan 30 23:34:56 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-spring-boot-docker/complete/pom.xml,1cec7d32ece81e94ad112b75ee0abd03a3c2341b,Greg Turnquist,Mon Jan 30 11:39:24 2017 -0600,Mon Jan 30 11:39:24 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-spring-boot-docker/complete/pom.xml,bf71f13b3bf66ee5bc10943a7de9668e91b5a14e,Greg Turnquist,Thu Jan 26 12:48:50 2017 -0600,Thu Jan 26 12:48:50 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-spring-boot-docker/complete/pom.xml,57ba9d28c5e12d5f250eaa41eaabfd4b06a43067,Greg Turnquist,Thu Jan 26 12:38:30 2017 -0600,Thu Jan 26 12:38:30 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-spring-boot-docker/complete/pom.xml,e55072776503a3932c5b51f5d6e007cc0334625d,Greg Turnquist,Thu Dec 22 22:33:50 2016 -0600,Thu Dec 22 22:33:50 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-spring-boot-docker/complete/pom.xml,9f78ee9367e5d1c2477c5c85d6ec3d2cfa9a106b,Greg Turnquist,Tue Nov 8 11:53:13 2016 -0600,Tue Nov 8 11:53:13 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-spring-boot-docker/complete/pom.xml,83265f08c1acdbecf9dfe48d68a796d080edb057,Greg Turnquist,Fri Sep 23 16:36:50 2016 -0500,Fri Sep 23 16:36:50 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-spring-boot-docker/complete/pom.xml,95e7e69e6d1842bd77365844e7f6d6a07bf5fb7d,Boris Schrijver,Mon Sep 12 14:44:24 2016 +0200,Mon Sep 12 07:44:24 2016 -0500,Update plugin docker-maven-plugin to 0.4.11 (#20)
+gs-spring-boot-docker/complete/pom.xml,95d6e6cecb2410cb23ddd53ae5249c9ee460de4a,Dave Syer,Thu Aug 25 12:53:29 2016 +0100,Thu Aug 25 12:53:29 2016 +0100,Update to latest plugin version
+gs-spring-boot-docker/complete/pom.xml,2b3ef320f4094ee172f216743d39276032579c34,Greg Turnquist,Fri Jul 29 11:31:41 2016 -0500,Fri Jul 29 11:31:41 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-spring-boot-docker/complete/pom.xml,ee55206128b0722f3eac4161bf5700cd2d4cc39b,Greg Turnquist,Thu Jul 28 06:53:27 2016 -0500,Thu Jul 28 06:53:27 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-spring-boot-docker/complete/pom.xml,ebc1789f8ddc5577980c73d98c293c2a5ab87d90,Greg Turnquist,Tue Jul 5 13:52:57 2016 -0500,Tue Jul 5 13:52:57 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-spring-boot-docker/complete/pom.xml,ac53dde241710953199e43c205c92d369acf9dd9,Greg Turnquist,Tue May 10 10:27:01 2016 -0500,Tue May 10 10:27:01 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-spring-boot-docker/complete/pom.xml,6e6c3ff8e607eb97f536adbe2e5d7b73090cb5fc,Greg Turnquist,Fri May 6 09:49:30 2016 -0500,Fri May 6 09:49:30 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-spring-boot-docker/complete/pom.xml,6b59dc6a8d75732bb09d889041522d65419cc4cf,Greg Turnquist,Fri Feb 26 07:30:30 2016 -0600,Fri Feb 26 07:30:30 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-spring-boot-docker/complete/pom.xml,e6e709afd0bee07dbe6f3941d807a1f6a6b20ff8,Greg Turnquist,Thu Jan 21 21:29:28 2016 -0600,Thu Jan 21 21:29:28 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-spring-boot-docker/complete/pom.xml,4f2207e547e2c9c6f60e337f7e918e9726d41869,Greg Turnquist,Fri Dec 18 09:40:42 2015 -0600,Fri Dec 18 09:40:42 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-spring-boot-docker/complete/pom.xml,38251b457593c50eadbb49f14580ceb206cd1b18,Greg Turnquist,Mon Nov 16 11:11:08 2015 -0600,Mon Nov 16 11:11:08 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-spring-boot-docker/complete/pom.xml,126b62a6d9a49adc3a09dca13f930e039e4ac5b6,Greg Turnquist,Fri Oct 16 09:44:10 2015 -0400,Fri Oct 16 09:44:10 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-spring-boot-docker/complete/pom.xml,3b2bfb4174e801097ff6fe01c7ddb32a527b3654,Greg Turnquist,Sun Sep 20 15:42:04 2015 -0500,Sun Sep 20 15:42:04 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-spring-boot-docker/complete/pom.xml,c049f6516c58b9fb8e77f1781ebc0645185b53df,Greg Turnquist,Thu Jul 2 08:46:53 2015 -0500,Thu Jul 2 08:51:35 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-spring-boot-docker/complete/pom.xml,242687ec65571c85ed78857aeb5960d87f7e59ad,Greg Turnquist,Fri Jun 12 13:49:45 2015 -0400,Fri Jun 12 13:49:45 2015 -0400,Upgrade to Java 8
+gs-spring-boot-docker/complete/pom.xml,62da78f5f1975cc41be01ee8635aaeab8cb6d314,Greg Turnquist,Tue Jun 9 09:42:10 2015 -0400,Tue Jun 9 09:42:10 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-spring-boot-docker/complete/pom.xml,1b55bde0c16d0e1e6b83114e1cb2cbdf1e100ecf,Greg Turnquist,Thu Apr 2 16:53:19 2015 -0500,Thu Apr 2 16:53:19 2015 -0500,Specify version of Java since Docker constraings it to run on Java 7
+gs-spring-boot-docker/complete/pom.xml,25f277e36554bb19da3efd931c7cddd99ca5f23a,Dave Syer,Tue Mar 31 15:48:54 2015 +0100,Wed Apr 1 09:37:18 2015 +0100,First pass tidy up
+gs-spring-boot-docker/complete/pom.xml,e4370ef26c4614c0ed095ad45ca721cba493ffd9,Dave Syer,Tue Mar 31 11:50:03 2015 +0100,Tue Mar 31 15:15:10 2015 +0100,Initial state
+gs-spring-boot-docker/initial/pom.xml,5706c3f34dd26f81b6bb5b45fd6fd3538d8582ae,Greg Turnquist,Mon Sep 17 10:51:42 2018 -0500,Mon Sep 17 10:51:42 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-spring-boot-docker/initial/pom.xml,833ae95541dd5b4dd924274ba00589eca40aca28,Greg Turnquist,Mon Jun 18 16:17:42 2018 -0500,Mon Jun 18 16:19:56 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-spring-boot-docker/initial/pom.xml,ac422b780c97bedcb81b42d5a3ebd572302e1c77,Greg Turnquist,Wed May 9 11:27:27 2018 -0500,Wed May 9 12:19:36 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-spring-boot-docker/initial/pom.xml,31b21222af455f7cdd44ce9c06339f9fca72d8d1,Greg Turnquist,Thu Apr 5 11:45:42 2018 -0500,Thu Apr 5 11:45:42 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-spring-boot-docker/initial/pom.xml,abbda7b960b572f5a5f627a783acd5944134a808,Greg Turnquist,Thu Mar 1 09:54:57 2018 -0600,Mon Mar 5 18:47:21 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-spring-boot-docker/initial/pom.xml,fbe74b128432fdd3b2df65b1530dcb4ce0b14863,Greg Turnquist,Wed Jul 26 12:31:51 2017 -0500,Wed Jul 26 12:31:51 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-spring-boot-docker/initial/pom.xml,ae98e78934dd02057f71eea462cacc3f23c9417d,Greg Turnquist,Fri Apr 21 09:20:58 2017 -0500,Fri Apr 21 09:20:58 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-spring-boot-docker/initial/pom.xml,ce6dc76ecead66c970dbca75d3b1e42bd1bade58,Greg Turnquist,Fri Mar 3 11:14:04 2017 -0600,Fri Mar 3 11:14:04 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-spring-boot-docker/initial/pom.xml,e30f827c4da55fbe0bd29d555192c4ae8414b297,Greg Turnquist,Mon Jan 30 23:34:56 2017 -0600,Mon Jan 30 23:34:56 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-spring-boot-docker/initial/pom.xml,1cec7d32ece81e94ad112b75ee0abd03a3c2341b,Greg Turnquist,Mon Jan 30 11:39:24 2017 -0600,Mon Jan 30 11:39:24 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-spring-boot-docker/initial/pom.xml,bf71f13b3bf66ee5bc10943a7de9668e91b5a14e,Greg Turnquist,Thu Jan 26 12:48:50 2017 -0600,Thu Jan 26 12:48:50 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-spring-boot-docker/initial/pom.xml,57ba9d28c5e12d5f250eaa41eaabfd4b06a43067,Greg Turnquist,Thu Jan 26 12:38:30 2017 -0600,Thu Jan 26 12:38:30 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-spring-boot-docker/initial/pom.xml,e55072776503a3932c5b51f5d6e007cc0334625d,Greg Turnquist,Thu Dec 22 22:33:50 2016 -0600,Thu Dec 22 22:33:50 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-spring-boot-docker/initial/pom.xml,9f78ee9367e5d1c2477c5c85d6ec3d2cfa9a106b,Greg Turnquist,Tue Nov 8 11:53:13 2016 -0600,Tue Nov 8 11:53:13 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-spring-boot-docker/initial/pom.xml,83265f08c1acdbecf9dfe48d68a796d080edb057,Greg Turnquist,Fri Sep 23 16:36:50 2016 -0500,Fri Sep 23 16:36:50 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-spring-boot-docker/initial/pom.xml,2b3ef320f4094ee172f216743d39276032579c34,Greg Turnquist,Fri Jul 29 11:31:41 2016 -0500,Fri Jul 29 11:31:41 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-spring-boot-docker/initial/pom.xml,ee55206128b0722f3eac4161bf5700cd2d4cc39b,Greg Turnquist,Thu Jul 28 06:53:27 2016 -0500,Thu Jul 28 06:53:27 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-spring-boot-docker/initial/pom.xml,ebc1789f8ddc5577980c73d98c293c2a5ab87d90,Greg Turnquist,Tue Jul 5 13:52:57 2016 -0500,Tue Jul 5 13:52:57 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-spring-boot-docker/initial/pom.xml,ac53dde241710953199e43c205c92d369acf9dd9,Greg Turnquist,Tue May 10 10:27:01 2016 -0500,Tue May 10 10:27:01 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-spring-boot-docker/initial/pom.xml,6e6c3ff8e607eb97f536adbe2e5d7b73090cb5fc,Greg Turnquist,Fri May 6 09:49:30 2016 -0500,Fri May 6 09:49:30 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-spring-boot-docker/initial/pom.xml,6b59dc6a8d75732bb09d889041522d65419cc4cf,Greg Turnquist,Fri Feb 26 07:30:30 2016 -0600,Fri Feb 26 07:30:30 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-spring-boot-docker/initial/pom.xml,e6e709afd0bee07dbe6f3941d807a1f6a6b20ff8,Greg Turnquist,Thu Jan 21 21:29:28 2016 -0600,Thu Jan 21 21:29:28 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-spring-boot-docker/initial/pom.xml,4f2207e547e2c9c6f60e337f7e918e9726d41869,Greg Turnquist,Fri Dec 18 09:40:42 2015 -0600,Fri Dec 18 09:40:42 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-spring-boot-docker/initial/pom.xml,38251b457593c50eadbb49f14580ceb206cd1b18,Greg Turnquist,Mon Nov 16 11:11:08 2015 -0600,Mon Nov 16 11:11:08 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-spring-boot-docker/initial/pom.xml,126b62a6d9a49adc3a09dca13f930e039e4ac5b6,Greg Turnquist,Fri Oct 16 09:44:10 2015 -0400,Fri Oct 16 09:44:10 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-spring-boot-docker/initial/pom.xml,3b2bfb4174e801097ff6fe01c7ddb32a527b3654,Greg Turnquist,Sun Sep 20 15:42:04 2015 -0500,Sun Sep 20 15:42:04 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-spring-boot-docker/initial/pom.xml,c049f6516c58b9fb8e77f1781ebc0645185b53df,Greg Turnquist,Thu Jul 2 08:46:53 2015 -0500,Thu Jul 2 08:51:35 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-spring-boot-docker/initial/pom.xml,242687ec65571c85ed78857aeb5960d87f7e59ad,Greg Turnquist,Fri Jun 12 13:49:45 2015 -0400,Fri Jun 12 13:49:45 2015 -0400,Upgrade to Java 8
+gs-spring-boot-docker/initial/pom.xml,62da78f5f1975cc41be01ee8635aaeab8cb6d314,Greg Turnquist,Tue Jun 9 09:42:10 2015 -0400,Tue Jun 9 09:42:10 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-spring-boot-docker/initial/pom.xml,1b55bde0c16d0e1e6b83114e1cb2cbdf1e100ecf,Greg Turnquist,Thu Apr 2 16:53:19 2015 -0500,Thu Apr 2 16:53:19 2015 -0500,Specify version of Java since Docker constraings it to run on Java 7
+gs-spring-boot-docker/initial/pom.xml,e4370ef26c4614c0ed095ad45ca721cba493ffd9,Dave Syer,Tue Mar 31 11:50:03 2015 +0100,Tue Mar 31 15:15:10 2015 +0100,Initial state

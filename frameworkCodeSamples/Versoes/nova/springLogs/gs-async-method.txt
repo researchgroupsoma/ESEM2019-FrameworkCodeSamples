@@ -1,0 +1,147 @@
+gs-async-method/complete/pom.xml,ff12c3d93316a5c1e266845a14cb901230236b8a,Greg Turnquist,Mon Sep 17 10:49:34 2018 -0500,Mon Sep 17 10:49:34 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-async-method/complete/pom.xml,8f0b3f1ff4a7b55186717b3d2e30e1fa8a8973f2,Greg Turnquist,Mon Jun 18 16:15:45 2018 -0500,Mon Jun 18 16:15:45 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-async-method/complete/pom.xml,d38e254a340849e31a151d5a1395428dd08097f4,Greg Turnquist,Wed May 9 11:25:31 2018 -0500,Wed May 9 11:25:31 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-async-method/complete/pom.xml,5d8f73b57e60dba020525957c7cbd14f7ef74ebc,Greg Turnquist,Thu Apr 5 11:44:02 2018 -0500,Thu Apr 5 11:44:02 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-async-method/complete/pom.xml,b01c475cb4a04da4f269235e923907691c661a58,Greg Turnquist,Thu Mar 1 09:50:14 2018 -0600,Thu Mar 1 09:50:14 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-async-method/complete/pom.xml,95f577487209bfb6071bdae77344952535968a1f,Greg Turnquist,Wed Jan 31 09:15:19 2018 -0600,Wed Jan 31 09:15:19 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-async-method/complete/pom.xml,db9717476c92b1f840795efacf909d0baa37a9c1,Greg Turnquist,Thu Nov 30 11:05:56 2017 -0600,Thu Nov 30 11:05:56 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-async-method/complete/pom.xml,3936a7b6f90a1a22b903f6155c3bd2138a28ae0f,Greg Turnquist,Tue Oct 17 15:41:50 2017 -0500,Tue Oct 17 15:41:50 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-async-method/complete/pom.xml,11a92dfe1faa0643b1c39d3d12012c20e69b49e2,Greg Turnquist,Wed Sep 13 13:14:51 2017 -0500,Wed Sep 13 13:14:51 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-async-method/complete/pom.xml,f2da0956e63c5de1009df388da18d659f226b795,Greg Turnquist,Thu Jul 27 10:03:58 2017 -0500,Thu Jul 27 10:03:58 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-async-method/complete/pom.xml,3df60ecd8f9e7a8c2c4998096a26fdd2e1386c18,Greg Turnquist,Wed Jul 26 12:22:38 2017 -0500,Wed Jul 26 12:24:49 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-async-method/complete/pom.xml,ff773e6063676845cf08e820a02ddb3ddb8e7fe0,Greg Turnquist,Fri Apr 21 09:19:39 2017 -0500,Fri Apr 21 09:19:39 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-async-method/complete/pom.xml,8fa954025feb1019a6cfc73affe4eceedb35ae66,Greg Turnquist,Fri Mar 3 11:12:33 2017 -0600,Fri Mar 3 11:12:33 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-async-method/complete/pom.xml,89626afbbfeb7f2894b1966f2b3b7e6ad600432f,Greg Turnquist,Mon Jan 30 23:28:10 2017 -0600,Mon Jan 30 23:28:10 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-async-method/complete/pom.xml,2b913d9a12c67a86b4145df924b2ed3eae2c1416,Greg Turnquist,Mon Jan 30 11:36:22 2017 -0600,Mon Jan 30 11:36:22 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-async-method/complete/pom.xml,5549d780fcef5b6cb43c83f03644f5afb26856c1,Greg Turnquist,Thu Jan 26 12:47:00 2017 -0600,Thu Jan 26 12:47:00 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-async-method/complete/pom.xml,34156d7b796569944216f1d5992a847e8cf12c94,Greg Turnquist,Thu Jan 26 12:36:24 2017 -0600,Thu Jan 26 12:36:24 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-async-method/complete/pom.xml,85f91a7301a11bbf598d5de8a738e469da9e56f5,Greg Turnquist,Thu Dec 22 22:31:43 2016 -0600,Thu Dec 22 22:31:43 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-async-method/complete/pom.xml,6a13012712badc1e78090429cf77430bf0b95561,Greg Turnquist,Tue Nov 8 11:51:55 2016 -0600,Tue Nov 8 11:51:55 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-async-method/complete/pom.xml,953c1f71ee3f1eb21928bf80b54c996ce014c867,Greg Turnquist,Fri Sep 23 16:35:30 2016 -0500,Fri Sep 23 16:35:30 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-async-method/complete/pom.xml,3efcd82dc01bf733b61deccdea287e7d8537188a,Greg Turnquist,Fri Jul 29 11:24:19 2016 -0500,Fri Jul 29 11:24:19 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-async-method/complete/pom.xml,aa2be8f87bc647f82814b33af277f87e9dbe15e0,Greg Turnquist,Thu Jul 28 06:52:29 2016 -0500,Thu Jul 28 06:52:29 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-async-method/complete/pom.xml,827c833522d04c53839b74962fcfcb12b377c7e0,Greg Turnquist,Tue Jul 5 13:51:55 2016 -0500,Tue Jul 5 13:51:55 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-async-method/complete/pom.xml,36874d8bde57ef35d2060af7da22314176b9477a,Greg Turnquist,Tue May 10 10:26:02 2016 -0500,Tue May 10 10:26:02 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-async-method/complete/pom.xml,e4f3a0144574eeff918e55c14bc689d29dbfbf79,Greg Turnquist,Fri May 6 09:48:29 2016 -0500,Fri May 6 09:48:29 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-async-method/complete/pom.xml,56e688076da7def41d1197c79a45e7343555e0f2,Greg Turnquist,Fri Feb 26 07:29:28 2016 -0600,Fri Feb 26 07:29:28 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-async-method/complete/pom.xml,fc3a9d4ba4c908e7405aef46521fab7d78425a2d,Greg Turnquist,Thu Jan 21 21:28:25 2016 -0600,Thu Jan 21 21:28:25 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-async-method/complete/pom.xml,196a10151c8549da2e8e6b41c26ae4636bdf2eba,Greg Turnquist,Fri Dec 18 09:39:51 2015 -0600,Fri Dec 18 09:39:51 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-async-method/complete/pom.xml,595e274b93a098679a59890a1212701fc7dc66c6,Greg Turnquist,Mon Nov 16 11:10:20 2015 -0600,Mon Nov 16 11:10:20 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-async-method/complete/pom.xml,b14b791e79e7967a994f5b953571318b44f06dcd,Greg Turnquist,Fri Oct 16 09:43:20 2015 -0400,Fri Oct 16 09:45:36 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-async-method/complete/pom.xml,afaa7cdbfd02da8894c9aac42348cf03b55db11f,Greg Turnquist,Sun Sep 20 15:41:18 2015 -0500,Sun Sep 20 15:41:18 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-async-method/complete/pom.xml,a8623aad5a65a1f349f118d33393099977d34405,Greg Turnquist,Thu Jul 2 08:45:33 2015 -0500,Thu Jul 2 08:45:33 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-async-method/complete/pom.xml,326dd9f71c89a7d51e86709b9409c6a25ca90986,Greg Turnquist,Fri Jun 12 14:02:49 2015 -0400,Fri Jun 12 14:02:49 2015 -0400,Upgrade non-specific guides to Java 8
+gs-async-method/complete/pom.xml,d40cae1e269aaf164b73192fad2de570f1cc0bc1,Greg Turnquist,Tue Jun 9 09:41:34 2015 -0400,Tue Jun 9 09:41:34 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-async-method/complete/pom.xml,8225ba0c0cc878bea7b6d0380438133c49691d14,Greg Turnquist,Tue Mar 31 16:55:55 2015 -0500,Tue Mar 31 16:55:55 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-async-method/complete/pom.xml,234173ac4ecb9f46f4c1a46f5ae7fbdb6a73c14e,Greg Turnquist,Thu Feb 26 22:39:23 2015 -0600,Thu Feb 26 22:39:23 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-async-method/complete/pom.xml,415cfecc2134684cb189960fb7052a2ef5e74cc3,Greg Turnquist,Tue Feb 24 15:03:06 2015 -0600,Tue Feb 24 15:03:06 2015 -0600,Upgrade to @SpringBootApplication
+gs-async-method/complete/pom.xml,d51dd2e9e00932da14df6583eb03309bc9b0da35,Greg Turnquist,Wed Feb 18 11:07:42 2015 -0600,Wed Feb 18 11:07:42 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-async-method/complete/pom.xml,587f2812a1cccd16b8a4848bb45a38e65d375b35,Greg Turnquist,Wed Jan 14 12:33:47 2015 -0600,Wed Jan 14 12:33:47 2015 -0600,Remove legacy start-class property from maven builds
+gs-async-method/complete/pom.xml,1306e63905300f0286daf5f3ff0046b835aa66cc,Greg Turnquist,Thu Dec 11 11:07:37 2014 -0600,Thu Dec 11 11:07:37 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-async-method/complete/pom.xml,f96fa49a45d7607343d02bb91ac75afc6fd1b76c,Greg Turnquist,Thu Nov 20 10:14:55 2014 -0600,Thu Nov 20 10:14:55 2014 -0600,Convert to use https for repositories
+gs-async-method/complete/pom.xml,9a1d24a78c74279e15807e6e7adbbb112b15013a,Greg Turnquist,Wed Nov 12 13:07:54 2014 -0600,Wed Nov 12 13:07:54 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-async-method/complete/pom.xml,e7c80ce0a17b5d8d81cfe1f01958374a05be85ae,Greg Turnquist,Fri Oct 10 22:04:56 2014 -0500,Fri Oct 10 22:04:56 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-async-method/complete/pom.xml,743be55135d52d7878878d1016c8017185b46e77,Greg Turnquist,Mon Sep 29 12:42:17 2014 -0500,Mon Sep 29 12:42:17 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-async-method/complete/pom.xml,2b8c8b664ff34bd26ad3a45937ed879bee72bc6f,Greg Turnquist,Fri Sep 5 11:13:39 2014 -0500,Fri Sep 5 11:13:39 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-async-method/complete/pom.xml,1770c843f3a4653f8a22a0a425fb66347176ba3f,Greg Turnquist,Fri Aug 8 22:12:14 2014 -0500,Fri Aug 8 22:12:14 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-async-method/complete/pom.xml,b707cc3a014979c522a6854c99836c6eda749af9,Greg Turnquist,Tue Jul 8 15:41:33 2014 -0500,Tue Jul 8 15:41:33 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-async-method/complete/pom.xml,0bc4a32718c9270ca6cb6adca4463dece513d70b,Greg Turnquist,Fri Jun 27 22:54:59 2014 -0400,Fri Jun 27 22:54:59 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-async-method/complete/pom.xml,06f846c0e5ca54900e9d2ea0bfec2c858c83a2c9,Greg Turnquist,Tue Jun 24 19:54:43 2014 -0400,Tue Jun 24 19:54:43 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-async-method/complete/pom.xml,08f3498225e9276849f88b401b818c6d1d66b628,Greg Turnquist,Wed Jun 11 16:47:58 2014 -0500,Wed Jun 11 16:47:58 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-async-method/complete/pom.xml,e784c2f9e3d939340ea54cd86bf38c319cfd3954,Greg Turnquist,Wed Jun 11 09:08:48 2014 -0500,Wed Jun 11 09:08:48 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-async-method/complete/pom.xml,f7e9deec6539e0ac4b185fb54fc72496eca5f4fe,Greg Turnquist,Tue Jun 10 19:16:12 2014 -0500,Tue Jun 10 19:16:12 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-async-method/complete/pom.xml,80a6fa2e1b6d66d746db46ec56525160b138dfed,Greg Turnquist,Thu Apr 24 09:36:49 2014 -0500,Thu Apr 24 09:36:49 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-async-method/complete/pom.xml,d95535755ab3256de4801788ba59b69f4467d353,Greg Turnquist,Mon Apr 7 10:09:19 2014 -0500,Mon Apr 7 10:09:19 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-async-method/complete/pom.xml,a5a1f015433aeac4b92914b19305e1836b962b2a,Greg Turnquist,Tue Apr 1 15:11:01 2014 -0500,Tue Apr 1 15:11:01 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-async-method/complete/pom.xml,3422c0520f2cc49e7095089236d5583590687052,Greg Turnquist,Sat Mar 22 07:17:40 2014 -0500,Sat Mar 22 07:17:40 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-async-method/complete/pom.xml,81be905cb3e182aca4cb467dadb9065b514292ff,Greg Turnquist,Tue Mar 4 15:08:59 2014 -0500,Tue Mar 4 15:08:59 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-async-method/complete/pom.xml,5946088f0a90a61ec49cc07cc1d1ea3be0bfdeb0,Greg Turnquist,Fri Feb 14 11:23:28 2014 -0600,Fri Feb 14 11:23:28 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-async-method/complete/pom.xml,00c3fe65a2bf99e9fb4d2e67c05b24dab1f9b90f,Greg Turnquist,Thu Feb 13 12:38:08 2014 -0600,Thu Feb 13 12:38:08 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-async-method/complete/pom.xml,af462ee60c477c5cac973420fd2f08ea27d55153,Greg Turnquist,Thu Jan 2 11:45:40 2014 -0600,Thu Jan 2 11:45:40 2014 -0600,Upgrade to Boot M7
+gs-async-method/complete/pom.xml,a2ed9dba4bdb5dcaa9fb9ded8766b4679ad81b1c,Greg Turnquist,Tue Nov 19 10:51:43 2013 -0600,Tue Nov 19 10:51:43 2013 -0600,Upgrade to Spring Boot 0.5.0.M6
+gs-async-method/complete/pom.xml,9149b6ec8dd4783d8335a5fdbac6a3b1709e3e7a,Greg Turnquist,Wed Oct 30 10:03:25 2013 -0500,Wed Oct 30 10:03:25 2013 -0500,Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+gs-async-method/complete/pom.xml,54d3294828f2db0317ce5ed3528a202a926c39a7,Greg Turnquist,Mon Sep 30 08:18:43 2013 -0500,Mon Sep 30 08:18:43 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-async-method/complete/pom.xml,ece5e141d885746ff0de70d8ed211853e0c5390a,Greg Turnquist,Fri Sep 27 10:31:50 2013 -0500,Fri Sep 27 10:31:50 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-async-method/complete/pom.xml,0d6e5d1a9e6ea252f6fd36c77f0fc520f5bdf540,Greg Turnquist,Fri Aug 30 16:41:45 2013 -0500,Fri Aug 30 16:41:45 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-async-method/complete/pom.xml,744a0654c5a8b2e8402008f31cfa28c545ddba40,Greg Turnquist,Fri Aug 9 13:18:03 2013 -0500,Fri Aug 9 13:18:03 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-async-method/complete/pom.xml,4f1e8eded086a2f0cc09fd85c130631d8a3302ee,Roy Clarkson,Thu Aug 8 17:57:45 2013 -0400,Thu Aug 8 17:57:45 2013 -0400,Detab poms and source
+gs-async-method/complete/pom.xml,2f64c5fac085a25b00c48de02d10a2d22db7e2bf,Greg Turnquist,Tue Aug 6 14:43:25 2013 -0500,Tue Aug 6 14:43:25 2013 -0500,Use libs-snapshot instead of snapshot
+gs-async-method/complete/pom.xml,e9da41d89f69167f69f0351312a929bf28bd7765,Greg Turnquist,Tue Aug 6 11:23:47 2013 -0500,Tue Aug 6 11:23:47 2013 -0500,Remove 'TODO' from pom.xml and rebuild guide
+gs-async-method/complete/pom.xml,a9a50a202b76010d1b00b99d1258dc31808f812c,Greg Turnquist,Wed Jul 31 15:42:26 2013 -0400,Wed Jul 31 15:42:26 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-async-method/complete/pom.xml,b2a262e75fd54d75dc0608faad8286aed91629f6,Greg Turnquist,Tue Jul 30 10:18:59 2013 -0400,Tue Jul 30 10:18:59 2013 -0400,Upgrade to Spring Boot
+gs-async-method/complete/pom.xml,494eb73b4556ad0d3b63b634a2476dd24046ffd2,Greg Turnquist,Thu Jul 18 10:41:01 2013 -0400,Thu Jul 18 10:41:01 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-async-method/complete/pom.xml,eaa9ec2b086d880e34bbcc2583c32ca96eaadb36,Greg Turnquist,Wed Jul 17 15:01:04 2013 -0400,Wed Jul 17 15:01:04 2013 -0400,Built application to demonstrate asynchronous method calls
+gs-async-method/initial/pom.xml,ff12c3d93316a5c1e266845a14cb901230236b8a,Greg Turnquist,Mon Sep 17 10:49:34 2018 -0500,Mon Sep 17 10:49:34 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-async-method/initial/pom.xml,8f0b3f1ff4a7b55186717b3d2e30e1fa8a8973f2,Greg Turnquist,Mon Jun 18 16:15:45 2018 -0500,Mon Jun 18 16:15:45 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-async-method/initial/pom.xml,d38e254a340849e31a151d5a1395428dd08097f4,Greg Turnquist,Wed May 9 11:25:31 2018 -0500,Wed May 9 11:25:31 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-async-method/initial/pom.xml,5d8f73b57e60dba020525957c7cbd14f7ef74ebc,Greg Turnquist,Thu Apr 5 11:44:02 2018 -0500,Thu Apr 5 11:44:02 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-async-method/initial/pom.xml,b01c475cb4a04da4f269235e923907691c661a58,Greg Turnquist,Thu Mar 1 09:50:14 2018 -0600,Thu Mar 1 09:50:14 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-async-method/initial/pom.xml,95f577487209bfb6071bdae77344952535968a1f,Greg Turnquist,Wed Jan 31 09:15:19 2018 -0600,Wed Jan 31 09:15:19 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-async-method/initial/pom.xml,db9717476c92b1f840795efacf909d0baa37a9c1,Greg Turnquist,Thu Nov 30 11:05:56 2017 -0600,Thu Nov 30 11:05:56 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-async-method/initial/pom.xml,3936a7b6f90a1a22b903f6155c3bd2138a28ae0f,Greg Turnquist,Tue Oct 17 15:41:50 2017 -0500,Tue Oct 17 15:41:50 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-async-method/initial/pom.xml,11a92dfe1faa0643b1c39d3d12012c20e69b49e2,Greg Turnquist,Wed Sep 13 13:14:51 2017 -0500,Wed Sep 13 13:14:51 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-async-method/initial/pom.xml,f2da0956e63c5de1009df388da18d659f226b795,Greg Turnquist,Thu Jul 27 10:03:58 2017 -0500,Thu Jul 27 10:03:58 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-async-method/initial/pom.xml,3df60ecd8f9e7a8c2c4998096a26fdd2e1386c18,Greg Turnquist,Wed Jul 26 12:22:38 2017 -0500,Wed Jul 26 12:24:49 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-async-method/initial/pom.xml,ff773e6063676845cf08e820a02ddb3ddb8e7fe0,Greg Turnquist,Fri Apr 21 09:19:39 2017 -0500,Fri Apr 21 09:19:39 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-async-method/initial/pom.xml,8fa954025feb1019a6cfc73affe4eceedb35ae66,Greg Turnquist,Fri Mar 3 11:12:33 2017 -0600,Fri Mar 3 11:12:33 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-async-method/initial/pom.xml,89626afbbfeb7f2894b1966f2b3b7e6ad600432f,Greg Turnquist,Mon Jan 30 23:28:10 2017 -0600,Mon Jan 30 23:28:10 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-async-method/initial/pom.xml,2b913d9a12c67a86b4145df924b2ed3eae2c1416,Greg Turnquist,Mon Jan 30 11:36:22 2017 -0600,Mon Jan 30 11:36:22 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-async-method/initial/pom.xml,5549d780fcef5b6cb43c83f03644f5afb26856c1,Greg Turnquist,Thu Jan 26 12:47:00 2017 -0600,Thu Jan 26 12:47:00 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-async-method/initial/pom.xml,34156d7b796569944216f1d5992a847e8cf12c94,Greg Turnquist,Thu Jan 26 12:36:24 2017 -0600,Thu Jan 26 12:36:24 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-async-method/initial/pom.xml,85f91a7301a11bbf598d5de8a738e469da9e56f5,Greg Turnquist,Thu Dec 22 22:31:43 2016 -0600,Thu Dec 22 22:31:43 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-async-method/initial/pom.xml,6a13012712badc1e78090429cf77430bf0b95561,Greg Turnquist,Tue Nov 8 11:51:55 2016 -0600,Tue Nov 8 11:51:55 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-async-method/initial/pom.xml,953c1f71ee3f1eb21928bf80b54c996ce014c867,Greg Turnquist,Fri Sep 23 16:35:30 2016 -0500,Fri Sep 23 16:35:30 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-async-method/initial/pom.xml,3efcd82dc01bf733b61deccdea287e7d8537188a,Greg Turnquist,Fri Jul 29 11:24:19 2016 -0500,Fri Jul 29 11:24:19 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-async-method/initial/pom.xml,aa2be8f87bc647f82814b33af277f87e9dbe15e0,Greg Turnquist,Thu Jul 28 06:52:29 2016 -0500,Thu Jul 28 06:52:29 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-async-method/initial/pom.xml,827c833522d04c53839b74962fcfcb12b377c7e0,Greg Turnquist,Tue Jul 5 13:51:55 2016 -0500,Tue Jul 5 13:51:55 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-async-method/initial/pom.xml,36874d8bde57ef35d2060af7da22314176b9477a,Greg Turnquist,Tue May 10 10:26:02 2016 -0500,Tue May 10 10:26:02 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-async-method/initial/pom.xml,e4f3a0144574eeff918e55c14bc689d29dbfbf79,Greg Turnquist,Fri May 6 09:48:29 2016 -0500,Fri May 6 09:48:29 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-async-method/initial/pom.xml,56e688076da7def41d1197c79a45e7343555e0f2,Greg Turnquist,Fri Feb 26 07:29:28 2016 -0600,Fri Feb 26 07:29:28 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-async-method/initial/pom.xml,fc3a9d4ba4c908e7405aef46521fab7d78425a2d,Greg Turnquist,Thu Jan 21 21:28:25 2016 -0600,Thu Jan 21 21:28:25 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-async-method/initial/pom.xml,196a10151c8549da2e8e6b41c26ae4636bdf2eba,Greg Turnquist,Fri Dec 18 09:39:51 2015 -0600,Fri Dec 18 09:39:51 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-async-method/initial/pom.xml,595e274b93a098679a59890a1212701fc7dc66c6,Greg Turnquist,Mon Nov 16 11:10:20 2015 -0600,Mon Nov 16 11:10:20 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-async-method/initial/pom.xml,b14b791e79e7967a994f5b953571318b44f06dcd,Greg Turnquist,Fri Oct 16 09:43:20 2015 -0400,Fri Oct 16 09:45:36 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-async-method/initial/pom.xml,afaa7cdbfd02da8894c9aac42348cf03b55db11f,Greg Turnquist,Sun Sep 20 15:41:18 2015 -0500,Sun Sep 20 15:41:18 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-async-method/initial/pom.xml,a8623aad5a65a1f349f118d33393099977d34405,Greg Turnquist,Thu Jul 2 08:45:33 2015 -0500,Thu Jul 2 08:45:33 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-async-method/initial/pom.xml,326dd9f71c89a7d51e86709b9409c6a25ca90986,Greg Turnquist,Fri Jun 12 14:02:49 2015 -0400,Fri Jun 12 14:02:49 2015 -0400,Upgrade non-specific guides to Java 8
+gs-async-method/initial/pom.xml,d40cae1e269aaf164b73192fad2de570f1cc0bc1,Greg Turnquist,Tue Jun 9 09:41:34 2015 -0400,Tue Jun 9 09:41:34 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-async-method/initial/pom.xml,8225ba0c0cc878bea7b6d0380438133c49691d14,Greg Turnquist,Tue Mar 31 16:55:55 2015 -0500,Tue Mar 31 16:55:55 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-async-method/initial/pom.xml,234173ac4ecb9f46f4c1a46f5ae7fbdb6a73c14e,Greg Turnquist,Thu Feb 26 22:39:23 2015 -0600,Thu Feb 26 22:39:23 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-async-method/initial/pom.xml,415cfecc2134684cb189960fb7052a2ef5e74cc3,Greg Turnquist,Tue Feb 24 15:03:06 2015 -0600,Tue Feb 24 15:03:06 2015 -0600,Upgrade to @SpringBootApplication
+gs-async-method/initial/pom.xml,d51dd2e9e00932da14df6583eb03309bc9b0da35,Greg Turnquist,Wed Feb 18 11:07:42 2015 -0600,Wed Feb 18 11:07:42 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-async-method/initial/pom.xml,587f2812a1cccd16b8a4848bb45a38e65d375b35,Greg Turnquist,Wed Jan 14 12:33:47 2015 -0600,Wed Jan 14 12:33:47 2015 -0600,Remove legacy start-class property from maven builds
+gs-async-method/initial/pom.xml,1306e63905300f0286daf5f3ff0046b835aa66cc,Greg Turnquist,Thu Dec 11 11:07:37 2014 -0600,Thu Dec 11 11:07:37 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-async-method/initial/pom.xml,f96fa49a45d7607343d02bb91ac75afc6fd1b76c,Greg Turnquist,Thu Nov 20 10:14:55 2014 -0600,Thu Nov 20 10:14:55 2014 -0600,Convert to use https for repositories
+gs-async-method/initial/pom.xml,9a1d24a78c74279e15807e6e7adbbb112b15013a,Greg Turnquist,Wed Nov 12 13:07:54 2014 -0600,Wed Nov 12 13:07:54 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-async-method/initial/pom.xml,e7c80ce0a17b5d8d81cfe1f01958374a05be85ae,Greg Turnquist,Fri Oct 10 22:04:56 2014 -0500,Fri Oct 10 22:04:56 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-async-method/initial/pom.xml,743be55135d52d7878878d1016c8017185b46e77,Greg Turnquist,Mon Sep 29 12:42:17 2014 -0500,Mon Sep 29 12:42:17 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-async-method/initial/pom.xml,2b8c8b664ff34bd26ad3a45937ed879bee72bc6f,Greg Turnquist,Fri Sep 5 11:13:39 2014 -0500,Fri Sep 5 11:13:39 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-async-method/initial/pom.xml,1770c843f3a4653f8a22a0a425fb66347176ba3f,Greg Turnquist,Fri Aug 8 22:12:14 2014 -0500,Fri Aug 8 22:12:14 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-async-method/initial/pom.xml,b707cc3a014979c522a6854c99836c6eda749af9,Greg Turnquist,Tue Jul 8 15:41:33 2014 -0500,Tue Jul 8 15:41:33 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-async-method/initial/pom.xml,0bc4a32718c9270ca6cb6adca4463dece513d70b,Greg Turnquist,Fri Jun 27 22:54:59 2014 -0400,Fri Jun 27 22:54:59 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-async-method/initial/pom.xml,06f846c0e5ca54900e9d2ea0bfec2c858c83a2c9,Greg Turnquist,Tue Jun 24 19:54:43 2014 -0400,Tue Jun 24 19:54:43 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-async-method/initial/pom.xml,08f3498225e9276849f88b401b818c6d1d66b628,Greg Turnquist,Wed Jun 11 16:47:58 2014 -0500,Wed Jun 11 16:47:58 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-async-method/initial/pom.xml,e784c2f9e3d939340ea54cd86bf38c319cfd3954,Greg Turnquist,Wed Jun 11 09:08:48 2014 -0500,Wed Jun 11 09:08:48 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-async-method/initial/pom.xml,f7e9deec6539e0ac4b185fb54fc72496eca5f4fe,Greg Turnquist,Tue Jun 10 19:16:12 2014 -0500,Tue Jun 10 19:16:12 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-async-method/initial/pom.xml,80a6fa2e1b6d66d746db46ec56525160b138dfed,Greg Turnquist,Thu Apr 24 09:36:49 2014 -0500,Thu Apr 24 09:36:49 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-async-method/initial/pom.xml,d95535755ab3256de4801788ba59b69f4467d353,Greg Turnquist,Mon Apr 7 10:09:19 2014 -0500,Mon Apr 7 10:09:19 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-async-method/initial/pom.xml,a5a1f015433aeac4b92914b19305e1836b962b2a,Greg Turnquist,Tue Apr 1 15:11:01 2014 -0500,Tue Apr 1 15:11:01 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-async-method/initial/pom.xml,3422c0520f2cc49e7095089236d5583590687052,Greg Turnquist,Sat Mar 22 07:17:40 2014 -0500,Sat Mar 22 07:17:40 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-async-method/initial/pom.xml,81be905cb3e182aca4cb467dadb9065b514292ff,Greg Turnquist,Tue Mar 4 15:08:59 2014 -0500,Tue Mar 4 15:08:59 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-async-method/initial/pom.xml,a429ac8cfd93dc77e7cd796f455fd79a41e965d1,Greg Turnquist,Tue Feb 18 16:32:59 2014 -0600,Tue Feb 18 16:32:59 2014 -0600,Move final build file to the beginning and update guides to reflect this
+gs-async-method/initial/pom.xml,5946088f0a90a61ec49cc07cc1d1ea3be0bfdeb0,Greg Turnquist,Fri Feb 14 11:23:28 2014 -0600,Fri Feb 14 11:23:28 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-async-method/initial/pom.xml,00c3fe65a2bf99e9fb4d2e67c05b24dab1f9b90f,Greg Turnquist,Thu Feb 13 12:38:08 2014 -0600,Thu Feb 13 12:38:08 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-async-method/initial/pom.xml,af462ee60c477c5cac973420fd2f08ea27d55153,Greg Turnquist,Thu Jan 2 11:45:40 2014 -0600,Thu Jan 2 11:45:40 2014 -0600,Upgrade to Boot M7
+gs-async-method/initial/pom.xml,a2ed9dba4bdb5dcaa9fb9ded8766b4679ad81b1c,Greg Turnquist,Tue Nov 19 10:51:43 2013 -0600,Tue Nov 19 10:51:43 2013 -0600,Upgrade to Spring Boot 0.5.0.M6
+gs-async-method/initial/pom.xml,9149b6ec8dd4783d8335a5fdbac6a3b1709e3e7a,Greg Turnquist,Wed Oct 30 10:03:25 2013 -0500,Wed Oct 30 10:03:25 2013 -0500,Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+gs-async-method/initial/pom.xml,54d3294828f2db0317ce5ed3528a202a926c39a7,Greg Turnquist,Mon Sep 30 08:18:43 2013 -0500,Mon Sep 30 08:18:43 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-async-method/initial/pom.xml,ece5e141d885746ff0de70d8ed211853e0c5390a,Greg Turnquist,Fri Sep 27 10:31:50 2013 -0500,Fri Sep 27 10:31:50 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-async-method/initial/pom.xml,0d6e5d1a9e6ea252f6fd36c77f0fc520f5bdf540,Greg Turnquist,Fri Aug 30 16:41:45 2013 -0500,Fri Aug 30 16:41:45 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-async-method/initial/pom.xml,744a0654c5a8b2e8402008f31cfa28c545ddba40,Greg Turnquist,Fri Aug 9 13:18:03 2013 -0500,Fri Aug 9 13:18:03 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-async-method/initial/pom.xml,4f1e8eded086a2f0cc09fd85c130631d8a3302ee,Roy Clarkson,Thu Aug 8 17:57:45 2013 -0400,Thu Aug 8 17:57:45 2013 -0400,Detab poms and source
+gs-async-method/initial/pom.xml,2f64c5fac085a25b00c48de02d10a2d22db7e2bf,Greg Turnquist,Tue Aug 6 14:43:25 2013 -0500,Tue Aug 6 14:43:25 2013 -0500,Use libs-snapshot instead of snapshot
+gs-async-method/initial/pom.xml,e9da41d89f69167f69f0351312a929bf28bd7765,Greg Turnquist,Tue Aug 6 11:23:47 2013 -0500,Tue Aug 6 11:23:47 2013 -0500,Remove 'TODO' from pom.xml and rebuild guide
+gs-async-method/initial/pom.xml,a9a50a202b76010d1b00b99d1258dc31808f812c,Greg Turnquist,Wed Jul 31 15:42:26 2013 -0400,Wed Jul 31 15:42:26 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-async-method/initial/pom.xml,b2a262e75fd54d75dc0608faad8286aed91629f6,Greg Turnquist,Tue Jul 30 10:18:59 2013 -0400,Tue Jul 30 10:18:59 2013 -0400,Upgrade to Spring Boot
+gs-async-method/initial/pom.xml,494eb73b4556ad0d3b63b634a2476dd24046ffd2,Greg Turnquist,Thu Jul 18 10:41:01 2013 -0400,Thu Jul 18 10:41:01 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-async-method/initial/pom.xml,eaa9ec2b086d880e34bbcc2583c32ca96eaadb36,Greg Turnquist,Wed Jul 17 15:01:04 2013 -0400,Wed Jul 17 15:01:04 2013 -0400,Built application to demonstrate asynchronous method calls

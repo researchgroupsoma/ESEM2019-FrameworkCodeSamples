@@ -1,0 +1,155 @@
+gs-relational-data-access/complete/pom.xml,a7f7f90d5fe869828e99d842cdf05bf94b64c27d,Greg Turnquist,Mon Sep 17 10:51:10 2018 -0500,Mon Sep 17 10:51:10 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-relational-data-access/complete/pom.xml,1399bd740825a1c14b7d806fad10df0173f08264,Greg Turnquist,Mon Jun 18 16:17:12 2018 -0500,Mon Jun 18 16:17:12 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-relational-data-access/complete/pom.xml,5d295f9da5ed84e4c3b17fa2b3f4ec6177f610e0,Greg Turnquist,Wed May 9 11:26:54 2018 -0500,Wed May 9 11:26:54 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-relational-data-access/complete/pom.xml,3b7f17371cb71b70b5caee51c39e1f107627dec0,Greg Turnquist,Thu Apr 5 11:45:17 2018 -0500,Thu Apr 5 11:45:17 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-relational-data-access/complete/pom.xml,2cb101d20acb402dbb2d32f38bd59c7a91b21d97,Greg Turnquist,Thu Mar 1 09:54:12 2018 -0600,Thu Mar 1 09:54:12 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-relational-data-access/complete/pom.xml,3b44433e3ca5b516eb501a50f21bbd082051aae5,Greg Turnquist,Wed Jan 31 09:16:36 2018 -0600,Wed Jan 31 09:16:36 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-relational-data-access/complete/pom.xml,dab895bd13bd898eacff22d0533de42a60b9f3d0,Greg Turnquist,Thu Nov 30 11:07:16 2017 -0600,Thu Nov 30 11:07:16 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-relational-data-access/complete/pom.xml,8fa6dc05b338c2ad8021340910f040badff97ebc,Greg Turnquist,Tue Oct 17 15:42:50 2017 -0500,Tue Oct 17 15:42:50 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-relational-data-access/complete/pom.xml,4cf36f07ca6a247c1ea1cec70aef472a35809da8,Greg Turnquist,Wed Sep 13 13:15:57 2017 -0500,Wed Sep 13 13:15:57 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-relational-data-access/complete/pom.xml,3684360df25970173df8cd89749b75919814d7cf,Greg Turnquist,Thu Jul 27 10:05:12 2017 -0500,Thu Jul 27 10:05:12 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-relational-data-access/complete/pom.xml,b9164da0dd4a0f4e8e9a575e2ba3e9cf6d697366,Greg Turnquist,Wed Jul 26 12:23:32 2017 -0500,Wed Jul 26 12:25:12 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-relational-data-access/complete/pom.xml,0700939796600bec8d49f881b80aca31dd2e9963,Greg Turnquist,Fri Apr 21 09:20:38 2017 -0500,Fri Apr 21 09:20:38 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-relational-data-access/complete/pom.xml,d5e8191bf05e2873c497734ba8035804b4408afc,Greg Turnquist,Fri Mar 3 11:13:35 2017 -0600,Fri Mar 3 11:13:35 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-relational-data-access/complete/pom.xml,019999da91f615fc6bfa6f703f951f9845bad3b5,Greg Turnquist,Mon Jan 30 23:33:43 2017 -0600,Mon Jan 30 23:33:43 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-relational-data-access/complete/pom.xml,6bdfb349235423b4cd3459ef4feae4aa0809b3cb,Greg Turnquist,Mon Jan 30 11:38:54 2017 -0600,Mon Jan 30 11:38:54 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-relational-data-access/complete/pom.xml,61d283c5a8afc949c7be9fd6e425fa5d21cecd54,Greg Turnquist,Thu Jan 26 12:48:21 2017 -0600,Thu Jan 26 12:48:21 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-relational-data-access/complete/pom.xml,846b415e034ab6b891d982a13fc0d3b67eff821a,Greg Turnquist,Thu Jan 26 12:38:00 2017 -0600,Thu Jan 26 12:38:00 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-relational-data-access/complete/pom.xml,83b6f89ad1f2c7a78b596df45997ff8c637137f7,Greg Turnquist,Thu Dec 22 22:33:19 2016 -0600,Thu Dec 22 22:33:19 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-relational-data-access/complete/pom.xml,a1639ba84f308d69a5a2f7f6fca0b65157d51dcc,Dave Syer,Wed Dec 7 06:31:16 2016 +0000,Wed Dec 7 06:31:20 2016 +0000,Use starter pom instead of spring-jdbc
+gs-relational-data-access/complete/pom.xml,e08a818515dd5dc66a31d2c231f57c77df13f8e8,Greg Turnquist,Tue Nov 8 11:52:52 2016 -0600,Tue Nov 8 11:52:52 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-relational-data-access/complete/pom.xml,644a2a5ad09764cb691521545500e350e8f99a28,Greg Turnquist,Fri Sep 23 16:36:31 2016 -0500,Fri Sep 23 16:36:31 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-relational-data-access/complete/pom.xml,ed6cd6d3ac445a2336af0e3a82db6584048c7713,Greg Turnquist,Fri Jul 29 11:29:36 2016 -0500,Fri Jul 29 11:29:36 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-relational-data-access/complete/pom.xml,12d3fd1a15d5516a911d6516a7020ff8a8e84712,Greg Turnquist,Thu Jul 28 06:53:14 2016 -0500,Thu Jul 28 06:53:14 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-relational-data-access/complete/pom.xml,c0666c3763f0b116930bda915ca5ddc4553f10ae,Greg Turnquist,Tue Jul 5 13:52:44 2016 -0500,Tue Jul 5 13:52:44 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-relational-data-access/complete/pom.xml,ee371b0de9663d4681ba761413de6e6ae3a3b066,Greg Turnquist,Tue May 10 10:26:47 2016 -0500,Tue May 10 10:26:47 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-relational-data-access/complete/pom.xml,abff0e3093bb76f3fe23779a6954c9d8347ecbfc,Greg Turnquist,Fri May 6 09:49:15 2016 -0500,Fri May 6 09:49:15 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-relational-data-access/complete/pom.xml,0db26436c58d83d05f45ae94e83d134e98e45ebc,Greg Turnquist,Fri Feb 26 07:30:19 2016 -0600,Fri Feb 26 07:30:19 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-relational-data-access/complete/pom.xml,b043fc8720a4ba0203ae99e2931307aff203b651,Greg Turnquist,Thu Jan 21 21:29:15 2016 -0600,Thu Jan 21 21:29:15 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-relational-data-access/complete/pom.xml,17cd6e46165a11be564f23a647122b200109dfc5,Greg Turnquist,Fri Dec 18 09:40:31 2015 -0600,Fri Dec 18 09:40:31 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-relational-data-access/complete/pom.xml,517e59f3e7b90e4888d8959c5112fd3314cad8a5,Greg Turnquist,Mon Nov 16 11:10:55 2015 -0600,Mon Nov 16 11:10:55 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-relational-data-access/complete/pom.xml,e5e1b4df44d53909a9d79807cbc273e2e4b875a7,Greg Turnquist,Fri Oct 16 09:43:59 2015 -0400,Fri Oct 16 09:43:59 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-relational-data-access/complete/pom.xml,7c69953ffc6ca2dff4a85a25e1b55a9f0912dab7,Greg Turnquist,Sun Sep 20 15:41:53 2015 -0500,Sun Sep 20 15:41:53 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-relational-data-access/complete/pom.xml,0f0769ab64cbf5b8ffc177f887779d3162087594,Greg Turnquist,Thu Jul 2 08:46:35 2015 -0500,Thu Jul 2 08:46:35 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-relational-data-access/complete/pom.xml,c45675c244f4a3e6fa95a6eeaad6ec3c09c3bfba,Greg Turnquist,Fri Jun 12 14:05:01 2015 -0400,Fri Jun 12 14:05:01 2015 -0400,Upgrade non-specific guides to Java 8
+gs-relational-data-access/complete/pom.xml,b6fd37e517a3fde56d154e30159dd38c5cfd5a7e,Greg Turnquist,Tue Jun 9 09:42:00 2015 -0400,Tue Jun 9 09:42:00 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-relational-data-access/complete/pom.xml,076821b1e88d7a929f504c66bca8d9fc9b8f5537,Greg Turnquist,Tue Mar 31 16:56:21 2015 -0500,Tue Mar 31 16:56:21 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-relational-data-access/complete/pom.xml,df2a6432aa3c3760ceae83f3217bb59df951274b,Greg Turnquist,Thu Feb 26 22:39:57 2015 -0600,Thu Feb 26 22:39:57 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-relational-data-access/complete/pom.xml,dcbed04188e1784c46f79ba484c1b14a13fc6931,Greg Turnquist,Wed Feb 25 09:20:28 2015 -0600,Wed Feb 25 09:20:28 2015 -0600,Clean up relationship database example, using @SpringBootApplication
+gs-relational-data-access/complete/pom.xml,efdd6726f523c6a2c7ce068d7b61d0d780c11201,Greg Turnquist,Wed Feb 18 11:08:13 2015 -0600,Wed Feb 18 11:08:13 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-relational-data-access/complete/pom.xml,afbfb2e5fa04603db564a964c26911d7f7b7650f,Greg Turnquist,Wed Jan 14 12:34:09 2015 -0600,Wed Jan 14 12:34:09 2015 -0600,Remove legacy start-class property from maven builds
+gs-relational-data-access/complete/pom.xml,dfcde666875c52c5a9ee2e30d92b7b9e24089b1f,Greg Turnquist,Thu Dec 11 11:08:09 2014 -0600,Thu Dec 11 11:08:09 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-relational-data-access/complete/pom.xml,52d0199ffc5844cf4f9cd7b774c34da15eed35af,Greg Turnquist,Thu Nov 20 10:15:23 2014 -0600,Thu Nov 20 10:15:23 2014 -0600,Convert to use https for repositories
+gs-relational-data-access/complete/pom.xml,a3dfecddea44c60ddecd3440acef248ac83db822,Greg Turnquist,Wed Nov 12 13:08:32 2014 -0600,Wed Nov 12 13:08:32 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-relational-data-access/complete/pom.xml,8990006fa827b078e039da6854461a69f760d0d3,Greg Turnquist,Fri Oct 10 22:05:31 2014 -0500,Fri Oct 10 22:05:31 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-relational-data-access/complete/pom.xml,5568fcaf971a472f1fa69ed9cbc7fc95a40e0f83,Greg Turnquist,Mon Sep 29 12:42:45 2014 -0500,Mon Sep 29 12:42:45 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-relational-data-access/complete/pom.xml,03b15df5650d2f1f9e88642709e3f9a80949f18a,Greg Turnquist,Fri Sep 5 11:14:15 2014 -0500,Fri Sep 5 11:14:15 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-relational-data-access/complete/pom.xml,1f05d90cab157bd4d892e9e0519844d724662c0b,Greg Turnquist,Fri Aug 8 22:12:46 2014 -0500,Fri Aug 8 22:12:46 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-relational-data-access/complete/pom.xml,91327e3b79c1a68735b1196f0805d19effafdf18,Greg Turnquist,Tue Jul 8 15:42:04 2014 -0500,Tue Jul 8 15:42:04 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-relational-data-access/complete/pom.xml,f61faaa3c713a218aba262b528a56c6c72f817ba,Greg Turnquist,Fri Jun 27 22:55:36 2014 -0400,Fri Jun 27 22:55:36 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-relational-data-access/complete/pom.xml,9b7abb7101dfe67cbecbddbd151a20c6ee146b26,Greg Turnquist,Tue Jun 24 19:56:01 2014 -0400,Tue Jun 24 19:56:01 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-relational-data-access/complete/pom.xml,8918c5bdbb35ad2e178b4cd40046e4e6972c5e05,Greg Turnquist,Wed Jun 11 16:48:41 2014 -0500,Wed Jun 11 16:48:41 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-relational-data-access/complete/pom.xml,a3ef6ceaad43c5e89c4e17e85a934cf691f7cce7,Greg Turnquist,Wed Jun 11 09:09:09 2014 -0500,Wed Jun 11 09:09:09 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-relational-data-access/complete/pom.xml,8e1cec0217dcb967e6171492a7683518e9c5f248,Greg Turnquist,Tue Jun 10 19:16:44 2014 -0500,Tue Jun 10 19:16:44 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-relational-data-access/complete/pom.xml,7bc684cd1e12b6d013e669d92f70c2ba99df62fc,Greg Turnquist,Thu Apr 24 09:37:25 2014 -0500,Thu Apr 24 09:37:25 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-relational-data-access/complete/pom.xml,7d4ce8b5241508a99dcad3d9b43429c65902178c,Greg Turnquist,Mon Apr 7 10:09:59 2014 -0500,Mon Apr 7 10:09:59 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-relational-data-access/complete/pom.xml,4453dd0052e6edf04f979e253c297453a7e5c4b5,Greg Turnquist,Tue Apr 1 15:11:39 2014 -0500,Tue Apr 1 15:11:39 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-relational-data-access/complete/pom.xml,414677fcfea1d23a5f9cffed49a4933c7f2338f1,Greg Turnquist,Sat Mar 22 07:18:14 2014 -0500,Sat Mar 22 07:18:14 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-relational-data-access/complete/pom.xml,893faf67004f6ff13c76f25b1a4ced4f9b0dfdb6,Greg Turnquist,Tue Mar 4 15:10:02 2014 -0500,Tue Mar 4 15:10:02 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-relational-data-access/complete/pom.xml,38ceda09fbd0692f2b75f58cf35cbf08f2fe2801,Greg Turnquist,Fri Feb 14 11:23:58 2014 -0600,Fri Feb 14 11:23:58 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-relational-data-access/complete/pom.xml,6c4e99fd46af6114ccf1b262559ae40ec4decb41,Greg Turnquist,Thu Feb 13 12:38:34 2014 -0600,Thu Feb 13 12:38:34 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-relational-data-access/complete/pom.xml,f09ca00cbcc400bfcce4d53d1202303b9f4c678d,Greg Turnquist,Wed Jan 22 12:21:36 2014 -0600,Wed Jan 22 12:21:36 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-relational-data-access/complete/pom.xml,ad8381c85e27577d4e7f5a238bb4a1610c9cabec,Greg Turnquist,Mon Nov 18 15:59:29 2013 -0600,Mon Nov 18 15:59:29 2013 -0600,Upgrade to Spring Boot 0.5.0.M6
+gs-relational-data-access/complete/pom.xml,60ff485a65439b00fa4d83dd6c2f8a9cb1cd052a,Greg Turnquist,Wed Oct 30 10:03:51 2013 -0500,Wed Oct 30 10:03:51 2013 -0500,Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+gs-relational-data-access/complete/pom.xml,2058a11b0c6d315e70056f2c73f477f89d070fad,Greg Turnquist,Mon Sep 30 08:19:11 2013 -0500,Mon Sep 30 08:19:11 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-relational-data-access/complete/pom.xml,c1abea99529d2e797e55af0aae369ad6734a664f,Greg Turnquist,Fri Sep 27 10:32:14 2013 -0500,Fri Sep 27 10:32:14 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-relational-data-access/complete/pom.xml,cff1142d97162a90267f7ae6249aad2a2ec0c49b,Greg Turnquist,Sun Sep 8 21:34:48 2013 -0500,Sun Sep 8 21:34:48 2013 -0500,Add spring-boot-starter to build files
+gs-relational-data-access/complete/pom.xml,589522319cfde6cebc6244f71482e2af5f3faaa5,Greg Turnquist,Fri Aug 30 16:42:16 2013 -0500,Fri Aug 30 16:42:16 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-relational-data-access/complete/pom.xml,b9b9f2129951bc9f53b23c8456cc669510a76f66,Greg Turnquist,Fri Aug 9 13:18:32 2013 -0500,Fri Aug 9 13:18:32 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-relational-data-access/complete/pom.xml,139a71ed8ba7ce12b6d5cae039e4657acbd53ead,Greg Turnquist,Tue Aug 6 14:43:57 2013 -0500,Tue Aug 6 14:43:57 2013 -0500,Use libs-snapshot instead of snapshot
+gs-relational-data-access/complete/pom.xml,5ec1e0f8c7a954d8e2d531f3f9ff30e4763249c1,Greg Turnquist,Wed Jul 31 15:43:02 2013 -0400,Wed Jul 31 15:43:02 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-relational-data-access/complete/pom.xml,8e62dc42badcb8d197cc005e798ddeb986ee50f9,Greg Turnquist,Tue Jul 30 10:19:43 2013 -0400,Tue Jul 30 10:19:43 2013 -0400,Upgrade to Spring Boot
+gs-relational-data-access/complete/pom.xml,e658946fe53650a2ce60a2b2785cd453bd03dda1,Greg Turnquist,Fri Jul 19 16:29:32 2013 -0400,Fri Jul 19 16:29:32 2013 -0400,Convert to spring-package-maven-plugin and Spring Zero
+gs-relational-data-access/complete/pom.xml,d800a8087fbc430b04c26bda5213fd3c77fa3884,Greg Turnquist,Thu Jul 18 10:41:32 2013 -0400,Thu Jul 18 10:41:32 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-relational-data-access/complete/pom.xml,186a30c99d0d838dec521d29c07ffa999158c71c,Chris Beams,Wed May 29 12:26:39 2013 +0200,Wed May 29 12:36:39 2013 +0200,Set pom versions at 0.1.0 per guidelines
+gs-relational-data-access/complete/pom.xml,3f7f16b072ebc9491dd0b4b65bff4284b1bcd1ed,Chris Beams,Wed May 29 12:35:46 2013 +0200,Wed May 29 12:36:39 2013 +0200,Eliminate blank line at end of pom
+gs-relational-data-access/complete/pom.xml,28f59cb13c1ab93ce05db05e2e751786d5862019,Chris Beams,Wed May 29 11:56:38 2013 +0200,Wed May 29 11:56:38 2013 +0200,Convert tabs to spaces per GSG guidelines
+gs-relational-data-access/complete/pom.xml,38fa4e94828743bfb984661c0b10eb33f7826287,Dave Syer,Wed May 29 10:21:33 2013 +0100,Wed May 29 10:23:21 2013 +0100,Add maven build
+gs-relational-data-access/initial/pom.xml,a7f7f90d5fe869828e99d842cdf05bf94b64c27d,Greg Turnquist,Mon Sep 17 10:51:10 2018 -0500,Mon Sep 17 10:51:10 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-relational-data-access/initial/pom.xml,1399bd740825a1c14b7d806fad10df0173f08264,Greg Turnquist,Mon Jun 18 16:17:12 2018 -0500,Mon Jun 18 16:17:12 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-relational-data-access/initial/pom.xml,5d295f9da5ed84e4c3b17fa2b3f4ec6177f610e0,Greg Turnquist,Wed May 9 11:26:54 2018 -0500,Wed May 9 11:26:54 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-relational-data-access/initial/pom.xml,3b7f17371cb71b70b5caee51c39e1f107627dec0,Greg Turnquist,Thu Apr 5 11:45:17 2018 -0500,Thu Apr 5 11:45:17 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-relational-data-access/initial/pom.xml,2cb101d20acb402dbb2d32f38bd59c7a91b21d97,Greg Turnquist,Thu Mar 1 09:54:12 2018 -0600,Thu Mar 1 09:54:12 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-relational-data-access/initial/pom.xml,3b44433e3ca5b516eb501a50f21bbd082051aae5,Greg Turnquist,Wed Jan 31 09:16:36 2018 -0600,Wed Jan 31 09:16:36 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-relational-data-access/initial/pom.xml,dab895bd13bd898eacff22d0533de42a60b9f3d0,Greg Turnquist,Thu Nov 30 11:07:16 2017 -0600,Thu Nov 30 11:07:16 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-relational-data-access/initial/pom.xml,8fa6dc05b338c2ad8021340910f040badff97ebc,Greg Turnquist,Tue Oct 17 15:42:50 2017 -0500,Tue Oct 17 15:42:50 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-relational-data-access/initial/pom.xml,4cf36f07ca6a247c1ea1cec70aef472a35809da8,Greg Turnquist,Wed Sep 13 13:15:57 2017 -0500,Wed Sep 13 13:15:57 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-relational-data-access/initial/pom.xml,3684360df25970173df8cd89749b75919814d7cf,Greg Turnquist,Thu Jul 27 10:05:12 2017 -0500,Thu Jul 27 10:05:12 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-relational-data-access/initial/pom.xml,b9164da0dd4a0f4e8e9a575e2ba3e9cf6d697366,Greg Turnquist,Wed Jul 26 12:23:32 2017 -0500,Wed Jul 26 12:25:12 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-relational-data-access/initial/pom.xml,0700939796600bec8d49f881b80aca31dd2e9963,Greg Turnquist,Fri Apr 21 09:20:38 2017 -0500,Fri Apr 21 09:20:38 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-relational-data-access/initial/pom.xml,d5e8191bf05e2873c497734ba8035804b4408afc,Greg Turnquist,Fri Mar 3 11:13:35 2017 -0600,Fri Mar 3 11:13:35 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-relational-data-access/initial/pom.xml,019999da91f615fc6bfa6f703f951f9845bad3b5,Greg Turnquist,Mon Jan 30 23:33:43 2017 -0600,Mon Jan 30 23:33:43 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-relational-data-access/initial/pom.xml,6bdfb349235423b4cd3459ef4feae4aa0809b3cb,Greg Turnquist,Mon Jan 30 11:38:54 2017 -0600,Mon Jan 30 11:38:54 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-relational-data-access/initial/pom.xml,61d283c5a8afc949c7be9fd6e425fa5d21cecd54,Greg Turnquist,Thu Jan 26 12:48:21 2017 -0600,Thu Jan 26 12:48:21 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-relational-data-access/initial/pom.xml,846b415e034ab6b891d982a13fc0d3b67eff821a,Greg Turnquist,Thu Jan 26 12:38:00 2017 -0600,Thu Jan 26 12:38:00 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-relational-data-access/initial/pom.xml,83b6f89ad1f2c7a78b596df45997ff8c637137f7,Greg Turnquist,Thu Dec 22 22:33:19 2016 -0600,Thu Dec 22 22:33:19 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-relational-data-access/initial/pom.xml,a1639ba84f308d69a5a2f7f6fca0b65157d51dcc,Dave Syer,Wed Dec 7 06:31:16 2016 +0000,Wed Dec 7 06:31:20 2016 +0000,Use starter pom instead of spring-jdbc
+gs-relational-data-access/initial/pom.xml,e08a818515dd5dc66a31d2c231f57c77df13f8e8,Greg Turnquist,Tue Nov 8 11:52:52 2016 -0600,Tue Nov 8 11:52:52 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-relational-data-access/initial/pom.xml,644a2a5ad09764cb691521545500e350e8f99a28,Greg Turnquist,Fri Sep 23 16:36:31 2016 -0500,Fri Sep 23 16:36:31 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-relational-data-access/initial/pom.xml,ed6cd6d3ac445a2336af0e3a82db6584048c7713,Greg Turnquist,Fri Jul 29 11:29:36 2016 -0500,Fri Jul 29 11:29:36 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-relational-data-access/initial/pom.xml,12d3fd1a15d5516a911d6516a7020ff8a8e84712,Greg Turnquist,Thu Jul 28 06:53:14 2016 -0500,Thu Jul 28 06:53:14 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-relational-data-access/initial/pom.xml,c0666c3763f0b116930bda915ca5ddc4553f10ae,Greg Turnquist,Tue Jul 5 13:52:44 2016 -0500,Tue Jul 5 13:52:44 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-relational-data-access/initial/pom.xml,ee371b0de9663d4681ba761413de6e6ae3a3b066,Greg Turnquist,Tue May 10 10:26:47 2016 -0500,Tue May 10 10:26:47 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-relational-data-access/initial/pom.xml,abff0e3093bb76f3fe23779a6954c9d8347ecbfc,Greg Turnquist,Fri May 6 09:49:15 2016 -0500,Fri May 6 09:49:15 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-relational-data-access/initial/pom.xml,0db26436c58d83d05f45ae94e83d134e98e45ebc,Greg Turnquist,Fri Feb 26 07:30:19 2016 -0600,Fri Feb 26 07:30:19 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-relational-data-access/initial/pom.xml,b043fc8720a4ba0203ae99e2931307aff203b651,Greg Turnquist,Thu Jan 21 21:29:15 2016 -0600,Thu Jan 21 21:29:15 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-relational-data-access/initial/pom.xml,17cd6e46165a11be564f23a647122b200109dfc5,Greg Turnquist,Fri Dec 18 09:40:31 2015 -0600,Fri Dec 18 09:40:31 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-relational-data-access/initial/pom.xml,517e59f3e7b90e4888d8959c5112fd3314cad8a5,Greg Turnquist,Mon Nov 16 11:10:55 2015 -0600,Mon Nov 16 11:10:55 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-relational-data-access/initial/pom.xml,e5e1b4df44d53909a9d79807cbc273e2e4b875a7,Greg Turnquist,Fri Oct 16 09:43:59 2015 -0400,Fri Oct 16 09:43:59 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-relational-data-access/initial/pom.xml,7c69953ffc6ca2dff4a85a25e1b55a9f0912dab7,Greg Turnquist,Sun Sep 20 15:41:53 2015 -0500,Sun Sep 20 15:41:53 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-relational-data-access/initial/pom.xml,0f0769ab64cbf5b8ffc177f887779d3162087594,Greg Turnquist,Thu Jul 2 08:46:35 2015 -0500,Thu Jul 2 08:46:35 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-relational-data-access/initial/pom.xml,c45675c244f4a3e6fa95a6eeaad6ec3c09c3bfba,Greg Turnquist,Fri Jun 12 14:05:01 2015 -0400,Fri Jun 12 14:05:01 2015 -0400,Upgrade non-specific guides to Java 8
+gs-relational-data-access/initial/pom.xml,b6fd37e517a3fde56d154e30159dd38c5cfd5a7e,Greg Turnquist,Tue Jun 9 09:42:00 2015 -0400,Tue Jun 9 09:42:00 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-relational-data-access/initial/pom.xml,076821b1e88d7a929f504c66bca8d9fc9b8f5537,Greg Turnquist,Tue Mar 31 16:56:21 2015 -0500,Tue Mar 31 16:56:21 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-relational-data-access/initial/pom.xml,df2a6432aa3c3760ceae83f3217bb59df951274b,Greg Turnquist,Thu Feb 26 22:39:57 2015 -0600,Thu Feb 26 22:39:57 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-relational-data-access/initial/pom.xml,dcbed04188e1784c46f79ba484c1b14a13fc6931,Greg Turnquist,Wed Feb 25 09:20:28 2015 -0600,Wed Feb 25 09:20:28 2015 -0600,Clean up relationship database example, using @SpringBootApplication
+gs-relational-data-access/initial/pom.xml,efdd6726f523c6a2c7ce068d7b61d0d780c11201,Greg Turnquist,Wed Feb 18 11:08:13 2015 -0600,Wed Feb 18 11:08:13 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-relational-data-access/initial/pom.xml,afbfb2e5fa04603db564a964c26911d7f7b7650f,Greg Turnquist,Wed Jan 14 12:34:09 2015 -0600,Wed Jan 14 12:34:09 2015 -0600,Remove legacy start-class property from maven builds
+gs-relational-data-access/initial/pom.xml,dfcde666875c52c5a9ee2e30d92b7b9e24089b1f,Greg Turnquist,Thu Dec 11 11:08:09 2014 -0600,Thu Dec 11 11:08:09 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-relational-data-access/initial/pom.xml,52d0199ffc5844cf4f9cd7b774c34da15eed35af,Greg Turnquist,Thu Nov 20 10:15:23 2014 -0600,Thu Nov 20 10:15:23 2014 -0600,Convert to use https for repositories
+gs-relational-data-access/initial/pom.xml,a3dfecddea44c60ddecd3440acef248ac83db822,Greg Turnquist,Wed Nov 12 13:08:32 2014 -0600,Wed Nov 12 13:08:32 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-relational-data-access/initial/pom.xml,8990006fa827b078e039da6854461a69f760d0d3,Greg Turnquist,Fri Oct 10 22:05:31 2014 -0500,Fri Oct 10 22:05:31 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-relational-data-access/initial/pom.xml,5568fcaf971a472f1fa69ed9cbc7fc95a40e0f83,Greg Turnquist,Mon Sep 29 12:42:45 2014 -0500,Mon Sep 29 12:42:45 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-relational-data-access/initial/pom.xml,03b15df5650d2f1f9e88642709e3f9a80949f18a,Greg Turnquist,Fri Sep 5 11:14:15 2014 -0500,Fri Sep 5 11:14:15 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-relational-data-access/initial/pom.xml,1f05d90cab157bd4d892e9e0519844d724662c0b,Greg Turnquist,Fri Aug 8 22:12:46 2014 -0500,Fri Aug 8 22:12:46 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-relational-data-access/initial/pom.xml,91327e3b79c1a68735b1196f0805d19effafdf18,Greg Turnquist,Tue Jul 8 15:42:04 2014 -0500,Tue Jul 8 15:42:04 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-relational-data-access/initial/pom.xml,f61faaa3c713a218aba262b528a56c6c72f817ba,Greg Turnquist,Fri Jun 27 22:55:36 2014 -0400,Fri Jun 27 22:55:36 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-relational-data-access/initial/pom.xml,9b7abb7101dfe67cbecbddbd151a20c6ee146b26,Greg Turnquist,Tue Jun 24 19:56:01 2014 -0400,Tue Jun 24 19:56:01 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-relational-data-access/initial/pom.xml,8918c5bdbb35ad2e178b4cd40046e4e6972c5e05,Greg Turnquist,Wed Jun 11 16:48:41 2014 -0500,Wed Jun 11 16:48:41 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-relational-data-access/initial/pom.xml,a3ef6ceaad43c5e89c4e17e85a934cf691f7cce7,Greg Turnquist,Wed Jun 11 09:09:09 2014 -0500,Wed Jun 11 09:09:09 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-relational-data-access/initial/pom.xml,8e1cec0217dcb967e6171492a7683518e9c5f248,Greg Turnquist,Tue Jun 10 19:16:44 2014 -0500,Tue Jun 10 19:16:44 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-relational-data-access/initial/pom.xml,7bc684cd1e12b6d013e669d92f70c2ba99df62fc,Greg Turnquist,Thu Apr 24 09:37:25 2014 -0500,Thu Apr 24 09:37:25 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-relational-data-access/initial/pom.xml,7d4ce8b5241508a99dcad3d9b43429c65902178c,Greg Turnquist,Mon Apr 7 10:09:59 2014 -0500,Mon Apr 7 10:09:59 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-relational-data-access/initial/pom.xml,4453dd0052e6edf04f979e253c297453a7e5c4b5,Greg Turnquist,Tue Apr 1 15:11:39 2014 -0500,Tue Apr 1 15:11:39 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-relational-data-access/initial/pom.xml,414677fcfea1d23a5f9cffed49a4933c7f2338f1,Greg Turnquist,Sat Mar 22 07:18:14 2014 -0500,Sat Mar 22 07:18:14 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-relational-data-access/initial/pom.xml,893faf67004f6ff13c76f25b1a4ced4f9b0dfdb6,Greg Turnquist,Tue Mar 4 15:10:02 2014 -0500,Tue Mar 4 15:10:02 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-relational-data-access/initial/pom.xml,7921f80a1be63877c3d9f7d606735b0b101d24f3,Greg Turnquist,Tue Feb 18 16:34:40 2014 -0600,Tue Feb 18 16:34:40 2014 -0600,Move final build file to the beginning and update guides to reflect this
+gs-relational-data-access/initial/pom.xml,38ceda09fbd0692f2b75f58cf35cbf08f2fe2801,Greg Turnquist,Fri Feb 14 11:23:58 2014 -0600,Fri Feb 14 11:23:58 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-relational-data-access/initial/pom.xml,6c4e99fd46af6114ccf1b262559ae40ec4decb41,Greg Turnquist,Thu Feb 13 12:38:34 2014 -0600,Thu Feb 13 12:38:34 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-relational-data-access/initial/pom.xml,f09ca00cbcc400bfcce4d53d1202303b9f4c678d,Greg Turnquist,Wed Jan 22 12:21:36 2014 -0600,Wed Jan 22 12:21:36 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-relational-data-access/initial/pom.xml,ad8381c85e27577d4e7f5a238bb4a1610c9cabec,Greg Turnquist,Mon Nov 18 15:59:29 2013 -0600,Mon Nov 18 15:59:29 2013 -0600,Upgrade to Spring Boot 0.5.0.M6
+gs-relational-data-access/initial/pom.xml,60ff485a65439b00fa4d83dd6c2f8a9cb1cd052a,Greg Turnquist,Wed Oct 30 10:03:51 2013 -0500,Wed Oct 30 10:03:51 2013 -0500,Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+gs-relational-data-access/initial/pom.xml,2058a11b0c6d315e70056f2c73f477f89d070fad,Greg Turnquist,Mon Sep 30 08:19:11 2013 -0500,Mon Sep 30 08:19:11 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-relational-data-access/initial/pom.xml,c1abea99529d2e797e55af0aae369ad6734a664f,Greg Turnquist,Fri Sep 27 10:32:14 2013 -0500,Fri Sep 27 10:32:14 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-relational-data-access/initial/pom.xml,cff1142d97162a90267f7ae6249aad2a2ec0c49b,Greg Turnquist,Sun Sep 8 21:34:48 2013 -0500,Sun Sep 8 21:34:48 2013 -0500,Add spring-boot-starter to build files
+gs-relational-data-access/initial/pom.xml,589522319cfde6cebc6244f71482e2af5f3faaa5,Greg Turnquist,Fri Aug 30 16:42:16 2013 -0500,Fri Aug 30 16:42:16 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-relational-data-access/initial/pom.xml,b9b9f2129951bc9f53b23c8456cc669510a76f66,Greg Turnquist,Fri Aug 9 13:18:32 2013 -0500,Fri Aug 9 13:18:32 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-relational-data-access/initial/pom.xml,139a71ed8ba7ce12b6d5cae039e4657acbd53ead,Greg Turnquist,Tue Aug 6 14:43:57 2013 -0500,Tue Aug 6 14:43:57 2013 -0500,Use libs-snapshot instead of snapshot
+gs-relational-data-access/initial/pom.xml,8900c63eebda345f35671070c865721ad1db493b,Greg Turnquist,Tue Aug 6 11:24:12 2013 -0500,Tue Aug 6 11:24:12 2013 -0500,Remove 'TODO' from pom.xml and rebuild guide
+gs-relational-data-access/initial/pom.xml,5ec1e0f8c7a954d8e2d531f3f9ff30e4763249c1,Greg Turnquist,Wed Jul 31 15:43:02 2013 -0400,Wed Jul 31 15:43:02 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-relational-data-access/initial/pom.xml,8e62dc42badcb8d197cc005e798ddeb986ee50f9,Greg Turnquist,Tue Jul 30 10:19:43 2013 -0400,Tue Jul 30 10:19:43 2013 -0400,Upgrade to Spring Boot
+gs-relational-data-access/initial/pom.xml,e658946fe53650a2ce60a2b2785cd453bd03dda1,Greg Turnquist,Fri Jul 19 16:29:32 2013 -0400,Fri Jul 19 16:29:32 2013 -0400,Convert to spring-package-maven-plugin and Spring Zero
+gs-relational-data-access/initial/pom.xml,186a30c99d0d838dec521d29c07ffa999158c71c,Chris Beams,Wed May 29 12:26:39 2013 +0200,Wed May 29 12:36:39 2013 +0200,Set pom versions at 0.1.0 per guidelines
+gs-relational-data-access/initial/pom.xml,3f7f16b072ebc9491dd0b4b65bff4284b1bcd1ed,Chris Beams,Wed May 29 12:35:46 2013 +0200,Wed May 29 12:36:39 2013 +0200,Eliminate blank line at end of pom
+gs-relational-data-access/initial/pom.xml,28f59cb13c1ab93ce05db05e2e751786d5862019,Chris Beams,Wed May 29 11:56:38 2013 +0200,Wed May 29 11:56:38 2013 +0200,Convert tabs to spaces per GSG guidelines
+gs-relational-data-access/initial/pom.xml,38fa4e94828743bfb984661c0b10eb33f7826287,Dave Syer,Wed May 29 10:21:33 2013 +0100,Wed May 29 10:23:21 2013 +0100,Add maven build

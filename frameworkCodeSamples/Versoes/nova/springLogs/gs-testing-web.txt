@@ -1,0 +1,44 @@
+gs-testing-web/complete/pom.xml,1c4904af230a6ff1179146adfd314b4ed9205043,Greg Turnquist,Mon Sep 17 10:51:52 2018 -0500,Mon Sep 17 10:51:52 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-testing-web/complete/pom.xml,f6cf6f8c65c6632f4b6d3eb4154e4536f56832d5,Greg Turnquist,Mon Jun 18 16:17:49 2018 -0500,Mon Jun 18 16:17:49 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-testing-web/complete/pom.xml,4682e65666dc1c9057940e4345b97231e5aab87d,Greg Turnquist,Wed May 9 11:27:34 2018 -0500,Wed May 9 11:27:34 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-testing-web/complete/pom.xml,d52701b3e583e6700ffc867cd8324ec3c4e52a28,Greg Turnquist,Thu Apr 5 11:45:48 2018 -0500,Thu Apr 5 11:45:48 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-testing-web/complete/pom.xml,e67f8bbf66eb2f5c1129cd92aae18f663115b4ac,Greg Turnquist,Thu Mar 1 09:55:14 2018 -0600,Fri Mar 2 11:40:35 2018 +0000,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-testing-web/complete/pom.xml,4a28419a2fc4741072ee64fbff7b265c26b4046c,Greg Turnquist,Wed Jan 31 09:17:09 2018 -0600,Wed Jan 31 09:17:09 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-testing-web/complete/pom.xml,100edad728f1db160ca44ccf25861f23d578a39c,Greg Turnquist,Thu Nov 30 11:07:52 2017 -0600,Thu Nov 30 11:07:52 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-testing-web/complete/pom.xml,9d230dec1e24848f1b574a4863c7d5f3d8259fae,Greg Turnquist,Tue Oct 17 15:43:15 2017 -0500,Tue Oct 17 15:43:15 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-testing-web/complete/pom.xml,199427f75cd0f121dd4d1cafa70903fd533cbc8e,Greg Turnquist,Wed Sep 13 13:16:23 2017 -0500,Wed Sep 13 13:16:23 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-testing-web/complete/pom.xml,d92219957cbce4b88913826a4c919a30096e9243,Greg Turnquist,Thu Jul 27 10:05:46 2017 -0500,Thu Jul 27 10:05:46 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-testing-web/complete/pom.xml,6e85698322d6e7baa657429c96ea71de02e32fea,Greg Turnquist,Wed Jul 26 12:23:51 2017 -0500,Wed Jul 26 12:23:51 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-testing-web/complete/pom.xml,7d8367bba90bbabf210bafe12db28db4a3c9aedd,Greg Turnquist,Fri Apr 21 09:21:04 2017 -0500,Fri Apr 21 09:21:04 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-testing-web/complete/pom.xml,7462ae6bd19f725aff5b4020ff8aeae630973879,Greg Turnquist,Fri Mar 3 11:14:09 2017 -0600,Fri Mar 3 11:14:09 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-testing-web/complete/pom.xml,289fa85ea9b8d1bc75bb8d49fa599aa567c6357d,Greg Turnquist,Mon Jan 30 23:35:03 2017 -0600,Mon Jan 30 23:35:03 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-testing-web/complete/pom.xml,8bdbe2f76f8373d840d8d902d97fac30c79146e3,Greg Turnquist,Mon Jan 30 11:39:30 2017 -0600,Mon Jan 30 11:39:30 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-testing-web/complete/pom.xml,fbbf5737fb79376ee2f1b5e133db65f1114607fa,Greg Turnquist,Thu Jan 26 12:48:52 2017 -0600,Thu Jan 26 12:48:52 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-testing-web/complete/pom.xml,3ed233084bc19e43d794aebac0417356101393fa,Greg Turnquist,Thu Jan 26 12:38:35 2017 -0600,Thu Jan 26 12:38:35 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-testing-web/complete/pom.xml,9f5375bd13beb6de85eea70866a5d18de60d7e56,Greg Turnquist,Thu Dec 22 22:33:56 2016 -0600,Thu Dec 22 22:33:56 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-testing-web/complete/pom.xml,fbc9330b090f2bd3cb5541d890e640ee61bbe0f1,Greg Turnquist,Tue Nov 8 11:53:17 2016 -0600,Tue Nov 8 12:01:14 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-testing-web/complete/pom.xml,c9b1d2767488514635ed62b53c8da2bd6c879c5b,Greg Turnquist,Fri Sep 23 16:36:53 2016 -0500,Fri Sep 23 16:36:53 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-testing-web/complete/pom.xml,7691a336b9745e0816b3458b45a17f5dccdf527a,Dave Syer,Fri Aug 26 16:00:40 2016 +0100,Fri Aug 26 16:00:40 2016 +0100,Drop unnecessary repository declarations
+gs-testing-web/complete/pom.xml,5e395f685a24b9c65afe2fca96b21a74bf6ffb16,Dave Syer,Fri Aug 26 13:29:52 2016 +0100,Fri Aug 26 13:29:52 2016 +0100,Initial draft for testing
+gs-testing-web/initial/pom.xml,1c4904af230a6ff1179146adfd314b4ed9205043,Greg Turnquist,Mon Sep 17 10:51:52 2018 -0500,Mon Sep 17 10:51:52 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-testing-web/initial/pom.xml,f6cf6f8c65c6632f4b6d3eb4154e4536f56832d5,Greg Turnquist,Mon Jun 18 16:17:49 2018 -0500,Mon Jun 18 16:17:49 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-testing-web/initial/pom.xml,4682e65666dc1c9057940e4345b97231e5aab87d,Greg Turnquist,Wed May 9 11:27:34 2018 -0500,Wed May 9 11:27:34 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-testing-web/initial/pom.xml,d52701b3e583e6700ffc867cd8324ec3c4e52a28,Greg Turnquist,Thu Apr 5 11:45:48 2018 -0500,Thu Apr 5 11:45:48 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-testing-web/initial/pom.xml,e67f8bbf66eb2f5c1129cd92aae18f663115b4ac,Greg Turnquist,Thu Mar 1 09:55:14 2018 -0600,Fri Mar 2 11:40:35 2018 +0000,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-testing-web/initial/pom.xml,4a28419a2fc4741072ee64fbff7b265c26b4046c,Greg Turnquist,Wed Jan 31 09:17:09 2018 -0600,Wed Jan 31 09:17:09 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-testing-web/initial/pom.xml,100edad728f1db160ca44ccf25861f23d578a39c,Greg Turnquist,Thu Nov 30 11:07:52 2017 -0600,Thu Nov 30 11:07:52 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-testing-web/initial/pom.xml,9d230dec1e24848f1b574a4863c7d5f3d8259fae,Greg Turnquist,Tue Oct 17 15:43:15 2017 -0500,Tue Oct 17 15:43:15 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-testing-web/initial/pom.xml,199427f75cd0f121dd4d1cafa70903fd533cbc8e,Greg Turnquist,Wed Sep 13 13:16:23 2017 -0500,Wed Sep 13 13:16:23 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-testing-web/initial/pom.xml,d92219957cbce4b88913826a4c919a30096e9243,Greg Turnquist,Thu Jul 27 10:05:46 2017 -0500,Thu Jul 27 10:05:46 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-testing-web/initial/pom.xml,6e85698322d6e7baa657429c96ea71de02e32fea,Greg Turnquist,Wed Jul 26 12:23:51 2017 -0500,Wed Jul 26 12:23:51 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-testing-web/initial/pom.xml,7d8367bba90bbabf210bafe12db28db4a3c9aedd,Greg Turnquist,Fri Apr 21 09:21:04 2017 -0500,Fri Apr 21 09:21:04 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-testing-web/initial/pom.xml,7462ae6bd19f725aff5b4020ff8aeae630973879,Greg Turnquist,Fri Mar 3 11:14:09 2017 -0600,Fri Mar 3 11:14:09 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-testing-web/initial/pom.xml,289fa85ea9b8d1bc75bb8d49fa599aa567c6357d,Greg Turnquist,Mon Jan 30 23:35:03 2017 -0600,Mon Jan 30 23:35:03 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-testing-web/initial/pom.xml,8bdbe2f76f8373d840d8d902d97fac30c79146e3,Greg Turnquist,Mon Jan 30 11:39:30 2017 -0600,Mon Jan 30 11:39:30 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-testing-web/initial/pom.xml,fbbf5737fb79376ee2f1b5e133db65f1114607fa,Greg Turnquist,Thu Jan 26 12:48:52 2017 -0600,Thu Jan 26 12:48:52 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-testing-web/initial/pom.xml,3ed233084bc19e43d794aebac0417356101393fa,Greg Turnquist,Thu Jan 26 12:38:35 2017 -0600,Thu Jan 26 12:38:35 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-testing-web/initial/pom.xml,9f5375bd13beb6de85eea70866a5d18de60d7e56,Greg Turnquist,Thu Dec 22 22:33:56 2016 -0600,Thu Dec 22 22:33:56 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-testing-web/initial/pom.xml,fbc9330b090f2bd3cb5541d890e640ee61bbe0f1,Greg Turnquist,Tue Nov 8 11:53:17 2016 -0600,Tue Nov 8 12:01:14 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-testing-web/initial/pom.xml,c9b1d2767488514635ed62b53c8da2bd6c879c5b,Greg Turnquist,Fri Sep 23 16:36:53 2016 -0500,Fri Sep 23 16:36:53 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-testing-web/initial/pom.xml,7691a336b9745e0816b3458b45a17f5dccdf527a,Dave Syer,Fri Aug 26 16:00:40 2016 +0100,Fri Aug 26 16:00:40 2016 +0100,Drop unnecessary repository declarations
+gs-testing-web/initial/pom.xml,5e395f685a24b9c65afe2fca96b21a74bf6ffb16,Dave Syer,Fri Aug 26 13:29:52 2016 +0100,Fri Aug 26 13:29:52 2016 +0100,Initial draft for testing

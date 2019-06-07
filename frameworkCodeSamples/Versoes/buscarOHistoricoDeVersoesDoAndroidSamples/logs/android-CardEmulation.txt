@@ -1,0 +1,19 @@
+android-CardEmulation/build.gradle,2a1a158966fd7374d66d17eda4d51c0627c3ee33,google-automerger,Tue Sep 2 11:00:47 2014 -0700,Tue Sep 2 11:00:47 2014 -0700,Initial Commit
+android-CardEmulation/Application/build.gradle,98d7b97b9fb351c9b7519115dea58cdf351a9d04,google-automerger,Thu Feb 15 16:35:29 2018 -0800,Thu Feb 15 16:35:29 2018 -0800,Auto-update
+android-CardEmulation/Application/build.gradle,b8d78ac4b0995369b0dbc4e254d0e9d78c5ec228,google-automerger,Tue Oct 10 17:51:49 2017 -0700,Tue Oct 10 17:51:49 2017 -0700,Auto-update
+android-CardEmulation/Application/build.gradle,55babf48e87356fbb32f6af9145a5632747162ad,google-automerger,Thu Jun 8 09:33:28 2017 -0700,Thu Jun 8 09:33:28 2017 -0700,Auto-update
+android-CardEmulation/Application/build.gradle,3c0ae7537125a64098f697de429dfb0f9d55d789,google-automerger,Wed May 17 13:32:19 2017 -0700,Wed May 17 13:32:19 2017 -0700,Auto-update
+android-CardEmulation/Application/build.gradle,88744b21b9bb368bb0d259f982cd3f68d999f4fa,google-automerger,Tue Dec 13 09:39:16 2016 -0800,Tue Dec 13 09:39:16 2016 -0800,Auto-update
+android-CardEmulation/Application/build.gradle,236df9c4d2cd0fa44df1d7019b8f00aa0cf81d77,google-automerger,Fri Aug 12 15:18:13 2016 -0700,Fri Aug 12 15:18:13 2016 -0700,Auto-update
+android-CardEmulation/Application/build.gradle,b1ba5559a328566a210e3079c8fedfb7764cc7f8,google-automerger,Wed May 18 11:38:15 2016 -0700,Wed May 18 11:38:15 2016 -0700,Auto-update
+android-CardEmulation/Application/build.gradle,6ab2d477c5885d139272d311ffdf2328d3eaee94,google-automerger,Wed Apr 20 12:26:12 2016 -0700,Wed Apr 20 12:26:12 2016 -0700,Auto-update
+android-CardEmulation/Application/build.gradle,c747f24ee917ab5a3d9afeaf649075b16751a13d,google-automerger,Wed Nov 18 09:33:18 2015 -0800,Wed Nov 18 09:33:18 2015 -0800,Auto-update
+android-CardEmulation/Application/build.gradle,5483819dd47d8f50cc384e7fbd7ee0f9c2075a3e,google-automerger,Thu Oct 8 17:42:32 2015 -0700,Thu Oct 8 17:42:32 2015 -0700,Auto-update
+android-CardEmulation/Application/build.gradle,dedeccae9b05e3fc3a69d8fe4b31e9d2cdd59cb6,google-automerger,Mon Aug 17 09:54:24 2015 -0700,Mon Aug 17 09:54:24 2015 -0700,Auto-update
+android-CardEmulation/Application/build.gradle,a50fc8c97add533d17a0dbc10cd89bedc0b588aa,google-automerger,Thu Jul 9 11:10:18 2015 -0700,Thu Jul 9 11:10:18 2015 -0700,Auto-update
+android-CardEmulation/Application/build.gradle,b554edc24fd18a613a95e8376d9af06056edbd3f,google-automerger,Thu May 21 10:04:21 2015 -0700,Thu May 21 10:04:21 2015 -0700,Auto-update
+android-CardEmulation/Application/build.gradle,fd7221c7fb84603344ba13a0efc0490153a1d58d,google-automerger,Tue Apr 28 10:53:49 2015 -0700,Tue Apr 28 10:53:49 2015 -0700,Auto-update
+android-CardEmulation/Application/build.gradle,46a92fbd0315c9de121f12485905279b9a53e12b,google-automerger,Mon Mar 30 17:43:22 2015 -0700,Mon Mar 30 17:43:22 2015 -0700,Auto-update
+android-CardEmulation/Application/build.gradle,a09110f4b54769d82686ec716d939f06091251bd,google-automerger,Mon Dec 8 17:49:37 2014 -0800,Mon Dec 8 17:49:37 2014 -0800,Auto-update
+android-CardEmulation/Application/build.gradle,1cbd1cc3efe14d27016b2c2017027c33fd46a3d6,google-automerger,Wed Dec 3 01:50:07 2014 -0800,Wed Dec 3 01:50:07 2014 -0800,Auto-update
+android-CardEmulation/Application/build.gradle,d3140fc5a4bf0845ed65e38f8787016b956e2e98,google-automerger,Tue Nov 18 16:18:01 2014 -0800,Tue Nov 18 16:18:01 2014 -0800,Auto-update

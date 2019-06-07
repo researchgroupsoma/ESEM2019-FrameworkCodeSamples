@@ -1,0 +1,155 @@
+gs-messaging-rabbitmq/complete/pom.xml,c2d9cb760eee82c5997128b25776d78b8732a87f,Greg Turnquist,Mon Sep 17 10:50:47 2018 -0500,Mon Sep 17 10:50:47 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-messaging-rabbitmq/complete/pom.xml,b5833032398d955b47917b25583f6bad177adeed,Greg Turnquist,Mon Jun 18 16:16:51 2018 -0500,Mon Jun 18 16:16:51 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,5f72749add50d85c23faf2428c746bfdf56561e2,Greg Turnquist,Wed May 9 11:26:37 2018 -0500,Wed May 9 11:26:37 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-messaging-rabbitmq/complete/pom.xml,a188119d7533dc87de4431f35734b747cadd9f68,Greg Turnquist,Thu Apr 5 11:45:00 2018 -0500,Thu Apr 5 11:45:00 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,9033bf559966772ee3d2aa7288e9aa28cf0ed632,Greg Turnquist,Thu Mar 1 09:53:34 2018 -0600,Thu Mar 1 09:53:34 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,1b7db9358b968c46d7279a72f8e770e7137990bb,Greg Turnquist,Wed Jan 31 09:16:18 2018 -0600,Wed Jan 31 09:16:18 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,68a5190d8751b0f7db69faf960e56059725912a5,Greg Turnquist,Thu Nov 30 11:06:52 2017 -0600,Thu Nov 30 11:06:52 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,255ad74ef7b52a5b9e4f6144b0bd4f67f2f75783,Greg Turnquist,Tue Oct 17 15:42:33 2017 -0500,Tue Oct 17 15:42:33 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,5cbd09f7a862d5920311acef8e9decab8a7bb696,Greg Turnquist,Wed Sep 13 13:15:38 2017 -0500,Wed Sep 13 13:15:38 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,304a2902dae746f742c4b9be463231d39be74518,Greg Turnquist,Thu Jul 27 10:04:47 2017 -0500,Thu Jul 27 10:04:47 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,97fa518aeaa7b70a2252028bfb6218ddeab884d4,Greg Turnquist,Wed Jul 26 12:23:19 2017 -0500,Wed Jul 26 12:23:19 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,3c685a5f164645a0ed41d8f33ee5cbb8d2e7df05,Greg Turnquist,Fri Apr 21 09:20:23 2017 -0500,Fri Apr 21 09:20:23 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,1c33bb57287b92bfec5e2135425cbd5972201c5b,Greg Turnquist,Fri Mar 3 11:13:17 2017 -0600,Fri Mar 3 11:13:17 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,498f60c7fdebe49be8a507657131a10c0e84770c,Greg Turnquist,Mon Jan 30 23:31:10 2017 -0600,Mon Jan 30 23:31:10 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,d23d8da020e19028339e83669e79e7e502090e7e,Greg Turnquist,Mon Jan 30 11:38:33 2017 -0600,Mon Jan 30 11:38:33 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,d3c87e23312d20ae7dc4442819d201805ac8099b,Greg Turnquist,Thu Jan 26 12:47:58 2017 -0600,Thu Jan 26 12:47:58 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,3c5615338bff23402aa0df155cc1de2c268d7afa,Greg Turnquist,Thu Jan 26 12:37:38 2017 -0600,Thu Jan 26 12:37:38 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,e3fee85ce757e95a7a4f017a7a1980f4d43b0586,Greg Turnquist,Thu Dec 22 22:32:57 2016 -0600,Thu Dec 22 22:32:57 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,879c7eea5339d972a25a1e47f233fba4c30a551c,Greg Turnquist,Tue Nov 8 11:52:41 2016 -0600,Tue Nov 8 11:52:41 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,83b9222c0dad7b7661e59a393604bb002683b6aa,Greg Turnquist,Fri Sep 23 16:36:19 2016 -0500,Fri Sep 23 16:36:19 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,6d1da576557949684c6d95694c47142f1c916d14,Dave Syer,Fri Aug 26 10:15:52 2016 +0100,Fri Aug 26 10:15:52 2016 +0100,Update for Spring Boot 1.4
+gs-messaging-rabbitmq/complete/pom.xml,b104e6c46384ee0e8c5af9f09bd9c09035252662,Greg Turnquist,Fri Jul 29 11:29:20 2016 -0500,Fri Jul 29 11:29:20 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,d81061ef1253da5ec0373faf92d1e7746735bc03,Greg Turnquist,Thu Jul 28 06:53:01 2016 -0500,Thu Jul 28 06:53:01 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,61f6e4640060be651d06d4cda9aa3aaae8e92b08,Greg Turnquist,Tue Jul 5 13:52:33 2016 -0500,Tue Jul 5 13:52:33 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,b1e655639d140a21d120debfeaf348a5d82db740,Greg Turnquist,Tue May 10 10:26:37 2016 -0500,Tue May 10 10:26:37 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,eb6ee3964651401f789c505eab674e298ae5f321,Greg Turnquist,Fri May 6 09:49:04 2016 -0500,Fri May 6 09:49:04 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,fa092f30bb8d43de488b810ddb334bf09e87ae04,Greg Turnquist,Tue Apr 26 16:38:03 2016 -0500,Tue Apr 26 16:38:12 2016 -0500,Slim down the build configuration in maven
+gs-messaging-rabbitmq/complete/pom.xml,7d4082ddcb03a0a4c38b3540276c69cc39c2cc68,Greg Turnquist,Fri Feb 26 07:30:11 2016 -0600,Fri Feb 26 07:30:11 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,e4fac63e425184d8281d871c86ecea96aa34e406,Greg Turnquist,Thu Jan 21 21:29:04 2016 -0600,Thu Jan 21 21:29:04 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,dd36f960778984bc4be552ab696dc4c4ab9b292a,Greg Turnquist,Fri Dec 18 09:40:22 2015 -0600,Fri Dec 18 09:40:22 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,46f35ae1a6686ab2a2962c9d32a71b758b412b21,Greg Turnquist,Mon Nov 16 11:10:46 2015 -0600,Mon Nov 16 11:10:46 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,07de922ca4b27eaa5a1ab221be7772c70dbd52dd,Greg Turnquist,Fri Oct 16 09:43:50 2015 -0400,Fri Oct 16 09:43:50 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,eaff7a64219fba5d87805dcc8bd0be6e2bc02ab4,Greg Turnquist,Sun Sep 20 15:41:44 2015 -0500,Sun Sep 20 15:41:44 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,ad4a2850e611245cbb28f761801ad68c275cf5fe,Greg Turnquist,Thu Jul 2 08:46:21 2015 -0500,Thu Jul 2 08:46:21 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,78f470f4c28ce632f850c8c358a767932a82acfc,Greg Turnquist,Fri Jun 12 14:04:57 2015 -0400,Fri Jun 12 14:04:57 2015 -0400,Upgrade non-specific guides to Java 8
+gs-messaging-rabbitmq/complete/pom.xml,316d530e4a6087818fb15844b0d622ede307ccae,Greg Turnquist,Tue Jun 9 09:41:54 2015 -0400,Tue Jun 9 09:41:54 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-messaging-rabbitmq/complete/pom.xml,4462dce67e7c3e9100814f7637100deb57543c1f,Greg Turnquist,Tue Mar 31 16:56:16 2015 -0500,Tue Mar 31 16:56:16 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,455ecb08ba558da25fd1972be7b2ccbe4e5ccdb8,Greg Turnquist,Thu Feb 26 22:39:50 2015 -0600,Thu Feb 26 22:39:50 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,7424f130c02b2aa77cf64619ce0be619638962fb,Greg Turnquist,Wed Feb 18 11:08:08 2015 -0600,Wed Feb 18 11:08:08 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,59f0c1812b5210963f6b0fb899f734342a30796d,Greg Turnquist,Wed Jan 14 12:33:58 2015 -0600,Wed Jan 14 12:33:58 2015 -0600,Remove legacy start-class property from maven builds
+gs-messaging-rabbitmq/complete/pom.xml,5691fbfbf417582a8ec0acce6f4b33812c233f2a,Greg Turnquist,Thu Dec 11 11:08:00 2014 -0600,Thu Dec 11 11:08:00 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,0626170d9612b33ba1baa65e53c98ab9b4c102e0,Greg Turnquist,Thu Nov 20 10:15:14 2014 -0600,Thu Nov 20 10:15:14 2014 -0600,Convert to use https for repositories
+gs-messaging-rabbitmq/complete/pom.xml,4895918dab4433ca687cd8084abb39bbd4adf247,Greg Turnquist,Wed Nov 12 13:08:25 2014 -0600,Wed Nov 12 13:08:25 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,f62cb79c32ed991922150a9955cec09e6c5212eb,Greg Turnquist,Fri Oct 10 22:05:24 2014 -0500,Fri Oct 10 22:05:24 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,2c401677af7b60b3489cdb79158fbe1b6415da70,Greg Turnquist,Mon Sep 29 12:42:38 2014 -0500,Mon Sep 29 12:42:38 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,e26b12c34c9b1204fad08091039a7c1e23dd9846,Greg Turnquist,Fri Sep 5 11:14:08 2014 -0500,Fri Sep 5 11:14:08 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,347ac88abed521e4bd8c33b1c9734b005170c394,Greg Turnquist,Fri Aug 8 22:12:40 2014 -0500,Fri Aug 8 22:12:40 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,cecc21598c90245c9585463441b6ada126c5076e,Greg Turnquist,Tue Jul 8 15:41:56 2014 -0500,Tue Jul 8 15:41:56 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,d3b68a6f790202b3eab9a3fe57f2f3b647c2af0e,Greg Turnquist,Fri Jun 27 22:55:31 2014 -0400,Fri Jun 27 22:55:31 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,5889622d398ebcea849be61198104f4f919a2238,Greg Turnquist,Tue Jun 24 19:55:54 2014 -0400,Tue Jun 24 19:55:54 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,23fe03051f759ceb08dd4866d3acbe295abd9e94,Greg Turnquist,Wed Jun 11 16:48:35 2014 -0500,Wed Jun 11 16:48:35 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,0c3c4c1be709075d88d164ffebfef534c90e4bda,Greg Turnquist,Wed Jun 11 09:09:03 2014 -0500,Wed Jun 11 09:09:03 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-messaging-rabbitmq/complete/pom.xml,cad9ae16b9e59bcaee9aa17f0d3b41f2e891ef85,Greg Turnquist,Tue Jun 10 19:16:37 2014 -0500,Tue Jun 10 19:16:37 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,7c2bc3a9c2785ade816fc49705b85b332941c20d,Greg Turnquist,Thu Apr 24 09:37:17 2014 -0500,Thu Apr 24 09:37:17 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,8295cb61604e16d6ba3595a912a91b0ca0393303,Greg Turnquist,Mon Apr 7 10:09:51 2014 -0500,Mon Apr 7 10:09:51 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,8ca75f890e14c721b6ebe16fb577e59812cb8140,Greg Turnquist,Tue Apr 1 15:11:31 2014 -0500,Tue Apr 1 15:11:31 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-messaging-rabbitmq/complete/pom.xml,4e629a9a39655b42b35d4972bdc25c8a8e40b17d,Greg Turnquist,Sat Mar 22 07:18:06 2014 -0500,Sat Mar 22 07:18:06 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-messaging-rabbitmq/complete/pom.xml,7ed5a542e159ce933127384009470200f93c34f1,Greg Turnquist,Tue Mar 4 15:09:32 2014 -0500,Tue Mar 4 15:09:32 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-messaging-rabbitmq/complete/pom.xml,8f468a86c089395d75bb27ebd6c64c03f2a045b6,Greg Turnquist,Fri Feb 14 11:23:48 2014 -0600,Fri Feb 14 11:23:48 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-messaging-rabbitmq/complete/pom.xml,943eaa40c04682409cfd062a9fcbab2d1e56de04,Greg Turnquist,Thu Feb 13 12:38:27 2014 -0600,Thu Feb 13 12:38:27 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-messaging-rabbitmq/complete/pom.xml,82e6b4e0c287b92d4879e500d63c47945eae4905,Greg Turnquist,Wed Jan 22 12:21:27 2014 -0600,Wed Jan 22 12:21:27 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-messaging-rabbitmq/complete/pom.xml,937fdf7f0a6f3f62e6084638fc4439bca7f5067d,Greg Turnquist,Mon Nov 18 17:15:51 2013 -0600,Mon Nov 18 17:15:51 2013 -0600,Upgrade to Spring Boot 0.5.0.M6
+gs-messaging-rabbitmq/complete/pom.xml,d6e8d7aac2f9c4abd3a699bdb11a156dc3d11cbd,Greg Turnquist,Wed Oct 30 10:03:44 2013 -0500,Wed Oct 30 10:03:44 2013 -0500,Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+gs-messaging-rabbitmq/complete/pom.xml,7937439d430852b20f586b07b94d3d1e5cc936b3,Greg Turnquist,Mon Sep 30 08:19:02 2013 -0500,Mon Sep 30 08:19:02 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-messaging-rabbitmq/complete/pom.xml,69837e53065db4ecb96f2e695f38fb152418cb72,Greg Turnquist,Fri Sep 27 10:32:06 2013 -0500,Fri Sep 27 10:32:06 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-messaging-rabbitmq/complete/pom.xml,2012884464198c388ae7b34fcd9e9c79fcd07ca6,Greg Turnquist,Mon Sep 9 16:22:21 2013 -0700,Mon Sep 9 16:22:21 2013 -0700,Fix RabbitMQ with spring-boot-starter
+gs-messaging-rabbitmq/complete/pom.xml,9384f89eb6280c971bbfe5e1930e909760538607,Greg Turnquist,Fri Aug 30 16:42:06 2013 -0500,Fri Aug 30 16:42:06 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-messaging-rabbitmq/complete/pom.xml,b0bbee3d7e4af538fd35287e36b941d190124bd3,Greg Turnquist,Mon Aug 12 14:05:52 2013 -0500,Mon Aug 12 14:05:52 2013 -0500,Detab code and fix link to spring-boot-maven-plugin
+gs-messaging-rabbitmq/complete/pom.xml,e429c3ebf7f4a26b2b9885ffb015e47f366fc042,Greg Turnquist,Fri Aug 9 13:18:23 2013 -0500,Fri Aug 9 13:18:23 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-messaging-rabbitmq/complete/pom.xml,2c32c1b14c69258e54ce655c3a3c816a0330fbdd,Greg Turnquist,Tue Aug 6 14:43:46 2013 -0500,Tue Aug 6 14:43:46 2013 -0500,Use libs-snapshot instead of snapshot
+gs-messaging-rabbitmq/complete/pom.xml,68c3e87833e53dd7e469f3e18b496cfebfdeb6d3,Greg Turnquist,Tue Aug 6 11:24:02 2013 -0500,Tue Aug 6 11:24:02 2013 -0500,Remove 'TODO' from pom.xml and rebuild guide
+gs-messaging-rabbitmq/complete/pom.xml,03f6a05ac598d28b97cbdee9150363b45a4712a5,Greg Turnquist,Wed Jul 31 15:42:49 2013 -0400,Wed Jul 31 15:42:49 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-messaging-rabbitmq/complete/pom.xml,529b1690512fdb3cf80980eb1dc58f81c4e37936,Greg Turnquist,Tue Jul 30 10:19:33 2013 -0400,Tue Jul 30 10:19:33 2013 -0400,Upgrade to Spring Boot
+gs-messaging-rabbitmq/complete/pom.xml,4f74758c4a8ef5ea3442632b4a0d07b17d17d6ec,Greg Turnquist,Thu Jul 18 10:41:24 2013 -0400,Thu Jul 18 10:41:24 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-messaging-rabbitmq/complete/pom.xml,1fce90119256b56f618d2298a1bb536d3b5e093a,Greg Turnquist,Wed Jul 17 09:53:10 2013 -0400,Wed Jul 17 09:53:10 2013 -0400,Update to use spring-package-maven-plugin
+gs-messaging-rabbitmq/complete/pom.xml,e31efed0642ab25eae3bf9184a2c34281035bc1f,Greg Turnquist,Mon Jul 15 11:48:18 2013 -0400,Mon Jul 15 11:48:18 2013 -0400,Upgrade to Spring AMQP and use simpler API from AMQP-315
+gs-messaging-rabbitmq/complete/pom.xml,e3b78be39e040ef9e8878e7f05884508f4f1a98a,Greg Turnquist,Fri May 31 16:48:18 2013 -0400,Fri May 31 16:48:18 2013 -0400,Update based on feedback from Redis messaging
+gs-messaging-rabbitmq/initial/pom.xml,c2d9cb760eee82c5997128b25776d78b8732a87f,Greg Turnquist,Mon Sep 17 10:50:47 2018 -0500,Mon Sep 17 10:50:47 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-messaging-rabbitmq/initial/pom.xml,b5833032398d955b47917b25583f6bad177adeed,Greg Turnquist,Mon Jun 18 16:16:51 2018 -0500,Mon Jun 18 16:16:51 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,5f72749add50d85c23faf2428c746bfdf56561e2,Greg Turnquist,Wed May 9 11:26:37 2018 -0500,Wed May 9 11:26:37 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-messaging-rabbitmq/initial/pom.xml,a188119d7533dc87de4431f35734b747cadd9f68,Greg Turnquist,Thu Apr 5 11:45:00 2018 -0500,Thu Apr 5 11:45:00 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,9033bf559966772ee3d2aa7288e9aa28cf0ed632,Greg Turnquist,Thu Mar 1 09:53:34 2018 -0600,Thu Mar 1 09:53:34 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,1b7db9358b968c46d7279a72f8e770e7137990bb,Greg Turnquist,Wed Jan 31 09:16:18 2018 -0600,Wed Jan 31 09:16:18 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,68a5190d8751b0f7db69faf960e56059725912a5,Greg Turnquist,Thu Nov 30 11:06:52 2017 -0600,Thu Nov 30 11:06:52 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,255ad74ef7b52a5b9e4f6144b0bd4f67f2f75783,Greg Turnquist,Tue Oct 17 15:42:33 2017 -0500,Tue Oct 17 15:42:33 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,5cbd09f7a862d5920311acef8e9decab8a7bb696,Greg Turnquist,Wed Sep 13 13:15:38 2017 -0500,Wed Sep 13 13:15:38 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,304a2902dae746f742c4b9be463231d39be74518,Greg Turnquist,Thu Jul 27 10:04:47 2017 -0500,Thu Jul 27 10:04:47 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,97fa518aeaa7b70a2252028bfb6218ddeab884d4,Greg Turnquist,Wed Jul 26 12:23:19 2017 -0500,Wed Jul 26 12:23:19 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,3c685a5f164645a0ed41d8f33ee5cbb8d2e7df05,Greg Turnquist,Fri Apr 21 09:20:23 2017 -0500,Fri Apr 21 09:20:23 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,1c33bb57287b92bfec5e2135425cbd5972201c5b,Greg Turnquist,Fri Mar 3 11:13:17 2017 -0600,Fri Mar 3 11:13:17 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,498f60c7fdebe49be8a507657131a10c0e84770c,Greg Turnquist,Mon Jan 30 23:31:10 2017 -0600,Mon Jan 30 23:31:10 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,d23d8da020e19028339e83669e79e7e502090e7e,Greg Turnquist,Mon Jan 30 11:38:33 2017 -0600,Mon Jan 30 11:38:33 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,d3c87e23312d20ae7dc4442819d201805ac8099b,Greg Turnquist,Thu Jan 26 12:47:58 2017 -0600,Thu Jan 26 12:47:58 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,3c5615338bff23402aa0df155cc1de2c268d7afa,Greg Turnquist,Thu Jan 26 12:37:38 2017 -0600,Thu Jan 26 12:37:38 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,e3fee85ce757e95a7a4f017a7a1980f4d43b0586,Greg Turnquist,Thu Dec 22 22:32:57 2016 -0600,Thu Dec 22 22:32:57 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,879c7eea5339d972a25a1e47f233fba4c30a551c,Greg Turnquist,Tue Nov 8 11:52:41 2016 -0600,Tue Nov 8 11:52:41 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,83b9222c0dad7b7661e59a393604bb002683b6aa,Greg Turnquist,Fri Sep 23 16:36:19 2016 -0500,Fri Sep 23 16:36:19 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,b104e6c46384ee0e8c5af9f09bd9c09035252662,Greg Turnquist,Fri Jul 29 11:29:20 2016 -0500,Fri Jul 29 11:29:20 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,d81061ef1253da5ec0373faf92d1e7746735bc03,Greg Turnquist,Thu Jul 28 06:53:01 2016 -0500,Thu Jul 28 06:53:01 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,61f6e4640060be651d06d4cda9aa3aaae8e92b08,Greg Turnquist,Tue Jul 5 13:52:33 2016 -0500,Tue Jul 5 13:52:33 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,b1e655639d140a21d120debfeaf348a5d82db740,Greg Turnquist,Tue May 10 10:26:37 2016 -0500,Tue May 10 10:26:37 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,eb6ee3964651401f789c505eab674e298ae5f321,Greg Turnquist,Fri May 6 09:49:04 2016 -0500,Fri May 6 09:49:04 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,77062b8781a51118584a27e4a0e2ed236cf2bc5c,Greg Turnquist,Tue Apr 26 16:46:56 2016 -0500,Tue Apr 26 16:46:56 2016 -0500,Fix typo in build file
+gs-messaging-rabbitmq/initial/pom.xml,fa092f30bb8d43de488b810ddb334bf09e87ae04,Greg Turnquist,Tue Apr 26 16:38:03 2016 -0500,Tue Apr 26 16:38:12 2016 -0500,Slim down the build configuration in maven
+gs-messaging-rabbitmq/initial/pom.xml,7d4082ddcb03a0a4c38b3540276c69cc39c2cc68,Greg Turnquist,Fri Feb 26 07:30:11 2016 -0600,Fri Feb 26 07:30:11 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,e4fac63e425184d8281d871c86ecea96aa34e406,Greg Turnquist,Thu Jan 21 21:29:04 2016 -0600,Thu Jan 21 21:29:04 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,dd36f960778984bc4be552ab696dc4c4ab9b292a,Greg Turnquist,Fri Dec 18 09:40:22 2015 -0600,Fri Dec 18 09:40:22 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,46f35ae1a6686ab2a2962c9d32a71b758b412b21,Greg Turnquist,Mon Nov 16 11:10:46 2015 -0600,Mon Nov 16 11:10:46 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,07de922ca4b27eaa5a1ab221be7772c70dbd52dd,Greg Turnquist,Fri Oct 16 09:43:50 2015 -0400,Fri Oct 16 09:43:50 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,eaff7a64219fba5d87805dcc8bd0be6e2bc02ab4,Greg Turnquist,Sun Sep 20 15:41:44 2015 -0500,Sun Sep 20 15:41:44 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,ad4a2850e611245cbb28f761801ad68c275cf5fe,Greg Turnquist,Thu Jul 2 08:46:21 2015 -0500,Thu Jul 2 08:46:21 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,78f470f4c28ce632f850c8c358a767932a82acfc,Greg Turnquist,Fri Jun 12 14:04:57 2015 -0400,Fri Jun 12 14:04:57 2015 -0400,Upgrade non-specific guides to Java 8
+gs-messaging-rabbitmq/initial/pom.xml,316d530e4a6087818fb15844b0d622ede307ccae,Greg Turnquist,Tue Jun 9 09:41:54 2015 -0400,Tue Jun 9 09:41:54 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-messaging-rabbitmq/initial/pom.xml,4462dce67e7c3e9100814f7637100deb57543c1f,Greg Turnquist,Tue Mar 31 16:56:16 2015 -0500,Tue Mar 31 16:56:16 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,455ecb08ba558da25fd1972be7b2ccbe4e5ccdb8,Greg Turnquist,Thu Feb 26 22:39:50 2015 -0600,Thu Feb 26 22:39:50 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,7424f130c02b2aa77cf64619ce0be619638962fb,Greg Turnquist,Wed Feb 18 11:08:08 2015 -0600,Wed Feb 18 11:08:08 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,59f0c1812b5210963f6b0fb899f734342a30796d,Greg Turnquist,Wed Jan 14 12:33:58 2015 -0600,Wed Jan 14 12:33:58 2015 -0600,Remove legacy start-class property from maven builds
+gs-messaging-rabbitmq/initial/pom.xml,5691fbfbf417582a8ec0acce6f4b33812c233f2a,Greg Turnquist,Thu Dec 11 11:08:00 2014 -0600,Thu Dec 11 11:08:00 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,0626170d9612b33ba1baa65e53c98ab9b4c102e0,Greg Turnquist,Thu Nov 20 10:15:14 2014 -0600,Thu Nov 20 10:15:14 2014 -0600,Convert to use https for repositories
+gs-messaging-rabbitmq/initial/pom.xml,4895918dab4433ca687cd8084abb39bbd4adf247,Greg Turnquist,Wed Nov 12 13:08:25 2014 -0600,Wed Nov 12 13:08:25 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,f62cb79c32ed991922150a9955cec09e6c5212eb,Greg Turnquist,Fri Oct 10 22:05:24 2014 -0500,Fri Oct 10 22:05:24 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,2c401677af7b60b3489cdb79158fbe1b6415da70,Greg Turnquist,Mon Sep 29 12:42:38 2014 -0500,Mon Sep 29 12:42:38 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,e26b12c34c9b1204fad08091039a7c1e23dd9846,Greg Turnquist,Fri Sep 5 11:14:08 2014 -0500,Fri Sep 5 11:14:08 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,347ac88abed521e4bd8c33b1c9734b005170c394,Greg Turnquist,Fri Aug 8 22:12:40 2014 -0500,Fri Aug 8 22:12:40 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,cecc21598c90245c9585463441b6ada126c5076e,Greg Turnquist,Tue Jul 8 15:41:56 2014 -0500,Tue Jul 8 15:41:56 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,d3b68a6f790202b3eab9a3fe57f2f3b647c2af0e,Greg Turnquist,Fri Jun 27 22:55:31 2014 -0400,Fri Jun 27 22:55:31 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,5889622d398ebcea849be61198104f4f919a2238,Greg Turnquist,Tue Jun 24 19:55:54 2014 -0400,Tue Jun 24 19:55:54 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,23fe03051f759ceb08dd4866d3acbe295abd9e94,Greg Turnquist,Wed Jun 11 16:48:35 2014 -0500,Wed Jun 11 16:48:35 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,0c3c4c1be709075d88d164ffebfef534c90e4bda,Greg Turnquist,Wed Jun 11 09:09:03 2014 -0500,Wed Jun 11 09:09:03 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-messaging-rabbitmq/initial/pom.xml,cad9ae16b9e59bcaee9aa17f0d3b41f2e891ef85,Greg Turnquist,Tue Jun 10 19:16:37 2014 -0500,Tue Jun 10 19:16:37 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,7c2bc3a9c2785ade816fc49705b85b332941c20d,Greg Turnquist,Thu Apr 24 09:37:17 2014 -0500,Thu Apr 24 09:37:17 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,8295cb61604e16d6ba3595a912a91b0ca0393303,Greg Turnquist,Mon Apr 7 10:09:51 2014 -0500,Mon Apr 7 10:09:51 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,8ca75f890e14c721b6ebe16fb577e59812cb8140,Greg Turnquist,Tue Apr 1 15:11:31 2014 -0500,Tue Apr 1 15:11:31 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-messaging-rabbitmq/initial/pom.xml,4e629a9a39655b42b35d4972bdc25c8a8e40b17d,Greg Turnquist,Sat Mar 22 07:18:06 2014 -0500,Sat Mar 22 07:18:06 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-messaging-rabbitmq/initial/pom.xml,7ed5a542e159ce933127384009470200f93c34f1,Greg Turnquist,Tue Mar 4 15:09:32 2014 -0500,Tue Mar 4 15:09:32 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-messaging-rabbitmq/initial/pom.xml,608cf13d4ba5c6e7af94471ba7b9f2cb8d68d1d9,Greg Turnquist,Tue Feb 18 16:34:33 2014 -0600,Tue Feb 18 16:34:33 2014 -0600,Move final build file to the beginning and update guides to reflect this
+gs-messaging-rabbitmq/initial/pom.xml,8f468a86c089395d75bb27ebd6c64c03f2a045b6,Greg Turnquist,Fri Feb 14 11:23:48 2014 -0600,Fri Feb 14 11:23:48 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-messaging-rabbitmq/initial/pom.xml,943eaa40c04682409cfd062a9fcbab2d1e56de04,Greg Turnquist,Thu Feb 13 12:38:27 2014 -0600,Thu Feb 13 12:38:27 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-messaging-rabbitmq/initial/pom.xml,82e6b4e0c287b92d4879e500d63c47945eae4905,Greg Turnquist,Wed Jan 22 12:21:27 2014 -0600,Wed Jan 22 12:21:27 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-messaging-rabbitmq/initial/pom.xml,937fdf7f0a6f3f62e6084638fc4439bca7f5067d,Greg Turnquist,Mon Nov 18 17:15:51 2013 -0600,Mon Nov 18 17:15:51 2013 -0600,Upgrade to Spring Boot 0.5.0.M6
+gs-messaging-rabbitmq/initial/pom.xml,d6e8d7aac2f9c4abd3a699bdb11a156dc3d11cbd,Greg Turnquist,Wed Oct 30 10:03:44 2013 -0500,Wed Oct 30 10:03:44 2013 -0500,Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+gs-messaging-rabbitmq/initial/pom.xml,7937439d430852b20f586b07b94d3d1e5cc936b3,Greg Turnquist,Mon Sep 30 08:19:02 2013 -0500,Mon Sep 30 08:19:02 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-messaging-rabbitmq/initial/pom.xml,69837e53065db4ecb96f2e695f38fb152418cb72,Greg Turnquist,Fri Sep 27 10:32:06 2013 -0500,Fri Sep 27 10:32:06 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-messaging-rabbitmq/initial/pom.xml,2012884464198c388ae7b34fcd9e9c79fcd07ca6,Greg Turnquist,Mon Sep 9 16:22:21 2013 -0700,Mon Sep 9 16:22:21 2013 -0700,Fix RabbitMQ with spring-boot-starter
+gs-messaging-rabbitmq/initial/pom.xml,9384f89eb6280c971bbfe5e1930e909760538607,Greg Turnquist,Fri Aug 30 16:42:06 2013 -0500,Fri Aug 30 16:42:06 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-messaging-rabbitmq/initial/pom.xml,b0bbee3d7e4af538fd35287e36b941d190124bd3,Greg Turnquist,Mon Aug 12 14:05:52 2013 -0500,Mon Aug 12 14:05:52 2013 -0500,Detab code and fix link to spring-boot-maven-plugin
+gs-messaging-rabbitmq/initial/pom.xml,e429c3ebf7f4a26b2b9885ffb015e47f366fc042,Greg Turnquist,Fri Aug 9 13:18:23 2013 -0500,Fri Aug 9 13:18:23 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-messaging-rabbitmq/initial/pom.xml,2c32c1b14c69258e54ce655c3a3c816a0330fbdd,Greg Turnquist,Tue Aug 6 14:43:46 2013 -0500,Tue Aug 6 14:43:46 2013 -0500,Use libs-snapshot instead of snapshot
+gs-messaging-rabbitmq/initial/pom.xml,68c3e87833e53dd7e469f3e18b496cfebfdeb6d3,Greg Turnquist,Tue Aug 6 11:24:02 2013 -0500,Tue Aug 6 11:24:02 2013 -0500,Remove 'TODO' from pom.xml and rebuild guide
+gs-messaging-rabbitmq/initial/pom.xml,03f6a05ac598d28b97cbdee9150363b45a4712a5,Greg Turnquist,Wed Jul 31 15:42:49 2013 -0400,Wed Jul 31 15:42:49 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-messaging-rabbitmq/initial/pom.xml,529b1690512fdb3cf80980eb1dc58f81c4e37936,Greg Turnquist,Tue Jul 30 10:19:33 2013 -0400,Tue Jul 30 10:19:33 2013 -0400,Upgrade to Spring Boot
+gs-messaging-rabbitmq/initial/pom.xml,4f74758c4a8ef5ea3442632b4a0d07b17d17d6ec,Greg Turnquist,Thu Jul 18 10:41:24 2013 -0400,Thu Jul 18 10:41:24 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-messaging-rabbitmq/initial/pom.xml,1fce90119256b56f618d2298a1bb536d3b5e093a,Greg Turnquist,Wed Jul 17 09:53:10 2013 -0400,Wed Jul 17 09:53:10 2013 -0400,Update to use spring-package-maven-plugin
+gs-messaging-rabbitmq/initial/pom.xml,e31efed0642ab25eae3bf9184a2c34281035bc1f,Greg Turnquist,Mon Jul 15 11:48:18 2013 -0400,Mon Jul 15 11:48:18 2013 -0400,Upgrade to Spring AMQP and use simpler API from AMQP-315
+gs-messaging-rabbitmq/initial/pom.xml,e3b78be39e040ef9e8878e7f05884508f4f1a98a,Greg Turnquist,Fri May 31 16:48:18 2013 -0400,Fri May 31 16:48:18 2013 -0400,Update based on feedback from Redis messaging

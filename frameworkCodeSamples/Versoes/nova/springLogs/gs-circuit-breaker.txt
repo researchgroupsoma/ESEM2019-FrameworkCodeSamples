@@ -1,0 +1,168 @@
+gs-circuit-breaker/complete/pom.xml,939eeeb368cd92828e54516d2735e439960c1f0b,Ben Klein,Tue Jan 26 11:41:16 2016 -0600,Tue Jan 26 11:41:16 2016 -0600,Add complete version
+gs-circuit-breaker/complete/pom.xml,9e715036b547f8a953bf3b235df99fc8157174cc,Greg Turnquist,Thu Jan 21 21:28:06 2016 -0600,Thu Jan 21 21:28:06 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-circuit-breaker/complete/pom.xml,4ec55b15c8ec0708c13c3a4b8c5fb0c812415a5d,Greg Turnquist,Fri Dec 18 09:39:37 2015 -0600,Fri Dec 18 09:39:37 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-circuit-breaker/complete/pom.xml,8cc488956ed99012c03f21214d5cd90bfefd31b4,Greg Turnquist,Mon Nov 16 11:10:02 2015 -0600,Mon Nov 16 11:10:02 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-circuit-breaker/complete/pom.xml,5f12acc03cdd3fb1d8f379e5cf6941865af31093,Greg Turnquist,Fri Oct 16 09:43:06 2015 -0400,Fri Oct 16 09:43:06 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-circuit-breaker/complete/pom.xml,44449a1e259d331223728543c2e61126bde55a76,Greg Turnquist,Sun Sep 20 15:41:03 2015 -0500,Sun Sep 20 15:41:03 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-circuit-breaker/complete/pom.xml,ed8c465d9856737f11515fe8b7e103ab0563d17a,Greg Turnquist,Thu Jul 2 08:44:53 2015 -0500,Thu Jul 2 08:44:53 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-circuit-breaker/complete/pom.xml,ae79de40b4539bbfe76034e00b98f1c219b57549,Greg Turnquist,Fri Jun 12 13:49:00 2015 -0400,Fri Jun 12 13:49:00 2015 -0400,Upgrade to Java 8
+gs-circuit-breaker/complete/pom.xml,0964453c02bc536085d6728459c33334f9459c10,Greg Turnquist,Tue Jun 9 09:41:20 2015 -0400,Tue Jun 9 09:41:20 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-circuit-breaker/complete/pom.xml,7d57d1bb6483cb05f3ff8c71b0f6dac47cb9b744,Greg Turnquist,Tue May 26 10:47:08 2015 -0500,Tue May 26 10:47:08 2015 -0500,Remove encoding (since the parent POM has this)
+gs-circuit-breaker/complete/pom.xml,8c596aa22cb26d967f67eb2021917366106a795c,Greg Turnquist,Tue Mar 31 16:55:42 2015 -0500,Tue Mar 31 16:55:42 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-circuit-breaker/complete/pom.xml,d4c8a355aca4dc37d87872fa7d0ee787a2669e1d,Greg Turnquist,Tue Mar 17 13:13:52 2015 -0500,Tue Mar 17 13:13:52 2015 -0500,Upgrade maven build to Java 7
+gs-circuit-breaker/complete/pom.xml,947f9a3c0e61dfa859137c54e483e60acf312cb8,Greg Turnquist,Thu Feb 26 22:39:06 2015 -0600,Thu Feb 26 22:39:06 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-circuit-breaker/complete/pom.xml,938c1f7617672ffcf37c30d676abcd6f8fd052fe,Greg Turnquist,Tue Feb 24 13:36:30 2015 -0600,Tue Feb 24 13:36:30 2015 -0600,Upgrade to @SpringBootApplication
+gs-circuit-breaker/complete/pom.xml,5c1290e882850db981460348ee7d26e6f4d31f9e,Greg Turnquist,Wed Feb 18 11:07:25 2015 -0600,Wed Feb 18 11:07:25 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-circuit-breaker/complete/pom.xml,091fa4cea82c19fc1ed8696bfd199d388ad3b1ef,Greg Turnquist,Wed Jan 14 12:33:36 2015 -0600,Wed Jan 14 12:33:36 2015 -0600,Remove legacy start-class property from maven builds
+gs-circuit-breaker/complete/pom.xml,c4b9526e5c6f26d57c1bde68ef4e9222b85f33c5,Greg Turnquist,Thu Dec 11 11:07:18 2014 -0600,Thu Dec 11 11:07:18 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-circuit-breaker/complete/pom.xml,cd21ebb000f9b161ffdf232b99217503a3f45dd8,Greg Turnquist,Thu Nov 20 10:14:39 2014 -0600,Thu Nov 20 10:14:39 2014 -0600,Convert to use https for repositories
+gs-circuit-breaker/complete/pom.xml,757a3ec31fdf4734027c0fd64ec288e0244e5971,Greg Turnquist,Wed Nov 12 13:07:32 2014 -0600,Wed Nov 12 13:07:32 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-circuit-breaker/complete/pom.xml,35f77bf6642ad7016b95678fe51d8bcabdbb92ae,Greg Turnquist,Fri Oct 10 22:04:37 2014 -0500,Fri Oct 10 22:04:37 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-circuit-breaker/complete/pom.xml,303e62c277e77025176c347390f4678dc1d3da3b,Greg Turnquist,Mon Sep 29 12:40:42 2014 -0500,Mon Sep 29 12:40:42 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-circuit-breaker/complete/pom.xml,aa8e803603ffe4f2431b2604738836c7973b70b1,Greg Turnquist,Fri Sep 5 11:13:23 2014 -0500,Fri Sep 5 11:13:23 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-circuit-breaker/complete/pom.xml,049b379e27495b559e92d7f538070f69d5addf64,Greg Turnquist,Fri Aug 8 22:11:59 2014 -0500,Fri Aug 8 22:11:59 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-circuit-breaker/complete/pom.xml,4df4cc18d64c8ae7f04795454be500b30242ef0b,Greg Turnquist,Tue Jul 8 15:41:20 2014 -0500,Tue Jul 8 15:41:20 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-circuit-breaker/complete/pom.xml,00cc3a6914b951f285f2adf1b6c5449b191472c0,Greg Turnquist,Fri Jun 27 22:54:45 2014 -0400,Fri Jun 27 22:54:45 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-circuit-breaker/complete/pom.xml,98c4126955bbc467974d327f91add686d4838a1e,Greg Turnquist,Tue Jun 24 19:52:13 2014 -0400,Tue Jun 24 19:52:13 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-circuit-breaker/complete/pom.xml,f10f510a5a37b8c4ec6b85a84693ccc4f08160b5,Greg Turnquist,Wed Jun 11 16:47:43 2014 -0500,Wed Jun 11 16:47:43 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-circuit-breaker/complete/pom.xml,cba24b9032c19d44d899802602a060ac197c1f57,Greg Turnquist,Wed Jun 11 09:08:35 2014 -0500,Wed Jun 11 09:08:35 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-circuit-breaker/complete/pom.xml,a17d9e502908dfb7453e59fa3342d64068d2328a,Greg Turnquist,Tue Jun 10 19:15:58 2014 -0500,Tue Jun 10 19:15:58 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-circuit-breaker/complete/pom.xml,e4fed08e4c83a97f36f348330b8a466f4586da76,Greg Turnquist,Thu Apr 24 09:36:30 2014 -0500,Thu Apr 24 09:36:30 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-circuit-breaker/complete/pom.xml,abe07b23f9f20e508e1ba85c0b053eb670b4c6a6,Greg Turnquist,Mon Apr 7 10:08:59 2014 -0500,Mon Apr 7 10:08:59 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-circuit-breaker/complete/pom.xml,5d45dd7ba88adf3a29bd9d8f0c02cb04026bc1a4,Greg Turnquist,Tue Apr 1 15:10:36 2014 -0500,Tue Apr 1 15:10:36 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-circuit-breaker/complete/pom.xml,777511d1b47ffb6cd3b9a418f878b56e44350d27,Greg Turnquist,Sat Mar 22 07:17:24 2014 -0500,Sat Mar 22 07:17:24 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-circuit-breaker/complete/pom.xml,7165587df387bc6b1bd5deb636778854138d12fb,Greg Turnquist,Tue Mar 4 15:08:34 2014 -0500,Tue Mar 4 15:08:34 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-circuit-breaker/complete/pom.xml,e87d20ee0fabf23520d256a859b95844b9491489,Greg Turnquist,Fri Feb 14 11:23:16 2014 -0600,Fri Feb 14 11:23:16 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-circuit-breaker/complete/pom.xml,bff01b24f02a944c7337290450cc2a9f0468d445,Greg Turnquist,Thu Feb 13 12:37:56 2014 -0600,Thu Feb 13 12:37:56 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-circuit-breaker/complete/pom.xml,c08465780aaa68135629e7e73a6172d4c02ed66a,Greg Turnquist,Wed Jan 22 12:20:59 2014 -0600,Wed Jan 22 12:20:59 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-circuit-breaker/complete/pom.xml,febb3110a3627c7b42343f3bd98b139be116fa16,Roy Clarkson,Mon Oct 28 22:22:38 2013 -0500,Mon Oct 28 22:22:38 2013 -0500,Initial commit of guide template
+gs-circuit-breaker/complete/reading/pom.xml,c82efc9053baaddc88fb411c20902c6c7c5395e8,Greg Turnquist,Tue Nov 13 12:14:15 2018 -0600,Tue Nov 13 12:14:15 2018 -0600,Upgraded to @SpringCloud Finchley.SR2
+gs-circuit-breaker/complete/reading/pom.xml,67370297c6ae59237f29dabd3d44698ec44cc73d,Greg Turnquist,Mon Sep 17 10:49:52 2018 -0500,Mon Sep 17 10:49:52 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-circuit-breaker/complete/reading/pom.xml,b47deb0b34f3c223578cac130b440b504979672f,Greg Turnquist,Mon Jun 18 16:16:06 2018 -0500,Mon Jun 18 16:16:06 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-circuit-breaker/complete/reading/pom.xml,8f4feabcdeb0e85cc189b45f25c391c4bce4c9d2,Greg Turnquist,Wed May 9 11:25:48 2018 -0500,Wed May 9 11:25:48 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-circuit-breaker/complete/reading/pom.xml,2ed218e5823b6b868dc4b8a6d41fa3c52779ff8d,Greg Turnquist,Thu Apr 5 12:42:12 2018 -0500,Thu Apr 5 12:42:12 2018 -0500,Upgrade to Spring Cloud Finchley.M9
+gs-circuit-breaker/complete/reading/pom.xml,073610c94a92edeb18c91e8121f66bf1ac0f6e7c,Greg Turnquist,Thu Apr 5 11:44:19 2018 -0500,Thu Apr 5 11:44:19 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-circuit-breaker/complete/reading/pom.xml,d896fb5d5bf7d865bf05516b41d88d969b976347,Greg Turnquist,Tue Mar 6 13:24:44 2018 -0600,Tue Mar 6 13:24:44 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-circuit-breaker/complete/reading/pom.xml,25c6b92c365896395bb7f71bbc6a28a1279901e0,Greg Turnquist,Fri Feb 9 16:08:37 2018 -0600,Fri Feb 9 16:08:37 2018 -0600,Upgrade to Edgware.SR2
+gs-circuit-breaker/complete/reading/pom.xml,72296c7045b28b02f572ae43d4c836266d075cac,Greg Turnquist,Wed Jan 31 09:15:35 2018 -0600,Wed Jan 31 09:15:35 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-circuit-breaker/complete/reading/pom.xml,a5693e1c1573759393de9a4472c5bd8e50fa6fc5,Greg Turnquist,Thu Nov 30 11:16:39 2017 -0600,Thu Nov 30 11:16:39 2017 -0600,Upgrade to Spring Cloud Edgeware.RELEASE
+gs-circuit-breaker/complete/reading/pom.xml,467324c8b317a5ba1be9d6cdd9e5a57bd6f075f9,Greg Turnquist,Thu Nov 30 11:06:15 2017 -0600,Thu Nov 30 11:06:15 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-circuit-breaker/complete/reading/pom.xml,32173527413b057389f84bcd5449cf7ca6afd3a6,Greg Turnquist,Fri Mar 3 11:18:24 2017 -0600,Fri Mar 3 11:18:24 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-circuit-breaker/complete/reading/pom.xml,b2b4ab21412b58ef4131b759fb66d3eabd4e5466,Greg Turnquist,Mon Feb 6 09:35:00 2017 -0600,Mon Feb 6 09:35:00 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE / Spring Cloud Camden.SR5
+gs-circuit-breaker/complete/reading/pom.xml,eacf72bbb4f1d6fb740de64f11a1af4e71a21b92,Greg Turnquist,Tue Jan 31 09:57:11 2017 -0600,Tue Jan 31 09:57:11 2017 -0600,Move to Camden.SR4
+gs-circuit-breaker/complete/reading/pom.xml,53c4ccf484c1260d9a33e48b5117408c28d30a62,Greg Turnquist,Tue Jan 31 09:42:13 2017 -0600,Tue Jan 31 09:42:13 2017 -0600,Rollback to Spring Boot 1.4.4.RELEASE
+gs-circuit-breaker/complete/reading/pom.xml,131e497ceca29129151e38ed75132bcc4499b58c,Greg Turnquist,Mon Jan 30 23:28:29 2017 -0600,Mon Jan 30 23:28:29 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-circuit-breaker/complete/reading/pom.xml,86b981555b515fe4e6bac91a10f61beeb3e70e86,Greg Turnquist,Mon Jan 30 11:37:08 2017 -0600,Mon Jan 30 11:37:08 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-circuit-breaker/complete/reading/pom.xml,79e5e3e2af1e6ff0819605223f21345caffeb99a,Greg Turnquist,Thu Jan 26 12:47:26 2017 -0600,Thu Jan 26 12:47:26 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-circuit-breaker/complete/reading/pom.xml,a847b72b86e88246b3273a65fe1ae7301257ecff,Greg Turnquist,Thu Jan 26 12:36:42 2017 -0600,Thu Jan 26 12:36:42 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-circuit-breaker/complete/reading/pom.xml,568eaae37c1146facb8807cc596641bc1134cc7b,Greg Turnquist,Thu Dec 22 22:32:00 2016 -0600,Thu Dec 22 22:32:00 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-circuit-breaker/complete/reading/pom.xml,97715c8696e84c462c63af1e31f3505ed9ea094e,Greg Turnquist,Tue Nov 8 11:52:07 2016 -0600,Tue Nov 8 11:52:07 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-circuit-breaker/complete/reading/pom.xml,6b990a188a7ca3b56367cb12f3b3394b121d982b,Greg Turnquist,Fri Sep 23 16:35:40 2016 -0500,Fri Sep 23 16:35:40 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-circuit-breaker/complete/reading/pom.xml,81a0d657176cc1d0b946cdfc42a264eeb1edff2a,Ryan Baxter,Tue Aug 30 10:18:04 2016 -0400,Tue Aug 30 10:18:04 2016 -0400,Merge pull request #3 from ryanjbaxter/master
+gs-circuit-breaker/complete/reading/pom.xml,b263af628c750f45c0f2a6717fafd4f5384b7c3e,Ben Klein,Tue Jan 26 12:04:31 2016 -0600,Tue Jan 26 12:04:31 2016 -0600,Simplify POMs
+gs-circuit-breaker/complete/reading/pom.xml,939eeeb368cd92828e54516d2735e439960c1f0b,Ben Klein,Tue Jan 26 11:41:16 2016 -0600,Tue Jan 26 11:41:16 2016 -0600,Add complete version
+gs-circuit-breaker/complete/bookstore/pom.xml,67370297c6ae59237f29dabd3d44698ec44cc73d,Greg Turnquist,Mon Sep 17 10:49:52 2018 -0500,Mon Sep 17 10:49:52 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-circuit-breaker/complete/bookstore/pom.xml,b47deb0b34f3c223578cac130b440b504979672f,Greg Turnquist,Mon Jun 18 16:16:06 2018 -0500,Mon Jun 18 16:16:06 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-circuit-breaker/complete/bookstore/pom.xml,8f4feabcdeb0e85cc189b45f25c391c4bce4c9d2,Greg Turnquist,Wed May 9 11:25:48 2018 -0500,Wed May 9 11:25:48 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-circuit-breaker/complete/bookstore/pom.xml,073610c94a92edeb18c91e8121f66bf1ac0f6e7c,Greg Turnquist,Thu Apr 5 11:44:19 2018 -0500,Thu Apr 5 11:44:19 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-circuit-breaker/complete/bookstore/pom.xml,d896fb5d5bf7d865bf05516b41d88d969b976347,Greg Turnquist,Tue Mar 6 13:24:44 2018 -0600,Tue Mar 6 13:24:44 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-circuit-breaker/complete/bookstore/pom.xml,72296c7045b28b02f572ae43d4c836266d075cac,Greg Turnquist,Wed Jan 31 09:15:35 2018 -0600,Wed Jan 31 09:15:35 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-circuit-breaker/complete/bookstore/pom.xml,467324c8b317a5ba1be9d6cdd9e5a57bd6f075f9,Greg Turnquist,Thu Nov 30 11:06:15 2017 -0600,Thu Nov 30 11:06:15 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-circuit-breaker/complete/bookstore/pom.xml,32173527413b057389f84bcd5449cf7ca6afd3a6,Greg Turnquist,Fri Mar 3 11:18:24 2017 -0600,Fri Mar 3 11:18:24 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-circuit-breaker/complete/bookstore/pom.xml,b2b4ab21412b58ef4131b759fb66d3eabd4e5466,Greg Turnquist,Mon Feb 6 09:35:00 2017 -0600,Mon Feb 6 09:35:00 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE / Spring Cloud Camden.SR5
+gs-circuit-breaker/complete/bookstore/pom.xml,53c4ccf484c1260d9a33e48b5117408c28d30a62,Greg Turnquist,Tue Jan 31 09:42:13 2017 -0600,Tue Jan 31 09:42:13 2017 -0600,Rollback to Spring Boot 1.4.4.RELEASE
+gs-circuit-breaker/complete/bookstore/pom.xml,131e497ceca29129151e38ed75132bcc4499b58c,Greg Turnquist,Mon Jan 30 23:28:29 2017 -0600,Mon Jan 30 23:28:29 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-circuit-breaker/complete/bookstore/pom.xml,86b981555b515fe4e6bac91a10f61beeb3e70e86,Greg Turnquist,Mon Jan 30 11:37:08 2017 -0600,Mon Jan 30 11:37:08 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-circuit-breaker/complete/bookstore/pom.xml,79e5e3e2af1e6ff0819605223f21345caffeb99a,Greg Turnquist,Thu Jan 26 12:47:26 2017 -0600,Thu Jan 26 12:47:26 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-circuit-breaker/complete/bookstore/pom.xml,a847b72b86e88246b3273a65fe1ae7301257ecff,Greg Turnquist,Thu Jan 26 12:36:42 2017 -0600,Thu Jan 26 12:36:42 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-circuit-breaker/complete/bookstore/pom.xml,568eaae37c1146facb8807cc596641bc1134cc7b,Greg Turnquist,Thu Dec 22 22:32:00 2016 -0600,Thu Dec 22 22:32:00 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-circuit-breaker/complete/bookstore/pom.xml,97715c8696e84c462c63af1e31f3505ed9ea094e,Greg Turnquist,Tue Nov 8 11:52:07 2016 -0600,Tue Nov 8 11:52:07 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-circuit-breaker/complete/bookstore/pom.xml,6b990a188a7ca3b56367cb12f3b3394b121d982b,Greg Turnquist,Fri Sep 23 16:35:40 2016 -0500,Fri Sep 23 16:35:40 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-circuit-breaker/complete/bookstore/pom.xml,81a0d657176cc1d0b946cdfc42a264eeb1edff2a,Ryan Baxter,Tue Aug 30 10:18:04 2016 -0400,Tue Aug 30 10:18:04 2016 -0400,Merge pull request #3 from ryanjbaxter/master
+gs-circuit-breaker/complete/bookstore/pom.xml,b263af628c750f45c0f2a6717fafd4f5384b7c3e,Ben Klein,Tue Jan 26 12:04:31 2016 -0600,Tue Jan 26 12:04:31 2016 -0600,Simplify POMs
+gs-circuit-breaker/complete/bookstore/pom.xml,939eeeb368cd92828e54516d2735e439960c1f0b,Ben Klein,Tue Jan 26 11:41:16 2016 -0600,Tue Jan 26 11:41:16 2016 -0600,Add complete version
+gs-circuit-breaker/initial/pom.xml,f8a2cbb3d42f2962329ecbd114fda953ff7aaf17,Ben Klein,Wed Jan 27 18:07:09 2016 -0600,Wed Jan 27 18:07:09 2016 -0600,Restructure initial POM as multi-project
+gs-circuit-breaker/initial/pom.xml,2e762850c890219cb32b3732e8e99128c6bb42ad,Ben Klein,Tue Jan 26 11:41:05 2016 -0600,Tue Jan 26 11:41:05 2016 -0600,Add inital version
+gs-circuit-breaker/initial/pom.xml,9e715036b547f8a953bf3b235df99fc8157174cc,Greg Turnquist,Thu Jan 21 21:28:06 2016 -0600,Thu Jan 21 21:28:06 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-circuit-breaker/initial/pom.xml,4ec55b15c8ec0708c13c3a4b8c5fb0c812415a5d,Greg Turnquist,Fri Dec 18 09:39:37 2015 -0600,Fri Dec 18 09:39:37 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-circuit-breaker/initial/pom.xml,8cc488956ed99012c03f21214d5cd90bfefd31b4,Greg Turnquist,Mon Nov 16 11:10:02 2015 -0600,Mon Nov 16 11:10:02 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-circuit-breaker/initial/pom.xml,5f12acc03cdd3fb1d8f379e5cf6941865af31093,Greg Turnquist,Fri Oct 16 09:43:06 2015 -0400,Fri Oct 16 09:43:06 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-circuit-breaker/initial/pom.xml,44449a1e259d331223728543c2e61126bde55a76,Greg Turnquist,Sun Sep 20 15:41:03 2015 -0500,Sun Sep 20 15:41:03 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-circuit-breaker/initial/pom.xml,ed8c465d9856737f11515fe8b7e103ab0563d17a,Greg Turnquist,Thu Jul 2 08:44:53 2015 -0500,Thu Jul 2 08:44:53 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-circuit-breaker/initial/pom.xml,ae79de40b4539bbfe76034e00b98f1c219b57549,Greg Turnquist,Fri Jun 12 13:49:00 2015 -0400,Fri Jun 12 13:49:00 2015 -0400,Upgrade to Java 8
+gs-circuit-breaker/initial/pom.xml,0964453c02bc536085d6728459c33334f9459c10,Greg Turnquist,Tue Jun 9 09:41:20 2015 -0400,Tue Jun 9 09:41:20 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-circuit-breaker/initial/pom.xml,cd731b90860c989c174d389ddf4012eeb0df2b29,Greg Turnquist,Tue May 26 10:46:44 2015 -0500,Tue May 26 10:46:44 2015 -0500,Remove encoding
+gs-circuit-breaker/initial/pom.xml,8c596aa22cb26d967f67eb2021917366106a795c,Greg Turnquist,Tue Mar 31 16:55:42 2015 -0500,Tue Mar 31 16:55:42 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-circuit-breaker/initial/pom.xml,d4c8a355aca4dc37d87872fa7d0ee787a2669e1d,Greg Turnquist,Tue Mar 17 13:13:52 2015 -0500,Tue Mar 17 13:13:52 2015 -0500,Upgrade maven build to Java 7
+gs-circuit-breaker/initial/pom.xml,947f9a3c0e61dfa859137c54e483e60acf312cb8,Greg Turnquist,Thu Feb 26 22:39:06 2015 -0600,Thu Feb 26 22:39:06 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-circuit-breaker/initial/pom.xml,938c1f7617672ffcf37c30d676abcd6f8fd052fe,Greg Turnquist,Tue Feb 24 13:36:30 2015 -0600,Tue Feb 24 13:36:30 2015 -0600,Upgrade to @SpringBootApplication
+gs-circuit-breaker/initial/pom.xml,5c1290e882850db981460348ee7d26e6f4d31f9e,Greg Turnquist,Wed Feb 18 11:07:25 2015 -0600,Wed Feb 18 11:07:25 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-circuit-breaker/initial/pom.xml,091fa4cea82c19fc1ed8696bfd199d388ad3b1ef,Greg Turnquist,Wed Jan 14 12:33:36 2015 -0600,Wed Jan 14 12:33:36 2015 -0600,Remove legacy start-class property from maven builds
+gs-circuit-breaker/initial/pom.xml,c4b9526e5c6f26d57c1bde68ef4e9222b85f33c5,Greg Turnquist,Thu Dec 11 11:07:18 2014 -0600,Thu Dec 11 11:07:18 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-circuit-breaker/initial/pom.xml,cd21ebb000f9b161ffdf232b99217503a3f45dd8,Greg Turnquist,Thu Nov 20 10:14:39 2014 -0600,Thu Nov 20 10:14:39 2014 -0600,Convert to use https for repositories
+gs-circuit-breaker/initial/pom.xml,757a3ec31fdf4734027c0fd64ec288e0244e5971,Greg Turnquist,Wed Nov 12 13:07:32 2014 -0600,Wed Nov 12 13:07:32 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-circuit-breaker/initial/pom.xml,35f77bf6642ad7016b95678fe51d8bcabdbb92ae,Greg Turnquist,Fri Oct 10 22:04:37 2014 -0500,Fri Oct 10 22:04:37 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-circuit-breaker/initial/pom.xml,303e62c277e77025176c347390f4678dc1d3da3b,Greg Turnquist,Mon Sep 29 12:40:42 2014 -0500,Mon Sep 29 12:40:42 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-circuit-breaker/initial/pom.xml,aa8e803603ffe4f2431b2604738836c7973b70b1,Greg Turnquist,Fri Sep 5 11:13:23 2014 -0500,Fri Sep 5 11:13:23 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-circuit-breaker/initial/pom.xml,049b379e27495b559e92d7f538070f69d5addf64,Greg Turnquist,Fri Aug 8 22:11:59 2014 -0500,Fri Aug 8 22:11:59 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-circuit-breaker/initial/pom.xml,4df4cc18d64c8ae7f04795454be500b30242ef0b,Greg Turnquist,Tue Jul 8 15:41:20 2014 -0500,Tue Jul 8 15:41:20 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-circuit-breaker/initial/pom.xml,00cc3a6914b951f285f2adf1b6c5449b191472c0,Greg Turnquist,Fri Jun 27 22:54:45 2014 -0400,Fri Jun 27 22:54:45 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-circuit-breaker/initial/pom.xml,98c4126955bbc467974d327f91add686d4838a1e,Greg Turnquist,Tue Jun 24 19:52:13 2014 -0400,Tue Jun 24 19:52:13 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-circuit-breaker/initial/pom.xml,f10f510a5a37b8c4ec6b85a84693ccc4f08160b5,Greg Turnquist,Wed Jun 11 16:47:43 2014 -0500,Wed Jun 11 16:47:43 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-circuit-breaker/initial/pom.xml,cba24b9032c19d44d899802602a060ac197c1f57,Greg Turnquist,Wed Jun 11 09:08:35 2014 -0500,Wed Jun 11 09:08:35 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-circuit-breaker/initial/pom.xml,a17d9e502908dfb7453e59fa3342d64068d2328a,Greg Turnquist,Tue Jun 10 19:15:58 2014 -0500,Tue Jun 10 19:15:58 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-circuit-breaker/initial/pom.xml,e4fed08e4c83a97f36f348330b8a466f4586da76,Greg Turnquist,Thu Apr 24 09:36:30 2014 -0500,Thu Apr 24 09:36:30 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-circuit-breaker/initial/pom.xml,abe07b23f9f20e508e1ba85c0b053eb670b4c6a6,Greg Turnquist,Mon Apr 7 10:08:59 2014 -0500,Mon Apr 7 10:08:59 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-circuit-breaker/initial/pom.xml,5d45dd7ba88adf3a29bd9d8f0c02cb04026bc1a4,Greg Turnquist,Tue Apr 1 15:10:36 2014 -0500,Tue Apr 1 15:10:36 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-circuit-breaker/initial/pom.xml,777511d1b47ffb6cd3b9a418f878b56e44350d27,Greg Turnquist,Sat Mar 22 07:17:24 2014 -0500,Sat Mar 22 07:17:24 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-circuit-breaker/initial/pom.xml,7165587df387bc6b1bd5deb636778854138d12fb,Greg Turnquist,Tue Mar 4 15:08:34 2014 -0500,Tue Mar 4 15:08:34 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-circuit-breaker/initial/pom.xml,a20b8d4ce7629f3224342b175549cab0adcd9bb2,Greg Turnquist,Tue Feb 18 16:29:17 2014 -0600,Tue Feb 18 16:29:17 2014 -0600,Make initial file the final one
+gs-circuit-breaker/initial/pom.xml,e87d20ee0fabf23520d256a859b95844b9491489,Greg Turnquist,Fri Feb 14 11:23:16 2014 -0600,Fri Feb 14 11:23:16 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-circuit-breaker/initial/pom.xml,bff01b24f02a944c7337290450cc2a9f0468d445,Greg Turnquist,Thu Feb 13 12:37:56 2014 -0600,Thu Feb 13 12:37:56 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-circuit-breaker/initial/pom.xml,c08465780aaa68135629e7e73a6172d4c02ed66a,Greg Turnquist,Wed Jan 22 12:20:59 2014 -0600,Wed Jan 22 12:20:59 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-circuit-breaker/initial/pom.xml,febb3110a3627c7b42343f3bd98b139be116fa16,Roy Clarkson,Mon Oct 28 22:22:38 2013 -0500,Mon Oct 28 22:22:38 2013 -0500,Initial commit of guide template
+gs-circuit-breaker/initial/reading/pom.xml,c82efc9053baaddc88fb411c20902c6c7c5395e8,Greg Turnquist,Tue Nov 13 12:14:15 2018 -0600,Tue Nov 13 12:14:15 2018 -0600,Upgraded to @SpringCloud Finchley.SR2
+gs-circuit-breaker/initial/reading/pom.xml,67370297c6ae59237f29dabd3d44698ec44cc73d,Greg Turnquist,Mon Sep 17 10:49:52 2018 -0500,Mon Sep 17 10:49:52 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-circuit-breaker/initial/reading/pom.xml,b47deb0b34f3c223578cac130b440b504979672f,Greg Turnquist,Mon Jun 18 16:16:06 2018 -0500,Mon Jun 18 16:16:06 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-circuit-breaker/initial/reading/pom.xml,8f4feabcdeb0e85cc189b45f25c391c4bce4c9d2,Greg Turnquist,Wed May 9 11:25:48 2018 -0500,Wed May 9 11:25:48 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-circuit-breaker/initial/reading/pom.xml,2ed218e5823b6b868dc4b8a6d41fa3c52779ff8d,Greg Turnquist,Thu Apr 5 12:42:12 2018 -0500,Thu Apr 5 12:42:12 2018 -0500,Upgrade to Spring Cloud Finchley.M9
+gs-circuit-breaker/initial/reading/pom.xml,073610c94a92edeb18c91e8121f66bf1ac0f6e7c,Greg Turnquist,Thu Apr 5 11:44:19 2018 -0500,Thu Apr 5 11:44:19 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-circuit-breaker/initial/reading/pom.xml,d896fb5d5bf7d865bf05516b41d88d969b976347,Greg Turnquist,Tue Mar 6 13:24:44 2018 -0600,Tue Mar 6 13:24:44 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-circuit-breaker/initial/reading/pom.xml,25c6b92c365896395bb7f71bbc6a28a1279901e0,Greg Turnquist,Fri Feb 9 16:08:37 2018 -0600,Fri Feb 9 16:08:37 2018 -0600,Upgrade to Edgware.SR2
+gs-circuit-breaker/initial/reading/pom.xml,72296c7045b28b02f572ae43d4c836266d075cac,Greg Turnquist,Wed Jan 31 09:15:35 2018 -0600,Wed Jan 31 09:15:35 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-circuit-breaker/initial/reading/pom.xml,a5693e1c1573759393de9a4472c5bd8e50fa6fc5,Greg Turnquist,Thu Nov 30 11:16:39 2017 -0600,Thu Nov 30 11:16:39 2017 -0600,Upgrade to Spring Cloud Edgeware.RELEASE
+gs-circuit-breaker/initial/reading/pom.xml,467324c8b317a5ba1be9d6cdd9e5a57bd6f075f9,Greg Turnquist,Thu Nov 30 11:06:15 2017 -0600,Thu Nov 30 11:06:15 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-circuit-breaker/initial/reading/pom.xml,32173527413b057389f84bcd5449cf7ca6afd3a6,Greg Turnquist,Fri Mar 3 11:18:24 2017 -0600,Fri Mar 3 11:18:24 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-circuit-breaker/initial/reading/pom.xml,b2b4ab21412b58ef4131b759fb66d3eabd4e5466,Greg Turnquist,Mon Feb 6 09:35:00 2017 -0600,Mon Feb 6 09:35:00 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE / Spring Cloud Camden.SR5
+gs-circuit-breaker/initial/reading/pom.xml,eacf72bbb4f1d6fb740de64f11a1af4e71a21b92,Greg Turnquist,Tue Jan 31 09:57:11 2017 -0600,Tue Jan 31 09:57:11 2017 -0600,Move to Camden.SR4
+gs-circuit-breaker/initial/reading/pom.xml,53c4ccf484c1260d9a33e48b5117408c28d30a62,Greg Turnquist,Tue Jan 31 09:42:13 2017 -0600,Tue Jan 31 09:42:13 2017 -0600,Rollback to Spring Boot 1.4.4.RELEASE
+gs-circuit-breaker/initial/reading/pom.xml,131e497ceca29129151e38ed75132bcc4499b58c,Greg Turnquist,Mon Jan 30 23:28:29 2017 -0600,Mon Jan 30 23:28:29 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-circuit-breaker/initial/reading/pom.xml,86b981555b515fe4e6bac91a10f61beeb3e70e86,Greg Turnquist,Mon Jan 30 11:37:08 2017 -0600,Mon Jan 30 11:37:08 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-circuit-breaker/initial/reading/pom.xml,79e5e3e2af1e6ff0819605223f21345caffeb99a,Greg Turnquist,Thu Jan 26 12:47:26 2017 -0600,Thu Jan 26 12:47:26 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-circuit-breaker/initial/reading/pom.xml,a847b72b86e88246b3273a65fe1ae7301257ecff,Greg Turnquist,Thu Jan 26 12:36:42 2017 -0600,Thu Jan 26 12:36:42 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-circuit-breaker/initial/reading/pom.xml,568eaae37c1146facb8807cc596641bc1134cc7b,Greg Turnquist,Thu Dec 22 22:32:00 2016 -0600,Thu Dec 22 22:32:00 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-circuit-breaker/initial/reading/pom.xml,97715c8696e84c462c63af1e31f3505ed9ea094e,Greg Turnquist,Tue Nov 8 11:52:07 2016 -0600,Tue Nov 8 11:52:07 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-circuit-breaker/initial/reading/pom.xml,6b990a188a7ca3b56367cb12f3b3394b121d982b,Greg Turnquist,Fri Sep 23 16:35:40 2016 -0500,Fri Sep 23 16:35:40 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-circuit-breaker/initial/reading/pom.xml,81a0d657176cc1d0b946cdfc42a264eeb1edff2a,Ryan Baxter,Tue Aug 30 10:18:04 2016 -0400,Tue Aug 30 10:18:04 2016 -0400,Merge pull request #3 from ryanjbaxter/master
+gs-circuit-breaker/initial/reading/pom.xml,71e7a902f632b1e7f8c35d4138990e264b253d49,Ben Klein,Tue Jan 26 15:34:58 2016 -0600,Tue Jan 26 15:34:58 2016 -0600,Simplify Reading POM
+gs-circuit-breaker/initial/reading/pom.xml,2e762850c890219cb32b3732e8e99128c6bb42ad,Ben Klein,Tue Jan 26 11:41:05 2016 -0600,Tue Jan 26 11:41:05 2016 -0600,Add inital version
+gs-circuit-breaker/initial/bookstore/pom.xml,67370297c6ae59237f29dabd3d44698ec44cc73d,Greg Turnquist,Mon Sep 17 10:49:52 2018 -0500,Mon Sep 17 10:49:52 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-circuit-breaker/initial/bookstore/pom.xml,b47deb0b34f3c223578cac130b440b504979672f,Greg Turnquist,Mon Jun 18 16:16:06 2018 -0500,Mon Jun 18 16:16:06 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-circuit-breaker/initial/bookstore/pom.xml,8f4feabcdeb0e85cc189b45f25c391c4bce4c9d2,Greg Turnquist,Wed May 9 11:25:48 2018 -0500,Wed May 9 11:25:48 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-circuit-breaker/initial/bookstore/pom.xml,073610c94a92edeb18c91e8121f66bf1ac0f6e7c,Greg Turnquist,Thu Apr 5 11:44:19 2018 -0500,Thu Apr 5 11:44:19 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-circuit-breaker/initial/bookstore/pom.xml,d896fb5d5bf7d865bf05516b41d88d969b976347,Greg Turnquist,Tue Mar 6 13:24:44 2018 -0600,Tue Mar 6 13:24:44 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-circuit-breaker/initial/bookstore/pom.xml,72296c7045b28b02f572ae43d4c836266d075cac,Greg Turnquist,Wed Jan 31 09:15:35 2018 -0600,Wed Jan 31 09:15:35 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-circuit-breaker/initial/bookstore/pom.xml,467324c8b317a5ba1be9d6cdd9e5a57bd6f075f9,Greg Turnquist,Thu Nov 30 11:06:15 2017 -0600,Thu Nov 30 11:06:15 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-circuit-breaker/initial/bookstore/pom.xml,32173527413b057389f84bcd5449cf7ca6afd3a6,Greg Turnquist,Fri Mar 3 11:18:24 2017 -0600,Fri Mar 3 11:18:24 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-circuit-breaker/initial/bookstore/pom.xml,b2b4ab21412b58ef4131b759fb66d3eabd4e5466,Greg Turnquist,Mon Feb 6 09:35:00 2017 -0600,Mon Feb 6 09:35:00 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE / Spring Cloud Camden.SR5
+gs-circuit-breaker/initial/bookstore/pom.xml,53c4ccf484c1260d9a33e48b5117408c28d30a62,Greg Turnquist,Tue Jan 31 09:42:13 2017 -0600,Tue Jan 31 09:42:13 2017 -0600,Rollback to Spring Boot 1.4.4.RELEASE
+gs-circuit-breaker/initial/bookstore/pom.xml,131e497ceca29129151e38ed75132bcc4499b58c,Greg Turnquist,Mon Jan 30 23:28:29 2017 -0600,Mon Jan 30 23:28:29 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-circuit-breaker/initial/bookstore/pom.xml,86b981555b515fe4e6bac91a10f61beeb3e70e86,Greg Turnquist,Mon Jan 30 11:37:08 2017 -0600,Mon Jan 30 11:37:08 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-circuit-breaker/initial/bookstore/pom.xml,79e5e3e2af1e6ff0819605223f21345caffeb99a,Greg Turnquist,Thu Jan 26 12:47:26 2017 -0600,Thu Jan 26 12:47:26 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-circuit-breaker/initial/bookstore/pom.xml,a847b72b86e88246b3273a65fe1ae7301257ecff,Greg Turnquist,Thu Jan 26 12:36:42 2017 -0600,Thu Jan 26 12:36:42 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-circuit-breaker/initial/bookstore/pom.xml,568eaae37c1146facb8807cc596641bc1134cc7b,Greg Turnquist,Thu Dec 22 22:32:00 2016 -0600,Thu Dec 22 22:32:00 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-circuit-breaker/initial/bookstore/pom.xml,97715c8696e84c462c63af1e31f3505ed9ea094e,Greg Turnquist,Tue Nov 8 11:52:07 2016 -0600,Tue Nov 8 11:52:07 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-circuit-breaker/initial/bookstore/pom.xml,6b990a188a7ca3b56367cb12f3b3394b121d982b,Greg Turnquist,Fri Sep 23 16:35:40 2016 -0500,Fri Sep 23 16:35:40 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-circuit-breaker/initial/bookstore/pom.xml,81a0d657176cc1d0b946cdfc42a264eeb1edff2a,Ryan Baxter,Tue Aug 30 10:18:04 2016 -0400,Tue Aug 30 10:18:04 2016 -0400,Merge pull request #3 from ryanjbaxter/master
+gs-circuit-breaker/initial/bookstore/pom.xml,4222c55e44a1cd5959e1fb7151159092f504975a,Ben Klein,Tue Jan 26 15:34:26 2016 -0600,Tue Jan 26 15:34:26 2016 -0600,Simplify Bookstore POM
+gs-circuit-breaker/initial/bookstore/pom.xml,2e762850c890219cb32b3732e8e99128c6bb42ad,Ben Klein,Tue Jan 26 11:41:05 2016 -0600,Tue Jan 26 11:41:05 2016 -0600,Add inital version

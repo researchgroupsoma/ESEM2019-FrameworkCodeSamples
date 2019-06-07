@@ -1,0 +1,165 @@
+gs-validating-form-input/complete/pom.xml,c21ef5777d6aebc63368ae834027d4a5520bae95,Greg Turnquist,Mon Sep 17 10:51:58 2018 -0500,Mon Sep 17 10:51:58 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-validating-form-input/complete/pom.xml,bc3873765d1b08ae58fd14de7adcddbd8b3a658a,Greg Turnquist,Mon Jun 18 16:17:56 2018 -0500,Mon Jun 18 16:17:56 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-validating-form-input/complete/pom.xml,ed1cc73b0242d1ac42c1aaa2505debaa2c3573c3,Greg Turnquist,Wed May 9 11:27:40 2018 -0500,Wed May 9 11:27:40 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-validating-form-input/complete/pom.xml,33466e03003ef2b1afa24d108b3715e8fd5ec639,Greg Turnquist,Thu Apr 5 11:45:57 2018 -0500,Thu Apr 5 11:45:57 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-validating-form-input/complete/pom.xml,fbe142e5666016373606f9e1ce5902e375cab656,Greg Turnquist,Thu Mar 1 09:55:23 2018 -0600,Mon Mar 5 21:34:54 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-validating-form-input/complete/pom.xml,2ee08a72deb15cbaf4b6e27ffcd882c6d2e50abb,Greg Turnquist,Wed Jan 31 09:17:14 2018 -0600,Wed Jan 31 09:17:14 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-validating-form-input/complete/pom.xml,059d6b0e8db534a4324445a84f9622d570b1b964,Greg Turnquist,Thu Nov 30 11:07:57 2017 -0600,Thu Nov 30 11:07:57 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-validating-form-input/complete/pom.xml,ee9330529df9634ffe189bc6beeeec3529e2090b,Greg Turnquist,Tue Oct 17 15:43:20 2017 -0500,Tue Oct 17 15:43:20 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-validating-form-input/complete/pom.xml,da5f0b5230501acb0d9736e27a2cfe7ab1c70af5,Greg Turnquist,Wed Sep 13 13:16:28 2017 -0500,Wed Sep 13 13:16:28 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-validating-form-input/complete/pom.xml,438d396208fb136143bd06dac363865dbc5ddbda,Greg Turnquist,Thu Jul 27 10:05:53 2017 -0500,Thu Jul 27 10:05:53 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-validating-form-input/complete/pom.xml,276a8dc8929f3c8bf3d5c665ccef113618dfb949,Greg Turnquist,Wed Jul 26 12:23:57 2017 -0500,Wed Jul 26 12:25:21 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-validating-form-input/complete/pom.xml,61027bc8ebdbd221d0f738e7a3ed68e652ff2e5c,Greg Turnquist,Fri Apr 21 09:21:09 2017 -0500,Fri Apr 21 09:21:09 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-validating-form-input/complete/pom.xml,5275cb845ed91ac2a2806429e7167a873cb01592,Greg Turnquist,Fri Mar 3 11:14:15 2017 -0600,Fri Mar 3 11:14:15 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-validating-form-input/complete/pom.xml,1ecc54b935ac56585ad2c3f3af029693d48f4d33,Greg Turnquist,Mon Jan 30 23:35:27 2017 -0600,Mon Jan 30 23:35:27 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-validating-form-input/complete/pom.xml,0c15860a09e2b757278d00c4e8a0019d8e8b83b3,Greg Turnquist,Mon Jan 30 11:39:36 2017 -0600,Mon Jan 30 11:39:36 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-validating-form-input/complete/pom.xml,050cf5ea1981c6313ab0390d1e986cabd7316fad,Greg Turnquist,Thu Jan 26 12:48:58 2017 -0600,Thu Jan 26 12:48:58 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-validating-form-input/complete/pom.xml,80e44a2069fe4f1b4a99727789951a1a889d032e,Greg Turnquist,Thu Jan 26 12:38:41 2017 -0600,Thu Jan 26 12:38:41 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-validating-form-input/complete/pom.xml,cfd7c215dae40d51906cfaaa20a3e57ae2b2660f,Greg Turnquist,Thu Dec 22 22:34:02 2016 -0600,Thu Dec 22 22:34:02 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-validating-form-input/complete/pom.xml,edc4f2dbb363a85855fb673f98803cfd4d41023f,Greg Turnquist,Tue Nov 8 11:53:19 2016 -0600,Tue Nov 8 11:53:19 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-validating-form-input/complete/pom.xml,6b6909bef7a304dc288c9667cea6113dd179dcb0,Greg Turnquist,Fri Sep 23 16:36:57 2016 -0500,Fri Sep 23 16:36:57 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-validating-form-input/complete/pom.xml,cbb93f1f2b97429068b527433fbc3b71a5a5a9cb,Rob Winch,Mon Aug 29 09:54:26 2016 -0500,Mon Aug 29 09:54:26 2016 -0500,tabs->spaces in pom.xml
+gs-validating-form-input/complete/pom.xml,ce893b72b552594224a9827502fd20d4c5916ff2,Rob Winch,Mon Aug 29 09:47:07 2016 -0500,Mon Aug 29 09:47:07 2016 -0500,Add MockMvc style tests & refine validation
+gs-validating-form-input/complete/pom.xml,aa60b54a16e7105f74bb3fabbbb9b06c5f6bcb61,Greg Turnquist,Fri Jul 29 11:32:11 2016 -0500,Fri Jul 29 11:32:11 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-validating-form-input/complete/pom.xml,b5517b71cb9e95a8b0906ad9dd012abbad55141d,Greg Turnquist,Thu Jul 28 06:53:31 2016 -0500,Thu Jul 28 06:53:31 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-validating-form-input/complete/pom.xml,383aa0c767829aa593e760b7a05fc96f6f8ffb30,Greg Turnquist,Tue Jul 5 13:53:01 2016 -0500,Tue Jul 5 13:53:01 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-validating-form-input/complete/pom.xml,e05dc11fa9d6d27db4986eade6f169dd50b1e6d8,Greg Turnquist,Tue May 10 10:27:09 2016 -0500,Tue May 10 10:27:09 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-validating-form-input/complete/pom.xml,9f36cace2e16091b0522efc26c1f9c64a8a5be3e,Greg Turnquist,Fri May 6 09:49:34 2016 -0500,Fri May 6 09:49:34 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-validating-form-input/complete/pom.xml,a25b6f05005f08f0aadc64be4c2c93ebe1e1feba,Greg Turnquist,Fri Feb 26 07:30:35 2016 -0600,Fri Feb 26 07:30:35 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-validating-form-input/complete/pom.xml,2753d8e4bf64bbdfc83ea8da46bde9b4afa41dbc,Greg Turnquist,Thu Jan 21 21:29:32 2016 -0600,Thu Jan 21 21:29:32 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-validating-form-input/complete/pom.xml,71b499431ee48e2a3921c7b5bcfcf762a23a3ee3,Greg Turnquist,Fri Dec 18 09:40:46 2015 -0600,Fri Dec 18 09:40:46 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-validating-form-input/complete/pom.xml,6fb302f4895f3742a77efe7ed54e1e7a8e3a99b9,Greg Turnquist,Mon Nov 16 11:11:12 2015 -0600,Mon Nov 16 11:11:12 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-validating-form-input/complete/pom.xml,4c5e11ec6453d99a30c5e0b120f7fd398ff9cf77,Greg Turnquist,Fri Oct 16 09:44:13 2015 -0400,Fri Oct 16 09:44:13 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-validating-form-input/complete/pom.xml,7063a3a85d83757f349d5a31dee3e86b2da9887d,Greg Turnquist,Sun Sep 20 15:42:08 2015 -0500,Sun Sep 20 15:42:08 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-validating-form-input/complete/pom.xml,7044d5793ca05c9529f1affa8920eed4e89125d4,Greg Turnquist,Thu Jul 2 08:46:58 2015 -0500,Thu Jul 2 08:46:58 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-validating-form-input/complete/pom.xml,3b6197ad01221138e35ad329ef56a16a4c0c595c,Greg Turnquist,Fri Jun 12 13:49:50 2015 -0400,Fri Jun 12 13:49:50 2015 -0400,Upgrade to Java 8
+gs-validating-form-input/complete/pom.xml,277bce4cef2584d3c431a0af237a8faa03db7dcf,Greg Turnquist,Tue Jun 9 09:42:12 2015 -0400,Tue Jun 9 09:42:12 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-validating-form-input/complete/pom.xml,d12d07e61bce4fe8ee2b02f9bccb337f21bf75b7,Greg Turnquist,Tue May 26 10:54:36 2015 -0500,Tue May 26 10:54:36 2015 -0500,Remove encodings because they are supplied by the starter POM
+gs-validating-form-input/complete/pom.xml,7271e9e653a990ffa3ae8d9773c0dd0944348e51,Greg Turnquist,Tue Mar 31 16:56:31 2015 -0500,Tue Mar 31 16:56:31 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-validating-form-input/complete/pom.xml,0bde867e088979f592e8eff12e35ea1d1b2b3613,Greg Turnquist,Tue Mar 17 13:14:14 2015 -0500,Tue Mar 17 13:14:14 2015 -0500,Upgrade maven build to Java 7
+gs-validating-form-input/complete/pom.xml,a02247b1ece87c5bf48485725b6b122b1b6a600c,Greg Turnquist,Thu Feb 26 22:40:15 2015 -0600,Thu Feb 26 22:40:15 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-validating-form-input/complete/pom.xml,88f659113833b8d08da50c63c6e060b2485b00b1,Greg Turnquist,Wed Feb 18 11:08:25 2015 -0600,Wed Feb 18 11:08:25 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-validating-form-input/complete/pom.xml,69d9bf3715f872521206dc31c3bfd454eed4f6d7,Greg Turnquist,Wed Jan 14 12:34:20 2015 -0600,Wed Jan 14 12:34:20 2015 -0600,Remove legacy start-class property from maven builds
+gs-validating-form-input/complete/pom.xml,d8de52a562ec44f8980d302b446d81baf5e9241c,Greg Turnquist,Thu Dec 11 11:08:21 2014 -0600,Thu Dec 11 11:08:21 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-validating-form-input/complete/pom.xml,10cc38611cb6efe62c6959d1da0307373209d895,Greg Turnquist,Thu Nov 20 10:15:33 2014 -0600,Thu Nov 20 10:15:33 2014 -0600,Convert to use https for repositories
+gs-validating-form-input/complete/pom.xml,564a600c2563dd06fb7ff32ccedd47d9bcaf97f7,Greg Turnquist,Wed Nov 12 13:08:53 2014 -0600,Wed Nov 12 13:08:53 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-validating-form-input/complete/pom.xml,f7a4b97f88e502937380bc6bc2cd52e269a4d30d,Greg Turnquist,Fri Oct 10 22:06:34 2014 -0500,Fri Oct 10 22:06:34 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-validating-form-input/complete/pom.xml,9ea885ff7d3d96a8abf30d0d41664098597d71a7,Greg Turnquist,Mon Sep 29 12:42:56 2014 -0500,Mon Sep 29 12:42:56 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-validating-form-input/complete/pom.xml,41510424b32848f6536eafc7c3f9db34c5618a2c,Greg Turnquist,Fri Sep 5 11:14:27 2014 -0500,Fri Sep 5 11:14:27 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-validating-form-input/complete/pom.xml,bb652e3dc01e5ae8db158f896721cce9b3a5cb85,Greg Turnquist,Fri Aug 8 22:12:58 2014 -0500,Fri Aug 8 22:12:58 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-validating-form-input/complete/pom.xml,eb0b50b60dcb6aa9046230ab352c7e3033eb1cbf,Greg Turnquist,Tue Jul 8 15:42:16 2014 -0500,Tue Jul 8 15:42:16 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-validating-form-input/complete/pom.xml,90ba86884fef25dd37a2a62930dbd197331fdbee,Greg Turnquist,Fri Jun 27 22:55:47 2014 -0400,Fri Jun 27 22:55:47 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-validating-form-input/complete/pom.xml,667d92c7c63588b3e50146287701eeb7fa108240,Greg Turnquist,Tue Jun 24 19:56:13 2014 -0400,Tue Jun 24 19:56:13 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-validating-form-input/complete/pom.xml,73510a626adbf6aecf69f67b2bc492cb97169508,Greg Turnquist,Wed Jun 11 16:49:11 2014 -0500,Wed Jun 11 16:49:11 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-validating-form-input/complete/pom.xml,021a7743e7c75efecd8a0666e432acf010f9bb78,Greg Turnquist,Wed Jun 11 09:09:19 2014 -0500,Wed Jun 11 09:09:19 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-validating-form-input/complete/pom.xml,b23ec4daf0a46469b3303b8fbcaa5e33b53bbae9,Greg Turnquist,Tue Jun 10 19:16:56 2014 -0500,Tue Jun 10 19:16:56 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-validating-form-input/complete/pom.xml,bd2f86084c242a6d4aa92e52b6302dba3451abce,Greg Turnquist,Thu Apr 24 09:37:40 2014 -0500,Thu Apr 24 09:37:40 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-validating-form-input/complete/pom.xml,b88e42762f34855ae7fe57606d3a370642c8f88e,Greg Turnquist,Mon Apr 7 10:10:16 2014 -0500,Mon Apr 7 10:10:16 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-validating-form-input/complete/pom.xml,0139fdb29414c61277d2ccca4f74e6cea4a0e8fc,Greg Turnquist,Tue Apr 1 15:11:54 2014 -0500,Tue Apr 1 15:11:54 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-validating-form-input/complete/pom.xml,0580b2cdccc6ed704326db1f71147264704d1c83,Greg Turnquist,Sat Mar 22 07:18:27 2014 -0500,Sat Mar 22 07:18:27 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-validating-form-input/complete/pom.xml,905fe19f6ea59c9884744f95fc26390813008810,Greg Turnquist,Tue Mar 4 14:41:49 2014 -0500,Tue Mar 4 14:41:49 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-validating-form-input/complete/pom.xml,57835917c0176c7c63d47b3ad07f4edca29145eb,Greg Turnquist,Fri Feb 14 11:24:09 2014 -0600,Fri Feb 14 11:24:09 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-validating-form-input/complete/pom.xml,15b4bc7c6632b992b0b882a6d8bf4018ebf4dfe1,Greg Turnquist,Thu Feb 13 12:38:46 2014 -0600,Thu Feb 13 12:38:46 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-validating-form-input/complete/pom.xml,afb30d083b32363226466dcefb6e29c7b434349e,Roy Clarkson,Wed Feb 5 12:48:40 2014 -0600,Wed Feb 5 12:48:40 2014 -0600,Remove snapshots configuration from POM repositories
+gs-validating-form-input/complete/pom.xml,41b886da4457e8699360dae40c18fd218672bfcc,Greg Turnquist,Mon Feb 3 19:17:46 2014 -0600,Mon Feb 3 19:17:46 2014 -0600,Resolves #5: Added tomcat-jasper to get EL support
+gs-validating-form-input/complete/pom.xml,dc099f4d96130c9c97c8a993d9ceae7c440ca7d0,Greg Turnquist,Wed Jan 22 12:21:48 2014 -0600,Wed Jan 22 12:21:48 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-validating-form-input/complete/pom.xml,4ec9e36cb93f6e00403c5574209f90385524eef7,Greg Turnquist,Mon Nov 18 14:57:47 2013 -0600,Mon Nov 18 14:57:47 2013 -0600,Upgrade to Spring Boot 0.5.0.M6
+gs-validating-form-input/complete/pom.xml,3224a31562d14ca19c0b0ad55e4420283871cca7,Roy Clarkson,Tue Oct 29 12:30:06 2013 -0500,Tue Oct 29 12:30:06 2013 -0500,Inherit maven-compiler-plugin version from parent POM
+gs-validating-form-input/complete/pom.xml,f08197f9ba2d8a19e097e6acfb283de8672578d5,Roy Clarkson,Tue Oct 29 12:28:43 2013 -0500,Tue Oct 29 12:28:43 2013 -0500,Use UTF-8 encoding
+gs-validating-form-input/complete/pom.xml,77e5edbed551f2524747dd423199f34bcd7b12c8,Roy Clarkson,Tue Oct 29 12:27:14 2013 -0500,Tue Oct 29 12:27:14 2013 -0500,Upgrade to Spring Boot 0.5.0.M5
+gs-validating-form-input/complete/pom.xml,abe7b3cb464ca21e8f62143078eedb4e79544b50,Roy Clarkson,Tue Oct 29 12:24:59 2013 -0500,Tue Oct 29 12:24:59 2013 -0500,Use libs-milestone repository instead of libs-snapshot
+gs-validating-form-input/complete/pom.xml,6705928dd2f1793765dda2c9ae432b3be2bd5e1c,Greg Turnquist,Mon Sep 30 08:19:28 2013 -0500,Mon Sep 30 08:19:28 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-validating-form-input/complete/pom.xml,adb6a7cee5ab4874a40539d11ced7770688fa2da,Greg Turnquist,Fri Sep 27 10:32:27 2013 -0500,Fri Sep 27 10:32:27 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-validating-form-input/complete/pom.xml,235f7e601ba47031363e48e42efaba3d9b4c2d57,Greg Turnquist,Fri Aug 30 16:42:28 2013 -0500,Fri Aug 30 16:42:28 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-validating-form-input/complete/pom.xml,422b50aa9c584803466ce4effe07e903e63cd0c4,Greg Turnquist,Mon Aug 12 13:55:15 2013 -0500,Mon Aug 12 13:55:15 2013 -0500,Detab code and fix link to spring-boot-maven-plugin
+gs-validating-form-input/complete/pom.xml,f6547ac355e5aff14b38568e73fdc737c74553b5,Greg Turnquist,Fri Aug 9 13:18:44 2013 -0500,Fri Aug 9 13:18:44 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-validating-form-input/complete/pom.xml,c904a4a280ff00a25692bc00701beea3e3a1a71f,Greg Turnquist,Tue Aug 6 14:44:08 2013 -0500,Tue Aug 6 14:44:08 2013 -0500,Use libs-snapshot instead of snapshot
+gs-validating-form-input/complete/pom.xml,0d698948107ae6120e05938c129746f5a67dbdde,Greg Turnquist,Tue Aug 6 11:24:21 2013 -0500,Tue Aug 6 11:24:21 2013 -0500,Remove 'TODO' from pom.xml and rebuild guide
+gs-validating-form-input/complete/pom.xml,9f48b8f22e2df40280c86580222534f24918889c,Greg Turnquist,Wed Jul 31 15:43:18 2013 -0400,Wed Jul 31 15:43:18 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-validating-form-input/complete/pom.xml,6df0ecda6c42542c86720a3cc236af1105e353b3,Greg Turnquist,Tue Jul 30 10:19:56 2013 -0400,Tue Jul 30 10:19:56 2013 -0400,Upgrade to Spring Boot
+gs-validating-form-input/complete/pom.xml,31b9b3050d1370a0095c60a206a893d058ae5f1d,Greg Turnquist,Fri Jul 19 16:57:40 2013 -0400,Fri Jul 19 16:57:40 2013 -0400,Convert to spring-package-maven-plugin and Spring Zero
+gs-validating-form-input/complete/pom.xml,bf7c45f51a97b158846865d2e5f65a43e1c018c1,Greg Turnquist,Thu Jul 18 10:41:43 2013 -0400,Thu Jul 18 10:41:43 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-validating-form-input/complete/pom.xml,a2bc65c7ba932bc86bbfb06721a612f6963d604d,Greg Turnquist,Mon Jun 10 15:20:42 2013 -0400,Mon Jun 10 15:20:42 2013 -0400,Review and edit based on current guidelines.
+gs-validating-form-input/initial/pom.xml,c21ef5777d6aebc63368ae834027d4a5520bae95,Greg Turnquist,Mon Sep 17 10:51:58 2018 -0500,Mon Sep 17 10:51:58 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-validating-form-input/initial/pom.xml,bc3873765d1b08ae58fd14de7adcddbd8b3a658a,Greg Turnquist,Mon Jun 18 16:17:56 2018 -0500,Mon Jun 18 16:17:56 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-validating-form-input/initial/pom.xml,ed1cc73b0242d1ac42c1aaa2505debaa2c3573c3,Greg Turnquist,Wed May 9 11:27:40 2018 -0500,Wed May 9 11:27:40 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-validating-form-input/initial/pom.xml,33466e03003ef2b1afa24d108b3715e8fd5ec639,Greg Turnquist,Thu Apr 5 11:45:57 2018 -0500,Thu Apr 5 11:45:57 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-validating-form-input/initial/pom.xml,fbe142e5666016373606f9e1ce5902e375cab656,Greg Turnquist,Thu Mar 1 09:55:23 2018 -0600,Mon Mar 5 21:34:54 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-validating-form-input/initial/pom.xml,2ee08a72deb15cbaf4b6e27ffcd882c6d2e50abb,Greg Turnquist,Wed Jan 31 09:17:14 2018 -0600,Wed Jan 31 09:17:14 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-validating-form-input/initial/pom.xml,059d6b0e8db534a4324445a84f9622d570b1b964,Greg Turnquist,Thu Nov 30 11:07:57 2017 -0600,Thu Nov 30 11:07:57 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-validating-form-input/initial/pom.xml,ee9330529df9634ffe189bc6beeeec3529e2090b,Greg Turnquist,Tue Oct 17 15:43:20 2017 -0500,Tue Oct 17 15:43:20 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-validating-form-input/initial/pom.xml,da5f0b5230501acb0d9736e27a2cfe7ab1c70af5,Greg Turnquist,Wed Sep 13 13:16:28 2017 -0500,Wed Sep 13 13:16:28 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-validating-form-input/initial/pom.xml,438d396208fb136143bd06dac363865dbc5ddbda,Greg Turnquist,Thu Jul 27 10:05:53 2017 -0500,Thu Jul 27 10:05:53 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-validating-form-input/initial/pom.xml,276a8dc8929f3c8bf3d5c665ccef113618dfb949,Greg Turnquist,Wed Jul 26 12:23:57 2017 -0500,Wed Jul 26 12:25:21 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-validating-form-input/initial/pom.xml,61027bc8ebdbd221d0f738e7a3ed68e652ff2e5c,Greg Turnquist,Fri Apr 21 09:21:09 2017 -0500,Fri Apr 21 09:21:09 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-validating-form-input/initial/pom.xml,5275cb845ed91ac2a2806429e7167a873cb01592,Greg Turnquist,Fri Mar 3 11:14:15 2017 -0600,Fri Mar 3 11:14:15 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-validating-form-input/initial/pom.xml,1ecc54b935ac56585ad2c3f3af029693d48f4d33,Greg Turnquist,Mon Jan 30 23:35:27 2017 -0600,Mon Jan 30 23:35:27 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-validating-form-input/initial/pom.xml,0c15860a09e2b757278d00c4e8a0019d8e8b83b3,Greg Turnquist,Mon Jan 30 11:39:36 2017 -0600,Mon Jan 30 11:39:36 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-validating-form-input/initial/pom.xml,050cf5ea1981c6313ab0390d1e986cabd7316fad,Greg Turnquist,Thu Jan 26 12:48:58 2017 -0600,Thu Jan 26 12:48:58 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-validating-form-input/initial/pom.xml,80e44a2069fe4f1b4a99727789951a1a889d032e,Greg Turnquist,Thu Jan 26 12:38:41 2017 -0600,Thu Jan 26 12:38:41 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-validating-form-input/initial/pom.xml,cfd7c215dae40d51906cfaaa20a3e57ae2b2660f,Greg Turnquist,Thu Dec 22 22:34:02 2016 -0600,Thu Dec 22 22:34:02 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-validating-form-input/initial/pom.xml,edc4f2dbb363a85855fb673f98803cfd4d41023f,Greg Turnquist,Tue Nov 8 11:53:19 2016 -0600,Tue Nov 8 11:53:19 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-validating-form-input/initial/pom.xml,6b6909bef7a304dc288c9667cea6113dd179dcb0,Greg Turnquist,Fri Sep 23 16:36:57 2016 -0500,Fri Sep 23 16:36:57 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-validating-form-input/initial/pom.xml,ca8ff218dcc106bdccfb5069f53c8c4fa41fda95,Dmitry V,Sat Jan 23 23:11:34 2016 +0300,Mon Aug 29 09:53:45 2016 -0500,Fix pom.xml indentation
+gs-validating-form-input/initial/pom.xml,ce893b72b552594224a9827502fd20d4c5916ff2,Rob Winch,Mon Aug 29 09:47:07 2016 -0500,Mon Aug 29 09:47:07 2016 -0500,Add MockMvc style tests & refine validation
+gs-validating-form-input/initial/pom.xml,aa60b54a16e7105f74bb3fabbbb9b06c5f6bcb61,Greg Turnquist,Fri Jul 29 11:32:11 2016 -0500,Fri Jul 29 11:32:11 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-validating-form-input/initial/pom.xml,b5517b71cb9e95a8b0906ad9dd012abbad55141d,Greg Turnquist,Thu Jul 28 06:53:31 2016 -0500,Thu Jul 28 06:53:31 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-validating-form-input/initial/pom.xml,383aa0c767829aa593e760b7a05fc96f6f8ffb30,Greg Turnquist,Tue Jul 5 13:53:01 2016 -0500,Tue Jul 5 13:53:01 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-validating-form-input/initial/pom.xml,e05dc11fa9d6d27db4986eade6f169dd50b1e6d8,Greg Turnquist,Tue May 10 10:27:09 2016 -0500,Tue May 10 10:27:09 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-validating-form-input/initial/pom.xml,9f36cace2e16091b0522efc26c1f9c64a8a5be3e,Greg Turnquist,Fri May 6 09:49:34 2016 -0500,Fri May 6 09:49:34 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-validating-form-input/initial/pom.xml,a25b6f05005f08f0aadc64be4c2c93ebe1e1feba,Greg Turnquist,Fri Feb 26 07:30:35 2016 -0600,Fri Feb 26 07:30:35 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-validating-form-input/initial/pom.xml,2753d8e4bf64bbdfc83ea8da46bde9b4afa41dbc,Greg Turnquist,Thu Jan 21 21:29:32 2016 -0600,Thu Jan 21 21:29:32 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-validating-form-input/initial/pom.xml,71b499431ee48e2a3921c7b5bcfcf762a23a3ee3,Greg Turnquist,Fri Dec 18 09:40:46 2015 -0600,Fri Dec 18 09:40:46 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-validating-form-input/initial/pom.xml,6fb302f4895f3742a77efe7ed54e1e7a8e3a99b9,Greg Turnquist,Mon Nov 16 11:11:12 2015 -0600,Mon Nov 16 11:11:12 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-validating-form-input/initial/pom.xml,4c5e11ec6453d99a30c5e0b120f7fd398ff9cf77,Greg Turnquist,Fri Oct 16 09:44:13 2015 -0400,Fri Oct 16 09:44:13 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-validating-form-input/initial/pom.xml,7063a3a85d83757f349d5a31dee3e86b2da9887d,Greg Turnquist,Sun Sep 20 15:42:08 2015 -0500,Sun Sep 20 15:42:08 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-validating-form-input/initial/pom.xml,7044d5793ca05c9529f1affa8920eed4e89125d4,Greg Turnquist,Thu Jul 2 08:46:58 2015 -0500,Thu Jul 2 08:46:58 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-validating-form-input/initial/pom.xml,3b6197ad01221138e35ad329ef56a16a4c0c595c,Greg Turnquist,Fri Jun 12 13:49:50 2015 -0400,Fri Jun 12 13:49:50 2015 -0400,Upgrade to Java 8
+gs-validating-form-input/initial/pom.xml,277bce4cef2584d3c431a0af237a8faa03db7dcf,Greg Turnquist,Tue Jun 9 09:42:12 2015 -0400,Tue Jun 9 09:42:12 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-validating-form-input/initial/pom.xml,d12d07e61bce4fe8ee2b02f9bccb337f21bf75b7,Greg Turnquist,Tue May 26 10:54:36 2015 -0500,Tue May 26 10:54:36 2015 -0500,Remove encodings because they are supplied by the starter POM
+gs-validating-form-input/initial/pom.xml,7271e9e653a990ffa3ae8d9773c0dd0944348e51,Greg Turnquist,Tue Mar 31 16:56:31 2015 -0500,Tue Mar 31 16:56:31 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-validating-form-input/initial/pom.xml,0bde867e088979f592e8eff12e35ea1d1b2b3613,Greg Turnquist,Tue Mar 17 13:14:14 2015 -0500,Tue Mar 17 13:14:14 2015 -0500,Upgrade maven build to Java 7
+gs-validating-form-input/initial/pom.xml,a02247b1ece87c5bf48485725b6b122b1b6a600c,Greg Turnquist,Thu Feb 26 22:40:15 2015 -0600,Thu Feb 26 22:40:15 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-validating-form-input/initial/pom.xml,88f659113833b8d08da50c63c6e060b2485b00b1,Greg Turnquist,Wed Feb 18 11:08:25 2015 -0600,Wed Feb 18 11:08:25 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-validating-form-input/initial/pom.xml,69d9bf3715f872521206dc31c3bfd454eed4f6d7,Greg Turnquist,Wed Jan 14 12:34:20 2015 -0600,Wed Jan 14 12:34:20 2015 -0600,Remove legacy start-class property from maven builds
+gs-validating-form-input/initial/pom.xml,d8de52a562ec44f8980d302b446d81baf5e9241c,Greg Turnquist,Thu Dec 11 11:08:21 2014 -0600,Thu Dec 11 11:08:21 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-validating-form-input/initial/pom.xml,10cc38611cb6efe62c6959d1da0307373209d895,Greg Turnquist,Thu Nov 20 10:15:33 2014 -0600,Thu Nov 20 10:15:33 2014 -0600,Convert to use https for repositories
+gs-validating-form-input/initial/pom.xml,564a600c2563dd06fb7ff32ccedd47d9bcaf97f7,Greg Turnquist,Wed Nov 12 13:08:53 2014 -0600,Wed Nov 12 13:08:53 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-validating-form-input/initial/pom.xml,f7a4b97f88e502937380bc6bc2cd52e269a4d30d,Greg Turnquist,Fri Oct 10 22:06:34 2014 -0500,Fri Oct 10 22:06:34 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-validating-form-input/initial/pom.xml,9ea885ff7d3d96a8abf30d0d41664098597d71a7,Greg Turnquist,Mon Sep 29 12:42:56 2014 -0500,Mon Sep 29 12:42:56 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-validating-form-input/initial/pom.xml,41510424b32848f6536eafc7c3f9db34c5618a2c,Greg Turnquist,Fri Sep 5 11:14:27 2014 -0500,Fri Sep 5 11:14:27 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-validating-form-input/initial/pom.xml,bb652e3dc01e5ae8db158f896721cce9b3a5cb85,Greg Turnquist,Fri Aug 8 22:12:58 2014 -0500,Fri Aug 8 22:12:58 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-validating-form-input/initial/pom.xml,eb0b50b60dcb6aa9046230ab352c7e3033eb1cbf,Greg Turnquist,Tue Jul 8 15:42:16 2014 -0500,Tue Jul 8 15:42:16 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-validating-form-input/initial/pom.xml,90ba86884fef25dd37a2a62930dbd197331fdbee,Greg Turnquist,Fri Jun 27 22:55:47 2014 -0400,Fri Jun 27 22:55:47 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-validating-form-input/initial/pom.xml,667d92c7c63588b3e50146287701eeb7fa108240,Greg Turnquist,Tue Jun 24 19:56:13 2014 -0400,Tue Jun 24 19:56:13 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-validating-form-input/initial/pom.xml,73510a626adbf6aecf69f67b2bc492cb97169508,Greg Turnquist,Wed Jun 11 16:49:11 2014 -0500,Wed Jun 11 16:49:11 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-validating-form-input/initial/pom.xml,021a7743e7c75efecd8a0666e432acf010f9bb78,Greg Turnquist,Wed Jun 11 09:09:19 2014 -0500,Wed Jun 11 09:09:19 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-validating-form-input/initial/pom.xml,b23ec4daf0a46469b3303b8fbcaa5e33b53bbae9,Greg Turnquist,Tue Jun 10 19:16:56 2014 -0500,Tue Jun 10 19:16:56 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-validating-form-input/initial/pom.xml,bd2f86084c242a6d4aa92e52b6302dba3451abce,Greg Turnquist,Thu Apr 24 09:37:40 2014 -0500,Thu Apr 24 09:37:40 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-validating-form-input/initial/pom.xml,b88e42762f34855ae7fe57606d3a370642c8f88e,Greg Turnquist,Mon Apr 7 10:10:16 2014 -0500,Mon Apr 7 10:10:16 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-validating-form-input/initial/pom.xml,0139fdb29414c61277d2ccca4f74e6cea4a0e8fc,Greg Turnquist,Tue Apr 1 15:11:54 2014 -0500,Tue Apr 1 15:11:54 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-validating-form-input/initial/pom.xml,0580b2cdccc6ed704326db1f71147264704d1c83,Greg Turnquist,Sat Mar 22 07:18:27 2014 -0500,Sat Mar 22 07:18:27 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-validating-form-input/initial/pom.xml,905fe19f6ea59c9884744f95fc26390813008810,Greg Turnquist,Tue Mar 4 14:41:49 2014 -0500,Tue Mar 4 14:41:49 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-validating-form-input/initial/pom.xml,945ae13c025a76aeaeaf61771bab7b94393a80a5,Greg Turnquist,Tue Feb 18 16:34:55 2014 -0600,Tue Feb 18 16:34:55 2014 -0600,Move final build file to the beginning and update guides to reflect this
+gs-validating-form-input/initial/pom.xml,57835917c0176c7c63d47b3ad07f4edca29145eb,Greg Turnquist,Fri Feb 14 11:24:09 2014 -0600,Fri Feb 14 11:24:09 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-validating-form-input/initial/pom.xml,15b4bc7c6632b992b0b882a6d8bf4018ebf4dfe1,Greg Turnquist,Thu Feb 13 12:38:46 2014 -0600,Thu Feb 13 12:38:46 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-validating-form-input/initial/pom.xml,afb30d083b32363226466dcefb6e29c7b434349e,Roy Clarkson,Wed Feb 5 12:48:40 2014 -0600,Wed Feb 5 12:48:40 2014 -0600,Remove snapshots configuration from POM repositories
+gs-validating-form-input/initial/pom.xml,41b886da4457e8699360dae40c18fd218672bfcc,Greg Turnquist,Mon Feb 3 19:17:46 2014 -0600,Mon Feb 3 19:17:46 2014 -0600,Resolves #5: Added tomcat-jasper to get EL support
+gs-validating-form-input/initial/pom.xml,dc099f4d96130c9c97c8a993d9ceae7c440ca7d0,Greg Turnquist,Wed Jan 22 12:21:48 2014 -0600,Wed Jan 22 12:21:48 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-validating-form-input/initial/pom.xml,4ec9e36cb93f6e00403c5574209f90385524eef7,Greg Turnquist,Mon Nov 18 14:57:47 2013 -0600,Mon Nov 18 14:57:47 2013 -0600,Upgrade to Spring Boot 0.5.0.M6
+gs-validating-form-input/initial/pom.xml,3224a31562d14ca19c0b0ad55e4420283871cca7,Roy Clarkson,Tue Oct 29 12:30:06 2013 -0500,Tue Oct 29 12:30:06 2013 -0500,Inherit maven-compiler-plugin version from parent POM
+gs-validating-form-input/initial/pom.xml,f08197f9ba2d8a19e097e6acfb283de8672578d5,Roy Clarkson,Tue Oct 29 12:28:43 2013 -0500,Tue Oct 29 12:28:43 2013 -0500,Use UTF-8 encoding
+gs-validating-form-input/initial/pom.xml,77e5edbed551f2524747dd423199f34bcd7b12c8,Roy Clarkson,Tue Oct 29 12:27:14 2013 -0500,Tue Oct 29 12:27:14 2013 -0500,Upgrade to Spring Boot 0.5.0.M5
+gs-validating-form-input/initial/pom.xml,abe7b3cb464ca21e8f62143078eedb4e79544b50,Roy Clarkson,Tue Oct 29 12:24:59 2013 -0500,Tue Oct 29 12:24:59 2013 -0500,Use libs-milestone repository instead of libs-snapshot
+gs-validating-form-input/initial/pom.xml,6705928dd2f1793765dda2c9ae432b3be2bd5e1c,Greg Turnquist,Mon Sep 30 08:19:28 2013 -0500,Mon Sep 30 08:19:28 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-validating-form-input/initial/pom.xml,adb6a7cee5ab4874a40539d11ced7770688fa2da,Greg Turnquist,Fri Sep 27 10:32:27 2013 -0500,Fri Sep 27 10:32:27 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-validating-form-input/initial/pom.xml,235f7e601ba47031363e48e42efaba3d9b4c2d57,Greg Turnquist,Fri Aug 30 16:42:28 2013 -0500,Fri Aug 30 16:42:28 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-validating-form-input/initial/pom.xml,422b50aa9c584803466ce4effe07e903e63cd0c4,Greg Turnquist,Mon Aug 12 13:55:15 2013 -0500,Mon Aug 12 13:55:15 2013 -0500,Detab code and fix link to spring-boot-maven-plugin
+gs-validating-form-input/initial/pom.xml,f6547ac355e5aff14b38568e73fdc737c74553b5,Greg Turnquist,Fri Aug 9 13:18:44 2013 -0500,Fri Aug 9 13:18:44 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-validating-form-input/initial/pom.xml,c904a4a280ff00a25692bc00701beea3e3a1a71f,Greg Turnquist,Tue Aug 6 14:44:08 2013 -0500,Tue Aug 6 14:44:08 2013 -0500,Use libs-snapshot instead of snapshot
+gs-validating-form-input/initial/pom.xml,0d698948107ae6120e05938c129746f5a67dbdde,Greg Turnquist,Tue Aug 6 11:24:21 2013 -0500,Tue Aug 6 11:24:21 2013 -0500,Remove 'TODO' from pom.xml and rebuild guide
+gs-validating-form-input/initial/pom.xml,9f48b8f22e2df40280c86580222534f24918889c,Greg Turnquist,Wed Jul 31 15:43:18 2013 -0400,Wed Jul 31 15:43:18 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-validating-form-input/initial/pom.xml,6df0ecda6c42542c86720a3cc236af1105e353b3,Greg Turnquist,Tue Jul 30 10:19:56 2013 -0400,Tue Jul 30 10:19:56 2013 -0400,Upgrade to Spring Boot
+gs-validating-form-input/initial/pom.xml,31b9b3050d1370a0095c60a206a893d058ae5f1d,Greg Turnquist,Fri Jul 19 16:57:40 2013 -0400,Fri Jul 19 16:57:40 2013 -0400,Convert to spring-package-maven-plugin and Spring Zero
+gs-validating-form-input/initial/pom.xml,bf7c45f51a97b158846865d2e5f65a43e1c018c1,Greg Turnquist,Thu Jul 18 10:41:43 2013 -0400,Thu Jul 18 10:41:43 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-validating-form-input/initial/pom.xml,a2bc65c7ba932bc86bbfb06721a612f6963d604d,Greg Turnquist,Mon Jun 10 15:20:42 2013 -0400,Mon Jun 10 15:20:42 2013 -0400,Review and edit based on current guidelines.

@@ -1,0 +1,6 @@
+identity-toolkit-android/tutorial/build.gradle,6bdc787818dcde4fa32c44111e2e41fdc0fd3ea9,Mengcheng Duan,Wed Dec 2 16:10:22 2015 -0800,Wed Dec 2 16:10:22 2015 -0800,Merge pull request #16 from XiaoxiongLu/master
+identity-toolkit-android/tutorial/build.gradle,3a1b7b6efb37f3ccb5c27fd114cf3736f681c45c,Derek Salama,Sat Oct 25 13:25:52 2014 -0700,Sat Oct 25 13:25:52 2014 -0700,Updating tutorial for new library
+identity-toolkit-android/tutorial/build.gradle,cfb1c9200f41ec11999fa1ffd1c28bfe2a379429,Mengcheng Duan,Fri Oct 10 14:08:52 2014 -0700,Fri Oct 10 14:08:52 2014 -0700,Merge pull request #5 from dereksalama/patch-4
+identity-toolkit-android/tutorial/build.gradle,795e91460c335892fe625c8e19ca5548dec89273,mcduan,Thu Aug 21 11:49:55 2014 -0700,Thu Aug 21 11:49:55 2014 -0700,Merge pull request #2 from dereksalama/patch-1
+identity-toolkit-android/tutorial/build.gradle,2feff8fe0c1950706fd7c9ae68327cd853484b3a,Jack Greenberg,Fri Jul 18 20:04:53 2014 -0700,Fri Jul 18 20:04:53 2014 -0700,Merge pull request #1 from mcduan/master
+identity-toolkit-android/identitytoolkit/build.gradle,2feff8fe0c1950706fd7c9ae68327cd853484b3a,Jack Greenberg,Fri Jul 18 20:04:53 2014 -0700,Fri Jul 18 20:04:53 2014 -0700,Merge pull request #1 from mcduan/master

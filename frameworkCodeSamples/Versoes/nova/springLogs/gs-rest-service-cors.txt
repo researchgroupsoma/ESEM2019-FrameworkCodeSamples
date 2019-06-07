@@ -1,0 +1,129 @@
+gs-rest-service-cors/complete/pom.xml,72e26eb4f7a29a1ad716541a2daeddb143e59c3e,Greg Turnquist,Mon Sep 17 10:51:22 2018 -0500,Mon Sep 17 10:51:22 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-rest-service-cors/complete/pom.xml,c332707f8d26a4e34fd3eb0e8c47c337585dd456,Greg Turnquist,Mon Jun 18 16:17:21 2018 -0500,Mon Jun 18 16:17:21 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-rest-service-cors/complete/pom.xml,8dd5effb2bd0cdabd0f89e85b6b19c266955fa85,Greg Turnquist,Wed May 9 11:27:08 2018 -0500,Wed May 9 11:27:08 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-rest-service-cors/complete/pom.xml,2c65077ee5f09a6842c33e1a935858a9403959c5,Greg Turnquist,Thu Apr 5 11:45:26 2018 -0500,Thu Apr 5 11:45:26 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-rest-service-cors/complete/pom.xml,e636f37203913cdcb6417a81de565dc8501e3ed6,Greg Turnquist,Thu Mar 1 09:54:26 2018 -0600,Mon Mar 5 21:22:57 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-rest-service-cors/complete/pom.xml,f1f7658c91f76cd09e8ccba38afef3f6f3b485af,Greg Turnquist,Wed Jan 31 09:16:44 2018 -0600,Wed Jan 31 09:16:44 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-rest-service-cors/complete/pom.xml,16fa8a9710ad7009e27d914a5023cc135c390ec1,Greg Turnquist,Thu Nov 30 11:07:24 2017 -0600,Thu Nov 30 11:07:24 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-rest-service-cors/complete/pom.xml,9641c4b8659c9a5be2e5fd3fe34697f75263dd6e,Greg Turnquist,Tue Oct 17 15:42:58 2017 -0500,Tue Oct 17 15:42:58 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-rest-service-cors/complete/pom.xml,1bf0cf5e0a3099a911df97b500d4b63fadc36912,Greg Turnquist,Wed Sep 13 13:16:07 2017 -0500,Wed Sep 13 13:16:07 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-rest-service-cors/complete/pom.xml,50be3d8029d78b57c849af7b726b7d6905273177,Greg Turnquist,Thu Jul 27 10:05:22 2017 -0500,Thu Jul 27 10:05:22 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-rest-service-cors/complete/pom.xml,05751a7418bfb6749b5cd703c247d67bf542ebf0,Greg Turnquist,Wed Jul 26 12:23:38 2017 -0500,Wed Jul 26 12:23:38 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-rest-service-cors/complete/pom.xml,e89834716801a478c0e265beffcf6d0731eba073,Greg Turnquist,Fri Apr 21 09:20:46 2017 -0500,Fri Apr 21 09:20:46 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-rest-service-cors/complete/pom.xml,42c565a021a72e56f26be33985eebf2eb64ef70c,Greg Turnquist,Fri Mar 3 11:13:46 2017 -0600,Fri Mar 3 11:13:46 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-rest-service-cors/complete/pom.xml,fd2750f86564bffa2dd120691bbbed47f17d1c8a,Greg Turnquist,Mon Jan 30 23:34:16 2017 -0600,Mon Jan 30 23:34:16 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-rest-service-cors/complete/pom.xml,9d3b780474f4741369af8ab289f5acc05a94f57b,Greg Turnquist,Mon Jan 30 11:39:04 2017 -0600,Mon Jan 30 11:39:04 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-rest-service-cors/complete/pom.xml,38a3f099446d628841147c9ed98e62c7447d1956,Greg Turnquist,Thu Jan 26 12:48:30 2017 -0600,Thu Jan 26 12:48:30 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-rest-service-cors/complete/pom.xml,2d68f8adee1a0e9b70d46b571d502ececb289dcc,Greg Turnquist,Thu Jan 26 12:38:10 2017 -0600,Thu Jan 26 12:38:10 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-rest-service-cors/complete/pom.xml,b7d94e1f7a752c5a95f5536db68ad78191ceeea8,Dave Syer,Thu Jan 26 10:19:03 2017 +0000,Thu Jan 26 10:22:37 2017 +0000,Tidy up test a bit (using RequestEntity)
+gs-rest-service-cors/complete/pom.xml,474c3aa67d6d29b003bc0f9838a5cd81e9348b3f,Greg Turnquist,Thu Dec 22 22:33:28 2016 -0600,Thu Dec 22 22:33:28 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-rest-service-cors/complete/pom.xml,413fd046d956cd398e852afebab28c6ad581f83b,Greg Turnquist,Tue Nov 8 11:53:00 2016 -0600,Tue Nov 8 11:53:00 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-rest-service-cors/complete/pom.xml,16af43a0e95759b1b7e9a8f759418d5b8c4b39ee,Greg Turnquist,Fri Sep 23 16:36:37 2016 -0500,Fri Sep 23 16:36:37 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-rest-service-cors/complete/pom.xml,a1319b70590bd077a1273da4e0155a6277725ac8,Sebastien Deleuze,Wed Aug 31 11:29:35 2016 +0200,Wed Aug 31 12:07:08 2016 +0200,Polish the code and add integration tests
+gs-rest-service-cors/complete/pom.xml,10fbc22729b0bd8aae71dbe499ad1e66c2f01d67,Greg Turnquist,Fri Jul 29 11:30:20 2016 -0500,Fri Jul 29 11:30:20 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-rest-service-cors/complete/pom.xml,fcc0cbd1fb16cc3e579bad10bb4bd14e04345514,Greg Turnquist,Thu Jul 28 06:53:19 2016 -0500,Thu Jul 28 06:53:19 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-rest-service-cors/complete/pom.xml,7481c47a5f629df18fc150daccb473e983db2930,Greg Turnquist,Tue Jul 5 13:52:49 2016 -0500,Tue Jul 5 13:52:49 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-rest-service-cors/complete/pom.xml,bcacf972dbf93fad6fe8f011867682ccc423944d,Greg Turnquist,Tue May 10 10:26:53 2016 -0500,Tue May 10 10:26:53 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-rest-service-cors/complete/pom.xml,dfd7af1db2859c50cbea266014b43bcc70fa7a2b,Greg Turnquist,Fri May 6 09:49:21 2016 -0500,Fri May 6 09:49:21 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-rest-service-cors/complete/pom.xml,d39288aaac791b1181a65661efa619f74d4cba34,Greg Turnquist,Fri Feb 26 07:30:23 2016 -0600,Fri Feb 26 07:30:23 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-rest-service-cors/complete/pom.xml,a9ee0b794923eabb6725d5a6b10203e51df2b725,Greg Turnquist,Thu Jan 21 21:29:19 2016 -0600,Thu Jan 21 21:29:19 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-rest-service-cors/complete/pom.xml,45640a83e9321e3aa338f217c61c3150b9e4da8c,Greg Turnquist,Fri Dec 18 09:40:34 2015 -0600,Fri Dec 18 09:40:34 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-rest-service-cors/complete/pom.xml,7c5a46f4a23ba437a512e97438fe9e109d7b9ca8,Sebastien Deleuze,Tue Nov 17 14:03:05 2015 +0100,Tue Nov 17 14:21:57 2015 +0100,Polish code samples
+gs-rest-service-cors/complete/pom.xml,b9b123e0003591fbd8f364a94227490b41750747,Greg Turnquist,Tue Nov 17 06:43:16 2015 -0600,Tue Nov 17 06:43:16 2015 -0600,Merge pull request #7 from sdeleuze/master
+gs-rest-service-cors/complete/pom.xml,2aa5e0c9b4ea5c4d28bc030ac6d0a1a4e2ed805e,Greg Turnquist,Mon Nov 16 11:10:59 2015 -0600,Mon Nov 16 11:10:59 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-rest-service-cors/complete/pom.xml,5f7c75fa04c432f8e57a6196eb4907048b26e105,Greg Turnquist,Fri Oct 16 09:44:04 2015 -0400,Fri Oct 16 09:44:27 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-rest-service-cors/complete/pom.xml,f8baac1b268cce77285e6fbe583040437408b212,Greg Turnquist,Sun Sep 20 15:41:56 2015 -0500,Sun Sep 20 15:41:56 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-rest-service-cors/complete/pom.xml,3e6870abe68ed31490b2c18bc7315b426c8dbe78,Greg Turnquist,Thu Jul 2 08:46:40 2015 -0500,Thu Jul 2 08:46:40 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-rest-service-cors/complete/pom.xml,227f32d5cddc464fb5c549510dc585a3f9dbc137,Greg Turnquist,Fri Jun 12 13:49:37 2015 -0400,Fri Jun 12 13:49:37 2015 -0400,Upgrade to Java 8
+gs-rest-service-cors/complete/pom.xml,0e345d677d0bc508cc22681e026b03201e132051,Greg Turnquist,Tue Jun 9 09:42:03 2015 -0400,Tue Jun 9 09:42:03 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-rest-service-cors/complete/pom.xml,2fd74b4e88d298062ed2ea4f12499cf86fc6599a,Greg Turnquist,Tue Mar 31 16:56:24 2015 -0500,Tue Mar 31 16:56:24 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-rest-service-cors/complete/pom.xml,1633f6fdaff687ba8194e2e3fa33a74bfd0d3b98,Greg Turnquist,Tue Mar 17 13:14:07 2015 -0500,Tue Mar 17 13:14:07 2015 -0500,Upgrade maven build to Java 7
+gs-rest-service-cors/complete/pom.xml,4be35f6554c67a502f08f2a7a91b1dfdbd97acca,Greg Turnquist,Thu Feb 26 22:40:01 2015 -0600,Thu Feb 26 22:40:01 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-rest-service-cors/complete/pom.xml,662481981634ba20c227bdec8134bc24c80d0bfa,Greg Turnquist,Wed Feb 18 11:08:16 2015 -0600,Wed Feb 18 11:08:16 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-rest-service-cors/complete/pom.xml,90cffd65222fa183e22c9643da8623a25e540e9c,Greg Turnquist,Wed Jan 14 12:34:12 2015 -0600,Wed Jan 14 12:34:12 2015 -0600,Remove legacy start-class property from maven builds
+gs-rest-service-cors/complete/pom.xml,6816e03cc9ec1d147049cf52ead1b782b2fdc597,Greg Turnquist,Thu Dec 11 11:08:12 2014 -0600,Thu Dec 11 11:08:12 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-rest-service-cors/complete/pom.xml,3ad58921901495f33b0d471f51b5c21140624d64,Greg Turnquist,Thu Nov 20 10:15:26 2014 -0600,Thu Nov 20 10:15:26 2014 -0600,Convert to use https for repositories
+gs-rest-service-cors/complete/pom.xml,3f5023f0d9f51c2aad8b05babf7cb3a3554454d2,Greg Turnquist,Wed Nov 12 13:08:44 2014 -0600,Wed Nov 12 13:08:44 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-rest-service-cors/complete/pom.xml,94077b79c3fee8e43986b7393c7b9bbb61c241e8,Greg Turnquist,Fri Oct 10 22:05:35 2014 -0500,Fri Oct 10 22:05:35 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-rest-service-cors/complete/pom.xml,84b5c2bdeac4738bba8f0e396bc97c1bb2bde256,Greg Turnquist,Mon Sep 29 12:42:47 2014 -0500,Mon Sep 29 12:42:47 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-rest-service-cors/complete/pom.xml,fd8bc5ff49b9180d3146a6c93f08a8bca4e7ccab,Greg Turnquist,Fri Sep 5 11:14:18 2014 -0500,Fri Sep 5 11:14:18 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-rest-service-cors/complete/pom.xml,4073b9afb200c698fbca192259edb07bf56da612,Greg Turnquist,Fri Aug 8 22:12:49 2014 -0500,Fri Aug 8 22:12:49 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-rest-service-cors/complete/pom.xml,063e708a3cf85b316994c0b93eef3841ba41cf4a,Greg Turnquist,Tue Jul 8 15:42:08 2014 -0500,Tue Jul 8 15:42:08 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-rest-service-cors/complete/pom.xml,f482d81b3159a668d43e117750c45ea67de049d2,Greg Turnquist,Fri Jun 27 22:55:39 2014 -0400,Fri Jun 27 22:55:39 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-rest-service-cors/complete/pom.xml,9fa78431290a56867f60afee69278e67ea004369,Greg Turnquist,Tue Jun 24 19:56:05 2014 -0400,Tue Jun 24 19:56:05 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-rest-service-cors/complete/pom.xml,6aedcb2b49f91cfc74a655ce3654039e14a1757a,Greg Turnquist,Wed Jun 11 16:48:49 2014 -0500,Wed Jun 11 16:48:49 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-rest-service-cors/complete/pom.xml,d0870e378655bfe566ffc9e7407d8b04ff448f53,Greg Turnquist,Wed Jun 11 09:09:12 2014 -0500,Wed Jun 11 09:09:12 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-rest-service-cors/complete/pom.xml,816781e1f0bc2fe42292c79ef7eba9d2088ac422,Greg Turnquist,Tue Jun 10 19:16:47 2014 -0500,Tue Jun 10 19:16:47 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-rest-service-cors/complete/pom.xml,4f4c8eac28827408e4a2a889952027e977de5cc7,Greg Turnquist,Thu Apr 24 09:37:29 2014 -0500,Thu Apr 24 09:37:29 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-rest-service-cors/complete/pom.xml,6b114c0655786e0fb3f33d3e8d4bbc32979cb0cf,Greg Turnquist,Thu Apr 17 23:26:17 2014 -0500,Thu Apr 17 23:26:17 2014 -0500,Fix the name of the artifact
+gs-rest-service-cors/complete/pom.xml,e18cb0c24b5a2e43b8438f6742c4246a233b3a8d,Greg Turnquist,Mon Apr 7 10:10:05 2014 -0500,Mon Apr 7 10:10:05 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-rest-service-cors/complete/pom.xml,87abd31d2cae5b0f91a344218a727efb52319822,Greg Turnquist,Tue Apr 1 15:11:43 2014 -0500,Tue Apr 1 15:11:43 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-rest-service-cors/complete/pom.xml,2470604cc6c543a211b7180607263a2473736728,Greg Turnquist,Sat Mar 22 07:18:18 2014 -0500,Sat Mar 22 07:18:18 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-rest-service-cors/complete/pom.xml,40fa993e2a9a23d0c12f31dbfca131da031c3a2c,Greg Turnquist,Tue Mar 4 15:10:33 2014 -0500,Tue Mar 4 15:10:33 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-rest-service-cors/complete/pom.xml,c40d64387e9b3542331de58ad0928aaa54286e92,Greg Turnquist,Fri Feb 14 11:24:03 2014 -0600,Fri Feb 14 11:24:03 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-rest-service-cors/complete/pom.xml,3351bd47ce7549469b473b20fc12ae0c122afed2,Greg Turnquist,Thu Feb 13 12:38:39 2014 -0600,Thu Feb 13 12:38:39 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-rest-service-cors/complete/pom.xml,40ae531f16383d3f3047e5602d57bfcb09a68028,Craig Walls,Mon Nov 25 11:20:39 2013 -0600,Mon Nov 25 11:20:39 2013 -0600,First draft CORS service guide.
+gs-rest-service-cors/initial/pom.xml,72e26eb4f7a29a1ad716541a2daeddb143e59c3e,Greg Turnquist,Mon Sep 17 10:51:22 2018 -0500,Mon Sep 17 10:51:22 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-rest-service-cors/initial/pom.xml,c332707f8d26a4e34fd3eb0e8c47c337585dd456,Greg Turnquist,Mon Jun 18 16:17:21 2018 -0500,Mon Jun 18 16:17:21 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-rest-service-cors/initial/pom.xml,8dd5effb2bd0cdabd0f89e85b6b19c266955fa85,Greg Turnquist,Wed May 9 11:27:08 2018 -0500,Wed May 9 11:27:08 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-rest-service-cors/initial/pom.xml,2c65077ee5f09a6842c33e1a935858a9403959c5,Greg Turnquist,Thu Apr 5 11:45:26 2018 -0500,Thu Apr 5 11:45:26 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-rest-service-cors/initial/pom.xml,e636f37203913cdcb6417a81de565dc8501e3ed6,Greg Turnquist,Thu Mar 1 09:54:26 2018 -0600,Mon Mar 5 21:22:57 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-rest-service-cors/initial/pom.xml,f1f7658c91f76cd09e8ccba38afef3f6f3b485af,Greg Turnquist,Wed Jan 31 09:16:44 2018 -0600,Wed Jan 31 09:16:44 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-rest-service-cors/initial/pom.xml,16fa8a9710ad7009e27d914a5023cc135c390ec1,Greg Turnquist,Thu Nov 30 11:07:24 2017 -0600,Thu Nov 30 11:07:24 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-rest-service-cors/initial/pom.xml,9641c4b8659c9a5be2e5fd3fe34697f75263dd6e,Greg Turnquist,Tue Oct 17 15:42:58 2017 -0500,Tue Oct 17 15:42:58 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-rest-service-cors/initial/pom.xml,1bf0cf5e0a3099a911df97b500d4b63fadc36912,Greg Turnquist,Wed Sep 13 13:16:07 2017 -0500,Wed Sep 13 13:16:07 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-rest-service-cors/initial/pom.xml,50be3d8029d78b57c849af7b726b7d6905273177,Greg Turnquist,Thu Jul 27 10:05:22 2017 -0500,Thu Jul 27 10:05:22 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-rest-service-cors/initial/pom.xml,05751a7418bfb6749b5cd703c247d67bf542ebf0,Greg Turnquist,Wed Jul 26 12:23:38 2017 -0500,Wed Jul 26 12:23:38 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-rest-service-cors/initial/pom.xml,e89834716801a478c0e265beffcf6d0731eba073,Greg Turnquist,Fri Apr 21 09:20:46 2017 -0500,Fri Apr 21 09:20:46 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-rest-service-cors/initial/pom.xml,42c565a021a72e56f26be33985eebf2eb64ef70c,Greg Turnquist,Fri Mar 3 11:13:46 2017 -0600,Fri Mar 3 11:13:46 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-rest-service-cors/initial/pom.xml,fd2750f86564bffa2dd120691bbbed47f17d1c8a,Greg Turnquist,Mon Jan 30 23:34:16 2017 -0600,Mon Jan 30 23:34:16 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-rest-service-cors/initial/pom.xml,9d3b780474f4741369af8ab289f5acc05a94f57b,Greg Turnquist,Mon Jan 30 11:39:04 2017 -0600,Mon Jan 30 11:39:04 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-rest-service-cors/initial/pom.xml,38a3f099446d628841147c9ed98e62c7447d1956,Greg Turnquist,Thu Jan 26 12:48:30 2017 -0600,Thu Jan 26 12:48:30 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-rest-service-cors/initial/pom.xml,2d68f8adee1a0e9b70d46b571d502ececb289dcc,Greg Turnquist,Thu Jan 26 12:38:10 2017 -0600,Thu Jan 26 12:38:10 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-rest-service-cors/initial/pom.xml,474c3aa67d6d29b003bc0f9838a5cd81e9348b3f,Greg Turnquist,Thu Dec 22 22:33:28 2016 -0600,Thu Dec 22 22:33:28 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-rest-service-cors/initial/pom.xml,413fd046d956cd398e852afebab28c6ad581f83b,Greg Turnquist,Tue Nov 8 11:53:00 2016 -0600,Tue Nov 8 11:53:00 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-rest-service-cors/initial/pom.xml,16af43a0e95759b1b7e9a8f759418d5b8c4b39ee,Greg Turnquist,Fri Sep 23 16:36:37 2016 -0500,Fri Sep 23 16:36:37 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-rest-service-cors/initial/pom.xml,10fbc22729b0bd8aae71dbe499ad1e66c2f01d67,Greg Turnquist,Fri Jul 29 11:30:20 2016 -0500,Fri Jul 29 11:30:20 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-rest-service-cors/initial/pom.xml,fcc0cbd1fb16cc3e579bad10bb4bd14e04345514,Greg Turnquist,Thu Jul 28 06:53:19 2016 -0500,Thu Jul 28 06:53:19 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-rest-service-cors/initial/pom.xml,7481c47a5f629df18fc150daccb473e983db2930,Greg Turnquist,Tue Jul 5 13:52:49 2016 -0500,Tue Jul 5 13:52:49 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-rest-service-cors/initial/pom.xml,bcacf972dbf93fad6fe8f011867682ccc423944d,Greg Turnquist,Tue May 10 10:26:53 2016 -0500,Tue May 10 10:26:53 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-rest-service-cors/initial/pom.xml,dfd7af1db2859c50cbea266014b43bcc70fa7a2b,Greg Turnquist,Fri May 6 09:49:21 2016 -0500,Fri May 6 09:49:21 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-rest-service-cors/initial/pom.xml,d39288aaac791b1181a65661efa619f74d4cba34,Greg Turnquist,Fri Feb 26 07:30:23 2016 -0600,Fri Feb 26 07:30:23 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-rest-service-cors/initial/pom.xml,a9ee0b794923eabb6725d5a6b10203e51df2b725,Greg Turnquist,Thu Jan 21 21:29:19 2016 -0600,Thu Jan 21 21:29:19 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-rest-service-cors/initial/pom.xml,45640a83e9321e3aa338f217c61c3150b9e4da8c,Greg Turnquist,Fri Dec 18 09:40:34 2015 -0600,Fri Dec 18 09:40:34 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-rest-service-cors/initial/pom.xml,7c5a46f4a23ba437a512e97438fe9e109d7b9ca8,Sebastien Deleuze,Tue Nov 17 14:03:05 2015 +0100,Tue Nov 17 14:21:57 2015 +0100,Polish code samples
+gs-rest-service-cors/initial/pom.xml,b9b123e0003591fbd8f364a94227490b41750747,Greg Turnquist,Tue Nov 17 06:43:16 2015 -0600,Tue Nov 17 06:43:16 2015 -0600,Merge pull request #7 from sdeleuze/master
+gs-rest-service-cors/initial/pom.xml,2aa5e0c9b4ea5c4d28bc030ac6d0a1a4e2ed805e,Greg Turnquist,Mon Nov 16 11:10:59 2015 -0600,Mon Nov 16 11:10:59 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-rest-service-cors/initial/pom.xml,5f7c75fa04c432f8e57a6196eb4907048b26e105,Greg Turnquist,Fri Oct 16 09:44:04 2015 -0400,Fri Oct 16 09:44:27 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-rest-service-cors/initial/pom.xml,f8baac1b268cce77285e6fbe583040437408b212,Greg Turnquist,Sun Sep 20 15:41:56 2015 -0500,Sun Sep 20 15:41:56 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-rest-service-cors/initial/pom.xml,3e6870abe68ed31490b2c18bc7315b426c8dbe78,Greg Turnquist,Thu Jul 2 08:46:40 2015 -0500,Thu Jul 2 08:46:40 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-rest-service-cors/initial/pom.xml,227f32d5cddc464fb5c549510dc585a3f9dbc137,Greg Turnquist,Fri Jun 12 13:49:37 2015 -0400,Fri Jun 12 13:49:37 2015 -0400,Upgrade to Java 8
+gs-rest-service-cors/initial/pom.xml,0e345d677d0bc508cc22681e026b03201e132051,Greg Turnquist,Tue Jun 9 09:42:03 2015 -0400,Tue Jun 9 09:42:03 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-rest-service-cors/initial/pom.xml,2fd74b4e88d298062ed2ea4f12499cf86fc6599a,Greg Turnquist,Tue Mar 31 16:56:24 2015 -0500,Tue Mar 31 16:56:24 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-rest-service-cors/initial/pom.xml,1633f6fdaff687ba8194e2e3fa33a74bfd0d3b98,Greg Turnquist,Tue Mar 17 13:14:07 2015 -0500,Tue Mar 17 13:14:07 2015 -0500,Upgrade maven build to Java 7
+gs-rest-service-cors/initial/pom.xml,4be35f6554c67a502f08f2a7a91b1dfdbd97acca,Greg Turnquist,Thu Feb 26 22:40:01 2015 -0600,Thu Feb 26 22:40:01 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-rest-service-cors/initial/pom.xml,662481981634ba20c227bdec8134bc24c80d0bfa,Greg Turnquist,Wed Feb 18 11:08:16 2015 -0600,Wed Feb 18 11:08:16 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-rest-service-cors/initial/pom.xml,90cffd65222fa183e22c9643da8623a25e540e9c,Greg Turnquist,Wed Jan 14 12:34:12 2015 -0600,Wed Jan 14 12:34:12 2015 -0600,Remove legacy start-class property from maven builds
+gs-rest-service-cors/initial/pom.xml,6816e03cc9ec1d147049cf52ead1b782b2fdc597,Greg Turnquist,Thu Dec 11 11:08:12 2014 -0600,Thu Dec 11 11:08:12 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-rest-service-cors/initial/pom.xml,3ad58921901495f33b0d471f51b5c21140624d64,Greg Turnquist,Thu Nov 20 10:15:26 2014 -0600,Thu Nov 20 10:15:26 2014 -0600,Convert to use https for repositories
+gs-rest-service-cors/initial/pom.xml,3f5023f0d9f51c2aad8b05babf7cb3a3554454d2,Greg Turnquist,Wed Nov 12 13:08:44 2014 -0600,Wed Nov 12 13:08:44 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-rest-service-cors/initial/pom.xml,94077b79c3fee8e43986b7393c7b9bbb61c241e8,Greg Turnquist,Fri Oct 10 22:05:35 2014 -0500,Fri Oct 10 22:05:35 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-rest-service-cors/initial/pom.xml,84b5c2bdeac4738bba8f0e396bc97c1bb2bde256,Greg Turnquist,Mon Sep 29 12:42:47 2014 -0500,Mon Sep 29 12:42:47 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-rest-service-cors/initial/pom.xml,fd8bc5ff49b9180d3146a6c93f08a8bca4e7ccab,Greg Turnquist,Fri Sep 5 11:14:18 2014 -0500,Fri Sep 5 11:14:18 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-rest-service-cors/initial/pom.xml,4073b9afb200c698fbca192259edb07bf56da612,Greg Turnquist,Fri Aug 8 22:12:49 2014 -0500,Fri Aug 8 22:12:49 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-rest-service-cors/initial/pom.xml,063e708a3cf85b316994c0b93eef3841ba41cf4a,Greg Turnquist,Tue Jul 8 15:42:08 2014 -0500,Tue Jul 8 15:42:08 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-rest-service-cors/initial/pom.xml,f482d81b3159a668d43e117750c45ea67de049d2,Greg Turnquist,Fri Jun 27 22:55:39 2014 -0400,Fri Jun 27 22:55:39 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-rest-service-cors/initial/pom.xml,9fa78431290a56867f60afee69278e67ea004369,Greg Turnquist,Tue Jun 24 19:56:05 2014 -0400,Tue Jun 24 19:56:05 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-rest-service-cors/initial/pom.xml,6aedcb2b49f91cfc74a655ce3654039e14a1757a,Greg Turnquist,Wed Jun 11 16:48:49 2014 -0500,Wed Jun 11 16:48:49 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-rest-service-cors/initial/pom.xml,d0870e378655bfe566ffc9e7407d8b04ff448f53,Greg Turnquist,Wed Jun 11 09:09:12 2014 -0500,Wed Jun 11 09:09:12 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-rest-service-cors/initial/pom.xml,816781e1f0bc2fe42292c79ef7eba9d2088ac422,Greg Turnquist,Tue Jun 10 19:16:47 2014 -0500,Tue Jun 10 19:16:47 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-rest-service-cors/initial/pom.xml,4f4c8eac28827408e4a2a889952027e977de5cc7,Greg Turnquist,Thu Apr 24 09:37:29 2014 -0500,Thu Apr 24 09:37:29 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-rest-service-cors/initial/pom.xml,6b114c0655786e0fb3f33d3e8d4bbc32979cb0cf,Greg Turnquist,Thu Apr 17 23:26:17 2014 -0500,Thu Apr 17 23:26:17 2014 -0500,Fix the name of the artifact
+gs-rest-service-cors/initial/pom.xml,e18cb0c24b5a2e43b8438f6742c4246a233b3a8d,Greg Turnquist,Mon Apr 7 10:10:05 2014 -0500,Mon Apr 7 10:10:05 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-rest-service-cors/initial/pom.xml,87abd31d2cae5b0f91a344218a727efb52319822,Greg Turnquist,Tue Apr 1 15:11:43 2014 -0500,Tue Apr 1 15:11:43 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-rest-service-cors/initial/pom.xml,2470604cc6c543a211b7180607263a2473736728,Greg Turnquist,Sat Mar 22 07:18:18 2014 -0500,Sat Mar 22 07:18:18 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-rest-service-cors/initial/pom.xml,40fa993e2a9a23d0c12f31dbfca131da031c3a2c,Greg Turnquist,Tue Mar 4 15:10:33 2014 -0500,Tue Mar 4 15:10:33 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-rest-service-cors/initial/pom.xml,e4bf6b277087e71c444cc3406bb2775f8f88c83f,Greg Turnquist,Tue Feb 18 16:34:44 2014 -0600,Tue Feb 18 16:34:44 2014 -0600,Move final build file to the beginning and update guides to reflect this
+gs-rest-service-cors/initial/pom.xml,c40d64387e9b3542331de58ad0928aaa54286e92,Greg Turnquist,Fri Feb 14 11:24:03 2014 -0600,Fri Feb 14 11:24:03 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-rest-service-cors/initial/pom.xml,3351bd47ce7549469b473b20fc12ae0c122afed2,Greg Turnquist,Thu Feb 13 12:38:39 2014 -0600,Thu Feb 13 12:38:39 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-rest-service-cors/initial/pom.xml,40ae531f16383d3f3047e5602d57bfcb09a68028,Craig Walls,Mon Nov 25 11:20:39 2013 -0600,Mon Nov 25 11:20:39 2013 -0600,First draft CORS service guide.

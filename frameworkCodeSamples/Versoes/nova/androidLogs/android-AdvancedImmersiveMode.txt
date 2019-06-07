@@ -1,0 +1,20 @@
+android-AdvancedImmersiveMode/build.gradle,b01c775fc20ae4556f720927910189d3abd302cf,google-automerger,Tue Sep 2 10:59:54 2014 -0700,Tue Sep 2 10:59:54 2014 -0700,Initial Commit
+android-AdvancedImmersiveMode/Application/build.gradle,9e4bdb44772d4af8f936efec54d26c98abc672f9,google-automerger,Thu Feb 15 16:34:10 2018 -0800,Thu Feb 15 16:34:10 2018 -0800,Auto-update
+android-AdvancedImmersiveMode/Application/build.gradle,d4f4d2e90ffe04c8a3133f87535a92e8ba4e3c77,google-automerger,Tue Oct 10 17:50:27 2017 -0700,Tue Oct 10 17:50:27 2017 -0700,Auto-update
+android-AdvancedImmersiveMode/Application/build.gradle,fe4ca231dde762d040e0fa8a10219e1d808c9c23,google-automerger,Thu Jun 8 09:32:15 2017 -0700,Thu Jun 8 09:32:15 2017 -0700,Auto-update
+android-AdvancedImmersiveMode/Application/build.gradle,309a0e90af381d82b034b8df3ff252512fa32b33,google-automerger,Wed May 17 13:31:02 2017 -0700,Wed May 17 13:31:02 2017 -0700,Auto-update
+android-AdvancedImmersiveMode/Application/build.gradle,f0c135d4b9ebff694de24f7cae78a8de40f6e607,google-automerger,Tue Dec 13 09:38:19 2016 -0800,Tue Dec 13 09:38:19 2016 -0800,Auto-update
+android-AdvancedImmersiveMode/Application/build.gradle,9541a0912fc9615c2e36e1a31b16979346635a12,google-automerger,Fri Aug 12 15:17:14 2016 -0700,Fri Aug 12 15:17:14 2016 -0700,Auto-update
+android-AdvancedImmersiveMode/Application/build.gradle,6a156dcaa9f7fb584121709ab397dd4ecee7929b,google-automerger,Wed May 18 11:37:29 2016 -0700,Wed May 18 11:37:29 2016 -0700,Auto-update
+android-AdvancedImmersiveMode/Application/build.gradle,e2772d2d39fd7706d472ea157d1321919a4f25c5,google-automerger,Wed Apr 20 12:25:27 2016 -0700,Wed Apr 20 12:25:27 2016 -0700,Auto-update
+android-AdvancedImmersiveMode/Application/build.gradle,b01832b6cb3883374807f42451019ce038712b6b,google-automerger,Wed Nov 18 09:32:31 2015 -0800,Wed Nov 18 09:32:31 2015 -0800,Auto-update
+android-AdvancedImmersiveMode/Application/build.gradle,0624d80df93a1f2e4cffa0987c521d2ec740a36f,google-automerger,Thu Oct 8 17:41:49 2015 -0700,Thu Oct 8 17:41:49 2015 -0700,Auto-update
+android-AdvancedImmersiveMode/Application/build.gradle,e2223f6ba33b3f514aee3642783072778d082fa2,google-automerger,Mon Aug 17 09:53:45 2015 -0700,Mon Aug 17 09:53:45 2015 -0700,Auto-update
+android-AdvancedImmersiveMode/Application/build.gradle,6bd029c25c7e978422869ece26be5b99e29f0852,google-automerger,Thu Jul 9 11:09:40 2015 -0700,Thu Jul 9 11:09:40 2015 -0700,Auto-update
+android-AdvancedImmersiveMode/Application/build.gradle,ff668739cc95531374d43ffc2ee76ae28772b9d8,google-automerger,Thu May 21 10:03:16 2015 -0700,Thu May 21 10:03:16 2015 -0700,Auto-update
+android-AdvancedImmersiveMode/Application/build.gradle,b5e875e012dc560e958b0e62468043c6aa4e551c,google-automerger,Tue Apr 28 10:52:58 2015 -0700,Tue Apr 28 10:52:58 2015 -0700,Auto-update
+android-AdvancedImmersiveMode/Application/build.gradle,432308df6c439e63c1ac40e21e81c2bfb8340024,google-automerger,Mon Mar 30 17:42:29 2015 -0700,Mon Mar 30 17:42:29 2015 -0700,Auto-update
+android-AdvancedImmersiveMode/Application/build.gradle,689d3b5cb0575ee53596c6323b6d9fe07a36bfad,google-automerger,Wed Jan 21 12:13:29 2015 -0800,Wed Jan 21 12:13:29 2015 -0800,Auto-update
+android-AdvancedImmersiveMode/Application/build.gradle,9f37d4f018e86d75da55e62063b643412f0f735b,google-automerger,Mon Dec 8 17:47:36 2014 -0800,Mon Dec 8 17:47:36 2014 -0800,Auto-update
+android-AdvancedImmersiveMode/Application/build.gradle,1fae324e1416281160609701c9747224cbe3b11a,google-automerger,Wed Dec 3 01:41:37 2014 -0800,Wed Dec 3 01:41:37 2014 -0800,Auto-update
+android-AdvancedImmersiveMode/Application/build.gradle,95df1a69b2ab29d538ce86a09d7ccfff5e9b2f98,google-automerger,Tue Nov 18 16:16:34 2014 -0800,Tue Nov 18 16:16:34 2014 -0800,Auto-update

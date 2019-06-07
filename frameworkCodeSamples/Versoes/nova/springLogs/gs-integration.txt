@@ -1,0 +1,154 @@
+gs-integration/complete/pom.xml,475f3cb5d899c27ee48e2c662ce8f3802edb26ea,Greg Turnquist,Mon Sep 17 10:50:33 2018 -0500,Mon Sep 17 10:50:33 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-integration/complete/pom.xml,d3544faab2a82c2c9f827857b946d90bc208604e,Greg Turnquist,Mon Jun 18 16:16:39 2018 -0500,Mon Jun 18 16:16:39 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-integration/complete/pom.xml,344d38bbc4bb499448c9db39e1833d760b3d8c90,Greg Turnquist,Wed May 9 11:26:26 2018 -0500,Wed May 9 11:26:26 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-integration/complete/pom.xml,0e6cfe5643370580577a83df83f154b9038b977d,Greg Turnquist,Thu Apr 5 11:44:44 2018 -0500,Thu Apr 5 11:44:44 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-integration/complete/pom.xml,cc3bee19e87c8bce6144528fce986af422921d7a,Greg Turnquist,Thu Mar 1 09:53:13 2018 -0600,Mon Mar 5 11:14:33 2018 -0500,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-integration/complete/pom.xml,5b4b4dfd817de9ef036d4748286fbfa44c9e6d56,Greg Turnquist,Wed Jan 31 09:16:07 2018 -0600,Wed Jan 31 09:16:07 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-integration/complete/pom.xml,31937a49bbb58e18d75635ccf0e550cf8a061ce6,Greg Turnquist,Thu Nov 30 11:06:40 2017 -0600,Thu Nov 30 11:06:40 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-integration/complete/pom.xml,9b10f7c10665d41199601d4a5ca51d6e7e3dc296,Greg Turnquist,Tue Oct 17 15:42:23 2017 -0500,Tue Oct 17 15:42:23 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-integration/complete/pom.xml,fff399feb2012f828138972da24ff37dc3716c8e,Greg Turnquist,Wed Sep 13 13:15:25 2017 -0500,Wed Sep 13 13:15:25 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-integration/complete/pom.xml,a504a9bc27a76f972c5cf952527216c859c80d1c,Greg Turnquist,Sat Aug 12 10:18:06 2017 -0500,Sat Aug 12 10:18:06 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-integration/complete/pom.xml,bf1d76f3a3139b64e16b0eacb744bf085e3f7ae7,Greg Turnquist,Mon Jan 30 23:30:35 2017 -0600,Mon Jan 30 23:30:35 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-integration/complete/pom.xml,509d870065b35dbc9386aa2ba1db7722614998a8,Greg Turnquist,Mon Jan 30 11:38:21 2017 -0600,Mon Jan 30 11:38:21 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-integration/complete/pom.xml,009e6006cf747332514615fe06dc67847e016a8f,Greg Turnquist,Thu Jan 26 12:47:49 2017 -0600,Thu Jan 26 12:47:49 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-integration/complete/pom.xml,f90be5f0e13052686b34143be0479b125b47dbf6,Greg Turnquist,Thu Jan 26 12:37:26 2017 -0600,Thu Jan 26 12:37:26 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-integration/complete/pom.xml,afb1e1c98f304248fad680201e4742fcef423b81,Greg Turnquist,Thu Dec 22 22:32:46 2016 -0600,Thu Dec 22 22:32:46 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-integration/complete/pom.xml,7306e41fb5666aa075f6e7c9df5548252dc656ec,Greg Turnquist,Tue Nov 8 11:52:34 2016 -0600,Tue Nov 8 11:52:34 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-integration/complete/pom.xml,4f75b893092fae61282a58d5284b9255d316e5a4,Greg Turnquist,Fri Sep 23 16:36:12 2016 -0500,Fri Sep 23 16:36:12 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-integration/complete/pom.xml,f0f1f69bbde3663b606743026544e241950fc4fa,Gary Russell,Fri Aug 26 18:12:34 2016 -0400,Sat Aug 27 09:02:18 2016 -0400,Polishing and Add Test
+gs-integration/complete/pom.xml,4846b99d000fea35a88dcbeebc46c3c11ca85579,Artem Bilan,Fri Aug 19 14:54:49 2016 -0400,Fri Aug 19 13:54:49 2016 -0500,Add `spring-integration-file` dependency (#15)
+gs-integration/complete/pom.xml,444b59ff7bbe8633aac1a60bce01bcc133de75ee,Greg Turnquist,Fri Jul 29 11:28:24 2016 -0500,Fri Jul 29 11:28:24 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-integration/complete/pom.xml,fc875cc32096b3824c8d838c2e03654b693f6549,Greg Turnquist,Thu Jul 28 06:52:55 2016 -0500,Thu Jul 28 06:52:55 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-integration/complete/pom.xml,beef83f0d3f7c7cf5912e94aa19d9de4a336ce78,Greg Turnquist,Tue Jul 5 13:52:27 2016 -0500,Tue Jul 5 13:52:27 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-integration/complete/pom.xml,2057b86cd2ee9b8d69fbdb271abdd7183a6f896d,Greg Turnquist,Tue May 10 10:26:31 2016 -0500,Tue May 10 10:26:31 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-integration/complete/pom.xml,95bcefa3c12e27bb3394a40dac247856fb9ae592,Greg Turnquist,Fri May 6 09:48:55 2016 -0500,Fri May 6 09:48:55 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-integration/complete/pom.xml,7c5a31021e5f9ea8060912b3fa3a1cb8ccb88d6f,Greg Turnquist,Fri Feb 26 07:29:59 2016 -0600,Fri Feb 26 07:29:59 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-integration/complete/pom.xml,120000e12b94f88585fb9bbf11a4133b88b32d10,Greg Turnquist,Thu Jan 21 21:28:57 2016 -0600,Thu Jan 21 21:28:57 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-integration/complete/pom.xml,2565e635d4c2f4d5a0d84fa9d66b505b8f15a117,Greg Turnquist,Fri Dec 18 09:40:17 2015 -0600,Fri Dec 18 09:40:17 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-integration/complete/pom.xml,30d2b50479f829fce17dc0421330a7fab4602e7a,Greg Turnquist,Mon Nov 16 11:10:41 2015 -0600,Mon Nov 16 11:10:41 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-integration/complete/pom.xml,84fce872b8acc69cb68cb69a26773e459f62854e,Artem Bilan,Mon Oct 26 20:22:18 2015 -0400,Mon Oct 26 20:22:18 2015 -0400,GH-11: Add `System.in` hook to build.gradle
+gs-integration/complete/pom.xml,7d55da34c749e15f0d8045c19c71c7ee73dd2583,Greg Turnquist,Fri Oct 16 09:43:41 2015 -0400,Fri Oct 16 09:43:41 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-integration/complete/pom.xml,1c3915f56025ae5bd10c63a22eaa4b1f782473a0,Greg Turnquist,Sun Sep 20 15:41:39 2015 -0500,Sun Sep 20 15:41:39 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-integration/complete/pom.xml,180fcf12869cc440826b0690756f74322fd5a4c1,Greg Turnquist,Thu Jul 2 08:46:10 2015 -0500,Thu Jul 2 08:46:10 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-integration/complete/pom.xml,c382e9331f055e7637aefac0673fe70211214ccb,Greg Turnquist,Fri Jun 12 14:04:31 2015 -0400,Fri Jun 12 14:04:31 2015 -0400,Upgrade non-specific guides to Java 8
+gs-integration/complete/pom.xml,1d37a815536c777a801309f1a32aa83b7130d016,Greg Turnquist,Tue Jun 9 09:41:50 2015 -0400,Tue Jun 9 09:41:50 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-integration/complete/pom.xml,eab1c633eb2ed9017fa2578c6963b1f687e281d0,Greg Turnquist,Tue Mar 31 16:56:12 2015 -0500,Tue Mar 31 16:56:12 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-integration/complete/pom.xml,b1f6b912c3e2ef09afd8282b2ea8066238c00ab0,Greg Turnquist,Thu Feb 26 22:39:44 2015 -0600,Thu Feb 26 22:39:44 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-integration/complete/pom.xml,fbb070fac3e44185dc89e74910793de218673089,Greg Turnquist,Wed Feb 18 11:08:02 2015 -0600,Wed Feb 18 11:08:02 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-integration/complete/pom.xml,09e8c41a8874b8fde8d191dfc023f7bd6d06c24c,Greg Turnquist,Wed Jan 14 12:33:56 2015 -0600,Wed Jan 14 12:33:56 2015 -0600,Remove legacy start-class property from maven builds
+gs-integration/complete/pom.xml,7c595c31eaec116bcd8fd340a709d8e6ab5b71eb,Greg Turnquist,Thu Dec 11 11:07:56 2014 -0600,Thu Dec 11 11:07:56 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-integration/complete/pom.xml,0732ec5800d68a7394db368b21c0188d06ae5c5f,Greg Turnquist,Tue Nov 25 15:58:34 2014 -0600,Tue Nov 25 15:58:34 2014 -0600,Merge pull request #9 from garyrussell/feed
+gs-integration/complete/pom.xml,516257c9cbbde14294c816381f6be0e252c199ca,Greg Turnquist,Thu Nov 20 10:15:11 2014 -0600,Thu Nov 20 10:15:11 2014 -0600,Convert to use https for repositories
+gs-integration/complete/pom.xml,68f7b84d9057d7745b66f15a9977f4e27dd1421b,Greg Turnquist,Wed Nov 12 13:08:20 2014 -0600,Wed Nov 12 13:08:20 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-integration/complete/pom.xml,5c76cefbe7ad027286d0af93b7842cb5f07440de,Greg Turnquist,Fri Oct 10 22:05:19 2014 -0500,Fri Oct 10 22:05:19 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-integration/complete/pom.xml,5a520144f088de11fafb3b4ac5357b49f9805f55,Greg Turnquist,Mon Sep 29 12:42:33 2014 -0500,Mon Sep 29 12:42:33 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-integration/complete/pom.xml,6ca5aa0f8cd34e6a7c7f094f4e090095997a6c26,Greg Turnquist,Fri Sep 5 11:14:01 2014 -0500,Fri Sep 5 11:14:01 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-integration/complete/pom.xml,09491fd76c9ef2783dc8938937c849e0cdcbad2d,Greg Turnquist,Fri Aug 8 22:12:35 2014 -0500,Fri Aug 8 22:12:35 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-integration/complete/pom.xml,20c48abe465682113408125f41683a8c135e220f,Greg Turnquist,Mon Jul 14 17:38:01 2014 -0500,Mon Jul 14 17:38:01 2014 -0500,Merge pull request #8 from garyrussell/master
+gs-integration/complete/pom.xml,291659c2c5e1e6321158a47d257ac471b4bbf263,Greg Turnquist,Tue Jul 8 15:41:52 2014 -0500,Tue Jul 8 15:41:52 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-integration/complete/pom.xml,d2f8d256c354adb5b61b5ce63bfa9a09e14610f9,Greg Turnquist,Fri Jun 27 22:55:26 2014 -0400,Fri Jun 27 22:55:26 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-integration/complete/pom.xml,40d3b8d8aad6d89ed46aa2c42134e0dcf105b259,Greg Turnquist,Tue Jun 24 19:55:50 2014 -0400,Tue Jun 24 19:55:50 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-integration/complete/pom.xml,6208e0e800550255d2b4fd6c6ec2b284ee8cd47b,Greg Turnquist,Wed Jun 11 16:48:29 2014 -0500,Wed Jun 11 16:48:29 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-integration/complete/pom.xml,1591f4228fdff83358ad909ac4ca0284326c21a6,Greg Turnquist,Wed Jun 11 09:09:00 2014 -0500,Wed Jun 11 09:09:00 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-integration/complete/pom.xml,12f2300da46ce2c142f2afef6531e2b2ca5b3bbf,Greg Turnquist,Tue Jun 10 19:16:32 2014 -0500,Tue Jun 10 19:16:32 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-integration/complete/pom.xml,e9a2e2317ddbb473e09483a41697f11c7c2db3dc,Greg Turnquist,Thu Apr 24 09:37:12 2014 -0500,Thu Apr 24 09:37:12 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-integration/complete/pom.xml,7411d2bea85ce37d826a399b221fd1d8387010d7,Greg Turnquist,Mon Apr 7 10:09:45 2014 -0500,Mon Apr 7 10:09:45 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-integration/complete/pom.xml,d8800c5cc385316e5be39ba347d769e50dabe803,Greg Turnquist,Tue Apr 1 15:11:25 2014 -0500,Tue Apr 1 15:11:25 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-integration/complete/pom.xml,c07591553aa3b7d1b35baa259ff87eead49ba34b,Greg Turnquist,Sat Mar 22 07:18:00 2014 -0500,Sat Mar 22 07:18:00 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-integration/complete/pom.xml,52e65a1e51a9cf80db97083773f9a1a45dafc61c,Greg Turnquist,Tue Mar 4 15:09:24 2014 -0500,Tue Mar 4 15:09:24 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-integration/complete/pom.xml,5bc9dc0afefb9ef5b5606a72fc8ad73a74c61efb,Greg Turnquist,Fri Feb 14 11:23:43 2014 -0600,Fri Feb 14 11:23:43 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-integration/complete/pom.xml,a25ec9b32463cf455ed60fa2ba4a6052cdbfc5f2,Greg Turnquist,Thu Feb 13 12:38:22 2014 -0600,Thu Feb 13 12:38:22 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-integration/complete/pom.xml,a9620801c5e325e7bae701f304e70a7d92f5ec2d,Andi Rustandi Djunaedi,Thu Jan 30 07:08:53 2014 +0800,Thu Jan 30 07:08:53 2014 +0800,Update spring-integration-twitter to 3.0.0.RELEASE
+gs-integration/complete/pom.xml,4ba32e751cb0369d5ccac1d8c5c63ef77f4ac7a1,Greg Turnquist,Wed Jan 22 12:21:22 2014 -0600,Wed Jan 22 12:21:22 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-integration/complete/pom.xml,0a0ca495b1d947debb21769b30c825aa45fb6297,Greg Turnquist,Tue Nov 19 10:27:50 2013 -0600,Tue Nov 19 10:27:50 2013 -0600,Upgraded to Spring Boot 0.5.0.M6
+gs-integration/complete/pom.xml,e4015d0c23eb04ff00fd426cc4d351f001d95d21,Greg Turnquist,Wed Oct 30 10:03:40 2013 -0500,Wed Oct 30 10:03:40 2013 -0500,Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+gs-integration/complete/pom.xml,e7680e957bb4143c3afd2dc68f487a268ea0281d,Greg Turnquist,Mon Sep 30 08:18:57 2013 -0500,Mon Sep 30 08:18:57 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-integration/complete/pom.xml,0b03e02a611b9784bf75a155e96ef0a323117aa2,Greg Turnquist,Fri Sep 27 10:32:02 2013 -0500,Fri Sep 27 10:32:02 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-integration/complete/pom.xml,9e01fec6534151ba1272238bff8450a3200efeae,Greg Turnquist,Fri Aug 30 16:42:01 2013 -0500,Fri Aug 30 16:42:01 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-integration/complete/pom.xml,821c5f6a90c9aaaa5ec02de76998d27b4104858e,Greg Turnquist,Fri Aug 16 11:03:41 2013 -0500,Fri Aug 16 11:03:41 2013 -0500,Convert guide to gradle
+gs-integration/complete/pom.xml,73a33cd4e6f97cc00cbc6203f181905b341c6545,Greg Turnquist,Fri Aug 9 13:18:16 2013 -0500,Fri Aug 9 13:18:16 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-integration/complete/pom.xml,d139ff74acc164212a7d38ec65e618bd43835e3f,Roy Clarkson,Thu Aug 8 00:01:07 2013 -0400,Thu Aug 8 00:01:07 2013 -0400,Update pom repositories
+gs-integration/complete/pom.xml,d39038d3e7e3d6300b7332c311121c4f3a3f1ce0,Greg Turnquist,Tue Aug 6 14:43:40 2013 -0500,Tue Aug 6 14:43:40 2013 -0500,Use libs-snapshot instead of snapshot
+gs-integration/complete/pom.xml,9b1ce341626630cf97ed7bacc1315a0e58bfbcc9,Greg Turnquist,Wed Jul 31 15:42:42 2013 -0400,Wed Jul 31 15:42:42 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-integration/complete/pom.xml,dc723dce11e6e0c6ce6ebe8abc616f4193a6dbc2,Greg Turnquist,Tue Jul 30 10:19:22 2013 -0400,Tue Jul 30 10:19:22 2013 -0400,Upgrade to Spring Boot
+gs-integration/complete/pom.xml,8858b8060d232d252bfcadcf445d7993dd7ae04e,Greg Turnquist,Fri Jul 19 16:17:40 2013 -0400,Fri Jul 19 16:17:40 2013 -0400,Convert to spring-package-maven-plugin and Spring Zero
+gs-integration/complete/pom.xml,5936e59c8b13e99ca5e3af866f92302a035f29b3,Greg Turnquist,Thu Jul 18 10:41:15 2013 -0400,Thu Jul 18 10:41:15 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-integration/complete/pom.xml,2d98894fbd10e0ce131cece315b6eee4269af3c0,Craig Walls,Tue Jun 25 20:25:06 2013 -0500,Tue Jun 25 20:25:06 2013 -0500,Adapt pom.xml to be Bootstrap-ified.
+gs-integration/complete/pom.xml,70f0e5f05917937a4b03c94c4205a4d1ec22f927,Craig Walls,Tue Jun 25 18:22:46 2013 -0500,Tue Jun 25 18:22:46 2013 -0500,First cut at SI sample
+gs-integration/initial/pom.xml,475f3cb5d899c27ee48e2c662ce8f3802edb26ea,Greg Turnquist,Mon Sep 17 10:50:33 2018 -0500,Mon Sep 17 10:50:33 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-integration/initial/pom.xml,d3544faab2a82c2c9f827857b946d90bc208604e,Greg Turnquist,Mon Jun 18 16:16:39 2018 -0500,Mon Jun 18 16:16:39 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-integration/initial/pom.xml,344d38bbc4bb499448c9db39e1833d760b3d8c90,Greg Turnquist,Wed May 9 11:26:26 2018 -0500,Wed May 9 11:26:26 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-integration/initial/pom.xml,0e6cfe5643370580577a83df83f154b9038b977d,Greg Turnquist,Thu Apr 5 11:44:44 2018 -0500,Thu Apr 5 11:44:44 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-integration/initial/pom.xml,cc3bee19e87c8bce6144528fce986af422921d7a,Greg Turnquist,Thu Mar 1 09:53:13 2018 -0600,Mon Mar 5 11:14:33 2018 -0500,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-integration/initial/pom.xml,5b4b4dfd817de9ef036d4748286fbfa44c9e6d56,Greg Turnquist,Wed Jan 31 09:16:07 2018 -0600,Wed Jan 31 09:16:07 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-integration/initial/pom.xml,31937a49bbb58e18d75635ccf0e550cf8a061ce6,Greg Turnquist,Thu Nov 30 11:06:40 2017 -0600,Thu Nov 30 11:06:40 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-integration/initial/pom.xml,9b10f7c10665d41199601d4a5ca51d6e7e3dc296,Greg Turnquist,Tue Oct 17 15:42:23 2017 -0500,Tue Oct 17 15:42:23 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-integration/initial/pom.xml,fff399feb2012f828138972da24ff37dc3716c8e,Greg Turnquist,Wed Sep 13 13:15:25 2017 -0500,Wed Sep 13 13:15:25 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-integration/initial/pom.xml,a504a9bc27a76f972c5cf952527216c859c80d1c,Greg Turnquist,Sat Aug 12 10:18:06 2017 -0500,Sat Aug 12 10:18:06 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-integration/initial/pom.xml,bf1d76f3a3139b64e16b0eacb744bf085e3f7ae7,Greg Turnquist,Mon Jan 30 23:30:35 2017 -0600,Mon Jan 30 23:30:35 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-integration/initial/pom.xml,509d870065b35dbc9386aa2ba1db7722614998a8,Greg Turnquist,Mon Jan 30 11:38:21 2017 -0600,Mon Jan 30 11:38:21 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-integration/initial/pom.xml,009e6006cf747332514615fe06dc67847e016a8f,Greg Turnquist,Thu Jan 26 12:47:49 2017 -0600,Thu Jan 26 12:47:49 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-integration/initial/pom.xml,f90be5f0e13052686b34143be0479b125b47dbf6,Greg Turnquist,Thu Jan 26 12:37:26 2017 -0600,Thu Jan 26 12:37:26 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-integration/initial/pom.xml,afb1e1c98f304248fad680201e4742fcef423b81,Greg Turnquist,Thu Dec 22 22:32:46 2016 -0600,Thu Dec 22 22:32:46 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-integration/initial/pom.xml,7306e41fb5666aa075f6e7c9df5548252dc656ec,Greg Turnquist,Tue Nov 8 11:52:34 2016 -0600,Tue Nov 8 11:52:34 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-integration/initial/pom.xml,4f75b893092fae61282a58d5284b9255d316e5a4,Greg Turnquist,Fri Sep 23 16:36:12 2016 -0500,Fri Sep 23 16:36:12 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-integration/initial/pom.xml,f0f1f69bbde3663b606743026544e241950fc4fa,Gary Russell,Fri Aug 26 18:12:34 2016 -0400,Sat Aug 27 09:02:18 2016 -0400,Polishing and Add Test
+gs-integration/initial/pom.xml,4846b99d000fea35a88dcbeebc46c3c11ca85579,Artem Bilan,Fri Aug 19 14:54:49 2016 -0400,Fri Aug 19 13:54:49 2016 -0500,Add `spring-integration-file` dependency (#15)
+gs-integration/initial/pom.xml,444b59ff7bbe8633aac1a60bce01bcc133de75ee,Greg Turnquist,Fri Jul 29 11:28:24 2016 -0500,Fri Jul 29 11:28:24 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-integration/initial/pom.xml,fc875cc32096b3824c8d838c2e03654b693f6549,Greg Turnquist,Thu Jul 28 06:52:55 2016 -0500,Thu Jul 28 06:52:55 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-integration/initial/pom.xml,beef83f0d3f7c7cf5912e94aa19d9de4a336ce78,Greg Turnquist,Tue Jul 5 13:52:27 2016 -0500,Tue Jul 5 13:52:27 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-integration/initial/pom.xml,2057b86cd2ee9b8d69fbdb271abdd7183a6f896d,Greg Turnquist,Tue May 10 10:26:31 2016 -0500,Tue May 10 10:26:31 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-integration/initial/pom.xml,95bcefa3c12e27bb3394a40dac247856fb9ae592,Greg Turnquist,Fri May 6 09:48:55 2016 -0500,Fri May 6 09:48:55 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-integration/initial/pom.xml,7c5a31021e5f9ea8060912b3fa3a1cb8ccb88d6f,Greg Turnquist,Fri Feb 26 07:29:59 2016 -0600,Fri Feb 26 07:29:59 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-integration/initial/pom.xml,120000e12b94f88585fb9bbf11a4133b88b32d10,Greg Turnquist,Thu Jan 21 21:28:57 2016 -0600,Thu Jan 21 21:28:57 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-integration/initial/pom.xml,2565e635d4c2f4d5a0d84fa9d66b505b8f15a117,Greg Turnquist,Fri Dec 18 09:40:17 2015 -0600,Fri Dec 18 09:40:17 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-integration/initial/pom.xml,30d2b50479f829fce17dc0421330a7fab4602e7a,Greg Turnquist,Mon Nov 16 11:10:41 2015 -0600,Mon Nov 16 11:10:41 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-integration/initial/pom.xml,84fce872b8acc69cb68cb69a26773e459f62854e,Artem Bilan,Mon Oct 26 20:22:18 2015 -0400,Mon Oct 26 20:22:18 2015 -0400,GH-11: Add `System.in` hook to build.gradle
+gs-integration/initial/pom.xml,7d55da34c749e15f0d8045c19c71c7ee73dd2583,Greg Turnquist,Fri Oct 16 09:43:41 2015 -0400,Fri Oct 16 09:43:41 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-integration/initial/pom.xml,1c3915f56025ae5bd10c63a22eaa4b1f782473a0,Greg Turnquist,Sun Sep 20 15:41:39 2015 -0500,Sun Sep 20 15:41:39 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-integration/initial/pom.xml,180fcf12869cc440826b0690756f74322fd5a4c1,Greg Turnquist,Thu Jul 2 08:46:10 2015 -0500,Thu Jul 2 08:46:10 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-integration/initial/pom.xml,c382e9331f055e7637aefac0673fe70211214ccb,Greg Turnquist,Fri Jun 12 14:04:31 2015 -0400,Fri Jun 12 14:04:31 2015 -0400,Upgrade non-specific guides to Java 8
+gs-integration/initial/pom.xml,1d37a815536c777a801309f1a32aa83b7130d016,Greg Turnquist,Tue Jun 9 09:41:50 2015 -0400,Tue Jun 9 09:41:50 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-integration/initial/pom.xml,eab1c633eb2ed9017fa2578c6963b1f687e281d0,Greg Turnquist,Tue Mar 31 16:56:12 2015 -0500,Tue Mar 31 16:56:12 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-integration/initial/pom.xml,b1f6b912c3e2ef09afd8282b2ea8066238c00ab0,Greg Turnquist,Thu Feb 26 22:39:44 2015 -0600,Thu Feb 26 22:39:44 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-integration/initial/pom.xml,fbb070fac3e44185dc89e74910793de218673089,Greg Turnquist,Wed Feb 18 11:08:02 2015 -0600,Wed Feb 18 11:08:02 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-integration/initial/pom.xml,09e8c41a8874b8fde8d191dfc023f7bd6d06c24c,Greg Turnquist,Wed Jan 14 12:33:56 2015 -0600,Wed Jan 14 12:33:56 2015 -0600,Remove legacy start-class property from maven builds
+gs-integration/initial/pom.xml,7c595c31eaec116bcd8fd340a709d8e6ab5b71eb,Greg Turnquist,Thu Dec 11 11:07:56 2014 -0600,Thu Dec 11 11:07:56 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-integration/initial/pom.xml,0732ec5800d68a7394db368b21c0188d06ae5c5f,Greg Turnquist,Tue Nov 25 15:58:34 2014 -0600,Tue Nov 25 15:58:34 2014 -0600,Merge pull request #9 from garyrussell/feed
+gs-integration/initial/pom.xml,516257c9cbbde14294c816381f6be0e252c199ca,Greg Turnquist,Thu Nov 20 10:15:11 2014 -0600,Thu Nov 20 10:15:11 2014 -0600,Convert to use https for repositories
+gs-integration/initial/pom.xml,68f7b84d9057d7745b66f15a9977f4e27dd1421b,Greg Turnquist,Wed Nov 12 13:08:20 2014 -0600,Wed Nov 12 13:08:20 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-integration/initial/pom.xml,5c76cefbe7ad027286d0af93b7842cb5f07440de,Greg Turnquist,Fri Oct 10 22:05:19 2014 -0500,Fri Oct 10 22:05:19 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-integration/initial/pom.xml,5a520144f088de11fafb3b4ac5357b49f9805f55,Greg Turnquist,Mon Sep 29 12:42:33 2014 -0500,Mon Sep 29 12:42:33 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-integration/initial/pom.xml,6ca5aa0f8cd34e6a7c7f094f4e090095997a6c26,Greg Turnquist,Fri Sep 5 11:14:01 2014 -0500,Fri Sep 5 11:14:01 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-integration/initial/pom.xml,09491fd76c9ef2783dc8938937c849e0cdcbad2d,Greg Turnquist,Fri Aug 8 22:12:35 2014 -0500,Fri Aug 8 22:12:35 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-integration/initial/pom.xml,20c48abe465682113408125f41683a8c135e220f,Greg Turnquist,Mon Jul 14 17:38:01 2014 -0500,Mon Jul 14 17:38:01 2014 -0500,Merge pull request #8 from garyrussell/master
+gs-integration/initial/pom.xml,291659c2c5e1e6321158a47d257ac471b4bbf263,Greg Turnquist,Tue Jul 8 15:41:52 2014 -0500,Tue Jul 8 15:41:52 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-integration/initial/pom.xml,d2f8d256c354adb5b61b5ce63bfa9a09e14610f9,Greg Turnquist,Fri Jun 27 22:55:26 2014 -0400,Fri Jun 27 22:55:26 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-integration/initial/pom.xml,40d3b8d8aad6d89ed46aa2c42134e0dcf105b259,Greg Turnquist,Tue Jun 24 19:55:50 2014 -0400,Tue Jun 24 19:55:50 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-integration/initial/pom.xml,6208e0e800550255d2b4fd6c6ec2b284ee8cd47b,Greg Turnquist,Wed Jun 11 16:48:29 2014 -0500,Wed Jun 11 16:48:29 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-integration/initial/pom.xml,1591f4228fdff83358ad909ac4ca0284326c21a6,Greg Turnquist,Wed Jun 11 09:09:00 2014 -0500,Wed Jun 11 09:09:00 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-integration/initial/pom.xml,12f2300da46ce2c142f2afef6531e2b2ca5b3bbf,Greg Turnquist,Tue Jun 10 19:16:32 2014 -0500,Tue Jun 10 19:16:32 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-integration/initial/pom.xml,e9a2e2317ddbb473e09483a41697f11c7c2db3dc,Greg Turnquist,Thu Apr 24 09:37:12 2014 -0500,Thu Apr 24 09:37:12 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-integration/initial/pom.xml,7411d2bea85ce37d826a399b221fd1d8387010d7,Greg Turnquist,Mon Apr 7 10:09:45 2014 -0500,Mon Apr 7 10:09:45 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-integration/initial/pom.xml,d8800c5cc385316e5be39ba347d769e50dabe803,Greg Turnquist,Tue Apr 1 15:11:25 2014 -0500,Tue Apr 1 15:11:25 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-integration/initial/pom.xml,c07591553aa3b7d1b35baa259ff87eead49ba34b,Greg Turnquist,Sat Mar 22 07:18:00 2014 -0500,Sat Mar 22 07:18:00 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-integration/initial/pom.xml,52e65a1e51a9cf80db97083773f9a1a45dafc61c,Greg Turnquist,Tue Mar 4 15:09:24 2014 -0500,Tue Mar 4 15:09:24 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-integration/initial/pom.xml,187602231ba7e024c7307189ef6766d1e2f1d12c,Greg Turnquist,Tue Feb 18 16:34:27 2014 -0600,Tue Feb 18 16:34:27 2014 -0600,Move final build file to the beginning and update guides to reflect this
+gs-integration/initial/pom.xml,5bc9dc0afefb9ef5b5606a72fc8ad73a74c61efb,Greg Turnquist,Fri Feb 14 11:23:43 2014 -0600,Fri Feb 14 11:23:43 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-integration/initial/pom.xml,a25ec9b32463cf455ed60fa2ba4a6052cdbfc5f2,Greg Turnquist,Thu Feb 13 12:38:22 2014 -0600,Thu Feb 13 12:38:22 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-integration/initial/pom.xml,46e1551f800cfd9c3c5d650a35c6359d1c8281ac,Greg Turnquist,Thu Jan 30 14:34:41 2014 -0600,Thu Jan 30 14:34:41 2014 -0600,Merge branch 'patch-3' of https://github.com/andirdju/gs-integration
+gs-integration/initial/pom.xml,4ba32e751cb0369d5ccac1d8c5c63ef77f4ac7a1,Greg Turnquist,Wed Jan 22 12:21:22 2014 -0600,Wed Jan 22 12:21:22 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-integration/initial/pom.xml,0a0ca495b1d947debb21769b30c825aa45fb6297,Greg Turnquist,Tue Nov 19 10:27:50 2013 -0600,Tue Nov 19 10:27:50 2013 -0600,Upgraded to Spring Boot 0.5.0.M6
+gs-integration/initial/pom.xml,e4015d0c23eb04ff00fd426cc4d351f001d95d21,Greg Turnquist,Wed Oct 30 10:03:40 2013 -0500,Wed Oct 30 10:03:40 2013 -0500,Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+gs-integration/initial/pom.xml,e7680e957bb4143c3afd2dc68f487a268ea0281d,Greg Turnquist,Mon Sep 30 08:18:57 2013 -0500,Mon Sep 30 08:18:57 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-integration/initial/pom.xml,0b03e02a611b9784bf75a155e96ef0a323117aa2,Greg Turnquist,Fri Sep 27 10:32:02 2013 -0500,Fri Sep 27 10:32:02 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-integration/initial/pom.xml,9e01fec6534151ba1272238bff8450a3200efeae,Greg Turnquist,Fri Aug 30 16:42:01 2013 -0500,Fri Aug 30 16:42:01 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-integration/initial/pom.xml,821c5f6a90c9aaaa5ec02de76998d27b4104858e,Greg Turnquist,Fri Aug 16 11:03:41 2013 -0500,Fri Aug 16 11:03:41 2013 -0500,Convert guide to gradle
+gs-integration/initial/pom.xml,73a33cd4e6f97cc00cbc6203f181905b341c6545,Greg Turnquist,Fri Aug 9 13:18:16 2013 -0500,Fri Aug 9 13:18:16 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-integration/initial/pom.xml,d139ff74acc164212a7d38ec65e618bd43835e3f,Roy Clarkson,Thu Aug 8 00:01:07 2013 -0400,Thu Aug 8 00:01:07 2013 -0400,Update pom repositories
+gs-integration/initial/pom.xml,d39038d3e7e3d6300b7332c311121c4f3a3f1ce0,Greg Turnquist,Tue Aug 6 14:43:40 2013 -0500,Tue Aug 6 14:43:40 2013 -0500,Use libs-snapshot instead of snapshot
+gs-integration/initial/pom.xml,9b1ce341626630cf97ed7bacc1315a0e58bfbcc9,Greg Turnquist,Wed Jul 31 15:42:42 2013 -0400,Wed Jul 31 15:42:42 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-integration/initial/pom.xml,dc723dce11e6e0c6ce6ebe8abc616f4193a6dbc2,Greg Turnquist,Tue Jul 30 10:19:22 2013 -0400,Tue Jul 30 10:19:22 2013 -0400,Upgrade to Spring Boot
+gs-integration/initial/pom.xml,8858b8060d232d252bfcadcf445d7993dd7ae04e,Greg Turnquist,Fri Jul 19 16:17:40 2013 -0400,Fri Jul 19 16:17:40 2013 -0400,Convert to spring-package-maven-plugin and Spring Zero
+gs-integration/initial/pom.xml,5936e59c8b13e99ca5e3af866f92302a035f29b3,Greg Turnquist,Thu Jul 18 10:41:15 2013 -0400,Thu Jul 18 10:41:15 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-integration/initial/pom.xml,2d98894fbd10e0ce131cece315b6eee4269af3c0,Craig Walls,Tue Jun 25 20:25:06 2013 -0500,Tue Jun 25 20:25:06 2013 -0500,Adapt pom.xml to be Bootstrap-ified.

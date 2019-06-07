@@ -1,0 +1,19 @@
+android-CustomTransition/build.gradle,dbbff16e11d97ebf9eb0a7c5f84471fbef97519b,google-automerger,Tue Sep 2 11:00:58 2014 -0700,Tue Sep 2 11:00:58 2014 -0700,Initial Commit
+android-CustomTransition/Application/build.gradle,e241498b3426ea86cb177fb35880d870a245e9d9,google-automerger,Thu Feb 15 16:35:52 2018 -0800,Thu Feb 15 16:35:52 2018 -0800,Auto-update
+android-CustomTransition/Application/build.gradle,eb20dff77beda84dfc9aabb7969b68485d7222f6,google-automerger,Tue Oct 10 17:52:13 2017 -0700,Tue Oct 10 17:52:13 2017 -0700,Auto-update
+android-CustomTransition/Application/build.gradle,1e2b031b846bd204153990e6256ea1333d23c466,google-automerger,Thu Jun 8 09:33:45 2017 -0700,Thu Jun 8 09:33:45 2017 -0700,Auto-update
+android-CustomTransition/Application/build.gradle,45da9a5c4a9f727fd1cd698adb1e7b4b6656f722,google-automerger,Wed May 17 13:32:40 2017 -0700,Wed May 17 13:32:40 2017 -0700,Auto-update
+android-CustomTransition/Application/build.gradle,680ac34c41839e21d96d9b25401f55d56972af50,google-automerger,Tue Dec 13 09:39:32 2016 -0800,Tue Dec 13 09:39:32 2016 -0800,Auto-update
+android-CustomTransition/Application/build.gradle,5bfc0ade952a1b1d710e2e84713dcc017775609f,google-automerger,Fri Aug 12 15:18:24 2016 -0700,Fri Aug 12 15:18:24 2016 -0700,Auto-update
+android-CustomTransition/Application/build.gradle,272b289bb3d17fb6797ff68f4ba99cb474bc666f,google-automerger,Wed May 18 11:38:24 2016 -0700,Wed May 18 11:38:24 2016 -0700,Auto-update
+android-CustomTransition/Application/build.gradle,affaa4e4f2abbcee9a2985431f763be7a29557f4,google-automerger,Wed Apr 20 12:26:22 2016 -0700,Wed Apr 20 12:26:22 2016 -0700,Auto-update
+android-CustomTransition/Application/build.gradle,0a42d0a19a7bae5d8b76c131aa1388befe22b467,google-automerger,Wed Nov 18 09:33:28 2015 -0800,Wed Nov 18 09:33:28 2015 -0800,Auto-update
+android-CustomTransition/Application/build.gradle,032146f9e11a72003024832c07a45869f0454d10,google-automerger,Thu Oct 8 17:42:42 2015 -0700,Thu Oct 8 17:42:42 2015 -0700,Auto-update
+android-CustomTransition/Application/build.gradle,cdf08f5ccac579af6ae61bb75fca0dcc88362975,google-automerger,Mon Aug 17 09:54:32 2015 -0700,Mon Aug 17 09:54:32 2015 -0700,Auto-update
+android-CustomTransition/Application/build.gradle,49e32ee5e330a18ed5546b0e7d93cbba8b0696cb,google-automerger,Thu Jul 9 11:10:25 2015 -0700,Thu Jul 9 11:10:25 2015 -0700,Auto-update
+android-CustomTransition/Application/build.gradle,418a62fb973748b86114b516756efd6e07e5acb0,google-automerger,Thu May 21 10:04:28 2015 -0700,Thu May 21 10:04:28 2015 -0700,Auto-update
+android-CustomTransition/Application/build.gradle,08bf223747a41ceeb72fc70a84789c7e123a51b2,google-automerger,Tue Apr 28 10:54:00 2015 -0700,Tue Apr 28 10:54:00 2015 -0700,Auto-update
+android-CustomTransition/Application/build.gradle,9a0302d3b53cccc92b3bf8cbf7d9186ff8c7eedd,google-automerger,Mon Mar 30 17:43:33 2015 -0700,Mon Mar 30 17:43:33 2015 -0700,Auto-update
+android-CustomTransition/Application/build.gradle,1180b3e92018912420168f9e3b6cf399413a9144,google-automerger,Mon Dec 8 17:49:58 2014 -0800,Mon Dec 8 17:49:58 2014 -0800,Auto-update
+android-CustomTransition/Application/build.gradle,710e44c5d3744cd7e1824066ec81a8219fcea937,google-automerger,Wed Dec 3 01:50:44 2014 -0800,Wed Dec 3 01:50:44 2014 -0800,Auto-update
+android-CustomTransition/Application/build.gradle,d29e9627e7b7145f455f045c5dddc0261d5480a3,google-automerger,Tue Nov 18 16:18:21 2014 -0800,Tue Nov 18 16:18:21 2014 -0800,Auto-update

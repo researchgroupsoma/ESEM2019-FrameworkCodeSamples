@@ -1,0 +1,9 @@
+android-MultiWindowPlayground/build.gradle,f85c4c9501c67007e24ff0f15edb96c77bdeb0df,google-automerger,Wed Mar 9 09:38:48 2016 -0800,Wed Mar 9 09:38:48 2016 -0800,Auto-update
+android-MultiWindowPlayground/kotlinApp/build.gradle,3d7d54c47124f0a1dfada57042f6cfb43cb7844e,google-automerger,Thu Feb 15 16:37:20 2018 -0800,Thu Feb 15 16:37:20 2018 -0800,Auto-update
+android-MultiWindowPlayground/kotlinApp/Application/build.gradle,3d7d54c47124f0a1dfada57042f6cfb43cb7844e,google-automerger,Thu Feb 15 16:37:20 2018 -0800,Thu Feb 15 16:37:20 2018 -0800,Auto-update
+android-MultiWindowPlayground/Application/build.gradle,3d7d54c47124f0a1dfada57042f6cfb43cb7844e,google-automerger,Thu Feb 15 16:37:20 2018 -0800,Thu Feb 15 16:37:20 2018 -0800,Auto-update
+android-MultiWindowPlayground/Application/build.gradle,0c9796bf1d9be909826c4c31484a342461b75676,google-automerger,Tue Dec 13 09:40:32 2016 -0800,Tue Dec 13 09:40:32 2016 -0800,Auto-update
+android-MultiWindowPlayground/Application/build.gradle,65c034cf30a22dd2f8ad07edda69a4e7920fee89,google-automerger,Fri Aug 12 15:19:25 2016 -0700,Fri Aug 12 15:19:25 2016 -0700,Auto-update
+android-MultiWindowPlayground/Application/build.gradle,02dafe363b12bdb8f5528a2cab60af92cfe0e3f5,google-automerger,Mon Apr 25 19:14:21 2016 -0700,Mon Apr 25 19:14:21 2016 -0700,Auto-update
+android-MultiWindowPlayground/Application/build.gradle,8e77fa9c87192b746c18f289372550ef38600e5c,google-automerger,Wed Apr 13 09:44:53 2016 -0700,Wed Apr 13 09:44:53 2016 -0700,Auto-update
+android-MultiWindowPlayground/Application/build.gradle,f85c4c9501c67007e24ff0f15edb96c77bdeb0df,google-automerger,Wed Mar 9 09:38:48 2016 -0800,Wed Mar 9 09:38:48 2016 -0800,Auto-update

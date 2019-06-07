@@ -1,0 +1,23 @@
+android-Camera2Video/build.gradle,1aa227fe26dfba64b480633c16f9d3dcbd02cc1c,Trevor Johns,Thu Jun 26 08:54:13 2014 -0700,Thu Jun 26 08:54:13 2014 -0700,Initial commit
+android-Camera2Video/kotlinApp/build.gradle,c5029e62a2c52f39c43c503ebebd67fbf861e74e,google-automerger,Thu Feb 15 16:35:27 2018 -0800,Thu Feb 15 16:35:27 2018 -0800,Auto-update
+android-Camera2Video/kotlinApp/Application/build.gradle,c5029e62a2c52f39c43c503ebebd67fbf861e74e,google-automerger,Thu Feb 15 16:35:27 2018 -0800,Thu Feb 15 16:35:27 2018 -0800,Auto-update
+android-Camera2Video/Application/build.gradle,c5029e62a2c52f39c43c503ebebd67fbf861e74e,google-automerger,Thu Feb 15 16:35:27 2018 -0800,Thu Feb 15 16:35:27 2018 -0800,Auto-update
+android-Camera2Video/Application/build.gradle,ac4324a4890a20b99bb7138b031e6c19cc79d190,google-automerger,Tue Oct 10 17:51:46 2017 -0700,Tue Oct 10 17:51:46 2017 -0700,Auto-update
+android-Camera2Video/Application/build.gradle,a9fb3960437a9ce177f56f9a3ea069517dfba19e,google-automerger,Thu Jun 8 09:33:25 2017 -0700,Thu Jun 8 09:33:25 2017 -0700,Auto-update
+android-Camera2Video/Application/build.gradle,0b419c83c4038cfd52ae7c828b8028b200519a89,google-automerger,Wed May 17 13:32:16 2017 -0700,Wed May 17 13:32:16 2017 -0700,Auto-update
+android-Camera2Video/Application/build.gradle,2f390c871b70bc05935faf5ec942c7855ca43074,google-automerger,Tue Dec 13 09:39:13 2016 -0800,Tue Dec 13 09:39:13 2016 -0800,Auto-update
+android-Camera2Video/Application/build.gradle,5f4308ea9deab99c436afd00730a5a30fbd7a7e3,google-automerger,Fri Aug 12 15:18:11 2016 -0700,Fri Aug 12 15:18:11 2016 -0700,Auto-update
+android-Camera2Video/Application/build.gradle,97630691ebe5179847d91b544188c1f552597088,google-automerger,Wed May 18 11:38:13 2016 -0700,Wed May 18 11:38:13 2016 -0700,Auto-update
+android-Camera2Video/Application/build.gradle,05d1e58b7ccaff1eb1c40a9f92cb0a506272e7e2,google-automerger,Wed Apr 20 12:26:11 2016 -0700,Wed Apr 20 12:26:11 2016 -0700,Auto-update
+android-Camera2Video/Application/build.gradle,60d142b78ae31093d852930c206714c4552ca0c3,google-automerger,Wed Nov 18 09:33:16 2015 -0800,Wed Nov 18 09:33:16 2015 -0800,Auto-update
+android-Camera2Video/Application/build.gradle,829eee5c8aed183761962c1968578ffdac048434,google-automerger,Thu Oct 8 17:42:31 2015 -0700,Thu Oct 8 17:42:31 2015 -0700,Auto-update
+android-Camera2Video/Application/build.gradle,ec99302bc0161bf199c4086adaef52f28f9fa26a,google-automerger,Fri Sep 4 11:21:36 2015 -0700,Fri Sep 4 11:21:36 2015 -0700,Auto-update
+android-Camera2Video/Application/build.gradle,9dd1b73a2888238aba8f933e63b6435fcdce6e49,google-automerger,Thu Aug 20 08:39:52 2015 -0700,Thu Aug 20 08:39:52 2015 -0700,Auto-update
+android-Camera2Video/Application/build.gradle,42e6be25ce602cea2863ae2c27c25dd02933f24b,google-automerger,Mon Aug 17 09:54:22 2015 -0700,Mon Aug 17 09:54:22 2015 -0700,Auto-update
+android-Camera2Video/Application/build.gradle,824e0c23d6ea30f3c382d8886f692536b22046af,google-automerger,Thu Jul 9 11:10:17 2015 -0700,Thu Jul 9 11:10:17 2015 -0700,Auto-update
+android-Camera2Video/Application/build.gradle,372500b8321febe97b10a1037faed7d1f3cd188d,google-automerger,Thu May 21 10:04:20 2015 -0700,Thu May 21 10:04:20 2015 -0700,Auto-update
+android-Camera2Video/Application/build.gradle,3dbce8153540be7bc35661d04fe3e93b4e55b001,google-automerger,Tue Apr 28 10:53:47 2015 -0700,Tue Apr 28 10:53:47 2015 -0700,Auto-update
+android-Camera2Video/Application/build.gradle,a1f8f6a50f07453c9aa9d5e07375269c9b03a6a7,google-automerger,Mon Mar 30 17:43:20 2015 -0700,Mon Mar 30 17:43:20 2015 -0700,Auto-update
+android-Camera2Video/Application/build.gradle,b9343127feddcf2c1d7dd330e190e9f21e41ab02,google-automerger,Mon Dec 8 17:49:33 2014 -0800,Mon Dec 8 17:49:33 2014 -0800,Auto-update
+android-Camera2Video/Application/build.gradle,07778c9cdea07f7dcbac1c34a2d4f3601fd4e5d9,google-automerger,Wed Dec 3 01:49:07 2014 -0800,Wed Dec 3 01:49:07 2014 -0800,Auto-update
+android-Camera2Video/Application/build.gradle,cfe40cb447ac442e6111fb194989deb7925c1a45,google-automerger,Tue Nov 18 16:17:58 2014 -0800,Tue Nov 18 16:17:58 2014 -0800,Auto-update

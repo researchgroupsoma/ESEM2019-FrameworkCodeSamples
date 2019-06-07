@@ -1,0 +1,134 @@
+gs-messaging-gcp-pubsub/complete/pom.xml,ee00828fba34ef20039fb8b1f39d4e4777c2a73b,Greg Turnquist,Mon Sep 17 10:50:40 2018 -0500,Mon Sep 17 10:50:40 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-messaging-gcp-pubsub/complete/pom.xml,46f7abf92d13e82040bcd1dc9a6f257bb4c7d708,Greg Turnquist,Mon Jun 18 16:16:45 2018 -0500,Mon Jun 18 16:16:45 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,d88612d83b6e87ce4de046a84eb6c25adaf46e0c,Greg Turnquist,Wed May 9 11:26:33 2018 -0500,Wed May 9 11:37:39 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-messaging-gcp-pubsub/complete/pom.xml,e01fc1ee8a10e27f36979eeeb0bf3642f334ff03,João Martins,Fri Apr 13 11:27:19 2018 -0400,Fri Apr 13 11:27:19 2018 -0400,Updates to spring-cloud-gcp M3
+gs-messaging-gcp-pubsub/complete/pom.xml,be8fba164f5732effe43897955719dcc25234a09,Greg Turnquist,Thu Apr 5 11:44:50 2018 -0500,Thu Apr 5 11:44:50 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,b241309401d2e7c3423555063b62ff422687613f,Greg Turnquist,Thu Mar 1 09:53:26 2018 -0600,Mon Mar 5 10:51:56 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,328941c0faa20fbe4a98791c31f7c2d3823e808a,João André Martins,Tue Feb 6 11:01:40 2018 -0500,Tue Feb 6 14:14:13 2018 -0600,Updates guide to use spring-cloud-gcp M2
+gs-messaging-gcp-pubsub/complete/pom.xml,48f99b2578d7204ee020b22cbebc61cb1813430d,Greg Turnquist,Wed Jan 31 09:16:14 2018 -0600,Wed Jan 31 09:16:14 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,55254f26cd0d2e8e99ea1a07c93d00771f662a4f,Greg Turnquist,Thu Nov 30 11:06:47 2017 -0600,Thu Nov 30 11:06:47 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,0e95f32d951a78618fe75fdf4dc7a425c8240fce,Greg Turnquist,Tue Oct 17 15:42:29 2017 -0500,Tue Oct 17 15:53:57 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,60c9a4dbbc2de776cb99b95c58771e763accafe0,Greg Turnquist,Wed Sep 13 13:15:33 2017 -0500,Wed Sep 13 13:15:33 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,8b3b2d388e3f92d039c5f992ba3cce2303d2609e,João André Martins,Fri Jul 14 17:19:36 2017 -0400,Fri Aug 4 18:34:04 2017 -0400,Adds getting started guide for Spring Integration GCP Pubsub channel adapters.
+gs-messaging-gcp-pubsub/complete/pom.xml,299297a2b5875b660e16cc7463b44ba7a616551c,Greg Turnquist,Thu Jul 27 10:03:14 2017 -0500,Thu Jul 27 10:03:14 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,85cd7da03917fd5badcd6ba4d2af5ee2afb15e6d,Greg Turnquist,Wed Jul 26 12:22:06 2017 -0500,Wed Jul 26 12:22:06 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,a67ac3913569f9bddd7eafb8b297477511d680d2,Greg Turnquist,Fri Apr 21 09:19:05 2017 -0500,Fri Apr 21 09:19:05 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,8315844f26cc6e397d57b9e302f6bfe0d8f97c13,Greg Turnquist,Fri Mar 3 11:11:49 2017 -0600,Fri Mar 3 11:11:49 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,29311c0f10cdf7b7e1565a9d48325682b418d541,Greg Turnquist,Mon Jan 30 23:26:47 2017 -0600,Mon Jan 30 23:26:47 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,d34eb11984115a80779191be92962ffd1b15eb57,Greg Turnquist,Mon Jan 30 11:34:03 2017 -0600,Mon Jan 30 11:34:03 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,042cd2ce42c9d5501b1995b394e4b1049a25bd1b,Greg Turnquist,Thu Jan 26 12:46:20 2017 -0600,Thu Jan 26 12:46:20 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,6f9ce7bb1f0c2ed6eb54da31ff844ddc88cbb9c8,Greg Turnquist,Thu Jan 26 12:35:44 2017 -0600,Thu Jan 26 12:35:44 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,3c35b7e19a2288f1c863577894be4616dc539ffa,Greg Turnquist,Thu Dec 22 22:31:04 2016 -0600,Thu Dec 22 22:31:04 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,c0e6c33699100252975e87a5e7a05ada52f674ea,Greg Turnquist,Tue Nov 8 11:51:33 2016 -0600,Tue Nov 8 11:51:33 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,17b326603cb52c26f595f4d8a0a68c79c8a5f9c1,Greg Turnquist,Fri Sep 23 16:35:00 2016 -0500,Fri Sep 23 16:35:00 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,f45090dfa87f759b82ba2eaf9f84e8304e2dd753,Greg Turnquist,Fri Aug 26 09:53:21 2016 -0500,Fri Aug 26 09:53:21 2016 -0500,Update pom.xml
+gs-messaging-gcp-pubsub/complete/pom.xml,52f98802272b37d9ad4a0a64a632e2f834d32207,Greg Turnquist,Fri Jul 29 11:12:31 2016 -0500,Fri Jul 29 11:12:31 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,e8a1b13dded6cf4377d74ee9e6dc6a1019ded857,Greg Turnquist,Thu Jul 28 06:52:09 2016 -0500,Thu Jul 28 06:52:09 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,d5f0602defee0d74bf7855bcfb2aceb949ac1428,Greg Turnquist,Tue Jul 5 13:51:35 2016 -0500,Tue Jul 5 13:51:35 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,72a72f6533f8f43df0ac0dd89014ce0f0e916a48,Greg Turnquist,Tue May 10 10:25:41 2016 -0500,Tue May 10 10:25:41 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,77626df09612ab1501fde34727846cf976cd9467,Greg Turnquist,Fri May 6 09:51:34 2016 -0500,Fri May 6 09:51:34 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,e495d12d796760887a99e02ae8b40f347beab728,Greg Turnquist,Fri Feb 26 07:28:54 2016 -0600,Fri Feb 26 07:28:54 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,9e715036b547f8a953bf3b235df99fc8157174cc,Greg Turnquist,Thu Jan 21 21:28:06 2016 -0600,Thu Jan 21 21:28:06 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,4ec55b15c8ec0708c13c3a4b8c5fb0c812415a5d,Greg Turnquist,Fri Dec 18 09:39:37 2015 -0600,Fri Dec 18 09:39:37 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,8cc488956ed99012c03f21214d5cd90bfefd31b4,Greg Turnquist,Mon Nov 16 11:10:02 2015 -0600,Mon Nov 16 11:10:02 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,5f12acc03cdd3fb1d8f379e5cf6941865af31093,Greg Turnquist,Fri Oct 16 09:43:06 2015 -0400,Fri Oct 16 09:43:06 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,44449a1e259d331223728543c2e61126bde55a76,Greg Turnquist,Sun Sep 20 15:41:03 2015 -0500,Sun Sep 20 15:41:03 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,ed8c465d9856737f11515fe8b7e103ab0563d17a,Greg Turnquist,Thu Jul 2 08:44:53 2015 -0500,Thu Jul 2 08:44:53 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,ae79de40b4539bbfe76034e00b98f1c219b57549,Greg Turnquist,Fri Jun 12 13:49:00 2015 -0400,Fri Jun 12 13:49:00 2015 -0400,Upgrade to Java 8
+gs-messaging-gcp-pubsub/complete/pom.xml,0964453c02bc536085d6728459c33334f9459c10,Greg Turnquist,Tue Jun 9 09:41:20 2015 -0400,Tue Jun 9 09:41:20 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-messaging-gcp-pubsub/complete/pom.xml,7d57d1bb6483cb05f3ff8c71b0f6dac47cb9b744,Greg Turnquist,Tue May 26 10:47:08 2015 -0500,Tue May 26 10:47:08 2015 -0500,Remove encoding (since the parent POM has this)
+gs-messaging-gcp-pubsub/complete/pom.xml,8c596aa22cb26d967f67eb2021917366106a795c,Greg Turnquist,Tue Mar 31 16:55:42 2015 -0500,Tue Mar 31 16:55:42 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,d4c8a355aca4dc37d87872fa7d0ee787a2669e1d,Greg Turnquist,Tue Mar 17 13:13:52 2015 -0500,Tue Mar 17 13:13:52 2015 -0500,Upgrade maven build to Java 7
+gs-messaging-gcp-pubsub/complete/pom.xml,947f9a3c0e61dfa859137c54e483e60acf312cb8,Greg Turnquist,Thu Feb 26 22:39:06 2015 -0600,Thu Feb 26 22:39:06 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,938c1f7617672ffcf37c30d676abcd6f8fd052fe,Greg Turnquist,Tue Feb 24 13:36:30 2015 -0600,Tue Feb 24 13:36:30 2015 -0600,Upgrade to @SpringBootApplication
+gs-messaging-gcp-pubsub/complete/pom.xml,5c1290e882850db981460348ee7d26e6f4d31f9e,Greg Turnquist,Wed Feb 18 11:07:25 2015 -0600,Wed Feb 18 11:07:25 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,091fa4cea82c19fc1ed8696bfd199d388ad3b1ef,Greg Turnquist,Wed Jan 14 12:33:36 2015 -0600,Wed Jan 14 12:33:36 2015 -0600,Remove legacy start-class property from maven builds
+gs-messaging-gcp-pubsub/complete/pom.xml,c4b9526e5c6f26d57c1bde68ef4e9222b85f33c5,Greg Turnquist,Thu Dec 11 11:07:18 2014 -0600,Thu Dec 11 11:07:18 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,cd21ebb000f9b161ffdf232b99217503a3f45dd8,Greg Turnquist,Thu Nov 20 10:14:39 2014 -0600,Thu Nov 20 10:14:39 2014 -0600,Convert to use https for repositories
+gs-messaging-gcp-pubsub/complete/pom.xml,757a3ec31fdf4734027c0fd64ec288e0244e5971,Greg Turnquist,Wed Nov 12 13:07:32 2014 -0600,Wed Nov 12 13:07:32 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,35f77bf6642ad7016b95678fe51d8bcabdbb92ae,Greg Turnquist,Fri Oct 10 22:04:37 2014 -0500,Fri Oct 10 22:04:37 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,303e62c277e77025176c347390f4678dc1d3da3b,Greg Turnquist,Mon Sep 29 12:40:42 2014 -0500,Mon Sep 29 12:40:42 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,aa8e803603ffe4f2431b2604738836c7973b70b1,Greg Turnquist,Fri Sep 5 11:13:23 2014 -0500,Fri Sep 5 11:13:23 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,049b379e27495b559e92d7f538070f69d5addf64,Greg Turnquist,Fri Aug 8 22:11:59 2014 -0500,Fri Aug 8 22:11:59 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,4df4cc18d64c8ae7f04795454be500b30242ef0b,Greg Turnquist,Tue Jul 8 15:41:20 2014 -0500,Tue Jul 8 15:41:20 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,00cc3a6914b951f285f2adf1b6c5449b191472c0,Greg Turnquist,Fri Jun 27 22:54:45 2014 -0400,Fri Jun 27 22:54:45 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,98c4126955bbc467974d327f91add686d4838a1e,Greg Turnquist,Tue Jun 24 19:52:13 2014 -0400,Tue Jun 24 19:52:13 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,f10f510a5a37b8c4ec6b85a84693ccc4f08160b5,Greg Turnquist,Wed Jun 11 16:47:43 2014 -0500,Wed Jun 11 16:47:43 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,cba24b9032c19d44d899802602a060ac197c1f57,Greg Turnquist,Wed Jun 11 09:08:35 2014 -0500,Wed Jun 11 09:08:35 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-messaging-gcp-pubsub/complete/pom.xml,a17d9e502908dfb7453e59fa3342d64068d2328a,Greg Turnquist,Tue Jun 10 19:15:58 2014 -0500,Tue Jun 10 19:15:58 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,e4fed08e4c83a97f36f348330b8a466f4586da76,Greg Turnquist,Thu Apr 24 09:36:30 2014 -0500,Thu Apr 24 09:36:30 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,abe07b23f9f20e508e1ba85c0b053eb670b4c6a6,Greg Turnquist,Mon Apr 7 10:08:59 2014 -0500,Mon Apr 7 10:08:59 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,5d45dd7ba88adf3a29bd9d8f0c02cb04026bc1a4,Greg Turnquist,Tue Apr 1 15:10:36 2014 -0500,Tue Apr 1 15:10:36 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-messaging-gcp-pubsub/complete/pom.xml,777511d1b47ffb6cd3b9a418f878b56e44350d27,Greg Turnquist,Sat Mar 22 07:17:24 2014 -0500,Sat Mar 22 07:17:24 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-messaging-gcp-pubsub/complete/pom.xml,7165587df387bc6b1bd5deb636778854138d12fb,Greg Turnquist,Tue Mar 4 15:08:34 2014 -0500,Tue Mar 4 15:08:34 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-messaging-gcp-pubsub/complete/pom.xml,e87d20ee0fabf23520d256a859b95844b9491489,Greg Turnquist,Fri Feb 14 11:23:16 2014 -0600,Fri Feb 14 11:23:16 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-messaging-gcp-pubsub/complete/pom.xml,bff01b24f02a944c7337290450cc2a9f0468d445,Greg Turnquist,Thu Feb 13 12:37:56 2014 -0600,Thu Feb 13 12:37:56 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-messaging-gcp-pubsub/complete/pom.xml,c08465780aaa68135629e7e73a6172d4c02ed66a,Greg Turnquist,Wed Jan 22 12:20:59 2014 -0600,Wed Jan 22 12:20:59 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-messaging-gcp-pubsub/complete/pom.xml,febb3110a3627c7b42343f3bd98b139be116fa16,Roy Clarkson,Mon Oct 28 22:22:38 2013 -0500,Mon Oct 28 22:22:38 2013 -0500,Initial commit of guide template
+gs-messaging-gcp-pubsub/initial/pom.xml,ee00828fba34ef20039fb8b1f39d4e4777c2a73b,Greg Turnquist,Mon Sep 17 10:50:40 2018 -0500,Mon Sep 17 10:50:40 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-messaging-gcp-pubsub/initial/pom.xml,46f7abf92d13e82040bcd1dc9a6f257bb4c7d708,Greg Turnquist,Mon Jun 18 16:16:45 2018 -0500,Mon Jun 18 16:16:45 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,d88612d83b6e87ce4de046a84eb6c25adaf46e0c,Greg Turnquist,Wed May 9 11:26:33 2018 -0500,Wed May 9 11:37:39 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-messaging-gcp-pubsub/initial/pom.xml,be8fba164f5732effe43897955719dcc25234a09,Greg Turnquist,Thu Apr 5 11:44:50 2018 -0500,Thu Apr 5 11:44:50 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,b241309401d2e7c3423555063b62ff422687613f,Greg Turnquist,Thu Mar 1 09:53:26 2018 -0600,Mon Mar 5 10:51:56 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,328941c0faa20fbe4a98791c31f7c2d3823e808a,João André Martins,Tue Feb 6 11:01:40 2018 -0500,Tue Feb 6 14:14:13 2018 -0600,Updates guide to use spring-cloud-gcp M2
+gs-messaging-gcp-pubsub/initial/pom.xml,48f99b2578d7204ee020b22cbebc61cb1813430d,Greg Turnquist,Wed Jan 31 09:16:14 2018 -0600,Wed Jan 31 09:16:14 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,55254f26cd0d2e8e99ea1a07c93d00771f662a4f,Greg Turnquist,Thu Nov 30 11:06:47 2017 -0600,Thu Nov 30 11:06:47 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,0e95f32d951a78618fe75fdf4dc7a425c8240fce,Greg Turnquist,Tue Oct 17 15:42:29 2017 -0500,Tue Oct 17 15:53:57 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,60c9a4dbbc2de776cb99b95c58771e763accafe0,Greg Turnquist,Wed Sep 13 13:15:33 2017 -0500,Wed Sep 13 13:15:33 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,8b3b2d388e3f92d039c5f992ba3cce2303d2609e,João André Martins,Fri Jul 14 17:19:36 2017 -0400,Fri Aug 4 18:34:04 2017 -0400,Adds getting started guide for Spring Integration GCP Pubsub channel adapters.
+gs-messaging-gcp-pubsub/initial/pom.xml,299297a2b5875b660e16cc7463b44ba7a616551c,Greg Turnquist,Thu Jul 27 10:03:14 2017 -0500,Thu Jul 27 10:03:14 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,85cd7da03917fd5badcd6ba4d2af5ee2afb15e6d,Greg Turnquist,Wed Jul 26 12:22:06 2017 -0500,Wed Jul 26 12:22:06 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,a67ac3913569f9bddd7eafb8b297477511d680d2,Greg Turnquist,Fri Apr 21 09:19:05 2017 -0500,Fri Apr 21 09:19:05 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,8315844f26cc6e397d57b9e302f6bfe0d8f97c13,Greg Turnquist,Fri Mar 3 11:11:49 2017 -0600,Fri Mar 3 11:11:49 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,29311c0f10cdf7b7e1565a9d48325682b418d541,Greg Turnquist,Mon Jan 30 23:26:47 2017 -0600,Mon Jan 30 23:26:47 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,d34eb11984115a80779191be92962ffd1b15eb57,Greg Turnquist,Mon Jan 30 11:34:03 2017 -0600,Mon Jan 30 11:34:03 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,042cd2ce42c9d5501b1995b394e4b1049a25bd1b,Greg Turnquist,Thu Jan 26 12:46:20 2017 -0600,Thu Jan 26 12:46:20 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,6f9ce7bb1f0c2ed6eb54da31ff844ddc88cbb9c8,Greg Turnquist,Thu Jan 26 12:35:44 2017 -0600,Thu Jan 26 12:35:44 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,3c35b7e19a2288f1c863577894be4616dc539ffa,Greg Turnquist,Thu Dec 22 22:31:04 2016 -0600,Thu Dec 22 22:31:04 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,c0e6c33699100252975e87a5e7a05ada52f674ea,Greg Turnquist,Tue Nov 8 11:51:33 2016 -0600,Tue Nov 8 11:51:33 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,17b326603cb52c26f595f4d8a0a68c79c8a5f9c1,Greg Turnquist,Fri Sep 23 16:35:00 2016 -0500,Fri Sep 23 16:35:00 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,ee6e522324ee6f7f1b13ca9825ad019802de5343,Greg Turnquist,Fri Aug 26 09:53:40 2016 -0500,Fri Aug 26 09:53:40 2016 -0500,Update pom.xml
+gs-messaging-gcp-pubsub/initial/pom.xml,52f98802272b37d9ad4a0a64a632e2f834d32207,Greg Turnquist,Fri Jul 29 11:12:31 2016 -0500,Fri Jul 29 11:12:31 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,e8a1b13dded6cf4377d74ee9e6dc6a1019ded857,Greg Turnquist,Thu Jul 28 06:52:09 2016 -0500,Thu Jul 28 06:52:09 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,d5f0602defee0d74bf7855bcfb2aceb949ac1428,Greg Turnquist,Tue Jul 5 13:51:35 2016 -0500,Tue Jul 5 13:51:35 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,72a72f6533f8f43df0ac0dd89014ce0f0e916a48,Greg Turnquist,Tue May 10 10:25:41 2016 -0500,Tue May 10 10:25:41 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,77626df09612ab1501fde34727846cf976cd9467,Greg Turnquist,Fri May 6 09:51:34 2016 -0500,Fri May 6 09:51:34 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,e495d12d796760887a99e02ae8b40f347beab728,Greg Turnquist,Fri Feb 26 07:28:54 2016 -0600,Fri Feb 26 07:28:54 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,9e715036b547f8a953bf3b235df99fc8157174cc,Greg Turnquist,Thu Jan 21 21:28:06 2016 -0600,Thu Jan 21 21:28:06 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,4ec55b15c8ec0708c13c3a4b8c5fb0c812415a5d,Greg Turnquist,Fri Dec 18 09:39:37 2015 -0600,Fri Dec 18 09:39:37 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,8cc488956ed99012c03f21214d5cd90bfefd31b4,Greg Turnquist,Mon Nov 16 11:10:02 2015 -0600,Mon Nov 16 11:10:02 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,5f12acc03cdd3fb1d8f379e5cf6941865af31093,Greg Turnquist,Fri Oct 16 09:43:06 2015 -0400,Fri Oct 16 09:43:06 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,44449a1e259d331223728543c2e61126bde55a76,Greg Turnquist,Sun Sep 20 15:41:03 2015 -0500,Sun Sep 20 15:41:03 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,ed8c465d9856737f11515fe8b7e103ab0563d17a,Greg Turnquist,Thu Jul 2 08:44:53 2015 -0500,Thu Jul 2 08:44:53 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,ae79de40b4539bbfe76034e00b98f1c219b57549,Greg Turnquist,Fri Jun 12 13:49:00 2015 -0400,Fri Jun 12 13:49:00 2015 -0400,Upgrade to Java 8
+gs-messaging-gcp-pubsub/initial/pom.xml,0964453c02bc536085d6728459c33334f9459c10,Greg Turnquist,Tue Jun 9 09:41:20 2015 -0400,Tue Jun 9 09:41:20 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-messaging-gcp-pubsub/initial/pom.xml,cd731b90860c989c174d389ddf4012eeb0df2b29,Greg Turnquist,Tue May 26 10:46:44 2015 -0500,Tue May 26 10:46:44 2015 -0500,Remove encoding
+gs-messaging-gcp-pubsub/initial/pom.xml,8c596aa22cb26d967f67eb2021917366106a795c,Greg Turnquist,Tue Mar 31 16:55:42 2015 -0500,Tue Mar 31 16:55:42 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,d4c8a355aca4dc37d87872fa7d0ee787a2669e1d,Greg Turnquist,Tue Mar 17 13:13:52 2015 -0500,Tue Mar 17 13:13:52 2015 -0500,Upgrade maven build to Java 7
+gs-messaging-gcp-pubsub/initial/pom.xml,947f9a3c0e61dfa859137c54e483e60acf312cb8,Greg Turnquist,Thu Feb 26 22:39:06 2015 -0600,Thu Feb 26 22:39:06 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,938c1f7617672ffcf37c30d676abcd6f8fd052fe,Greg Turnquist,Tue Feb 24 13:36:30 2015 -0600,Tue Feb 24 13:36:30 2015 -0600,Upgrade to @SpringBootApplication
+gs-messaging-gcp-pubsub/initial/pom.xml,5c1290e882850db981460348ee7d26e6f4d31f9e,Greg Turnquist,Wed Feb 18 11:07:25 2015 -0600,Wed Feb 18 11:07:25 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,091fa4cea82c19fc1ed8696bfd199d388ad3b1ef,Greg Turnquist,Wed Jan 14 12:33:36 2015 -0600,Wed Jan 14 12:33:36 2015 -0600,Remove legacy start-class property from maven builds
+gs-messaging-gcp-pubsub/initial/pom.xml,c4b9526e5c6f26d57c1bde68ef4e9222b85f33c5,Greg Turnquist,Thu Dec 11 11:07:18 2014 -0600,Thu Dec 11 11:07:18 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,cd21ebb000f9b161ffdf232b99217503a3f45dd8,Greg Turnquist,Thu Nov 20 10:14:39 2014 -0600,Thu Nov 20 10:14:39 2014 -0600,Convert to use https for repositories
+gs-messaging-gcp-pubsub/initial/pom.xml,757a3ec31fdf4734027c0fd64ec288e0244e5971,Greg Turnquist,Wed Nov 12 13:07:32 2014 -0600,Wed Nov 12 13:07:32 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,35f77bf6642ad7016b95678fe51d8bcabdbb92ae,Greg Turnquist,Fri Oct 10 22:04:37 2014 -0500,Fri Oct 10 22:04:37 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,303e62c277e77025176c347390f4678dc1d3da3b,Greg Turnquist,Mon Sep 29 12:40:42 2014 -0500,Mon Sep 29 12:40:42 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,aa8e803603ffe4f2431b2604738836c7973b70b1,Greg Turnquist,Fri Sep 5 11:13:23 2014 -0500,Fri Sep 5 11:13:23 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,049b379e27495b559e92d7f538070f69d5addf64,Greg Turnquist,Fri Aug 8 22:11:59 2014 -0500,Fri Aug 8 22:11:59 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,4df4cc18d64c8ae7f04795454be500b30242ef0b,Greg Turnquist,Tue Jul 8 15:41:20 2014 -0500,Tue Jul 8 15:41:20 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,00cc3a6914b951f285f2adf1b6c5449b191472c0,Greg Turnquist,Fri Jun 27 22:54:45 2014 -0400,Fri Jun 27 22:54:45 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,98c4126955bbc467974d327f91add686d4838a1e,Greg Turnquist,Tue Jun 24 19:52:13 2014 -0400,Tue Jun 24 19:52:13 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,f10f510a5a37b8c4ec6b85a84693ccc4f08160b5,Greg Turnquist,Wed Jun 11 16:47:43 2014 -0500,Wed Jun 11 16:47:43 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,cba24b9032c19d44d899802602a060ac197c1f57,Greg Turnquist,Wed Jun 11 09:08:35 2014 -0500,Wed Jun 11 09:08:35 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-messaging-gcp-pubsub/initial/pom.xml,a17d9e502908dfb7453e59fa3342d64068d2328a,Greg Turnquist,Tue Jun 10 19:15:58 2014 -0500,Tue Jun 10 19:15:58 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,e4fed08e4c83a97f36f348330b8a466f4586da76,Greg Turnquist,Thu Apr 24 09:36:30 2014 -0500,Thu Apr 24 09:36:30 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,abe07b23f9f20e508e1ba85c0b053eb670b4c6a6,Greg Turnquist,Mon Apr 7 10:08:59 2014 -0500,Mon Apr 7 10:08:59 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,5d45dd7ba88adf3a29bd9d8f0c02cb04026bc1a4,Greg Turnquist,Tue Apr 1 15:10:36 2014 -0500,Tue Apr 1 15:10:36 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-messaging-gcp-pubsub/initial/pom.xml,777511d1b47ffb6cd3b9a418f878b56e44350d27,Greg Turnquist,Sat Mar 22 07:17:24 2014 -0500,Sat Mar 22 07:17:24 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-messaging-gcp-pubsub/initial/pom.xml,7165587df387bc6b1bd5deb636778854138d12fb,Greg Turnquist,Tue Mar 4 15:08:34 2014 -0500,Tue Mar 4 15:08:34 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-messaging-gcp-pubsub/initial/pom.xml,a20b8d4ce7629f3224342b175549cab0adcd9bb2,Greg Turnquist,Tue Feb 18 16:29:17 2014 -0600,Tue Feb 18 16:29:17 2014 -0600,Make initial file the final one
+gs-messaging-gcp-pubsub/initial/pom.xml,e87d20ee0fabf23520d256a859b95844b9491489,Greg Turnquist,Fri Feb 14 11:23:16 2014 -0600,Fri Feb 14 11:23:16 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-messaging-gcp-pubsub/initial/pom.xml,bff01b24f02a944c7337290450cc2a9f0468d445,Greg Turnquist,Thu Feb 13 12:37:56 2014 -0600,Thu Feb 13 12:37:56 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-messaging-gcp-pubsub/initial/pom.xml,c08465780aaa68135629e7e73a6172d4c02ed66a,Greg Turnquist,Wed Jan 22 12:20:59 2014 -0600,Wed Jan 22 12:20:59 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-messaging-gcp-pubsub/initial/pom.xml,febb3110a3627c7b42343f3bd98b139be116fa16,Roy Clarkson,Mon Oct 28 22:22:38 2013 -0500,Mon Oct 28 22:22:38 2013 -0500,Initial commit of guide template

@@ -1,0 +1,19 @@
+android-BatchStepSensor/build.gradle,0c9bf0d007265dd4532674040086dd06e3482ef0,google-automerger,Tue Sep 2 11:00:39 2014 -0700,Tue Sep 2 11:00:39 2014 -0700,Initial Commit
+android-BatchStepSensor/Application/build.gradle,d1a186e5cdd75658d7e3276bdb2d5b7cc91bb484,google-automerger,Thu Feb 15 16:35:07 2018 -0800,Thu Feb 15 16:35:07 2018 -0800,Auto-update
+android-BatchStepSensor/Application/build.gradle,c0f6ac50a523d3796a870f53ec2369eb0f55bf29,google-automerger,Tue Oct 10 17:51:27 2017 -0700,Tue Oct 10 17:51:27 2017 -0700,Auto-update
+android-BatchStepSensor/Application/build.gradle,abff6125a519f828ee3fca8f13bbc0adff7ae829,google-automerger,Thu Jun 8 09:33:08 2017 -0700,Thu Jun 8 09:33:08 2017 -0700,Auto-update
+android-BatchStepSensor/Application/build.gradle,4a9b08875d237c8666bd6f15cf6cc6fd978657a4,google-automerger,Wed May 17 13:31:59 2017 -0700,Wed May 17 13:31:59 2017 -0700,Auto-update
+android-BatchStepSensor/Application/build.gradle,1691be44f287426d1ea27ae28dbb0b3e6b4a2b92,google-automerger,Tue Dec 13 09:39:00 2016 -0800,Tue Dec 13 09:39:00 2016 -0800,Auto-update
+android-BatchStepSensor/Application/build.gradle,bb1b73f24b094badcd74c996318876825fb8b883,google-automerger,Fri Aug 12 15:17:54 2016 -0700,Fri Aug 12 15:17:54 2016 -0700,Auto-update
+android-BatchStepSensor/Application/build.gradle,fdb05b90e5e515821afdd25274606d7a3215e625,google-automerger,Wed May 18 11:37:59 2016 -0700,Wed May 18 11:37:59 2016 -0700,Auto-update
+android-BatchStepSensor/Application/build.gradle,e81b5b2188510d929fa7870b26a58be78516bcbc,google-automerger,Wed Apr 20 12:25:58 2016 -0700,Wed Apr 20 12:25:58 2016 -0700,Auto-update
+android-BatchStepSensor/Application/build.gradle,2e0910634052698b97f823707e28e24555d2b10f,google-automerger,Wed Nov 18 09:33:05 2015 -0800,Wed Nov 18 09:33:05 2015 -0800,Auto-update
+android-BatchStepSensor/Application/build.gradle,57d5c805141dc4eab28dace032edfe5ce73c9e9e,google-automerger,Thu Oct 8 17:42:19 2015 -0700,Thu Oct 8 17:42:19 2015 -0700,Auto-update
+android-BatchStepSensor/Application/build.gradle,1c975ca94f1ca525c59421ed7c7f82626585ff4f,google-automerger,Mon Aug 17 09:54:12 2015 -0700,Mon Aug 17 09:54:12 2015 -0700,Auto-update
+android-BatchStepSensor/Application/build.gradle,49f25da9f7a1c0874e3ee788df5277129b6a459b,google-automerger,Thu Jul 9 11:10:07 2015 -0700,Thu Jul 9 11:10:07 2015 -0700,Auto-update
+android-BatchStepSensor/Application/build.gradle,7b321d69e4b5a61a89a76124212d54468961af1a,google-automerger,Thu May 21 10:04:12 2015 -0700,Thu May 21 10:04:12 2015 -0700,Auto-update
+android-BatchStepSensor/Application/build.gradle,36f5d6e2456705fdc68a364eeb2f7a2e57295dc7,google-automerger,Tue Apr 28 10:53:34 2015 -0700,Tue Apr 28 10:53:34 2015 -0700,Auto-update
+android-BatchStepSensor/Application/build.gradle,c15134d116187a7e1a8b49e8e838d63cffe2eacc,google-automerger,Mon Mar 30 17:43:11 2015 -0700,Mon Mar 30 17:43:11 2015 -0700,Auto-update
+android-BatchStepSensor/Application/build.gradle,160a02f0cac378c4216d0b88dd05737a8c090903,google-automerger,Mon Dec 8 17:49:05 2014 -0800,Mon Dec 8 17:49:05 2014 -0800,Auto-update
+android-BatchStepSensor/Application/build.gradle,73dae4e85507cdf0779dc6a00aad54835b6faaf6,google-automerger,Wed Dec 3 01:48:14 2014 -0800,Wed Dec 3 01:48:14 2014 -0800,Auto-update
+android-BatchStepSensor/Application/build.gradle,3b48eadbe39cb1130a936ddf5fc8b37beafff81a,google-automerger,Tue Nov 18 16:17:42 2014 -0800,Tue Nov 18 16:17:42 2014 -0800,Auto-update

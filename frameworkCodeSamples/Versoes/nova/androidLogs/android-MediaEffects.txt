@@ -1,0 +1,20 @@
+android-MediaEffects/build.gradle,4f2b8272c1d8b0f2ec56ab43f455222cf70f9bb3,google-automerger,Fri Oct 3 18:14:14 2014 -0700,Fri Oct 3 18:14:14 2014 -0700,Initial Commit
+android-MediaEffects/Application/build.gradle,380ff8b0bbd6983ca02ca628a204d3f33880c942,google-automerger,Thu Feb 15 16:37:07 2018 -0800,Thu Feb 15 16:37:07 2018 -0800,Auto-update
+android-MediaEffects/Application/build.gradle,fc1edf1e4bd988e4e10b62d8ddad2fa62b433d0e,google-automerger,Tue Oct 10 17:53:34 2017 -0700,Tue Oct 10 17:53:34 2017 -0700,Auto-update
+android-MediaEffects/Application/build.gradle,abf905306febf069186b8416951ac2b737ad350d,google-automerger,Thu Jun 8 09:34:56 2017 -0700,Thu Jun 8 09:34:56 2017 -0700,Auto-update
+android-MediaEffects/Application/build.gradle,57c1cdd92b8b7ca205618dc56abf946e61074dce,google-automerger,Wed May 17 13:33:51 2017 -0700,Wed May 17 13:33:51 2017 -0700,Auto-update
+android-MediaEffects/Application/build.gradle,3121bb9244584ee684b236832439946408a49e8b,google-automerger,Tue Dec 13 09:40:22 2016 -0800,Tue Dec 13 09:40:22 2016 -0800,Auto-update
+android-MediaEffects/Application/build.gradle,08c2938e4c3b3266abb5a7c845e8da6c388ec798,google-automerger,Fri Aug 12 15:19:15 2016 -0700,Fri Aug 12 15:19:15 2016 -0700,Auto-update
+android-MediaEffects/Application/build.gradle,650baa3c1193eba5b1f0178f60dc52e946dfc2f6,google-automerger,Wed May 18 11:39:00 2016 -0700,Wed May 18 11:39:00 2016 -0700,Auto-update
+android-MediaEffects/Application/build.gradle,238c0b6b180b20d5288632e1b549fe81b1c14191,google-automerger,Wed Apr 20 12:27:01 2016 -0700,Wed Apr 20 12:27:01 2016 -0700,Auto-update
+android-MediaEffects/Application/build.gradle,13b17cb201a2618aab3307ff3dd9cfec5640b8de,google-automerger,Wed Nov 18 09:34:08 2015 -0800,Wed Nov 18 09:34:08 2015 -0800,Auto-update
+android-MediaEffects/Application/build.gradle,0e60ae9a2661c92263a3c9bf09425741621eef1e,google-automerger,Thu Oct 8 17:43:20 2015 -0700,Thu Oct 8 17:43:20 2015 -0700,Auto-update
+android-MediaEffects/Application/build.gradle,46714854785025c12f9512e9e1c2f52ace7bd4b5,google-automerger,Mon Aug 17 09:55:06 2015 -0700,Mon Aug 17 09:55:06 2015 -0700,Auto-update
+android-MediaEffects/Application/build.gradle,7d3a187eeba8d82e99e2ee2619f43a7a66c705e7,google-automerger,Thu Jul 9 11:10:57 2015 -0700,Thu Jul 9 11:10:57 2015 -0700,Auto-update
+android-MediaEffects/Application/build.gradle,9e7f7e51fdbb92565629e16f5718e2422a5f1dfd,google-automerger,Thu May 21 10:05:00 2015 -0700,Thu May 21 10:05:00 2015 -0700,Auto-update
+android-MediaEffects/Application/build.gradle,88ccb07d1fff16306469ffe6ed80ecf471e07c42,google-automerger,Tue Apr 28 10:55:27 2015 -0700,Tue Apr 28 10:55:27 2015 -0700,Auto-update
+android-MediaEffects/Application/build.gradle,7121f3d90b2df114a647e714f56545dd8d85afa5,google-automerger,Mon Mar 30 17:44:45 2015 -0700,Mon Mar 30 17:44:45 2015 -0700,Auto-update
+android-MediaEffects/Application/build.gradle,a4ddbebce6afaf0ab1f2b3d9ec12715fa63fe2df,google-automerger,Mon Dec 8 17:51:35 2014 -0800,Mon Dec 8 17:51:35 2014 -0800,Auto-update
+android-MediaEffects/Application/build.gradle,acf1ffa1386bb0cceb7bed8be25e7966f326b16d,google-automerger,Wed Dec 3 01:53:12 2014 -0800,Wed Dec 3 01:53:12 2014 -0800,Auto-update
+android-MediaEffects/Application/build.gradle,e9bad8b37642d6228768e82e8c89f38d2759656f,google-automerger,Tue Nov 18 16:19:49 2014 -0800,Tue Nov 18 16:19:49 2014 -0800,Auto-update
+android-MediaEffects/Application/build.gradle,4f2b8272c1d8b0f2ec56ab43f455222cf70f9bb3,google-automerger,Fri Oct 3 18:14:14 2014 -0700,Fri Oct 3 18:14:14 2014 -0700,Initial Commit

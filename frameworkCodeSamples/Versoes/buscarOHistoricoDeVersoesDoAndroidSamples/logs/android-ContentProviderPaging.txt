@@ -1,0 +1,11 @@
+android-ContentProviderPaging/build.gradle,ac4d317cf2dd50337a33a2d5d7b79f6b0e70c222,google-automerger,Thu Feb 15 16:35:46 2018 -0800,Thu Feb 15 16:35:46 2018 -0800,Auto-update
+android-ContentProviderPaging/build.gradle,fc00cfad472f67cb069c28e8a9326b197809a4c7,google-automerger,Tue Mar 21 09:54:17 2017 -0700,Tue Mar 21 09:54:17 2017 -0700,Auto-update
+android-ContentProviderPaging/app/build.gradle,bd05536e1b9a71e328019e7d419dc8e90d08abab,google-automerger,Tue Oct 10 17:52:06 2017 -0700,Tue Oct 10 17:52:06 2017 -0700,Auto-update
+android-ContentProviderPaging/app/build.gradle,27b92e9d228ca8cd7ebc6b9aff6ae47b4ac05ed0,google-automerger,Thu Jun 8 09:33:39 2017 -0700,Thu Jun 8 09:33:39 2017 -0700,Auto-update
+android-ContentProviderPaging/app/build.gradle,be525a9cb4cce343902db1e8dc957dcdc9ed4ea3,google-automerger,Wed May 17 13:32:34 2017 -0700,Wed May 17 13:32:34 2017 -0700,Auto-update
+android-ContentProviderPaging/app/build.gradle,fc00cfad472f67cb069c28e8a9326b197809a4c7,google-automerger,Tue Mar 21 09:54:17 2017 -0700,Tue Mar 21 09:54:17 2017 -0700,Auto-update
+android-ContentProviderPaging/kotlinApp/build.gradle,ac4d317cf2dd50337a33a2d5d7b79f6b0e70c222,google-automerger,Thu Feb 15 16:35:46 2018 -0800,Thu Feb 15 16:35:46 2018 -0800,Auto-update
+android-ContentProviderPaging/kotlinApp/build.gradle,be525a9cb4cce343902db1e8dc957dcdc9ed4ea3,google-automerger,Wed May 17 13:32:34 2017 -0700,Wed May 17 13:32:34 2017 -0700,Auto-update
+android-ContentProviderPaging/kotlinApp/app/build.gradle,be525a9cb4cce343902db1e8dc957dcdc9ed4ea3,google-automerger,Wed May 17 13:32:34 2017 -0700,Wed May 17 13:32:34 2017 -0700,Auto-update
+android-ContentProviderPaging/kotlinApp/resources/build.gradle,be525a9cb4cce343902db1e8dc957dcdc9ed4ea3,google-automerger,Wed May 17 13:32:34 2017 -0700,Wed May 17 13:32:34 2017 -0700,Auto-update
+android-ContentProviderPaging/resources/build.gradle,be525a9cb4cce343902db1e8dc957dcdc9ed4ea3,google-automerger,Wed May 17 13:32:34 2017 -0700,Wed May 17 13:32:34 2017 -0700,Auto-update

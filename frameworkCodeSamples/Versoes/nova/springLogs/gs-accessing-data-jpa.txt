@@ -1,0 +1,156 @@
+gs-accessing-data-jpa/complete/pom.xml,7811831bfb300ce56fa981951496a14777251c41,Andy Wilkinson,Tue Nov 27 15:56:07 2018 +0000,Tue Nov 27 09:56:07 2018 -0600,Remove redundant configuration of JBoss's Maven repo (#34)
+gs-accessing-data-jpa/complete/pom.xml,d0093d4158207c95856c6286ef051c0e183dc452,Greg Turnquist,Mon Sep 17 10:49:00 2018 -0500,Mon Sep 17 10:49:00 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-accessing-data-jpa/complete/pom.xml,b25f7104f8cb8517abb0812158f07e130fd2cb94,Greg Turnquist,Mon Jun 18 16:15:14 2018 -0500,Mon Jun 18 16:15:14 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,fcc8419352b96fa58c03a9cf0384fc1582fb8714,Greg Turnquist,Wed May 9 11:24:57 2018 -0500,Wed May 9 11:24:57 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-accessing-data-jpa/complete/pom.xml,40e78c2c9442cbfac1b79c991d947cc166309c6d,Greg Turnquist,Thu Apr 5 11:43:30 2018 -0500,Thu Apr 5 11:43:30 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,fc9fb98f16345b930c4fcf4db773cefc61d7c004,Greg Turnquist,Thu Mar 1 09:46:59 2018 -0600,Mon Mar 5 14:05:49 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,acd09047079f0a71e41ee5c3c4bd5df69f8a541a,Greg Turnquist,Wed Jan 31 09:14:41 2018 -0600,Wed Jan 31 09:14:41 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,34283a756283529080e8b144dbe1810a8f873134,Greg Turnquist,Thu Nov 30 11:05:28 2017 -0600,Thu Nov 30 11:05:28 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,7b0fc9e50be27c59bc87175f36446b0e64063fbc,Greg Turnquist,Tue Oct 17 15:41:23 2017 -0500,Tue Oct 17 15:41:23 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,d7170d70ebdb6ed06f821198337003a9f833dbc5,Greg Turnquist,Wed Sep 13 13:14:24 2017 -0500,Wed Sep 13 13:14:24 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,6f75857d012f8933a209460de04d248fa8da0ab7,Greg Turnquist,Thu Jul 27 10:03:27 2017 -0500,Thu Jul 27 10:03:27 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,6337e27f97c9f49900f50dfb28ec5d25bb07d753,Greg Turnquist,Wed Jul 26 12:22:14 2017 -0500,Wed Jul 26 12:22:14 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,e9c86965e4f5762b2892c9340980d862c765f162,Greg Turnquist,Fri Apr 21 09:19:13 2017 -0500,Fri Apr 21 09:19:13 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,9ab16f0333628b0134d5881496e15ea40e9e4318,Greg Turnquist,Fri Mar 3 11:12:06 2017 -0600,Fri Mar 3 11:12:06 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,84b2843d40ad75f486e52e7fb8f566238df37dd3,Greg Turnquist,Mon Jan 30 23:27:39 2017 -0600,Mon Jan 30 23:27:39 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,88cef3e1d55380a079aa447b1db49bc60eb8e57e,Greg Turnquist,Mon Jan 30 11:34:21 2017 -0600,Mon Jan 30 11:34:21 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,31e545f5e57d9d36eb306a65a2e603e8ace13a31,Greg Turnquist,Thu Jan 26 12:46:29 2017 -0600,Thu Jan 26 12:46:29 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,b6143cf293ac14179298ac5b0bdd2e5435073ddb,Greg Turnquist,Thu Jan 26 12:35:53 2017 -0600,Thu Jan 26 12:35:53 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,bf2dd90f0694a6af6e210b9b8f988ef021a7c40e,Greg Turnquist,Thu Dec 22 22:31:13 2016 -0600,Thu Dec 22 22:31:13 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,fa77b46b1af9bcd7fc326364dcb30fa9e65345a7,Greg Turnquist,Tue Nov 8 11:51:39 2016 -0600,Tue Nov 8 11:51:39 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,e8d19ff39d090a73f2bce20f0c851f1bbed75fd5,Greg Turnquist,Fri Sep 23 16:35:12 2016 -0500,Fri Sep 23 16:35:12 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,7a712b3811612eeca2a3084e18051e63fa6146d9,Rob Winch,Mon Aug 29 21:50:40 2016 -0500,Mon Aug 29 21:50:40 2016 -0500,Add @DataJpaTest
+gs-accessing-data-jpa/complete/pom.xml,fbf096f963b19c5aad25b78e0819bf34f576e2db,Greg Turnquist,Tue Aug 2 06:48:17 2016 -0700,Tue Aug 2 06:48:17 2016 -0700,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,b08e65f5a146aac5781a1700e13a4181da125bd5,Greg Turnquist,Thu Jul 28 06:52:15 2016 -0500,Thu Jul 28 06:52:15 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,da9beab42d22ef7e84ec09cc29a28d67e8f2027a,Greg Turnquist,Tue Jul 5 13:51:41 2016 -0500,Tue Jul 5 13:51:41 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,c983ed9d00a7329d087ac2e325b3cfb3671dd518,Greg Turnquist,Tue May 10 10:25:47 2016 -0500,Tue May 10 10:25:47 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,f11501c5c2bf6be4fe60c835e5c7556e24616508,Greg Turnquist,Fri May 6 09:48:05 2016 -0500,Fri May 6 09:48:05 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,f088cdb94dd1f7358ff5ad28d0e085b66557c4d8,Greg Turnquist,Fri Feb 26 07:28:57 2016 -0600,Fri Feb 26 07:28:57 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,425395872fefbeb2400948a4f9e201015ba25a4b,Greg Turnquist,Thu Jan 21 21:28:09 2016 -0600,Thu Jan 21 21:28:09 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,f4c5ab25ce9ba862ad7fe788baa1e90f81914f0b,Greg Turnquist,Fri Dec 18 09:39:39 2015 -0600,Fri Dec 18 09:39:39 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,0c29b0572963c77058fcbb0531d32ccfbad10eff,Greg Turnquist,Mon Nov 16 11:10:07 2015 -0600,Mon Nov 16 11:10:07 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,1ad5f75f00e494e359880754cd5104118b33ea64,Greg Turnquist,Fri Oct 16 09:43:08 2015 -0400,Fri Oct 16 09:43:08 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,eae760450eec593edd352a3f20399d3579435168,Greg Turnquist,Sun Sep 20 15:41:05 2015 -0500,Sun Sep 20 15:41:05 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,a4b9e9a4a3588a745b1cb823df15a4e427915763,Greg Turnquist,Thu Jul 2 08:45:01 2015 -0500,Thu Jul 2 08:45:01 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,5b9e626de0f58d093b312129a23b7da11c250cb0,Greg Turnquist,Mon Jun 15 11:29:32 2015 -0400,Mon Jun 15 11:29:32 2015 -0400,Fix maven builds
+gs-accessing-data-jpa/complete/pom.xml,76fc4473b32437d4d6a8f7622142d57c58891527,Greg Turnquist,Fri Jun 12 14:01:43 2015 -0400,Fri Jun 12 14:01:43 2015 -0400,Upgrade non-specific guides to Java 8
+gs-accessing-data-jpa/complete/pom.xml,25fedcd23298e2e503118d7bbbab6afddaaacd51,Greg Turnquist,Tue Jun 9 09:41:24 2015 -0400,Tue Jun 9 09:41:24 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-accessing-data-jpa/complete/pom.xml,5e68097129d2c13937a749291673a8c8ce82f99c,Greg Turnquist,Tue May 26 10:54:28 2015 -0500,Tue May 26 10:54:28 2015 -0500,Remove encodings because they are supplied by the starter POM
+gs-accessing-data-jpa/complete/pom.xml,f50e3430735ef67980d2496a0c02d124142410b1,Greg Turnquist,Tue Mar 31 16:55:46 2015 -0500,Tue Mar 31 16:55:46 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,d7ade085f6059d0402688c502de66153b10ae1ef,Greg Turnquist,Thu Feb 26 22:39:11 2015 -0600,Thu Feb 26 22:39:11 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,32370b29b4a554e72c8ecbcf079ae839df4be565,Greg Turnquist,Wed Feb 18 11:07:30 2015 -0600,Wed Feb 18 11:07:30 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,94d2824998823e675360de329fcf9e760e11747f,Greg Turnquist,Wed Jan 14 12:33:38 2015 -0600,Wed Jan 14 12:33:38 2015 -0600,Remove legacy start-class property from maven builds
+gs-accessing-data-jpa/complete/pom.xml,0abe427d74b65826d7f835b36ebea9c85e307ee6,Greg Turnquist,Thu Dec 11 11:07:25 2014 -0600,Thu Dec 11 11:07:25 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,191af0d91cbeb7d37a309224d7f80ad202e5dac9,Greg Turnquist,Thu Nov 20 10:14:44 2014 -0600,Thu Nov 20 10:14:44 2014 -0600,Convert to use https for repositories
+gs-accessing-data-jpa/complete/pom.xml,0699c89f0e5a81124ef356652c2774aa38e9abe7,Greg Turnquist,Wed Nov 12 13:07:38 2014 -0600,Wed Nov 12 13:07:38 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,a0123de30e1d53a35781dc722a8bf3c768b0d074,Greg Turnquist,Fri Oct 10 22:04:42 2014 -0500,Fri Oct 10 22:04:42 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,b095dd4eeeada756bd7ba75158614883869c202a,Greg Turnquist,Mon Sep 29 12:42:08 2014 -0500,Mon Sep 29 12:42:08 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,a6e94bc93ad4191d58afdd5a7bff2a6c2f3eb986,Greg Turnquist,Fri Sep 5 11:13:28 2014 -0500,Fri Sep 5 11:13:28 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,8a7df244ae6acd01ae936eac9c9fbf1d504e6d5d,Greg Turnquist,Fri Aug 8 22:12:04 2014 -0500,Fri Aug 8 22:12:04 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,f3d388f932267872e11dcc3acf1b71240f63fdc1,Greg Turnquist,Tue Jul 8 15:41:24 2014 -0500,Tue Jul 8 15:41:24 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,6aa09eca4676f39be57e0dda75cc88be7942c86c,Greg Turnquist,Fri Jun 27 22:54:51 2014 -0400,Fri Jun 27 22:54:51 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,ae25f8dc942de05d8f7d8339ec6d49fef82f3b64,Greg Turnquist,Tue Jun 24 19:53:00 2014 -0400,Tue Jun 24 19:53:00 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,65aa59ac0a2cd1ba74afb765b8dbc5dd06259654,Greg Turnquist,Wed Jun 11 16:47:47 2014 -0500,Wed Jun 11 16:47:47 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,526f936ee61c54fa3af85aac019eea749a2ecb84,Greg Turnquist,Wed Jun 11 09:08:40 2014 -0500,Wed Jun 11 09:08:40 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-accessing-data-jpa/complete/pom.xml,4f828ce56f469bfb7037c50998b792a4547e6ff7,Greg Turnquist,Tue Jun 10 19:16:03 2014 -0500,Tue Jun 10 19:16:03 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,86484bd893d08d348a928066fa1fe5964463c54a,Greg Turnquist,Thu Apr 24 09:36:35 2014 -0500,Thu Apr 24 09:36:35 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,1d56598c3b62f6f9c9ddbccc7be2d5b42c8d134b,Greg Turnquist,Mon Apr 7 10:09:05 2014 -0500,Mon Apr 7 10:09:05 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,ce1f91760508a2dcf459af5c8f2201ac38c84a89,Greg Turnquist,Tue Apr 1 15:10:47 2014 -0500,Tue Apr 1 15:10:47 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-accessing-data-jpa/complete/pom.xml,d356f750375965842d67a9a4b6a00c3e8c691660,Greg Turnquist,Sat Mar 22 07:17:28 2014 -0500,Sat Mar 22 07:17:28 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-accessing-data-jpa/complete/pom.xml,ddedc6a6fd118eeb1c3d3f7a5a6de49306a5335b,Greg Turnquist,Tue Mar 4 15:08:40 2014 -0500,Tue Mar 4 15:08:40 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-accessing-data-jpa/complete/pom.xml,245d9ffbf008222b857f4a093a277d142ef583e5,Greg Turnquist,Wed Feb 19 08:55:33 2014 -0600,Wed Feb 19 08:55:33 2014 -0600,Update guide to use new starters and fix bugs
+gs-accessing-data-jpa/complete/pom.xml,f3387006f03ff2cff6d2ad9ed7b8d373e2540043,Greg Turnquist,Fri Feb 14 11:23:19 2014 -0600,Fri Feb 14 11:23:19 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-accessing-data-jpa/complete/pom.xml,512b23b24ee4682e37bf6efa66956c2773dab8ae,Greg Turnquist,Thu Feb 13 12:37:59 2014 -0600,Thu Feb 13 12:37:59 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-accessing-data-jpa/complete/pom.xml,dbbcaf01606ef133e65efaab1b62d1cd14ae0b82,Greg Turnquist,Wed Jan 22 12:21:03 2014 -0600,Wed Jan 22 12:21:03 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-accessing-data-jpa/complete/pom.xml,82bb3c7e99c9cbac67c9bc44c0315284d167bc29,Greg Turnquist,Mon Nov 18 12:03:45 2013 -0600,Mon Nov 18 12:03:45 2013 -0600,Upgrade to Spring Boot 0.5.0.M6
+gs-accessing-data-jpa/complete/pom.xml,b430e39cee128c89e9a9d9f8ac15438c027e3a2a,Roy Clarkson,Tue Oct 15 12:56:29 2013 -0500,Tue Oct 15 12:56:29 2013 -0500,Upgrade to Spring Boot 0.5.0.M5
+gs-accessing-data-jpa/complete/pom.xml,7cc42ab9be8ad4887f06029144d1f5183a6e8d2f,Roy Clarkson,Tue Oct 15 10:47:30 2013 -0700,Tue Oct 15 10:47:30 2013 -0700,Merge pull request #4 from olivergierke/master
+gs-accessing-data-jpa/complete/pom.xml,e017afba5f3118dd3e238c513407a750d7a52d0f,Greg Turnquist,Mon Sep 30 08:18:33 2013 -0500,Mon Sep 30 08:18:33 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-accessing-data-jpa/complete/pom.xml,7589e1753784e82432e2f7941acab1bc67acc931,Greg Turnquist,Fri Sep 27 10:31:40 2013 -0500,Fri Sep 27 10:31:40 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-accessing-data-jpa/complete/pom.xml,a31f816a01a4f56e94bf9b3cdbed5bf2d1c35a72,Greg Turnquist,Wed Sep 11 10:40:50 2013 -0700,Wed Sep 11 10:40:50 2013 -0700,Fix package name in maven pom.xml based on gs-accessing-data-jpa/issues/3
+gs-accessing-data-jpa/complete/pom.xml,28a59a181537e878d534872d79ef71c8110ae879,Greg Turnquist,Fri Aug 30 16:41:35 2013 -0500,Fri Aug 30 16:41:35 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-accessing-data-jpa/complete/pom.xml,c4316a2cf1090450e8be9294e6b5795eaf267cd1,Greg Turnquist,Fri Aug 9 13:17:49 2013 -0500,Fri Aug 9 13:17:49 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-accessing-data-jpa/complete/pom.xml,d77a3cd23f02a071314ada5f93a2bafdca3334f2,Greg Turnquist,Tue Aug 6 14:43:06 2013 -0500,Tue Aug 6 14:43:06 2013 -0500,Use libs-snapshot instead of snapshot
+gs-accessing-data-jpa/complete/pom.xml,d6a47937dddabb62819a4d4c0f5b55d0128e0734,Greg Turnquist,Wed Jul 31 15:42:16 2013 -0400,Wed Jul 31 15:42:16 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-accessing-data-jpa/complete/pom.xml,b6b0597021a37eb06dd3e7a8ed536c9b4e299d61,Greg Turnquist,Tue Jul 30 10:18:45 2013 -0400,Tue Jul 30 10:18:45 2013 -0400,Upgrade to Spring Boot
+gs-accessing-data-jpa/complete/pom.xml,5fef6ec6f0bd6f65a327eca9d90af1035f3fe75a,Greg Turnquist,Fri Jul 19 11:12:23 2013 -0400,Fri Jul 19 11:12:23 2013 -0400,Convert guide to spring-package-maven-plugin
+gs-accessing-data-jpa/complete/pom.xml,7c78816157c13c81671a2fe816e8b25cec539935,Craig Walls,Thu Jul 11 09:11:31 2013 -0500,Thu Jul 11 14:20:14 2013 -0500,Add complete example
+gs-accessing-data-jpa/initial/pom.xml,7811831bfb300ce56fa981951496a14777251c41,Andy Wilkinson,Tue Nov 27 15:56:07 2018 +0000,Tue Nov 27 09:56:07 2018 -0600,Remove redundant configuration of JBoss's Maven repo (#34)
+gs-accessing-data-jpa/initial/pom.xml,d0093d4158207c95856c6286ef051c0e183dc452,Greg Turnquist,Mon Sep 17 10:49:00 2018 -0500,Mon Sep 17 10:49:00 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-accessing-data-jpa/initial/pom.xml,b25f7104f8cb8517abb0812158f07e130fd2cb94,Greg Turnquist,Mon Jun 18 16:15:14 2018 -0500,Mon Jun 18 16:15:14 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,fcc8419352b96fa58c03a9cf0384fc1582fb8714,Greg Turnquist,Wed May 9 11:24:57 2018 -0500,Wed May 9 11:24:57 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-accessing-data-jpa/initial/pom.xml,40e78c2c9442cbfac1b79c991d947cc166309c6d,Greg Turnquist,Thu Apr 5 11:43:30 2018 -0500,Thu Apr 5 11:43:30 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,fc9fb98f16345b930c4fcf4db773cefc61d7c004,Greg Turnquist,Thu Mar 1 09:46:59 2018 -0600,Mon Mar 5 14:05:49 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,acd09047079f0a71e41ee5c3c4bd5df69f8a541a,Greg Turnquist,Wed Jan 31 09:14:41 2018 -0600,Wed Jan 31 09:14:41 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,34283a756283529080e8b144dbe1810a8f873134,Greg Turnquist,Thu Nov 30 11:05:28 2017 -0600,Thu Nov 30 11:05:28 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,7b0fc9e50be27c59bc87175f36446b0e64063fbc,Greg Turnquist,Tue Oct 17 15:41:23 2017 -0500,Tue Oct 17 15:41:23 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,d7170d70ebdb6ed06f821198337003a9f833dbc5,Greg Turnquist,Wed Sep 13 13:14:24 2017 -0500,Wed Sep 13 13:14:24 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,6f75857d012f8933a209460de04d248fa8da0ab7,Greg Turnquist,Thu Jul 27 10:03:27 2017 -0500,Thu Jul 27 10:03:27 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,6337e27f97c9f49900f50dfb28ec5d25bb07d753,Greg Turnquist,Wed Jul 26 12:22:14 2017 -0500,Wed Jul 26 12:22:14 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,e9c86965e4f5762b2892c9340980d862c765f162,Greg Turnquist,Fri Apr 21 09:19:13 2017 -0500,Fri Apr 21 09:19:13 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,9ab16f0333628b0134d5881496e15ea40e9e4318,Greg Turnquist,Fri Mar 3 11:12:06 2017 -0600,Fri Mar 3 11:12:06 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,84b2843d40ad75f486e52e7fb8f566238df37dd3,Greg Turnquist,Mon Jan 30 23:27:39 2017 -0600,Mon Jan 30 23:27:39 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,88cef3e1d55380a079aa447b1db49bc60eb8e57e,Greg Turnquist,Mon Jan 30 11:34:21 2017 -0600,Mon Jan 30 11:34:21 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,31e545f5e57d9d36eb306a65a2e603e8ace13a31,Greg Turnquist,Thu Jan 26 12:46:29 2017 -0600,Thu Jan 26 12:46:29 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,b6143cf293ac14179298ac5b0bdd2e5435073ddb,Greg Turnquist,Thu Jan 26 12:35:53 2017 -0600,Thu Jan 26 12:35:53 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,bf2dd90f0694a6af6e210b9b8f988ef021a7c40e,Greg Turnquist,Thu Dec 22 22:31:13 2016 -0600,Thu Dec 22 22:31:13 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,fa77b46b1af9bcd7fc326364dcb30fa9e65345a7,Greg Turnquist,Tue Nov 8 11:51:39 2016 -0600,Tue Nov 8 11:51:39 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,e8d19ff39d090a73f2bce20f0c851f1bbed75fd5,Greg Turnquist,Fri Sep 23 16:35:12 2016 -0500,Fri Sep 23 16:35:12 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,7a712b3811612eeca2a3084e18051e63fa6146d9,Rob Winch,Mon Aug 29 21:50:40 2016 -0500,Mon Aug 29 21:50:40 2016 -0500,Add @DataJpaTest
+gs-accessing-data-jpa/initial/pom.xml,fbf096f963b19c5aad25b78e0819bf34f576e2db,Greg Turnquist,Tue Aug 2 06:48:17 2016 -0700,Tue Aug 2 06:48:17 2016 -0700,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,b08e65f5a146aac5781a1700e13a4181da125bd5,Greg Turnquist,Thu Jul 28 06:52:15 2016 -0500,Thu Jul 28 06:52:15 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,da9beab42d22ef7e84ec09cc29a28d67e8f2027a,Greg Turnquist,Tue Jul 5 13:51:41 2016 -0500,Tue Jul 5 13:51:41 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,c983ed9d00a7329d087ac2e325b3cfb3671dd518,Greg Turnquist,Tue May 10 10:25:47 2016 -0500,Tue May 10 10:25:47 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,f11501c5c2bf6be4fe60c835e5c7556e24616508,Greg Turnquist,Fri May 6 09:48:05 2016 -0500,Fri May 6 09:48:05 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,f088cdb94dd1f7358ff5ad28d0e085b66557c4d8,Greg Turnquist,Fri Feb 26 07:28:57 2016 -0600,Fri Feb 26 07:28:57 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,425395872fefbeb2400948a4f9e201015ba25a4b,Greg Turnquist,Thu Jan 21 21:28:09 2016 -0600,Thu Jan 21 21:28:09 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,f4c5ab25ce9ba862ad7fe788baa1e90f81914f0b,Greg Turnquist,Fri Dec 18 09:39:39 2015 -0600,Fri Dec 18 09:39:39 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,0c29b0572963c77058fcbb0531d32ccfbad10eff,Greg Turnquist,Mon Nov 16 11:10:07 2015 -0600,Mon Nov 16 11:10:07 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,1ad5f75f00e494e359880754cd5104118b33ea64,Greg Turnquist,Fri Oct 16 09:43:08 2015 -0400,Fri Oct 16 09:43:08 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,eae760450eec593edd352a3f20399d3579435168,Greg Turnquist,Sun Sep 20 15:41:05 2015 -0500,Sun Sep 20 15:41:05 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,a4b9e9a4a3588a745b1cb823df15a4e427915763,Greg Turnquist,Thu Jul 2 08:45:01 2015 -0500,Thu Jul 2 08:45:01 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,5b9e626de0f58d093b312129a23b7da11c250cb0,Greg Turnquist,Mon Jun 15 11:29:32 2015 -0400,Mon Jun 15 11:29:32 2015 -0400,Fix maven builds
+gs-accessing-data-jpa/initial/pom.xml,76fc4473b32437d4d6a8f7622142d57c58891527,Greg Turnquist,Fri Jun 12 14:01:43 2015 -0400,Fri Jun 12 14:01:43 2015 -0400,Upgrade non-specific guides to Java 8
+gs-accessing-data-jpa/initial/pom.xml,25fedcd23298e2e503118d7bbbab6afddaaacd51,Greg Turnquist,Tue Jun 9 09:41:24 2015 -0400,Tue Jun 9 09:41:24 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-accessing-data-jpa/initial/pom.xml,5e68097129d2c13937a749291673a8c8ce82f99c,Greg Turnquist,Tue May 26 10:54:28 2015 -0500,Tue May 26 10:54:28 2015 -0500,Remove encodings because they are supplied by the starter POM
+gs-accessing-data-jpa/initial/pom.xml,f50e3430735ef67980d2496a0c02d124142410b1,Greg Turnquist,Tue Mar 31 16:55:46 2015 -0500,Tue Mar 31 16:55:46 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,d7ade085f6059d0402688c502de66153b10ae1ef,Greg Turnquist,Thu Feb 26 22:39:11 2015 -0600,Thu Feb 26 22:39:11 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,32370b29b4a554e72c8ecbcf079ae839df4be565,Greg Turnquist,Wed Feb 18 11:07:30 2015 -0600,Wed Feb 18 11:07:30 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,94d2824998823e675360de329fcf9e760e11747f,Greg Turnquist,Wed Jan 14 12:33:38 2015 -0600,Wed Jan 14 12:33:38 2015 -0600,Remove legacy start-class property from maven builds
+gs-accessing-data-jpa/initial/pom.xml,0abe427d74b65826d7f835b36ebea9c85e307ee6,Greg Turnquist,Thu Dec 11 11:07:25 2014 -0600,Thu Dec 11 11:07:25 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,191af0d91cbeb7d37a309224d7f80ad202e5dac9,Greg Turnquist,Thu Nov 20 10:14:44 2014 -0600,Thu Nov 20 10:14:44 2014 -0600,Convert to use https for repositories
+gs-accessing-data-jpa/initial/pom.xml,0699c89f0e5a81124ef356652c2774aa38e9abe7,Greg Turnquist,Wed Nov 12 13:07:38 2014 -0600,Wed Nov 12 13:07:38 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,a0123de30e1d53a35781dc722a8bf3c768b0d074,Greg Turnquist,Fri Oct 10 22:04:42 2014 -0500,Fri Oct 10 22:04:42 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,b095dd4eeeada756bd7ba75158614883869c202a,Greg Turnquist,Mon Sep 29 12:42:08 2014 -0500,Mon Sep 29 12:42:08 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,a6e94bc93ad4191d58afdd5a7bff2a6c2f3eb986,Greg Turnquist,Fri Sep 5 11:13:28 2014 -0500,Fri Sep 5 11:13:28 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,8a7df244ae6acd01ae936eac9c9fbf1d504e6d5d,Greg Turnquist,Fri Aug 8 22:12:04 2014 -0500,Fri Aug 8 22:12:04 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,f3d388f932267872e11dcc3acf1b71240f63fdc1,Greg Turnquist,Tue Jul 8 15:41:24 2014 -0500,Tue Jul 8 15:41:24 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,6aa09eca4676f39be57e0dda75cc88be7942c86c,Greg Turnquist,Fri Jun 27 22:54:51 2014 -0400,Fri Jun 27 22:54:51 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,ae25f8dc942de05d8f7d8339ec6d49fef82f3b64,Greg Turnquist,Tue Jun 24 19:53:00 2014 -0400,Tue Jun 24 19:53:00 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,65aa59ac0a2cd1ba74afb765b8dbc5dd06259654,Greg Turnquist,Wed Jun 11 16:47:47 2014 -0500,Wed Jun 11 16:47:47 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,526f936ee61c54fa3af85aac019eea749a2ecb84,Greg Turnquist,Wed Jun 11 09:08:40 2014 -0500,Wed Jun 11 09:08:40 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-accessing-data-jpa/initial/pom.xml,4f828ce56f469bfb7037c50998b792a4547e6ff7,Greg Turnquist,Tue Jun 10 19:16:03 2014 -0500,Tue Jun 10 19:16:03 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,86484bd893d08d348a928066fa1fe5964463c54a,Greg Turnquist,Thu Apr 24 09:36:35 2014 -0500,Thu Apr 24 09:36:35 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,1d56598c3b62f6f9c9ddbccc7be2d5b42c8d134b,Greg Turnquist,Mon Apr 7 10:09:05 2014 -0500,Mon Apr 7 10:09:05 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,ce1f91760508a2dcf459af5c8f2201ac38c84a89,Greg Turnquist,Tue Apr 1 15:10:47 2014 -0500,Tue Apr 1 15:10:47 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-accessing-data-jpa/initial/pom.xml,d356f750375965842d67a9a4b6a00c3e8c691660,Greg Turnquist,Sat Mar 22 07:17:28 2014 -0500,Sat Mar 22 07:17:28 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-accessing-data-jpa/initial/pom.xml,ddedc6a6fd118eeb1c3d3f7a5a6de49306a5335b,Greg Turnquist,Tue Mar 4 15:08:40 2014 -0500,Tue Mar 4 15:08:40 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-accessing-data-jpa/initial/pom.xml,245d9ffbf008222b857f4a093a277d142ef583e5,Greg Turnquist,Wed Feb 19 08:55:33 2014 -0600,Wed Feb 19 08:55:33 2014 -0600,Update guide to use new starters and fix bugs
+gs-accessing-data-jpa/initial/pom.xml,04b25e9a8f3b99e859e52bf73bb3f8b59bf4ed9e,Greg Turnquist,Tue Feb 18 16:32:47 2014 -0600,Tue Feb 18 16:32:47 2014 -0600,Move final build file to the beginning and update guides to reflect this
+gs-accessing-data-jpa/initial/pom.xml,f3387006f03ff2cff6d2ad9ed7b8d373e2540043,Greg Turnquist,Fri Feb 14 11:23:19 2014 -0600,Fri Feb 14 11:23:19 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-accessing-data-jpa/initial/pom.xml,512b23b24ee4682e37bf6efa66956c2773dab8ae,Greg Turnquist,Thu Feb 13 12:37:59 2014 -0600,Thu Feb 13 12:37:59 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-accessing-data-jpa/initial/pom.xml,dbbcaf01606ef133e65efaab1b62d1cd14ae0b82,Greg Turnquist,Wed Jan 22 12:21:03 2014 -0600,Wed Jan 22 12:21:03 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-accessing-data-jpa/initial/pom.xml,82bb3c7e99c9cbac67c9bc44c0315284d167bc29,Greg Turnquist,Mon Nov 18 12:03:45 2013 -0600,Mon Nov 18 12:03:45 2013 -0600,Upgrade to Spring Boot 0.5.0.M6
+gs-accessing-data-jpa/initial/pom.xml,b430e39cee128c89e9a9d9f8ac15438c027e3a2a,Roy Clarkson,Tue Oct 15 12:56:29 2013 -0500,Tue Oct 15 12:56:29 2013 -0500,Upgrade to Spring Boot 0.5.0.M5
+gs-accessing-data-jpa/initial/pom.xml,7cc42ab9be8ad4887f06029144d1f5183a6e8d2f,Roy Clarkson,Tue Oct 15 10:47:30 2013 -0700,Tue Oct 15 10:47:30 2013 -0700,Merge pull request #4 from olivergierke/master
+gs-accessing-data-jpa/initial/pom.xml,e017afba5f3118dd3e238c513407a750d7a52d0f,Greg Turnquist,Mon Sep 30 08:18:33 2013 -0500,Mon Sep 30 08:18:33 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-accessing-data-jpa/initial/pom.xml,7589e1753784e82432e2f7941acab1bc67acc931,Greg Turnquist,Fri Sep 27 10:31:40 2013 -0500,Fri Sep 27 10:31:40 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-accessing-data-jpa/initial/pom.xml,a31f816a01a4f56e94bf9b3cdbed5bf2d1c35a72,Greg Turnquist,Wed Sep 11 10:40:50 2013 -0700,Wed Sep 11 10:40:50 2013 -0700,Fix package name in maven pom.xml based on gs-accessing-data-jpa/issues/3
+gs-accessing-data-jpa/initial/pom.xml,28a59a181537e878d534872d79ef71c8110ae879,Greg Turnquist,Fri Aug 30 16:41:35 2013 -0500,Fri Aug 30 16:41:35 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-accessing-data-jpa/initial/pom.xml,c4316a2cf1090450e8be9294e6b5795eaf267cd1,Greg Turnquist,Fri Aug 9 13:17:49 2013 -0500,Fri Aug 9 13:17:49 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-accessing-data-jpa/initial/pom.xml,d77a3cd23f02a071314ada5f93a2bafdca3334f2,Greg Turnquist,Tue Aug 6 14:43:06 2013 -0500,Tue Aug 6 14:43:06 2013 -0500,Use libs-snapshot instead of snapshot
+gs-accessing-data-jpa/initial/pom.xml,d6a47937dddabb62819a4d4c0f5b55d0128e0734,Greg Turnquist,Wed Jul 31 15:42:16 2013 -0400,Wed Jul 31 15:42:16 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-accessing-data-jpa/initial/pom.xml,b6b0597021a37eb06dd3e7a8ed536c9b4e299d61,Greg Turnquist,Tue Jul 30 10:18:45 2013 -0400,Tue Jul 30 10:18:45 2013 -0400,Upgrade to Spring Boot
+gs-accessing-data-jpa/initial/pom.xml,17e6c3e96e4108335999cf6a911537bec722d61c,Greg Turnquist,Fri Jul 19 14:55:33 2013 -0400,Fri Jul 19 14:55:33 2013 -0400,Trim main-class and spring-package-maven-plugin from initial pom.xml
+gs-accessing-data-jpa/initial/pom.xml,5fef6ec6f0bd6f65a327eca9d90af1035f3fe75a,Greg Turnquist,Fri Jul 19 11:12:23 2013 -0400,Fri Jul 19 11:12:23 2013 -0400,Convert guide to spring-package-maven-plugin
+gs-accessing-data-jpa/initial/pom.xml,81848d03ec52c3b3da7aa1aa0e40301ba75df063,Craig Walls,Thu Jul 11 15:40:27 2013 -0500,Thu Jul 11 15:58:02 2013 -0500,Add initial project and guide text.

@@ -1,0 +1,12 @@
+android-ScopedDirectoryAccess/build.gradle,a2a3fd601a216a794e2b84dfba041c1a3e1544ee,google-automerger,Wed Mar 9 09:38:51 2016 -0800,Wed Mar 9 09:38:51 2016 -0800,Auto-update
+android-ScopedDirectoryAccess/Application/build.gradle,68795338ac635e2011e4fe6ee7daac24cbef55f4,google-automerger,Thu Feb 15 16:37:58 2018 -0800,Thu Feb 15 16:37:58 2018 -0800,Auto-update
+android-ScopedDirectoryAccess/Application/build.gradle,d3855882e169f1bb8b83276e8c47afd6570ed458,google-automerger,Tue Oct 10 17:54:34 2017 -0700,Tue Oct 10 17:54:34 2017 -0700,Auto-update
+android-ScopedDirectoryAccess/Application/build.gradle,8fe6674bf12cd01e428a71b2745c772ea76e022f,google-automerger,Thu Jun 8 09:35:49 2017 -0700,Thu Jun 8 09:35:49 2017 -0700,Auto-update
+android-ScopedDirectoryAccess/Application/build.gradle,5913c3fd2cc815f6a53132f7fed532ab398db482,google-automerger,Wed May 17 13:34:45 2017 -0700,Wed May 17 13:34:45 2017 -0700,Auto-update
+android-ScopedDirectoryAccess/Application/build.gradle,1d3879ac562878b30366d6d855d7463cbdeb2eb8,google-automerger,Tue Dec 13 09:41:01 2016 -0800,Tue Dec 13 09:41:01 2016 -0800,Auto-update
+android-ScopedDirectoryAccess/Application/build.gradle,eb945f788af7292c45af5dc0cbc8809f9654ab1e,google-automerger,Fri Aug 12 15:19:51 2016 -0700,Fri Aug 12 15:19:51 2016 -0700,Auto-update
+android-ScopedDirectoryAccess/Application/build.gradle,3f7205086378a18cbd54ca405c238d3e86e91e1b,google-automerger,Wed Jun 15 09:41:56 2016 -0700,Wed Jun 15 09:41:56 2016 -0700,Auto-update
+android-ScopedDirectoryAccess/Application/build.gradle,287acf6fb475166e413ee2dfd0a802486d71b8b4,google-automerger,Wed May 18 11:43:17 2016 -0700,Wed May 18 11:43:17 2016 -0700,Auto-update
+android-ScopedDirectoryAccess/Application/build.gradle,ef9339aaeecf0d350640c3199796d7eebda6e2dd,google-automerger,Mon Apr 25 19:14:24 2016 -0700,Mon Apr 25 19:14:24 2016 -0700,Auto-update
+android-ScopedDirectoryAccess/Application/build.gradle,86f01c47d49026131866c0fa73eeec1535902016,google-automerger,Wed Apr 13 09:44:56 2016 -0700,Wed Apr 13 09:44:56 2016 -0700,Auto-update
+android-ScopedDirectoryAccess/Application/build.gradle,a2a3fd601a216a794e2b84dfba041c1a3e1544ee,google-automerger,Wed Mar 9 09:38:51 2016 -0800,Wed Mar 9 09:38:51 2016 -0800,Auto-update

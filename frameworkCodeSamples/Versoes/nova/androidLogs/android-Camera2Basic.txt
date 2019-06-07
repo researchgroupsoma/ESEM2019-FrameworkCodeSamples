@@ -1,0 +1,24 @@
+android-Camera2Basic/build.gradle,b304ea989812d17310f7434b70955bc6f7533e78,Trevor Johns,Thu Jun 26 08:53:20 2014 -0700,Thu Jun 26 08:53:20 2014 -0700,Initial commit
+android-Camera2Basic/kotlinApp/build.gradle,0b6a16363b14c452a3af7c4abc0d889bad609507,google-automerger,Fri Dec 8 08:39:24 2017 -0800,Fri Dec 8 08:39:24 2017 -0800,Auto-update
+android-Camera2Basic/kotlinApp/Application/build.gradle,0b6a16363b14c452a3af7c4abc0d889bad609507,google-automerger,Fri Dec 8 08:39:24 2017 -0800,Fri Dec 8 08:39:24 2017 -0800,Auto-update
+android-Camera2Basic/Application/build.gradle,59b9889259b31189469709216b6b1363e96281c2,google-automerger,Thu Feb 15 16:35:21 2018 -0800,Thu Feb 15 16:35:21 2018 -0800,Auto-update
+android-Camera2Basic/Application/build.gradle,0b6a16363b14c452a3af7c4abc0d889bad609507,google-automerger,Fri Dec 8 08:39:24 2017 -0800,Fri Dec 8 08:39:24 2017 -0800,Auto-update
+android-Camera2Basic/Application/build.gradle,73e125d3c9131361ec90302f56f8bc91e31c3d13,google-automerger,Tue Oct 10 17:51:41 2017 -0700,Tue Oct 10 17:51:41 2017 -0700,Auto-update
+android-Camera2Basic/Application/build.gradle,332a569fe0f04e16037515a3d55c5cfbac8c4225,google-automerger,Thu Jun 8 09:33:21 2017 -0700,Thu Jun 8 09:33:21 2017 -0700,Auto-update
+android-Camera2Basic/Application/build.gradle,14d242b639f61e4017a7e4c8552cb412c4640be4,google-automerger,Wed May 17 13:32:12 2017 -0700,Wed May 17 13:32:12 2017 -0700,Auto-update
+android-Camera2Basic/Application/build.gradle,15b48a8cf219fa27b3a6a758a492e6a080218bb9,google-automerger,Tue Dec 13 09:39:10 2016 -0800,Tue Dec 13 09:39:10 2016 -0800,Auto-update
+android-Camera2Basic/Application/build.gradle,5dad16c103715b5e7e3c001cc5f6067f8d23f29e,google-automerger,Fri Aug 12 15:18:07 2016 -0700,Fri Aug 12 15:18:07 2016 -0700,Auto-update
+android-Camera2Basic/Application/build.gradle,dc32f2c94e50a6a51d197092f4bfcf2444f28417,google-automerger,Wed May 18 11:38:11 2016 -0700,Wed May 18 11:38:11 2016 -0700,Auto-update
+android-Camera2Basic/Application/build.gradle,d1a4f53338b76c7aaa2579adbc16ef5a553a5462,google-automerger,Wed Apr 20 12:26:08 2016 -0700,Wed Apr 20 12:26:08 2016 -0700,Auto-update
+android-Camera2Basic/Application/build.gradle,4e72edc6814efd5c062a2c5a4916ec5d9537cad7,google-automerger,Wed Nov 18 09:33:13 2015 -0800,Wed Nov 18 09:33:13 2015 -0800,Auto-update
+android-Camera2Basic/Application/build.gradle,21b940451107503a3839e5023ddef9d70f5da0a4,google-automerger,Thu Oct 8 17:42:28 2015 -0700,Thu Oct 8 17:42:28 2015 -0700,Auto-update
+android-Camera2Basic/Application/build.gradle,241c6fac8113ddb5dffb4f349b5bb9f1bea93501,google-automerger,Fri Sep 4 11:21:33 2015 -0700,Fri Sep 4 11:21:33 2015 -0700,Auto-update
+android-Camera2Basic/Application/build.gradle,4cb1d100ee418fe0321614eaa9b564e43464860c,google-automerger,Thu Aug 20 08:39:49 2015 -0700,Thu Aug 20 08:39:49 2015 -0700,Auto-update
+android-Camera2Basic/Application/build.gradle,5f1a1f28229da44b8d30975e4c6a00c23e2a7e69,google-automerger,Mon Aug 17 09:54:20 2015 -0700,Mon Aug 17 09:54:20 2015 -0700,Auto-update
+android-Camera2Basic/Application/build.gradle,d7a3bfd0f2a2a3a6447a41f7b729fcae571ef020,google-automerger,Thu Jul 9 11:10:14 2015 -0700,Thu Jul 9 11:10:14 2015 -0700,Auto-update
+android-Camera2Basic/Application/build.gradle,b51ebcacd841868a80e22259373f181ce4962787,google-automerger,Thu May 21 10:04:18 2015 -0700,Thu May 21 10:04:18 2015 -0700,Auto-update
+android-Camera2Basic/Application/build.gradle,608f480f0bd0e7aa72ef773d0d649b1ec323e352,google-automerger,Tue Apr 28 10:53:44 2015 -0700,Tue Apr 28 10:53:44 2015 -0700,Auto-update
+android-Camera2Basic/Application/build.gradle,b24fc445850fa6b3439edf65ef524a72d8e03674,google-automerger,Mon Mar 30 17:43:18 2015 -0700,Mon Mar 30 17:43:18 2015 -0700,Auto-update
+android-Camera2Basic/Application/build.gradle,71375cdb625e7b5d9c702a4cf3d7c3edb8f7fbf3,google-automerger,Mon Dec 8 17:49:25 2014 -0800,Mon Dec 8 17:49:25 2014 -0800,Auto-update
+android-Camera2Basic/Application/build.gradle,4057be34cc9a032285e21e06807ca98044c2e1ff,google-automerger,Wed Dec 3 01:48:50 2014 -0800,Wed Dec 3 01:48:50 2014 -0800,Auto-update
+android-Camera2Basic/Application/build.gradle,8fbfb035884fd6e04474d7ff6a502874cdcd3ded,google-automerger,Tue Nov 18 16:17:55 2014 -0800,Tue Nov 18 16:17:55 2014 -0800,Auto-update

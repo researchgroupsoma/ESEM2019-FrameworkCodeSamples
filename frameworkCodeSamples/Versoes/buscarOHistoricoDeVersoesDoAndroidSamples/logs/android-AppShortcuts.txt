@@ -1,0 +1,5 @@
+android-AppShortcuts/build.gradle,c8772f53bd2af774e68eb574bfdfb262c14cf77b,google-automerger,Thu Feb 15 16:34:19 2018 -0800,Thu Feb 15 16:34:19 2018 -0800,Auto-update
+android-AppShortcuts/build.gradle,2db1bc97b2e12935a4871c9af4b2f4d17badf56b,google-automerger,Tue Dec 13 09:38:28 2016 -0800,Tue Dec 13 09:38:28 2016 -0800,Auto-update
+android-AppShortcuts/build.gradle,3a78cfc838892852cb502e7f44a47efd85b42814,google-automerger,Wed Oct 19 14:08:05 2016 -0700,Wed Oct 19 14:08:05 2016 -0700,Auto-update
+android-AppShortcuts/app/build.gradle,c4a13ef926778edc1423b9c28c50975684e44154,google-automerger,Wed Oct 19 14:26:29 2016 -0700,Wed Oct 19 14:26:29 2016 -0700,Auto-update
+android-AppShortcuts/app/build.gradle,3a78cfc838892852cb502e7f44a47efd85b42814,google-automerger,Wed Oct 19 14:08:05 2016 -0700,Wed Oct 19 14:08:05 2016 -0700,Auto-update

@@ -1,0 +1,127 @@
+gs-consuming-web-service/complete/pom.xml,4002ac98017507286baf442b765a3ca9ba9fbe58,Greg Turnquist,Mon Sep 17 10:50:18 2018 -0500,Mon Sep 17 11:00:40 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-consuming-web-service/complete/pom.xml,f5ee891b92daee9e7eb5b37353f677cbf72cddd8,Dave Syer,Mon Jul 30 08:48:35 2018 +0100,Mon Jul 30 08:53:52 2018 +0100,Switch from public SOAP API on internet to local one
+gs-consuming-web-service/complete/pom.xml,114cdf9303b564fc32bf555546b4e6479a0e0d99,Greg Turnquist,Mon Jun 18 16:16:23 2018 -0500,Mon Jun 18 16:16:23 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-consuming-web-service/complete/pom.xml,b3ab77464592e65b5a43f9e6f6e740c226173519,Greg Turnquist,Wed May 9 11:26:10 2018 -0500,Wed May 9 11:26:10 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-consuming-web-service/complete/pom.xml,13f788828c48d919337acd0d75fa53f34efdf8f8,Greg Turnquist,Thu Apr 5 11:44:33 2018 -0500,Thu Apr 5 11:44:33 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-consuming-web-service/complete/pom.xml,43e0f7b3d1db1aa451cc8b42fe87b5c70ab787e9,Greg Turnquist,Thu Mar 1 09:52:36 2018 -0600,Thu Mar 1 09:52:36 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-consuming-web-service/complete/pom.xml,13aa315842302a9221724b9b7824066eef7a5a15,Greg Turnquist,Wed Jan 31 09:15:50 2018 -0600,Wed Jan 31 09:15:50 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-consuming-web-service/complete/pom.xml,db286b73f1f9cbcbed90cce1fe05619d42a68bfc,Greg Turnquist,Thu Nov 30 11:06:30 2017 -0600,Thu Nov 30 11:06:30 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-consuming-web-service/complete/pom.xml,ef22c0322dbeded6a2c4d8ca16ec0600d99cbe37,Greg Turnquist,Tue Oct 17 15:42:14 2017 -0500,Tue Oct 17 15:42:14 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-consuming-web-service/complete/pom.xml,c96d6e8e4f540e798b19c420be3dcc9a3618c2a9,Greg Turnquist,Wed Sep 13 13:15:15 2017 -0500,Wed Sep 13 13:15:15 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-consuming-web-service/complete/pom.xml,4bb2c01474daed00af2a479d62734647ec45f33e,Greg Turnquist,Thu Jul 27 10:04:21 2017 -0500,Thu Jul 27 10:04:21 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-consuming-web-service/complete/pom.xml,dda3c483f762613c7dafe9e921a686cd02323add,Greg Turnquist,Wed Jul 26 12:23:00 2017 -0500,Wed Jul 26 12:23:00 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-consuming-web-service/complete/pom.xml,a2e2c2d7c2267c41df9dc85ddf050c6306af93f0,Greg Turnquist,Fri Apr 21 09:20:02 2017 -0500,Fri Apr 21 09:20:02 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-consuming-web-service/complete/pom.xml,1c036c80934c9423840ce169a94d0818dfb74763,Greg Turnquist,Fri Mar 3 11:12:55 2017 -0600,Fri Mar 3 11:12:55 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-consuming-web-service/complete/pom.xml,69d1c5f79360f0c0d3a9da160e07f4d84b25b845,Greg Turnquist,Mon Jan 30 23:29:36 2017 -0600,Mon Jan 30 23:29:36 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-consuming-web-service/complete/pom.xml,c6783ee8696eff547ea2dca522203a83ceff7be8,Greg Turnquist,Mon Jan 30 11:38:03 2017 -0600,Mon Jan 30 11:38:03 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-consuming-web-service/complete/pom.xml,1b7fa858a03bb424b0862e570d6f81a32628379e,Greg Turnquist,Thu Jan 26 12:47:34 2017 -0600,Thu Jan 26 12:47:34 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-consuming-web-service/complete/pom.xml,2c03bf2281864e9fe76980b7456c2fca98376a56,Greg Turnquist,Thu Jan 26 12:37:09 2017 -0600,Thu Jan 26 12:37:09 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-consuming-web-service/complete/pom.xml,a625386b76da56fb9adbe22bf56a75e6c41ffe30,Dave Syer,Mon Jan 16 11:00:18 2017 +0000,Mon Jan 16 11:00:22 2017 +0000,Switch to quote service (SOAP endpoint actually exists)
+gs-consuming-web-service/complete/pom.xml,537578d6247935113047cd9dbef7e8ccc5167834,Greg Turnquist,Thu Dec 22 22:32:28 2016 -0600,Thu Dec 22 22:32:28 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-consuming-web-service/complete/pom.xml,4182b71081f2af3a05682e1595d0ae617941d2bc,Greg Turnquist,Tue Nov 8 11:52:23 2016 -0600,Tue Nov 8 11:52:23 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-consuming-web-service/complete/pom.xml,56f7d94f423e1b0c9334c82a93f073f23704d240,Greg Turnquist,Fri Sep 23 16:35:57 2016 -0500,Fri Sep 23 16:35:57 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-consuming-web-service/complete/pom.xml,a79c648c21f7a7638327d08ab17c0856be29ffce,Dave Syer,Fri Aug 26 16:45:27 2016 +0100,Fri Aug 26 16:46:19 2016 +0100,Add macro for @SpringBootApplication
+gs-consuming-web-service/complete/pom.xml,17c3ed6adf03b5e6eb6d15e5e4553c769a0581df,Greg Turnquist,Fri Jul 29 11:27:09 2016 -0500,Fri Jul 29 11:27:09 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-consuming-web-service/complete/pom.xml,4824c6338b6ec6c08a116590703118e712a37660,Greg Turnquist,Thu Jul 28 06:52:47 2016 -0500,Thu Jul 28 06:52:47 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-consuming-web-service/complete/pom.xml,cf7f7284a2e2fa1ca5792046dafa884c36782775,Greg Turnquist,Tue Jul 5 13:52:19 2016 -0500,Tue Jul 5 13:52:19 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-consuming-web-service/complete/pom.xml,a7119437b4671285995c33d780dd57518a5fbd9f,Greg Turnquist,Tue May 10 10:26:23 2016 -0500,Tue May 10 10:26:23 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-consuming-web-service/complete/pom.xml,eebc37a33c71500adde53fb894ab47d21933f659,Greg Turnquist,Fri May 6 09:48:47 2016 -0500,Fri May 6 09:48:47 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-consuming-web-service/complete/pom.xml,8b3b9f036456f482c43d783ba45d8fea0366f2bb,Greg Turnquist,Fri Feb 26 07:29:51 2016 -0600,Fri Feb 26 07:29:51 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-consuming-web-service/complete/pom.xml,13791682cb19d9e6114b4b7569b5e84dce991a84,Greg Turnquist,Thu Jan 21 21:28:47 2016 -0600,Thu Jan 21 21:28:47 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-consuming-web-service/complete/pom.xml,11fa14e75d7db4346d8e4ae9390e61a7cfb5992e,Greg Turnquist,Fri Dec 18 09:40:10 2015 -0600,Fri Dec 18 09:40:10 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-consuming-web-service/complete/pom.xml,7e29ccbda0f4b434f56baad7b37ce0703bdba588,Greg Turnquist,Mon Nov 16 11:10:34 2015 -0600,Mon Nov 16 11:10:34 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-consuming-web-service/complete/pom.xml,e1b55eb016228e4eadfb3f62b5b1c3bd2d9bddc3,Greg Turnquist,Fri Oct 16 09:43:33 2015 -0400,Fri Oct 16 09:43:33 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-consuming-web-service/complete/pom.xml,118faf83b52ffdc48303b8a6bc7c5ff8503069d8,Greg Turnquist,Sun Sep 20 15:41:33 2015 -0500,Sun Sep 20 15:41:33 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-consuming-web-service/complete/pom.xml,3b885119f45701a9b6522c8a7fb6092e340541d9,Greg Turnquist,Thu Jul 2 08:46:01 2015 -0500,Thu Jul 2 08:46:01 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-consuming-web-service/complete/pom.xml,5e1b98f93370bf1f4e7e643c63fe82640acfbd77,Greg Turnquist,Fri Jun 12 14:03:54 2015 -0400,Fri Jun 12 14:03:54 2015 -0400,Upgrade non-specific guides to Java 8
+gs-consuming-web-service/complete/pom.xml,d35e75a78df9149e94f0eee993a6c5e880319a6d,Greg Turnquist,Tue Jun 9 09:41:45 2015 -0400,Tue Jun 9 09:41:45 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-consuming-web-service/complete/pom.xml,367e5e5f89db35e78641f0994904d4803274ff3f,Greg Turnquist,Tue Mar 31 16:56:08 2015 -0500,Tue Mar 31 16:56:08 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-consuming-web-service/complete/pom.xml,c87941b20382f40db39890454b142aa76d3ee0e9,Greg Turnquist,Tue Mar 17 12:34:00 2015 -0500,Tue Mar 17 12:34:00 2015 -0500,Configure maven-jaxb2-plugin with new settings
+gs-consuming-web-service/complete/pom.xml,9893544c8d6b8face875bc5915c085f6e9f6f1ca,Greg Turnquist,Thu Feb 26 22:39:38 2015 -0600,Thu Feb 26 22:39:38 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-consuming-web-service/complete/pom.xml,4a7e34f0ca480db79ebf26a14f375a06ca7d58d2,Greg Turnquist,Wed Feb 18 11:07:55 2015 -0600,Wed Feb 18 11:07:55 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-consuming-web-service/complete/pom.xml,4c4221ad5329371776312c36e01bc56b86ffc849,Greg Turnquist,Thu Dec 11 11:07:50 2014 -0600,Thu Dec 11 11:07:50 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-consuming-web-service/complete/pom.xml,f76a9d468c1d469ce0779471e37d04ad63511519,Greg Turnquist,Thu Nov 20 10:15:03 2014 -0600,Thu Nov 20 10:15:03 2014 -0600,Convert to use https for repositories
+gs-consuming-web-service/complete/pom.xml,2dabfa9c047a3743312a24b5a9d75f8e2d1e55a3,Greg Turnquist,Wed Nov 12 13:08:14 2014 -0600,Wed Nov 12 13:08:14 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-consuming-web-service/complete/pom.xml,54baf9676297ac63152ddc414c962a3aa7f641a6,Greg Turnquist,Fri Oct 10 22:05:12 2014 -0500,Fri Oct 10 22:05:12 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-consuming-web-service/complete/pom.xml,53ed6c3fce47abd1594060ad913eb68bc2a013fa,Greg Turnquist,Mon Sep 29 12:42:28 2014 -0500,Mon Sep 29 12:42:28 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-consuming-web-service/complete/pom.xml,611a114e85c84d4bc977b3807bef0665e36f1de2,Greg Turnquist,Fri Sep 5 11:13:53 2014 -0500,Fri Sep 5 11:13:53 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-consuming-web-service/complete/pom.xml,55c3a921fec671a075393746835bcbe70eb02aca,Greg Turnquist,Fri Aug 8 22:12:27 2014 -0500,Fri Aug 8 22:12:27 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-consuming-web-service/complete/pom.xml,0619b59d3047772a156d822c034b6b551959bc2b,Greg Turnquist,Tue Jul 15 07:43:52 2014 -0500,Tue Jul 15 07:43:52 2014 -0500,Clean up guide for clients
+gs-consuming-web-service/complete/pom.xml,6d86bf42eb6c7ade2b54738a6ddc3283f9738368,Greg Turnquist,Tue Jul 8 15:41:45 2014 -0500,Tue Jul 8 15:41:45 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-consuming-web-service/complete/pom.xml,4e20d1e296c68d2699ba28a12a7bb10a535d85eb,Greg Turnquist,Fri Jun 27 22:55:20 2014 -0400,Fri Jun 27 22:55:20 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-consuming-web-service/complete/pom.xml,bfed3f56a47e0fcbc10613cb1cf6430d2296c95c,Greg Turnquist,Tue Jun 24 19:55:43 2014 -0400,Tue Jun 24 19:55:43 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-consuming-web-service/complete/pom.xml,7cc1ff2598c078337a22d2bd1d34d9ec135c9982,Greg Turnquist,Wed Jun 11 16:48:14 2014 -0500,Wed Jun 11 16:48:14 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-consuming-web-service/complete/pom.xml,298532514a3437eb76db70d026dd7ccc999209e7,Greg Turnquist,Wed Jun 11 09:08:54 2014 -0500,Wed Jun 11 09:08:54 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-consuming-web-service/complete/pom.xml,0fef1d965abe8cd1f1b16030a793917849199b5c,Greg Turnquist,Tue Jun 10 19:16:25 2014 -0500,Tue Jun 10 19:16:25 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-consuming-web-service/complete/pom.xml,e423ae78284a1b6ce2384262fbc5041edb1a9640,Greg Turnquist,Thu May 22 15:20:42 2014 -0500,Thu May 22 15:20:42 2014 -0500,Upgrade to Spring WS 2.2.0.RELEASE
+gs-consuming-web-service/complete/pom.xml,3e0005ee18ef171ced7398d93a3d6a026bb6ccdc,Greg Turnquist,Wed May 14 08:37:02 2014 -0500,Wed May 14 08:37:02 2014 -0500,Upgrade guide to Spring WS 2.2.0.RC1
+gs-consuming-web-service/complete/pom.xml,700f4c07132565d89a7f2f598013f1040276292a,Greg Turnquist,Thu Apr 24 09:37:03 2014 -0500,Thu Apr 24 09:37:03 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-consuming-web-service/complete/pom.xml,3d67cbfc5a3ab9ccb84c96ec6a18c08e09af369a,Greg Turnquist,Mon Apr 7 10:09:36 2014 -0500,Mon Apr 7 10:09:36 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-consuming-web-service/complete/pom.xml,3968ee6cb6478b5b2a2c05a175b82c802c9bdd51,Greg Turnquist,Tue Apr 1 15:11:18 2014 -0500,Tue Apr 1 15:11:18 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-consuming-web-service/complete/pom.xml,040fad74a8737bbe4b7a2f0ecb15347ee9f6844d,Greg Turnquist,Sat Mar 22 07:17:54 2014 -0500,Sat Mar 22 07:17:54 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-consuming-web-service/complete/pom.xml,fbea5f98178bf75e9799eefcc1d53040170595f7,Greg Turnquist,Tue Mar 4 15:08:35 2014 -0500,Tue Mar 4 15:08:35 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-consuming-web-service/complete/pom.xml,2814a0e06611a98810d630ae83ba9cb34188be3a,Greg Turnquist,Tue Feb 25 22:22:45 2014 -0500,Tue Feb 25 22:22:45 2014 -0500,Polish look-and-feel of code
+gs-consuming-web-service/complete/pom.xml,d69df2f663fe95269f04549f2bf02e12a72f0bb3,Greg Turnquist,Tue Feb 25 17:22:19 2014 -0500,Tue Feb 25 17:22:19 2014 -0500,First cut of prose and alterations to source
+gs-consuming-web-service/complete/pom.xml,fa3f76bedd60f7f633f96ce2379393a00efe6dfa,Greg Turnquist,Tue Feb 25 09:59:22 2014 -0500,Tue Feb 25 09:59:22 2014 -0500,Fix maven build to use spring-boot-maven-plugin
+gs-consuming-web-service/complete/pom.xml,e6de854a4ef55768d16d7bca1c67a44d37b35128,Arjen Poutsma,Tue Feb 18 12:53:28 2014 +0100,Tue Feb 18 12:53:28 2014 +0100,Added weather client
+gs-consuming-web-service/initial/pom.xml,4002ac98017507286baf442b765a3ca9ba9fbe58,Greg Turnquist,Mon Sep 17 10:50:18 2018 -0500,Mon Sep 17 11:00:40 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-consuming-web-service/initial/pom.xml,7fa41df3ffa4f1acf89759d002110c23b5733f47,Dave Syer,Mon Jul 30 09:12:42 2018 +0100,Mon Jul 30 09:12:42 2018 +0100,Fix CI tests
+gs-consuming-web-service/initial/pom.xml,114cdf9303b564fc32bf555546b4e6479a0e0d99,Greg Turnquist,Mon Jun 18 16:16:23 2018 -0500,Mon Jun 18 16:16:23 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-consuming-web-service/initial/pom.xml,b3ab77464592e65b5a43f9e6f6e740c226173519,Greg Turnquist,Wed May 9 11:26:10 2018 -0500,Wed May 9 11:26:10 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-consuming-web-service/initial/pom.xml,13f788828c48d919337acd0d75fa53f34efdf8f8,Greg Turnquist,Thu Apr 5 11:44:33 2018 -0500,Thu Apr 5 11:44:33 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-consuming-web-service/initial/pom.xml,43e0f7b3d1db1aa451cc8b42fe87b5c70ab787e9,Greg Turnquist,Thu Mar 1 09:52:36 2018 -0600,Thu Mar 1 09:52:36 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-consuming-web-service/initial/pom.xml,13aa315842302a9221724b9b7824066eef7a5a15,Greg Turnquist,Wed Jan 31 09:15:50 2018 -0600,Wed Jan 31 09:15:50 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-consuming-web-service/initial/pom.xml,db286b73f1f9cbcbed90cce1fe05619d42a68bfc,Greg Turnquist,Thu Nov 30 11:06:30 2017 -0600,Thu Nov 30 11:06:30 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-consuming-web-service/initial/pom.xml,ef22c0322dbeded6a2c4d8ca16ec0600d99cbe37,Greg Turnquist,Tue Oct 17 15:42:14 2017 -0500,Tue Oct 17 15:42:14 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-consuming-web-service/initial/pom.xml,c96d6e8e4f540e798b19c420be3dcc9a3618c2a9,Greg Turnquist,Wed Sep 13 13:15:15 2017 -0500,Wed Sep 13 13:15:15 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-consuming-web-service/initial/pom.xml,4bb2c01474daed00af2a479d62734647ec45f33e,Greg Turnquist,Thu Jul 27 10:04:21 2017 -0500,Thu Jul 27 10:04:21 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-consuming-web-service/initial/pom.xml,dda3c483f762613c7dafe9e921a686cd02323add,Greg Turnquist,Wed Jul 26 12:23:00 2017 -0500,Wed Jul 26 12:23:00 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-consuming-web-service/initial/pom.xml,a2e2c2d7c2267c41df9dc85ddf050c6306af93f0,Greg Turnquist,Fri Apr 21 09:20:02 2017 -0500,Fri Apr 21 09:20:02 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-consuming-web-service/initial/pom.xml,1c036c80934c9423840ce169a94d0818dfb74763,Greg Turnquist,Fri Mar 3 11:12:55 2017 -0600,Fri Mar 3 11:12:55 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-consuming-web-service/initial/pom.xml,69d1c5f79360f0c0d3a9da160e07f4d84b25b845,Greg Turnquist,Mon Jan 30 23:29:36 2017 -0600,Mon Jan 30 23:29:36 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-consuming-web-service/initial/pom.xml,c6783ee8696eff547ea2dca522203a83ceff7be8,Greg Turnquist,Mon Jan 30 11:38:03 2017 -0600,Mon Jan 30 11:38:03 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-consuming-web-service/initial/pom.xml,1b7fa858a03bb424b0862e570d6f81a32628379e,Greg Turnquist,Thu Jan 26 12:47:34 2017 -0600,Thu Jan 26 12:47:34 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-consuming-web-service/initial/pom.xml,2c03bf2281864e9fe76980b7456c2fca98376a56,Greg Turnquist,Thu Jan 26 12:37:09 2017 -0600,Thu Jan 26 12:37:09 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-consuming-web-service/initial/pom.xml,537578d6247935113047cd9dbef7e8ccc5167834,Greg Turnquist,Thu Dec 22 22:32:28 2016 -0600,Thu Dec 22 22:32:28 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-consuming-web-service/initial/pom.xml,4182b71081f2af3a05682e1595d0ae617941d2bc,Greg Turnquist,Tue Nov 8 11:52:23 2016 -0600,Tue Nov 8 11:52:23 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-consuming-web-service/initial/pom.xml,56f7d94f423e1b0c9334c82a93f073f23704d240,Greg Turnquist,Fri Sep 23 16:35:57 2016 -0500,Fri Sep 23 16:35:57 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-consuming-web-service/initial/pom.xml,17c3ed6adf03b5e6eb6d15e5e4553c769a0581df,Greg Turnquist,Fri Jul 29 11:27:09 2016 -0500,Fri Jul 29 11:27:09 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-consuming-web-service/initial/pom.xml,4824c6338b6ec6c08a116590703118e712a37660,Greg Turnquist,Thu Jul 28 06:52:47 2016 -0500,Thu Jul 28 06:52:47 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-consuming-web-service/initial/pom.xml,cf7f7284a2e2fa1ca5792046dafa884c36782775,Greg Turnquist,Tue Jul 5 13:52:19 2016 -0500,Tue Jul 5 13:52:19 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-consuming-web-service/initial/pom.xml,a7119437b4671285995c33d780dd57518a5fbd9f,Greg Turnquist,Tue May 10 10:26:23 2016 -0500,Tue May 10 10:26:23 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-consuming-web-service/initial/pom.xml,eebc37a33c71500adde53fb894ab47d21933f659,Greg Turnquist,Fri May 6 09:48:47 2016 -0500,Fri May 6 09:48:47 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-consuming-web-service/initial/pom.xml,8b3b9f036456f482c43d783ba45d8fea0366f2bb,Greg Turnquist,Fri Feb 26 07:29:51 2016 -0600,Fri Feb 26 07:29:51 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-consuming-web-service/initial/pom.xml,13791682cb19d9e6114b4b7569b5e84dce991a84,Greg Turnquist,Thu Jan 21 21:28:47 2016 -0600,Thu Jan 21 21:28:47 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-consuming-web-service/initial/pom.xml,11fa14e75d7db4346d8e4ae9390e61a7cfb5992e,Greg Turnquist,Fri Dec 18 09:40:10 2015 -0600,Fri Dec 18 09:40:10 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-consuming-web-service/initial/pom.xml,7e29ccbda0f4b434f56baad7b37ce0703bdba588,Greg Turnquist,Mon Nov 16 11:10:34 2015 -0600,Mon Nov 16 11:10:34 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-consuming-web-service/initial/pom.xml,e1b55eb016228e4eadfb3f62b5b1c3bd2d9bddc3,Greg Turnquist,Fri Oct 16 09:43:33 2015 -0400,Fri Oct 16 09:43:33 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-consuming-web-service/initial/pom.xml,118faf83b52ffdc48303b8a6bc7c5ff8503069d8,Greg Turnquist,Sun Sep 20 15:41:33 2015 -0500,Sun Sep 20 15:41:33 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-consuming-web-service/initial/pom.xml,3b885119f45701a9b6522c8a7fb6092e340541d9,Greg Turnquist,Thu Jul 2 08:46:01 2015 -0500,Thu Jul 2 08:46:01 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-consuming-web-service/initial/pom.xml,5e1b98f93370bf1f4e7e643c63fe82640acfbd77,Greg Turnquist,Fri Jun 12 14:03:54 2015 -0400,Fri Jun 12 14:03:54 2015 -0400,Upgrade non-specific guides to Java 8
+gs-consuming-web-service/initial/pom.xml,d35e75a78df9149e94f0eee993a6c5e880319a6d,Greg Turnquist,Tue Jun 9 09:41:45 2015 -0400,Tue Jun 9 09:41:45 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-consuming-web-service/initial/pom.xml,367e5e5f89db35e78641f0994904d4803274ff3f,Greg Turnquist,Tue Mar 31 16:56:08 2015 -0500,Tue Mar 31 16:56:08 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-consuming-web-service/initial/pom.xml,c87941b20382f40db39890454b142aa76d3ee0e9,Greg Turnquist,Tue Mar 17 12:34:00 2015 -0500,Tue Mar 17 12:34:00 2015 -0500,Configure maven-jaxb2-plugin with new settings
+gs-consuming-web-service/initial/pom.xml,9893544c8d6b8face875bc5915c085f6e9f6f1ca,Greg Turnquist,Thu Feb 26 22:39:38 2015 -0600,Thu Feb 26 22:39:38 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-consuming-web-service/initial/pom.xml,4a7e34f0ca480db79ebf26a14f375a06ca7d58d2,Greg Turnquist,Wed Feb 18 11:07:55 2015 -0600,Wed Feb 18 11:07:55 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-consuming-web-service/initial/pom.xml,4c4221ad5329371776312c36e01bc56b86ffc849,Greg Turnquist,Thu Dec 11 11:07:50 2014 -0600,Thu Dec 11 11:07:50 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-consuming-web-service/initial/pom.xml,f76a9d468c1d469ce0779471e37d04ad63511519,Greg Turnquist,Thu Nov 20 10:15:03 2014 -0600,Thu Nov 20 10:15:03 2014 -0600,Convert to use https for repositories
+gs-consuming-web-service/initial/pom.xml,2dabfa9c047a3743312a24b5a9d75f8e2d1e55a3,Greg Turnquist,Wed Nov 12 13:08:14 2014 -0600,Wed Nov 12 13:08:14 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-consuming-web-service/initial/pom.xml,54baf9676297ac63152ddc414c962a3aa7f641a6,Greg Turnquist,Fri Oct 10 22:05:12 2014 -0500,Fri Oct 10 22:05:12 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-consuming-web-service/initial/pom.xml,53ed6c3fce47abd1594060ad913eb68bc2a013fa,Greg Turnquist,Mon Sep 29 12:42:28 2014 -0500,Mon Sep 29 12:42:28 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-consuming-web-service/initial/pom.xml,611a114e85c84d4bc977b3807bef0665e36f1de2,Greg Turnquist,Fri Sep 5 11:13:53 2014 -0500,Fri Sep 5 11:13:53 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-consuming-web-service/initial/pom.xml,55c3a921fec671a075393746835bcbe70eb02aca,Greg Turnquist,Fri Aug 8 22:12:27 2014 -0500,Fri Aug 8 22:12:27 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-consuming-web-service/initial/pom.xml,0619b59d3047772a156d822c034b6b551959bc2b,Greg Turnquist,Tue Jul 15 07:43:52 2014 -0500,Tue Jul 15 07:43:52 2014 -0500,Clean up guide for clients
+gs-consuming-web-service/initial/pom.xml,6d86bf42eb6c7ade2b54738a6ddc3283f9738368,Greg Turnquist,Tue Jul 8 15:41:45 2014 -0500,Tue Jul 8 15:41:45 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-consuming-web-service/initial/pom.xml,4e20d1e296c68d2699ba28a12a7bb10a535d85eb,Greg Turnquist,Fri Jun 27 22:55:20 2014 -0400,Fri Jun 27 22:55:20 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-consuming-web-service/initial/pom.xml,bfed3f56a47e0fcbc10613cb1cf6430d2296c95c,Greg Turnquist,Tue Jun 24 19:55:43 2014 -0400,Tue Jun 24 19:55:43 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-consuming-web-service/initial/pom.xml,7cc1ff2598c078337a22d2bd1d34d9ec135c9982,Greg Turnquist,Wed Jun 11 16:48:14 2014 -0500,Wed Jun 11 16:48:14 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-consuming-web-service/initial/pom.xml,0fef1d965abe8cd1f1b16030a793917849199b5c,Greg Turnquist,Tue Jun 10 19:16:25 2014 -0500,Tue Jun 10 19:16:25 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-consuming-web-service/initial/pom.xml,e423ae78284a1b6ce2384262fbc5041edb1a9640,Greg Turnquist,Thu May 22 15:20:42 2014 -0500,Thu May 22 15:20:42 2014 -0500,Upgrade to Spring WS 2.2.0.RELEASE
+gs-consuming-web-service/initial/pom.xml,3e0005ee18ef171ced7398d93a3d6a026bb6ccdc,Greg Turnquist,Wed May 14 08:37:02 2014 -0500,Wed May 14 08:37:02 2014 -0500,Upgrade guide to Spring WS 2.2.0.RC1
+gs-consuming-web-service/initial/pom.xml,700f4c07132565d89a7f2f598013f1040276292a,Greg Turnquist,Thu Apr 24 09:37:03 2014 -0500,Thu Apr 24 09:37:03 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-consuming-web-service/initial/pom.xml,3d67cbfc5a3ab9ccb84c96ec6a18c08e09af369a,Greg Turnquist,Mon Apr 7 10:09:36 2014 -0500,Mon Apr 7 10:09:36 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-consuming-web-service/initial/pom.xml,3968ee6cb6478b5b2a2c05a175b82c802c9bdd51,Greg Turnquist,Tue Apr 1 15:11:18 2014 -0500,Tue Apr 1 15:11:18 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-consuming-web-service/initial/pom.xml,040fad74a8737bbe4b7a2f0ecb15347ee9f6844d,Greg Turnquist,Sat Mar 22 07:17:54 2014 -0500,Sat Mar 22 07:17:54 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-consuming-web-service/initial/pom.xml,8c94fcabca25d7df3af71ca7ab5eb61c41a94ee7,Greg Turnquist,Tue Mar 11 16:46:26 2014 -0500,Tue Mar 11 16:46:26 2014 -0500,Have same build files in initial as complete
+gs-consuming-web-service/initial/pom.xml,fbea5f98178bf75e9799eefcc1d53040170595f7,Greg Turnquist,Tue Mar 4 15:08:35 2014 -0500,Tue Mar 4 15:08:35 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-consuming-web-service/initial/pom.xml,7918e5ecb68c93e25bddedd75e722cd034eb83af,Greg Turnquist,Tue Feb 25 15:52:45 2014 -0500,Tue Feb 25 15:52:45 2014 -0500,Create initial version as well as CI test

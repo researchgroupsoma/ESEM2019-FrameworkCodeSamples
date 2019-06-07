@@ -1,0 +1,29 @@
+android-AutofillFramework/build.gradle,e4af35d005bb0e9ccf538a0a7e09c383db270d9d,google-automerger,Wed Oct 24 15:01:14 2018 +0100,Wed Oct 24 15:01:14 2018 +0100,Auto-update
+android-AutofillFramework/build.gradle,b1983e908232cddd03838bc9ea0680226554c4c7,google-automerger,Mon Oct 22 18:19:07 2018 +0100,Mon Oct 22 18:19:07 2018 +0100,Auto-update
+android-AutofillFramework/build.gradle,2119c2535aa9ec37d9112b7e3c3e7b3080b56313,Douglas Sigelbaum,Fri Feb 23 18:56:25 2018 -0800,Fri Feb 23 18:56:25 2018 -0800,Autofill sample update.
+android-AutofillFramework/build.gradle,30ec9afefa50965c3fa2b89eb94ab52737d5236b,google-automerger,Thu Feb 15 16:34:28 2018 -0800,Thu Feb 15 16:34:28 2018 -0800,Auto-update
+android-AutofillFramework/build.gradle,16625cf003034585cefc882a165e2f1fae58634e,Douglas Sigelbaum,Mon Jan 22 15:03:31 2018 -0800,Mon Jan 22 15:19:26 2018 -0800,Autofill sample updates.
+android-AutofillFramework/build.gradle,797df9c46250a8a2f347cd9b73404615263e1747,Douglas Sigelbaum,Mon Nov 13 18:57:31 2017 -0800,Mon Nov 13 18:58:59 2017 -0800,Autofill sample updates.
+android-AutofillFramework/build.gradle,8ce9eb3815644ee2ed54232cc549e0546cf87448,Douglas Sigelbaum,Tue Sep 26 11:30:31 2017 -0700,Tue Sep 26 11:30:31 2017 -0700,Lots of new features:
+android-AutofillFramework/build.gradle,c616c0491033da3c2685d4c536b76ef5209c71cd,Douglas Sigelbaum,Fri Jun 16 00:56:59 2017 -0700,Fri Jun 16 01:01:39 2017 -0700,Clean up UI.
+android-AutofillFramework/build.gradle,2015b4dbc5aa98c2074b88cfbb601de62310b58d,google-automerger,Thu Jun 1 10:56:55 2017 -0700,Thu Jun 1 10:56:55 2017 -0700,Auto-update
+android-AutofillFramework/build.gradle,5a26103259530e89b82e574e66b2d13b363bc7ef,google-automerger,Tue Mar 21 09:54:25 2017 -0700,Tue Mar 21 09:54:25 2017 -0700,Auto-update
+android-AutofillFramework/kotlinApp/build.gradle,b1983e908232cddd03838bc9ea0680226554c4c7,google-automerger,Mon Oct 22 18:19:07 2018 +0100,Mon Oct 22 18:19:07 2018 +0100,Auto-update
+android-AutofillFramework/kotlinApp/build.gradle,16625cf003034585cefc882a165e2f1fae58634e,Douglas Sigelbaum,Mon Jan 22 15:03:31 2018 -0800,Mon Jan 22 15:19:26 2018 -0800,Autofill sample updates.
+android-AutofillFramework/kotlinApp/build.gradle,8ce9eb3815644ee2ed54232cc549e0546cf87448,Douglas Sigelbaum,Tue Sep 26 11:30:31 2017 -0700,Tue Sep 26 11:30:31 2017 -0700,Lots of new features:
+android-AutofillFramework/kotlinApp/build.gradle,c616c0491033da3c2685d4c536b76ef5209c71cd,Douglas Sigelbaum,Fri Jun 16 00:56:59 2017 -0700,Fri Jun 16 01:01:39 2017 -0700,Clean up UI.
+android-AutofillFramework/kotlinApp/build.gradle,6dd9a1d1c38427b2ec2f0a0177133b9861b0054a,google-automerger,Thu Jun 8 09:32:35 2017 -0700,Thu Jun 8 09:32:35 2017 -0700,Auto-update
+android-AutofillFramework/kotlinApp/build.gradle,2015b4dbc5aa98c2074b88cfbb601de62310b58d,google-automerger,Thu Jun 1 10:56:55 2017 -0700,Thu Jun 1 10:56:55 2017 -0700,Auto-update
+android-AutofillFramework/kotlinApp/build.gradle,b390debc2f0cb7ede3e9bb6da89fc6253571614f,google-automerger,Wed May 17 13:31:24 2017 -0700,Wed May 17 13:31:24 2017 -0700,Auto-update
+android-AutofillFramework/kotlinApp/Application/build.gradle,8ce9eb3815644ee2ed54232cc549e0546cf87448,Douglas Sigelbaum,Tue Sep 26 11:30:31 2017 -0700,Tue Sep 26 11:30:31 2017 -0700,Lots of new features:
+android-AutofillFramework/kotlinApp/Application/build.gradle,615a32cd598e2e092cd571a6cdcace72d187ecb4,Douglas Sigelbaum,Fri Jun 16 15:56:59 2017 -0700,Fri Jun 16 15:56:59 2017 -0700,More cleaning up.
+android-AutofillFramework/kotlinApp/Application/build.gradle,c616c0491033da3c2685d4c536b76ef5209c71cd,Douglas Sigelbaum,Fri Jun 16 00:56:59 2017 -0700,Fri Jun 16 01:01:39 2017 -0700,Clean up UI.
+android-AutofillFramework/kotlinApp/Application/build.gradle,6dd9a1d1c38427b2ec2f0a0177133b9861b0054a,google-automerger,Thu Jun 8 09:32:35 2017 -0700,Thu Jun 8 09:32:35 2017 -0700,Auto-update
+android-AutofillFramework/kotlinApp/Application/build.gradle,2015b4dbc5aa98c2074b88cfbb601de62310b58d,google-automerger,Thu Jun 1 10:56:55 2017 -0700,Thu Jun 1 10:56:55 2017 -0700,Auto-update
+android-AutofillFramework/kotlinApp/Application/build.gradle,b390debc2f0cb7ede3e9bb6da89fc6253571614f,google-automerger,Wed May 17 13:31:24 2017 -0700,Wed May 17 13:31:24 2017 -0700,Auto-update
+android-AutofillFramework/afservice/build.gradle,ab632398bd28e3bb536693a78b3216cc9ff2b9e3,google-automerger,Mon Oct 1 17:09:23 2018 +0100,Mon Oct 1 17:09:23 2018 +0100,Auto-update
+android-AutofillFramework/afservice/build.gradle,a19ce5402163683ace369a2654e7c8a4a28aa78e,google-automerger,Tue May 8 12:53:08 2018 -0700,Tue May 8 12:53:08 2018 -0700,Auto-update
+android-AutofillFramework/afservice/build.gradle,2119c2535aa9ec37d9112b7e3c3e7b3080b56313,Douglas Sigelbaum,Fri Feb 23 18:56:25 2018 -0800,Fri Feb 23 18:56:25 2018 -0800,Autofill sample update.
+android-AutofillFramework/afservice/build.gradle,30ec9afefa50965c3fa2b89eb94ab52737d5236b,google-automerger,Thu Feb 15 16:34:28 2018 -0800,Thu Feb 15 16:34:28 2018 -0800,Auto-update
+android-AutofillFramework/afservice/build.gradle,16625cf003034585cefc882a165e2f1fae58634e,Douglas Sigelbaum,Mon Jan 22 15:03:31 2018 -0800,Mon Jan 22 15:19:26 2018 -0800,Autofill sample updates.
+android-AutofillFramework/afservice/build.gradle,797df9c46250a8a2f347cd9b73404615263e1747,Douglas Sigelbaum,Mon Nov 13 18:57:31 2017 -0800,Mon Nov 13 18:58:59 2017 -0800,Autofill sample updates.

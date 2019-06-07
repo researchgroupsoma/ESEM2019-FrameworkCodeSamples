@@ -1,0 +1,156 @@
+gs-rest-hateoas/complete/pom.xml,8bf4530058c98b080dba629d4b583530896b90b5,Greg Turnquist,Mon Sep 17 10:51:13 2018 -0500,Mon Sep 17 10:51:13 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-rest-hateoas/complete/pom.xml,2486e9523c1633759fbfd3dde6de8f8f1b5083c4,Greg Turnquist,Mon Jun 18 16:17:15 2018 -0500,Mon Jun 18 16:17:15 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-rest-hateoas/complete/pom.xml,ec2580627c4e6b4b838ecceb2f93d24a17037144,Greg Turnquist,Wed May 9 11:26:58 2018 -0500,Wed May 9 11:26:58 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-rest-hateoas/complete/pom.xml,4151f47cbfb7800ecb1b4fa890e40d869e9359b3,Greg Turnquist,Thu Apr 5 11:45:20 2018 -0500,Thu Apr 5 11:45:20 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-rest-hateoas/complete/pom.xml,ea04233eb449301153f4c5f1798f3ca45860bc31,Greg Turnquist,Thu Mar 1 09:54:17 2018 -0600,Mon Mar 5 14:30:38 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-rest-hateoas/complete/pom.xml,185e08a549cb2e14b115f9d21ce6d51d717823bb,Greg Turnquist,Wed Jan 31 09:16:38 2018 -0600,Wed Jan 31 09:16:38 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-rest-hateoas/complete/pom.xml,02e6860d991d9c6501e3dcb425b3d24171416cf3,Greg Turnquist,Thu Nov 30 11:07:19 2017 -0600,Thu Nov 30 11:07:19 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-rest-hateoas/complete/pom.xml,5a74844dc07f1b7163dccff5fff8abb696ad0ab3,Greg Turnquist,Tue Oct 17 15:42:53 2017 -0500,Tue Oct 17 15:42:53 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-rest-hateoas/complete/pom.xml,23ecbcb0c0deb49ad106cd34cb9563206f70cdda,Greg Turnquist,Wed Sep 13 13:15:59 2017 -0500,Wed Sep 13 13:15:59 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-rest-hateoas/complete/pom.xml,1dcd3f087af1a3cce02d05f39b26f43b406433f1,Greg Turnquist,Thu Jul 27 10:05:16 2017 -0500,Thu Jul 27 10:05:16 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-rest-hateoas/complete/pom.xml,120cc22093c234fe76afafa0adeb545ec2b1a231,Greg Turnquist,Wed Jul 26 12:23:33 2017 -0500,Wed Jul 26 12:23:33 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-rest-hateoas/complete/pom.xml,a5397fd4965484ff95ec243b8d952e4fe1dc9fb0,Greg Turnquist,Fri Apr 21 09:20:41 2017 -0500,Fri Apr 21 09:20:41 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-rest-hateoas/complete/pom.xml,a2336e48e11eb41226ba905e07e953e8bfc94e92,Greg Turnquist,Fri Mar 3 11:13:40 2017 -0600,Fri Mar 3 11:13:40 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-rest-hateoas/complete/pom.xml,4d80d3e8b0688709691d69818255f9e08a9e9fe6,Greg Turnquist,Mon Jan 30 23:34:02 2017 -0600,Mon Jan 30 23:34:02 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-rest-hateoas/complete/pom.xml,c9ffcb3e5a0ec3dbe46abe8732b1636f2ca73d45,Greg Turnquist,Mon Jan 30 11:38:58 2017 -0600,Mon Jan 30 11:38:58 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-rest-hateoas/complete/pom.xml,012c3e983648609dd6b439daaf3d4808ce24b4f9,Greg Turnquist,Thu Jan 26 12:48:24 2017 -0600,Thu Jan 26 12:48:24 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-rest-hateoas/complete/pom.xml,fd4141f8074d419c47ec3a256d5e445072a114fa,Greg Turnquist,Thu Jan 26 12:38:04 2017 -0600,Thu Jan 26 12:38:04 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-rest-hateoas/complete/pom.xml,ec4105fa1e9c386e4f03e9c6f10666632d26e69c,Greg Turnquist,Thu Dec 22 22:33:22 2016 -0600,Thu Dec 22 22:33:22 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-rest-hateoas/complete/pom.xml,ed50a597f3a870e48d77fe387a65405fe424591c,Greg Turnquist,Tue Nov 8 11:52:56 2016 -0600,Tue Nov 8 11:52:56 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-rest-hateoas/complete/pom.xml,fe60891cbf044646b8245f287712cb5c6552e795,Greg Turnquist,Fri Sep 23 16:36:34 2016 -0500,Fri Sep 23 16:36:34 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-rest-hateoas/complete/pom.xml,868a3f0dcd7b00ead2694c080d636e118cce8b59,Greg Turnquist,Fri Jul 29 11:29:38 2016 -0500,Fri Jul 29 11:29:38 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-rest-hateoas/complete/pom.xml,7eb3bfdc302f0a681ec5553548bd460da22ae6ab,Greg Turnquist,Thu Jul 28 06:53:16 2016 -0500,Thu Jul 28 06:53:16 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-rest-hateoas/complete/pom.xml,aec9b17603219d19b7c577f4818ef0bdf6cad736,Greg Turnquist,Tue Jul 5 13:52:46 2016 -0500,Tue Jul 5 13:52:46 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-rest-hateoas/complete/pom.xml,9987b8684e67047e113e9f86b50291ce043eaefb,Greg Turnquist,Tue May 10 10:26:49 2016 -0500,Tue May 10 10:26:49 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-rest-hateoas/complete/pom.xml,e05956425bbbd1dfa3e540d120dbd0941dff4461,Greg Turnquist,Fri May 6 09:49:17 2016 -0500,Fri May 6 09:49:17 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-rest-hateoas/complete/pom.xml,d5af13fc5a752fb891c49f07494ebccf80b1b7df,Greg Turnquist,Fri Feb 26 07:30:21 2016 -0600,Fri Feb 26 07:30:21 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-rest-hateoas/complete/pom.xml,579cca0d884daf6462ded5d3ac6dca300e23f116,Greg Turnquist,Thu Jan 21 21:29:16 2016 -0600,Thu Jan 21 21:29:16 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-rest-hateoas/complete/pom.xml,7c0bae23c419c419885299caa779c23b5491c6e7,Greg Turnquist,Fri Dec 18 09:40:32 2015 -0600,Fri Dec 18 09:40:32 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-rest-hateoas/complete/pom.xml,19ca080f8e0e9c57ac043141ff38e4b829304187,Greg Turnquist,Thu Nov 26 13:11:22 2015 -0600,Thu Nov 26 13:11:22 2015 -0600,Merge pull request #7 from ericdahl/broken_test
+gs-rest-hateoas/complete/pom.xml,f5f3e54a304c7f7529de4f77d60f0d5af3da12c5,Greg Turnquist,Mon Nov 16 11:10:56 2015 -0600,Mon Nov 16 11:10:56 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-rest-hateoas/complete/pom.xml,22d0e589ad10553e666ad75523f3bd7a7a28ac05,Greg Turnquist,Fri Oct 16 09:44:00 2015 -0400,Fri Oct 16 09:44:00 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-rest-hateoas/complete/pom.xml,756f8b42c40ddb7a630d989ad1bd81c42b92e6bd,Greg Turnquist,Sun Sep 20 15:41:54 2015 -0500,Sun Sep 20 15:41:54 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-rest-hateoas/complete/pom.xml,00696d5645018e371fa6e6f14ed7a0eb6ca77c0c,Greg Turnquist,Thu Jul 2 08:46:36 2015 -0500,Thu Jul 2 08:46:36 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-rest-hateoas/complete/pom.xml,fa941b58b694e3dabd96d64699663be4848f7b81,Greg Turnquist,Fri Jun 12 13:49:30 2015 -0400,Fri Jun 12 13:49:30 2015 -0400,Upgrade to Java 8
+gs-rest-hateoas/complete/pom.xml,b0ca6cc21d5c4ca78addee4384c534448214450e,Greg Turnquist,Tue Jun 9 09:42:01 2015 -0400,Tue Jun 9 09:42:01 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-rest-hateoas/complete/pom.xml,981193759d4014cf2d001ce1ed01b776acf1fb74,Greg Turnquist,Tue Mar 31 16:56:22 2015 -0500,Tue Mar 31 16:56:22 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-rest-hateoas/complete/pom.xml,bd2c3c93eae85c819802a53bf94552aaf6fef371,Greg Turnquist,Tue Mar 17 13:14:04 2015 -0500,Tue Mar 17 13:14:04 2015 -0500,Upgrade maven build to Java 7
+gs-rest-hateoas/complete/pom.xml,1fa9c8f7bcd0c32f9760e3570d128b7183abace6,Greg Turnquist,Thu Feb 26 22:39:58 2015 -0600,Thu Feb 26 22:39:58 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-rest-hateoas/complete/pom.xml,4187fb8f254565bf88f65ee6d73fea3be42e7243,Greg Turnquist,Wed Feb 18 11:08:14 2015 -0600,Wed Feb 18 11:08:14 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-rest-hateoas/complete/pom.xml,c411f5dd30c05a59eda324e1390247021d7be90c,Greg Turnquist,Wed Jan 14 12:34:10 2015 -0600,Wed Jan 14 12:34:10 2015 -0600,Remove legacy start-class property from maven builds
+gs-rest-hateoas/complete/pom.xml,5d2ef4136902c41d5952d2db56d6de2c2ec6ba56,Greg Turnquist,Thu Dec 11 11:08:10 2014 -0600,Thu Dec 11 11:08:10 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-rest-hateoas/complete/pom.xml,46134b9601ae297b0fc7bb9775221b3fa52fca16,Greg Turnquist,Thu Nov 20 10:15:24 2014 -0600,Thu Nov 20 10:15:24 2014 -0600,Convert to use https for repositories
+gs-rest-hateoas/complete/pom.xml,d9a7242da116974c173798a50ef9094dd37d3f7b,Greg Turnquist,Wed Nov 12 13:08:33 2014 -0600,Wed Nov 12 13:08:33 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-rest-hateoas/complete/pom.xml,f97417e132bc3d12150337b1adef3d1185fffe56,Greg Turnquist,Fri Oct 10 22:05:33 2014 -0500,Fri Oct 10 22:05:33 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-rest-hateoas/complete/pom.xml,f55204abfb521400cc438fb3f61633ab6572075b,Greg Turnquist,Mon Sep 29 12:42:45 2014 -0500,Mon Sep 29 12:42:45 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-rest-hateoas/complete/pom.xml,9126c971c61c9ec3c5590050ec2e14cde378373d,Greg Turnquist,Fri Sep 5 11:14:16 2014 -0500,Fri Sep 5 11:14:16 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-rest-hateoas/complete/pom.xml,8300c5aff0a955e53065cf100ed0f4b91c9440e1,Greg Turnquist,Fri Aug 8 22:12:47 2014 -0500,Fri Aug 8 22:12:47 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-rest-hateoas/complete/pom.xml,65097c4cd47fe243570f3e70dc341050a4dd3ca0,Greg Turnquist,Tue Jul 8 15:42:05 2014 -0500,Tue Jul 8 15:42:05 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-rest-hateoas/complete/pom.xml,293bfa181d477f7ab200e18b4cc172c6aa2166b4,Greg Turnquist,Fri Jun 27 22:55:37 2014 -0400,Fri Jun 27 22:55:37 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-rest-hateoas/complete/pom.xml,528c20a68546972db8f7e747c0e0289ad60a3e37,Greg Turnquist,Tue Jun 24 19:56:03 2014 -0400,Tue Jun 24 19:56:03 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-rest-hateoas/complete/pom.xml,09062fd0b9e0d756fb59512792c474890b64c29b,Greg Turnquist,Mon Jun 16 12:14:13 2014 -0400,Mon Jun 16 12:14:13 2014 -0400,Merge pull request #6 from dsyer/feature/test
+gs-rest-hateoas/complete/pom.xml,06b631d6e8d4e6d609cec0909dd9d075594fdac1,Greg Turnquist,Mon Jun 16 11:42:45 2014 -0400,Mon Jun 16 11:42:45 2014 -0400,Merge branch 'dsyer-feature/test'
+gs-rest-hateoas/complete/pom.xml,d66e5ac9fc721aaef693ba5b6b3f0fe541852d3f,Greg Turnquist,Wed Jun 11 16:48:43 2014 -0500,Wed Jun 11 16:48:43 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-rest-hateoas/complete/pom.xml,75e4d35f9070b2bb7f168f67660d0fdfd7f8ca74,Greg Turnquist,Wed Jun 11 09:09:10 2014 -0500,Wed Jun 11 09:09:10 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-rest-hateoas/complete/pom.xml,b95820ac5ae592179f4c2089a14d0818f85b86d9,Greg Turnquist,Tue Jun 10 19:16:45 2014 -0500,Tue Jun 10 19:16:45 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-rest-hateoas/complete/pom.xml,03b37a763695e4618c415c937808d15ac610c752,Greg Turnquist,Thu Apr 24 09:37:26 2014 -0500,Thu Apr 24 09:37:26 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-rest-hateoas/complete/pom.xml,211905d58554f1b971fe15b6ef10fbb735a04c67,Greg Turnquist,Thu Apr 17 23:23:39 2014 -0500,Thu Apr 17 23:23:39 2014 -0500,Remove superfluous version number for spring-hateoas
+gs-rest-hateoas/complete/pom.xml,2aa811f40ce1564d87a6e68e0da1bbe3a0f08a5f,Greg Turnquist,Mon Apr 7 10:10:01 2014 -0500,Mon Apr 7 10:10:01 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-rest-hateoas/complete/pom.xml,91c0ddb1e2c7458c702d55f7fff89b4ac080fac4,Greg Turnquist,Tue Apr 1 15:11:41 2014 -0500,Tue Apr 1 15:11:41 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-rest-hateoas/complete/pom.xml,412750b2b3b90cec466626a8ffcb681b735e3c72,Greg Turnquist,Sat Mar 22 07:18:17 2014 -0500,Sat Mar 22 07:18:17 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-rest-hateoas/complete/pom.xml,b937cbfc42d8e243131ca3938b267e28d42540e2,Greg Turnquist,Tue Mar 4 15:10:10 2014 -0500,Tue Mar 4 15:10:10 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-rest-hateoas/complete/pom.xml,f51227ec88d48142ab68638442f85eba283c3d43,Greg Turnquist,Fri Feb 14 11:24:00 2014 -0600,Fri Feb 14 11:24:00 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-rest-hateoas/complete/pom.xml,bea86beffd751c5596674f94cf682c5e8d24554e,Greg Turnquist,Thu Feb 13 12:38:36 2014 -0600,Thu Feb 13 12:38:36 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-rest-hateoas/complete/pom.xml,85f7f07ca20d5501807bfc16141703fc430e8fc8,Greg Turnquist,Wed Jan 22 12:21:37 2014 -0600,Wed Jan 22 12:21:37 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-rest-hateoas/complete/pom.xml,3d3cb1dc4aacce948467a441b71928c6f47e7a20,Greg Turnquist,Mon Nov 18 15:57:32 2013 -0600,Mon Nov 18 15:57:32 2013 -0600,Upgrade to Spring Boot 0.5.0.M6 and Spring HATEOAS 0.8.0
+gs-rest-hateoas/complete/pom.xml,6ef56d3826f507e124fed6f3f88a3d9435a9e32d,Greg Turnquist,Wed Oct 30 10:03:53 2013 -0500,Wed Oct 30 10:03:53 2013 -0500,Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+gs-rest-hateoas/complete/pom.xml,47409e11dec1e45a4cb6e18e2c43a147e9482bc8,Greg Turnquist,Mon Sep 30 08:19:15 2013 -0500,Mon Sep 30 08:19:15 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-rest-hateoas/complete/pom.xml,78d7d0b4d2381e28f570796983e449a612fd1160,Greg Turnquist,Fri Sep 27 10:32:16 2013 -0500,Fri Sep 27 10:32:16 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-rest-hateoas/complete/pom.xml,b1c34945e75c4b48fae3ca6d26355825a685b9c0,Greg Turnquist,Fri Aug 30 16:42:18 2013 -0500,Fri Aug 30 16:42:18 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-rest-hateoas/complete/pom.xml,21ef6415b13d380d7693a50c3d7676fc3304a375,Greg Turnquist,Fri Aug 9 13:18:34 2013 -0500,Fri Aug 9 13:18:34 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-rest-hateoas/complete/pom.xml,afbdc84f590e9974cf279435ecdc7454c8c7d597,Greg Turnquist,Tue Aug 6 14:43:58 2013 -0500,Tue Aug 6 14:43:58 2013 -0500,Use libs-snapshot instead of snapshot
+gs-rest-hateoas/complete/pom.xml,8266624a400cd92fbd7cb0882e9e8b7c2e7a5469,Greg Turnquist,Tue Aug 6 11:24:14 2013 -0500,Tue Aug 6 11:24:14 2013 -0500,Remove 'TODO' from pom.xml and rebuild guide
+gs-rest-hateoas/complete/pom.xml,9a22be3009956696583d28f3e8cab16340db7234,Greg Turnquist,Wed Jul 31 15:43:05 2013 -0400,Wed Jul 31 15:43:05 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-rest-hateoas/complete/pom.xml,96aaca7185bc67d5def214e5cb3dc9c5f550f0bb,Greg Turnquist,Tue Jul 30 10:19:45 2013 -0400,Tue Jul 30 10:19:45 2013 -0400,Upgrade to Spring Boot
+gs-rest-hateoas/complete/pom.xml,ab8fc9dbe1a7ad82c3fdccb51ca5846ef1d10139,Greg Turnquist,Fri Jul 19 16:31:28 2013 -0400,Fri Jul 19 16:31:28 2013 -0400,Convert to spring-package-maven-plugin and Spring Zero
+gs-rest-hateoas/complete/pom.xml,8a98c6567638fb7c7ea43d1e8296dae62a35c3a2,Greg Turnquist,Thu Jul 18 10:41:34 2013 -0400,Thu Jul 18 10:41:34 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-rest-hateoas/complete/pom.xml,34ac4b01fd072271635b055ee2a956232054f364,Chris Beams,Tue May 28 11:48:14 2013 +0200,Tue May 28 11:48:14 2013 +0200,Version all GS guides at 0.1.0 per http://semver.org
+gs-rest-hateoas/complete/pom.xml,a34a1f12e2f17013db83f27133f5ee805ae24398,Oliver Gierke,Fri May 24 18:49:30 2013 +0200,Fri May 24 18:50:25 2013 +0200,Initial version of the Getting Started Guide for Hypermedia REST services.
+gs-rest-hateoas/initial/pom.xml,8bf4530058c98b080dba629d4b583530896b90b5,Greg Turnquist,Mon Sep 17 10:51:13 2018 -0500,Mon Sep 17 10:51:13 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-rest-hateoas/initial/pom.xml,2486e9523c1633759fbfd3dde6de8f8f1b5083c4,Greg Turnquist,Mon Jun 18 16:17:15 2018 -0500,Mon Jun 18 16:17:15 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-rest-hateoas/initial/pom.xml,ec2580627c4e6b4b838ecceb2f93d24a17037144,Greg Turnquist,Wed May 9 11:26:58 2018 -0500,Wed May 9 11:26:58 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-rest-hateoas/initial/pom.xml,4151f47cbfb7800ecb1b4fa890e40d869e9359b3,Greg Turnquist,Thu Apr 5 11:45:20 2018 -0500,Thu Apr 5 11:45:20 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-rest-hateoas/initial/pom.xml,ea04233eb449301153f4c5f1798f3ca45860bc31,Greg Turnquist,Thu Mar 1 09:54:17 2018 -0600,Mon Mar 5 14:30:38 2018 -0600,Upgrade to Spring Boot 2.0.0.RELEASE
+gs-rest-hateoas/initial/pom.xml,185e08a549cb2e14b115f9d21ce6d51d717823bb,Greg Turnquist,Wed Jan 31 09:16:38 2018 -0600,Wed Jan 31 09:16:38 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-rest-hateoas/initial/pom.xml,02e6860d991d9c6501e3dcb425b3d24171416cf3,Greg Turnquist,Thu Nov 30 11:07:19 2017 -0600,Thu Nov 30 11:07:19 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-rest-hateoas/initial/pom.xml,5a74844dc07f1b7163dccff5fff8abb696ad0ab3,Greg Turnquist,Tue Oct 17 15:42:53 2017 -0500,Tue Oct 17 15:42:53 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-rest-hateoas/initial/pom.xml,23ecbcb0c0deb49ad106cd34cb9563206f70cdda,Greg Turnquist,Wed Sep 13 13:15:59 2017 -0500,Wed Sep 13 13:15:59 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-rest-hateoas/initial/pom.xml,1dcd3f087af1a3cce02d05f39b26f43b406433f1,Greg Turnquist,Thu Jul 27 10:05:16 2017 -0500,Thu Jul 27 10:05:16 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-rest-hateoas/initial/pom.xml,120cc22093c234fe76afafa0adeb545ec2b1a231,Greg Turnquist,Wed Jul 26 12:23:33 2017 -0500,Wed Jul 26 12:23:33 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-rest-hateoas/initial/pom.xml,a5397fd4965484ff95ec243b8d952e4fe1dc9fb0,Greg Turnquist,Fri Apr 21 09:20:41 2017 -0500,Fri Apr 21 09:20:41 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-rest-hateoas/initial/pom.xml,a2336e48e11eb41226ba905e07e953e8bfc94e92,Greg Turnquist,Fri Mar 3 11:13:40 2017 -0600,Fri Mar 3 11:13:40 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-rest-hateoas/initial/pom.xml,4d80d3e8b0688709691d69818255f9e08a9e9fe6,Greg Turnquist,Mon Jan 30 23:34:02 2017 -0600,Mon Jan 30 23:34:02 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-rest-hateoas/initial/pom.xml,c9ffcb3e5a0ec3dbe46abe8732b1636f2ca73d45,Greg Turnquist,Mon Jan 30 11:38:58 2017 -0600,Mon Jan 30 11:38:58 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-rest-hateoas/initial/pom.xml,012c3e983648609dd6b439daaf3d4808ce24b4f9,Greg Turnquist,Thu Jan 26 12:48:24 2017 -0600,Thu Jan 26 12:48:24 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-rest-hateoas/initial/pom.xml,fd4141f8074d419c47ec3a256d5e445072a114fa,Greg Turnquist,Thu Jan 26 12:38:04 2017 -0600,Thu Jan 26 12:38:04 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-rest-hateoas/initial/pom.xml,ec4105fa1e9c386e4f03e9c6f10666632d26e69c,Greg Turnquist,Thu Dec 22 22:33:22 2016 -0600,Thu Dec 22 22:33:22 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-rest-hateoas/initial/pom.xml,ed50a597f3a870e48d77fe387a65405fe424591c,Greg Turnquist,Tue Nov 8 11:52:56 2016 -0600,Tue Nov 8 11:52:56 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-rest-hateoas/initial/pom.xml,fe60891cbf044646b8245f287712cb5c6552e795,Greg Turnquist,Fri Sep 23 16:36:34 2016 -0500,Fri Sep 23 16:36:34 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-rest-hateoas/initial/pom.xml,868a3f0dcd7b00ead2694c080d636e118cce8b59,Greg Turnquist,Fri Jul 29 11:29:38 2016 -0500,Fri Jul 29 11:29:38 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-rest-hateoas/initial/pom.xml,7eb3bfdc302f0a681ec5553548bd460da22ae6ab,Greg Turnquist,Thu Jul 28 06:53:16 2016 -0500,Thu Jul 28 06:53:16 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-rest-hateoas/initial/pom.xml,aec9b17603219d19b7c577f4818ef0bdf6cad736,Greg Turnquist,Tue Jul 5 13:52:46 2016 -0500,Tue Jul 5 13:52:46 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-rest-hateoas/initial/pom.xml,9987b8684e67047e113e9f86b50291ce043eaefb,Greg Turnquist,Tue May 10 10:26:49 2016 -0500,Tue May 10 10:26:49 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-rest-hateoas/initial/pom.xml,e05956425bbbd1dfa3e540d120dbd0941dff4461,Greg Turnquist,Fri May 6 09:49:17 2016 -0500,Fri May 6 09:49:17 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-rest-hateoas/initial/pom.xml,d5af13fc5a752fb891c49f07494ebccf80b1b7df,Greg Turnquist,Fri Feb 26 07:30:21 2016 -0600,Fri Feb 26 07:30:21 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-rest-hateoas/initial/pom.xml,579cca0d884daf6462ded5d3ac6dca300e23f116,Greg Turnquist,Thu Jan 21 21:29:16 2016 -0600,Thu Jan 21 21:29:16 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-rest-hateoas/initial/pom.xml,7c0bae23c419c419885299caa779c23b5491c6e7,Greg Turnquist,Fri Dec 18 09:40:32 2015 -0600,Fri Dec 18 09:40:32 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-rest-hateoas/initial/pom.xml,19ca080f8e0e9c57ac043141ff38e4b829304187,Greg Turnquist,Thu Nov 26 13:11:22 2015 -0600,Thu Nov 26 13:11:22 2015 -0600,Merge pull request #7 from ericdahl/broken_test
+gs-rest-hateoas/initial/pom.xml,f5f3e54a304c7f7529de4f77d60f0d5af3da12c5,Greg Turnquist,Mon Nov 16 11:10:56 2015 -0600,Mon Nov 16 11:10:56 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-rest-hateoas/initial/pom.xml,22d0e589ad10553e666ad75523f3bd7a7a28ac05,Greg Turnquist,Fri Oct 16 09:44:00 2015 -0400,Fri Oct 16 09:44:00 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-rest-hateoas/initial/pom.xml,756f8b42c40ddb7a630d989ad1bd81c42b92e6bd,Greg Turnquist,Sun Sep 20 15:41:54 2015 -0500,Sun Sep 20 15:41:54 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-rest-hateoas/initial/pom.xml,00696d5645018e371fa6e6f14ed7a0eb6ca77c0c,Greg Turnquist,Thu Jul 2 08:46:36 2015 -0500,Thu Jul 2 08:46:36 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-rest-hateoas/initial/pom.xml,fa941b58b694e3dabd96d64699663be4848f7b81,Greg Turnquist,Fri Jun 12 13:49:30 2015 -0400,Fri Jun 12 13:49:30 2015 -0400,Upgrade to Java 8
+gs-rest-hateoas/initial/pom.xml,b0ca6cc21d5c4ca78addee4384c534448214450e,Greg Turnquist,Tue Jun 9 09:42:01 2015 -0400,Tue Jun 9 09:42:01 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-rest-hateoas/initial/pom.xml,981193759d4014cf2d001ce1ed01b776acf1fb74,Greg Turnquist,Tue Mar 31 16:56:22 2015 -0500,Tue Mar 31 16:56:22 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-rest-hateoas/initial/pom.xml,bd2c3c93eae85c819802a53bf94552aaf6fef371,Greg Turnquist,Tue Mar 17 13:14:04 2015 -0500,Tue Mar 17 13:14:04 2015 -0500,Upgrade maven build to Java 7
+gs-rest-hateoas/initial/pom.xml,1fa9c8f7bcd0c32f9760e3570d128b7183abace6,Greg Turnquist,Thu Feb 26 22:39:58 2015 -0600,Thu Feb 26 22:39:58 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-rest-hateoas/initial/pom.xml,4187fb8f254565bf88f65ee6d73fea3be42e7243,Greg Turnquist,Wed Feb 18 11:08:14 2015 -0600,Wed Feb 18 11:08:14 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-rest-hateoas/initial/pom.xml,c411f5dd30c05a59eda324e1390247021d7be90c,Greg Turnquist,Wed Jan 14 12:34:10 2015 -0600,Wed Jan 14 12:34:10 2015 -0600,Remove legacy start-class property from maven builds
+gs-rest-hateoas/initial/pom.xml,5d2ef4136902c41d5952d2db56d6de2c2ec6ba56,Greg Turnquist,Thu Dec 11 11:08:10 2014 -0600,Thu Dec 11 11:08:10 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-rest-hateoas/initial/pom.xml,46134b9601ae297b0fc7bb9775221b3fa52fca16,Greg Turnquist,Thu Nov 20 10:15:24 2014 -0600,Thu Nov 20 10:15:24 2014 -0600,Convert to use https for repositories
+gs-rest-hateoas/initial/pom.xml,d9a7242da116974c173798a50ef9094dd37d3f7b,Greg Turnquist,Wed Nov 12 13:08:33 2014 -0600,Wed Nov 12 13:08:33 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-rest-hateoas/initial/pom.xml,f97417e132bc3d12150337b1adef3d1185fffe56,Greg Turnquist,Fri Oct 10 22:05:33 2014 -0500,Fri Oct 10 22:05:33 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-rest-hateoas/initial/pom.xml,f55204abfb521400cc438fb3f61633ab6572075b,Greg Turnquist,Mon Sep 29 12:42:45 2014 -0500,Mon Sep 29 12:42:45 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-rest-hateoas/initial/pom.xml,9126c971c61c9ec3c5590050ec2e14cde378373d,Greg Turnquist,Fri Sep 5 11:14:16 2014 -0500,Fri Sep 5 11:14:16 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-rest-hateoas/initial/pom.xml,8300c5aff0a955e53065cf100ed0f4b91c9440e1,Greg Turnquist,Fri Aug 8 22:12:47 2014 -0500,Fri Aug 8 22:12:47 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-rest-hateoas/initial/pom.xml,65097c4cd47fe243570f3e70dc341050a4dd3ca0,Greg Turnquist,Tue Jul 8 15:42:05 2014 -0500,Tue Jul 8 15:42:05 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-rest-hateoas/initial/pom.xml,293bfa181d477f7ab200e18b4cc172c6aa2166b4,Greg Turnquist,Fri Jun 27 22:55:37 2014 -0400,Fri Jun 27 22:55:37 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-rest-hateoas/initial/pom.xml,528c20a68546972db8f7e747c0e0289ad60a3e37,Greg Turnquist,Tue Jun 24 19:56:03 2014 -0400,Tue Jun 24 19:56:03 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-rest-hateoas/initial/pom.xml,8fb4696f95b528a97476553c9dfae7ae07a8bddb,Greg Turnquist,Mon Jun 16 12:17:35 2014 -0400,Mon Jun 16 12:17:35 2014 -0400,Update initial deps
+gs-rest-hateoas/initial/pom.xml,06b631d6e8d4e6d609cec0909dd9d075594fdac1,Greg Turnquist,Mon Jun 16 11:42:45 2014 -0400,Mon Jun 16 11:42:45 2014 -0400,Merge branch 'dsyer-feature/test'
+gs-rest-hateoas/initial/pom.xml,d66e5ac9fc721aaef693ba5b6b3f0fe541852d3f,Greg Turnquist,Wed Jun 11 16:48:43 2014 -0500,Wed Jun 11 16:48:43 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-rest-hateoas/initial/pom.xml,75e4d35f9070b2bb7f168f67660d0fdfd7f8ca74,Greg Turnquist,Wed Jun 11 09:09:10 2014 -0500,Wed Jun 11 09:09:10 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-rest-hateoas/initial/pom.xml,b95820ac5ae592179f4c2089a14d0818f85b86d9,Greg Turnquist,Tue Jun 10 19:16:45 2014 -0500,Tue Jun 10 19:16:45 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-rest-hateoas/initial/pom.xml,03b37a763695e4618c415c937808d15ac610c752,Greg Turnquist,Thu Apr 24 09:37:26 2014 -0500,Thu Apr 24 09:37:26 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-rest-hateoas/initial/pom.xml,211905d58554f1b971fe15b6ef10fbb735a04c67,Greg Turnquist,Thu Apr 17 23:23:39 2014 -0500,Thu Apr 17 23:23:39 2014 -0500,Remove superfluous version number for spring-hateoas
+gs-rest-hateoas/initial/pom.xml,2aa811f40ce1564d87a6e68e0da1bbe3a0f08a5f,Greg Turnquist,Mon Apr 7 10:10:01 2014 -0500,Mon Apr 7 10:10:01 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-rest-hateoas/initial/pom.xml,91c0ddb1e2c7458c702d55f7fff89b4ac080fac4,Greg Turnquist,Tue Apr 1 15:11:41 2014 -0500,Tue Apr 1 15:11:41 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-rest-hateoas/initial/pom.xml,412750b2b3b90cec466626a8ffcb681b735e3c72,Greg Turnquist,Sat Mar 22 07:18:17 2014 -0500,Sat Mar 22 07:18:17 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-rest-hateoas/initial/pom.xml,b937cbfc42d8e243131ca3938b267e28d42540e2,Greg Turnquist,Tue Mar 4 15:10:10 2014 -0500,Tue Mar 4 15:10:10 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-rest-hateoas/initial/pom.xml,65735f04d64bce6f65c58a7a475e218968b86f8c,Greg Turnquist,Tue Feb 18 16:34:41 2014 -0600,Tue Feb 18 16:34:41 2014 -0600,Move final build file to the beginning and update guides to reflect this
+gs-rest-hateoas/initial/pom.xml,f51227ec88d48142ab68638442f85eba283c3d43,Greg Turnquist,Fri Feb 14 11:24:00 2014 -0600,Fri Feb 14 11:24:00 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-rest-hateoas/initial/pom.xml,bea86beffd751c5596674f94cf682c5e8d24554e,Greg Turnquist,Thu Feb 13 12:38:36 2014 -0600,Thu Feb 13 12:38:36 2014 -0600,Upgrade to Spring Boot 1.0.0.RC2
+gs-rest-hateoas/initial/pom.xml,85f7f07ca20d5501807bfc16141703fc430e8fc8,Greg Turnquist,Wed Jan 22 12:21:37 2014 -0600,Wed Jan 22 12:21:37 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-rest-hateoas/initial/pom.xml,3d3cb1dc4aacce948467a441b71928c6f47e7a20,Greg Turnquist,Mon Nov 18 15:57:32 2013 -0600,Mon Nov 18 15:57:32 2013 -0600,Upgrade to Spring Boot 0.5.0.M6 and Spring HATEOAS 0.8.0
+gs-rest-hateoas/initial/pom.xml,6ef56d3826f507e124fed6f3f88a3d9435a9e32d,Greg Turnquist,Wed Oct 30 10:03:53 2013 -0500,Wed Oct 30 10:03:53 2013 -0500,Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+gs-rest-hateoas/initial/pom.xml,47409e11dec1e45a4cb6e18e2c43a147e9482bc8,Greg Turnquist,Mon Sep 30 08:19:15 2013 -0500,Mon Sep 30 08:19:15 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-rest-hateoas/initial/pom.xml,78d7d0b4d2381e28f570796983e449a612fd1160,Greg Turnquist,Fri Sep 27 10:32:16 2013 -0500,Fri Sep 27 10:32:16 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-rest-hateoas/initial/pom.xml,b1c34945e75c4b48fae3ca6d26355825a685b9c0,Greg Turnquist,Fri Aug 30 16:42:18 2013 -0500,Fri Aug 30 16:42:18 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-rest-hateoas/initial/pom.xml,21ef6415b13d380d7693a50c3d7676fc3304a375,Greg Turnquist,Fri Aug 9 13:18:34 2013 -0500,Fri Aug 9 13:18:34 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-rest-hateoas/initial/pom.xml,afbdc84f590e9974cf279435ecdc7454c8c7d597,Greg Turnquist,Tue Aug 6 14:43:58 2013 -0500,Tue Aug 6 14:43:58 2013 -0500,Use libs-snapshot instead of snapshot
+gs-rest-hateoas/initial/pom.xml,8266624a400cd92fbd7cb0882e9e8b7c2e7a5469,Greg Turnquist,Tue Aug 6 11:24:14 2013 -0500,Tue Aug 6 11:24:14 2013 -0500,Remove 'TODO' from pom.xml and rebuild guide
+gs-rest-hateoas/initial/pom.xml,9a22be3009956696583d28f3e8cab16340db7234,Greg Turnquist,Wed Jul 31 15:43:05 2013 -0400,Wed Jul 31 15:43:05 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-rest-hateoas/initial/pom.xml,96aaca7185bc67d5def214e5cb3dc9c5f550f0bb,Greg Turnquist,Tue Jul 30 10:19:45 2013 -0400,Tue Jul 30 10:19:45 2013 -0400,Upgrade to Spring Boot
+gs-rest-hateoas/initial/pom.xml,ab8fc9dbe1a7ad82c3fdccb51ca5846ef1d10139,Greg Turnquist,Fri Jul 19 16:31:28 2013 -0400,Fri Jul 19 16:31:28 2013 -0400,Convert to spring-package-maven-plugin and Spring Zero
+gs-rest-hateoas/initial/pom.xml,34ac4b01fd072271635b055ee2a956232054f364,Chris Beams,Tue May 28 11:48:14 2013 +0200,Tue May 28 11:48:14 2013 +0200,Version all GS guides at 0.1.0 per http://semver.org
+gs-rest-hateoas/initial/pom.xml,a34a1f12e2f17013db83f27133f5ee805ae24398,Oliver Gierke,Fri May 24 18:49:30 2013 +0200,Fri May 24 18:50:25 2013 +0200,Initial version of the Getting Started Guide for Hypermedia REST services.

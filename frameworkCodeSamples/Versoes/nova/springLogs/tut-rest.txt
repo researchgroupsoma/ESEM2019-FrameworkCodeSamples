@@ -1,0 +1,23 @@
+tut-rest/pom.xml,a86b222aad54076122beec815035abe82fd1df31,Greg Turnquist,Thu Sep 20 11:00:49 2018 -0500,Thu Sep 20 11:00:49 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE
+tut-rest/pom.xml,4ffa01f0fd4da98847049803b1b5463a7a8bcebd,Greg Turnquist,Mon Aug 27 12:42:32 2018 -0500,Mon Aug 27 12:42:32 2018 -0500,Polish
+tut-rest/pom.xml,63d393748ec27b072854f8b35a763e27ac6e0983,Greg Turnquist,Thu Aug 9 13:20:44 2018 -0500,Mon Aug 27 12:27:42 2018 -0500,Rewrite tutorial using RESTful practices
+tut-rest/pom.xml,49dcef3b4b060b83c46cf87a15b934fd4da9b768,Greg Turnquist,Fri May 11 16:37:58 2018 -0500,Fri May 11 16:37:58 2018 -0500,Polishing
+tut-rest/pom.xml,7f3644ea186e5fa5db6312af00f926e273384125,Greg Turnquist,Fri May 11 11:21:44 2018 -0500,Fri May 11 16:19:43 2018 -0500,Upgrade to Spring Boot 2.0
+tut-rest/pom.xml,fbb3cc6592944a4f1ff68685fe9f2676ce29c604,Greg Turnquist,Tue Jan 31 16:16:34 2017 -0600,Tue Jan 31 16:16:34 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+tut-rest/pom.xml,78c14dff274961fdd65e1abfb8a3694403ce0588,Greg Turnquist,Tue Jan 31 13:29:23 2017 -0600,Tue Jan 31 13:29:23 2017 -0600,Upgrade to Spring Boot 1.4.1.RELEASE
+tut-rest/pom.xml,798d5b99927309a8a6e7f340ef0ef857cec5adab,Greg Turnquist,Tue May 10 10:31:17 2016 -0500,Tue May 10 10:31:17 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+tut-rest/pom.xml,9fb0bd525a7ebb45a9d0cdcba719c004e0240657,Greg Turnquist,Fri May 6 10:05:14 2016 -0500,Fri May 6 10:05:14 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+tut-rest/pom.xml,5cf3db87d58a2f9e4538b9f5c018658e83d8d32f,Greg Turnquist,Wed Oct 22 13:20:03 2014 -0500,Wed Oct 22 13:20:03 2014 -0500,Polish up build files
+tut-rest/pom.xml,1714536db7d2ef7ee20227699e0e93822b677599,Josh Long,Sun Sep 28 21:46:04 2014 -0700,Sun Sep 28 21:46:04 2014 -0700,initial commit of tutorial
+tut-rest/pom.xml,ade3bf4bf6be7fc95e6a4d588bafcba6ac8d6cfd,Josh Long,Thu Jun 12 09:37:21 2014 +0100,Thu Jun 12 09:37:21 2014 +0100,moved to Spring Boot 1.1.1, Spring Data 1.6
+tut-rest/pom.xml,4c4e7992efb51518cbaaa65a178f43ca5926c797,Josh Long,Wed Jun 4 23:41:03 2014 -0700,Wed Jun 4 23:41:03 2014 -0700,cleanup
+tut-rest/pom.xml,c941631315865d5a6107d3baf063db35003715f9,Josh Long,Mon May 26 21:47:22 2014 -0700,Mon May 26 21:47:22 2014 -0700,Move to Spring Boot 1.1.M1 (just in time for M2!), added CORS support. Cleaned up some of JPA's mess.
+tut-rest/rest/pom.xml,4ffa01f0fd4da98847049803b1b5463a7a8bcebd,Greg Turnquist,Mon Aug 27 12:42:32 2018 -0500,Mon Aug 27 12:42:32 2018 -0500,Polish
+tut-rest/rest/pom.xml,63d393748ec27b072854f8b35a763e27ac6e0983,Greg Turnquist,Thu Aug 9 13:20:44 2018 -0500,Mon Aug 27 12:27:42 2018 -0500,Rewrite tutorial using RESTful practices
+tut-rest/rest/pom.xml,115b6d3b5975459a865304e8f83f4b9fe4638036,Greg Turnquist,Fri Nov 4 12:00:36 2016 -0500,Fri Nov 4 12:00:36 2016 -0500,Make running simpler
+tut-rest/rest/pom.xml,5cf3db87d58a2f9e4538b9f5c018658e83d8d32f,Greg Turnquist,Wed Oct 22 13:20:03 2014 -0500,Wed Oct 22 13:20:03 2014 -0500,Polish up build files
+tut-rest/rest/pom.xml,1714536db7d2ef7ee20227699e0e93822b677599,Josh Long,Sun Sep 28 21:46:04 2014 -0700,Sun Sep 28 21:46:04 2014 -0700,initial commit of tutorial
+tut-rest/links/pom.xml,4ffa01f0fd4da98847049803b1b5463a7a8bcebd,Greg Turnquist,Mon Aug 27 12:42:32 2018 -0500,Mon Aug 27 12:42:32 2018 -0500,Polish
+tut-rest/links/pom.xml,63d393748ec27b072854f8b35a763e27ac6e0983,Greg Turnquist,Thu Aug 9 13:20:44 2018 -0500,Mon Aug 27 12:27:42 2018 -0500,Rewrite tutorial using RESTful practicestut-rest/nonrest/pom.xml,4ffa01f0fd4da98847049803b1b5463a7a8bcebd,Greg Turnquist,Mon Aug 27 12:42:32 2018 -0500,Mon Aug 27 12:42:32 2018 -0500,Polish
+tut-rest/nonrest/pom.xml,63d393748ec27b072854f8b35a763e27ac6e0983,Greg Turnquist,Thu Aug 9 13:20:44 2018 -0500,Mon Aug 27 12:27:42 2018 -0500,Rewrite tutorial using RESTful practicestut-rest/evolution/pom.xml,4ffa01f0fd4da98847049803b1b5463a7a8bcebd,Greg Turnquist,Mon Aug 27 12:42:32 2018 -0500,Mon Aug 27 12:42:32 2018 -0500,Polish
+tut-rest/evolution/pom.xml,63d393748ec27b072854f8b35a763e27ac6e0983,Greg Turnquist,Thu Aug 9 13:20:44 2018 -0500,Mon Aug 27 12:27:42 2018 -0500,Rewrite tutorial using RESTful practices

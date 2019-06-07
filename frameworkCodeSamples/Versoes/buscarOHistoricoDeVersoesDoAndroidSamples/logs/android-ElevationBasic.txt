@@ -1,0 +1,19 @@
+android-ElevationBasic/build.gradle,d55f4b4e9f9d6981e29f5b9999b6f623c715bd52,Trevor Johns,Thu Jun 26 08:56:05 2014 -0700,Thu Jun 26 08:56:05 2014 -0700,Initial commit
+android-ElevationBasic/Application/build.gradle,f197f4c39c9f0a1c62b6da3e8aaf433494a0caa0,google-automerger,Thu Feb 15 16:36:25 2018 -0800,Thu Feb 15 16:36:25 2018 -0800,Auto-update
+android-ElevationBasic/Application/build.gradle,09a8c6b650793afa5c672fcc10e9d5fbaf642c07,google-automerger,Tue Oct 10 17:52:47 2017 -0700,Tue Oct 10 17:52:47 2017 -0700,Auto-update
+android-ElevationBasic/Application/build.gradle,1a4b3efd5264e170a54f0d325e6654ed7d0a4b04,google-automerger,Thu Jun 8 09:34:13 2017 -0700,Thu Jun 8 09:34:13 2017 -0700,Auto-update
+android-ElevationBasic/Application/build.gradle,25744e959402c75416ce88850249f0c10cee4566,google-automerger,Wed May 17 13:33:11 2017 -0700,Wed May 17 13:33:11 2017 -0700,Auto-update
+android-ElevationBasic/Application/build.gradle,27a46e1611577c459c3364543f1ce9da8dfef35e,google-automerger,Tue Dec 13 09:39:52 2016 -0800,Tue Dec 13 09:39:52 2016 -0800,Auto-update
+android-ElevationBasic/Application/build.gradle,6765cf4a6e68e7de20fa00e604b5893abb08d37d,google-automerger,Fri Aug 12 15:18:43 2016 -0700,Fri Aug 12 15:18:43 2016 -0700,Auto-update
+android-ElevationBasic/Application/build.gradle,8094e1a8ea80df0883ecd9555089bbfbf200b18b,google-automerger,Wed May 18 11:38:38 2016 -0700,Wed May 18 11:38:38 2016 -0700,Auto-update
+android-ElevationBasic/Application/build.gradle,4fffb5c5c371bdd25ad8df65a2499ce799994742,google-automerger,Wed Apr 20 12:26:36 2016 -0700,Wed Apr 20 12:26:36 2016 -0700,Auto-update
+android-ElevationBasic/Application/build.gradle,49762a890deb9d43b0503bb6e857cb655dff17cb,google-automerger,Wed Nov 18 09:33:43 2015 -0800,Wed Nov 18 09:33:43 2015 -0800,Auto-update
+android-ElevationBasic/Application/build.gradle,c521182e16fba2200f453969d0bc8755ffc9db52,google-automerger,Thu Oct 8 17:42:57 2015 -0700,Thu Oct 8 17:42:57 2015 -0700,Auto-update
+android-ElevationBasic/Application/build.gradle,9b9bddd0608db860e2614e3424b317326157080f,google-automerger,Mon Aug 17 09:54:45 2015 -0700,Mon Aug 17 09:54:45 2015 -0700,Auto-update
+android-ElevationBasic/Application/build.gradle,bf2a3889e45d5ab0a31b05e6966137752ad586ca,google-automerger,Thu Jul 9 11:10:37 2015 -0700,Thu Jul 9 11:10:37 2015 -0700,Auto-update
+android-ElevationBasic/Application/build.gradle,a8e821f0b70b8ab019bdc0cf5397e94257cb4870,google-automerger,Thu May 21 10:04:40 2015 -0700,Thu May 21 10:04:40 2015 -0700,Auto-update
+android-ElevationBasic/Application/build.gradle,5120633a22c120e4a2cfbcdf4c144bae53b175b2,google-automerger,Tue Apr 28 10:54:58 2015 -0700,Tue Apr 28 10:54:58 2015 -0700,Auto-update
+android-ElevationBasic/Application/build.gradle,37e37ec6af194c80e2a980916251c650ec7a93f4,google-automerger,Mon Mar 30 17:44:07 2015 -0700,Mon Mar 30 17:44:07 2015 -0700,Auto-update
+android-ElevationBasic/Application/build.gradle,a74ed8de059c7d296cc8ef897fe2f676adbc6ef6,google-automerger,Mon Dec 8 17:50:28 2014 -0800,Mon Dec 8 17:50:28 2014 -0800,Auto-update
+android-ElevationBasic/Application/build.gradle,a8f92e8507d9af7801cadf941c03dfa2d13910de,google-automerger,Wed Dec 3 01:51:32 2014 -0800,Wed Dec 3 01:51:32 2014 -0800,Auto-update
+android-ElevationBasic/Application/build.gradle,7acefeee55391d8019004bb7441d1f1111af0992,google-automerger,Tue Nov 18 16:18:46 2014 -0800,Tue Nov 18 16:18:46 2014 -0800,Auto-update

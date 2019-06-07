@@ -1,0 +1,20 @@
+android-DisplayingBitmaps/build.gradle,65e38f027280cce4bafde9c966f9d3436a9a7b7d,google-automerger,Tue Sep 2 11:01:01 2014 -0700,Tue Sep 2 11:01:01 2014 -0700,Initial Commit
+android-DisplayingBitmaps/Application/build.gradle,2d93afd0e1badb08ece83fcf867131913e89e99e,google-automerger,Thu Feb 15 16:36:09 2018 -0800,Thu Feb 15 16:36:09 2018 -0800,Auto-update
+android-DisplayingBitmaps/Application/build.gradle,ff14c7e68c76ce1e7835d22bd01cb680fc44b15a,google-automerger,Tue Oct 10 17:52:30 2017 -0700,Tue Oct 10 17:52:30 2017 -0700,Auto-update
+android-DisplayingBitmaps/Application/build.gradle,5d75d888d7ff9b1178428e7885df8fd02da9f818,google-automerger,Thu Jun 8 09:34:00 2017 -0700,Thu Jun 8 09:34:00 2017 -0700,Auto-update
+android-DisplayingBitmaps/Application/build.gradle,aaf6715f1a74b4d17d5adb8f652cdb0c987586f1,google-automerger,Wed May 17 13:32:55 2017 -0700,Wed May 17 13:32:55 2017 -0700,Auto-update
+android-DisplayingBitmaps/Application/build.gradle,f3451652a4e3a43d581b8686945925a509821dce,google-automerger,Tue Dec 13 09:39:43 2016 -0800,Tue Dec 13 09:39:43 2016 -0800,Auto-update
+android-DisplayingBitmaps/Application/build.gradle,40cdd426a4b9439ae72d688458bab7f97743d06f,google-automerger,Fri Aug 12 15:18:35 2016 -0700,Fri Aug 12 15:18:35 2016 -0700,Auto-update
+android-DisplayingBitmaps/Application/build.gradle,a52c01a18482d09ef0fc5c2dc3ddfddf2a2b30a7,google-automerger,Wed May 18 11:38:31 2016 -0700,Wed May 18 11:38:31 2016 -0700,Auto-update
+android-DisplayingBitmaps/Application/build.gradle,b9476799533895e9346ae0cc04743a66d7393d8d,google-automerger,Wed Apr 20 12:26:29 2016 -0700,Wed Apr 20 12:26:29 2016 -0700,Auto-update
+android-DisplayingBitmaps/Application/build.gradle,b96b27596486dcc83d920c9a23aba556e539f509,google-automerger,Wed Nov 18 09:33:36 2015 -0800,Wed Nov 18 09:33:36 2015 -0800,Auto-update
+android-DisplayingBitmaps/Application/build.gradle,9e9a3333cdd4b13b4e6b11cc73c6032d8e92bcba,google-automerger,Thu Oct 8 17:42:50 2015 -0700,Thu Oct 8 17:42:50 2015 -0700,Auto-update
+android-DisplayingBitmaps/Application/build.gradle,b6787947e28040b84a6d754433fd75bbb18325f2,google-automerger,Thu Aug 20 08:39:55 2015 -0700,Thu Aug 20 08:39:55 2015 -0700,Auto-update
+android-DisplayingBitmaps/Application/build.gradle,795097a24f379359a95877affc2d38cddb5a556d,google-automerger,Mon Aug 17 09:54:39 2015 -0700,Mon Aug 17 09:54:39 2015 -0700,Auto-update
+android-DisplayingBitmaps/Application/build.gradle,0288206c9059791de9edc1816e4da5dab7b6a92b,google-automerger,Thu Jul 9 11:10:31 2015 -0700,Thu Jul 9 11:10:31 2015 -0700,Auto-update
+android-DisplayingBitmaps/Application/build.gradle,e0a96c7d3e4ca60fa3849949ca52b40575bcfa63,google-automerger,Thu May 21 10:04:34 2015 -0700,Thu May 21 10:04:34 2015 -0700,Auto-update
+android-DisplayingBitmaps/Application/build.gradle,5ef35d9efc46da63dfb606845cd32df80a1be954,google-automerger,Tue Apr 28 10:54:30 2015 -0700,Tue Apr 28 10:54:30 2015 -0700,Auto-update
+android-DisplayingBitmaps/Application/build.gradle,4d813237cd381fb75646fe646e2ad4ba557c0f63,google-automerger,Mon Mar 30 17:43:49 2015 -0700,Mon Mar 30 17:43:49 2015 -0700,Auto-update
+android-DisplayingBitmaps/Application/build.gradle,7dbbfd1d2513c3adcc7848f902de11cc4b4e43b3,google-automerger,Mon Dec 8 17:50:11 2014 -0800,Mon Dec 8 17:50:11 2014 -0800,Auto-update
+android-DisplayingBitmaps/Application/build.gradle,4e486796d9e4b8f97d2bed7a6f2e6556dcb2d5cc,google-automerger,Wed Dec 3 01:50:56 2014 -0800,Wed Dec 3 01:50:56 2014 -0800,Auto-update
+android-DisplayingBitmaps/Application/build.gradle,fb9af0d9a0277203a7574273398bae9e3243b103,google-automerger,Tue Nov 18 16:18:31 2014 -0800,Tue Nov 18 16:18:31 2014 -0800,Auto-update

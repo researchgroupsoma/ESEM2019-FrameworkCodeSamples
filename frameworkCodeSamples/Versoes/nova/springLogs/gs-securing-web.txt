@@ -1,0 +1,155 @@
+gs-securing-web/complete/pom.xml,89efff48738705759c8e4600813e11b52587a166,Greg Turnquist,Mon Sep 17 10:51:29 2018 -0500,Mon Sep 17 10:51:29 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-securing-web/complete/pom.xml,f479ae7c45bc3c7c84dc8259ac3f686020bde8bd,Greg Turnquist,Mon Jun 18 16:17:29 2018 -0500,Mon Jun 18 16:17:29 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-securing-web/complete/pom.xml,e4bf8f3f4702020763eb682b296c29b93dea5e58,Greg Turnquist,Wed May 9 11:27:14 2018 -0500,Wed May 9 11:27:14 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-securing-web/complete/pom.xml,bd1ce0bbd2600c6758e5b2cf8a7d9b2f8be2fb7c,Greg Turnquist,Thu Apr 5 11:45:31 2018 -0500,Thu Apr 5 11:45:31 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-securing-web/complete/pom.xml,fc433a5ac64335c1e5b34b4cadd6da8435b42be1,Josh Cummings,Mon Mar 5 12:34:10 2018 -0700,Mon Mar 5 12:34:10 2018 -0700,Merge pull request #33 from spring-guides/upgrade-to-boot-2
+gs-securing-web/complete/pom.xml,e58167f2a681fbe2aae987a06db8114cfebe3cd4,Greg Turnquist,Wed Jan 31 09:16:48 2018 -0600,Wed Jan 31 09:16:48 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-securing-web/complete/pom.xml,cd7066760e3b1ba0edd455d77dbcd74aa2bd1a65,Greg Turnquist,Thu Nov 30 11:07:29 2017 -0600,Thu Nov 30 11:07:29 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-securing-web/complete/pom.xml,cdde0213b4f6104d14707f1da54f456e220ed876,Greg Turnquist,Tue Oct 17 15:43:04 2017 -0500,Tue Oct 17 15:43:04 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-securing-web/complete/pom.xml,6665d0b43d1a3084c9a33a59d3f5dceb9988355c,Greg Turnquist,Wed Sep 13 13:16:11 2017 -0500,Wed Sep 13 13:16:11 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-securing-web/complete/pom.xml,64d84a40c826dd163456f1a1856b7671544937dd,Greg Turnquist,Thu Jul 27 10:05:29 2017 -0500,Thu Jul 27 10:05:29 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-securing-web/complete/pom.xml,6dd5627773b0396786b9ff45ab19762571d84e31,Greg Turnquist,Wed Jul 26 12:23:42 2017 -0500,Wed Jul 26 12:23:42 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-securing-web/complete/pom.xml,caa993adfa090255ab53d7ab21c346d22edbcc35,Greg Turnquist,Fri Apr 21 09:20:51 2017 -0500,Fri Apr 21 09:20:51 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-securing-web/complete/pom.xml,515bd881a07f824994ea3735deb86aa7b3377742,Greg Turnquist,Fri Mar 3 11:13:51 2017 -0600,Fri Mar 3 11:13:51 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-securing-web/complete/pom.xml,e58068326684a527d5eaed72cfee81157f72d54a,Greg Turnquist,Mon Jan 30 23:34:29 2017 -0600,Mon Jan 30 23:34:29 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-securing-web/complete/pom.xml,5962fef49bf3acb3a76c5f44e40e2abe908b411a,Greg Turnquist,Mon Jan 30 11:39:10 2017 -0600,Mon Jan 30 11:39:10 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-securing-web/complete/pom.xml,859fd93c5fdb78e1c4981920d4fed227c7f55173,Greg Turnquist,Thu Jan 26 12:48:36 2017 -0600,Thu Jan 26 12:48:36 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-securing-web/complete/pom.xml,0688bcbd5fac20f90b87faaa2d7366b913bdcd4c,Greg Turnquist,Thu Jan 26 12:38:15 2017 -0600,Thu Jan 26 12:38:15 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-securing-web/complete/pom.xml,cfa493e7c09de18f656b338e3f59e380899c2ad4,Greg Turnquist,Thu Dec 22 22:33:34 2016 -0600,Thu Dec 22 22:33:34 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-securing-web/complete/pom.xml,e964b297bebc529793b0a0de7750ac2a2c9a8c70,Greg Turnquist,Tue Nov 8 11:53:04 2016 -0600,Tue Nov 8 11:53:04 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-securing-web/complete/pom.xml,8b802e277a86435f5be9ff178c7df5206254073f,Greg Turnquist,Fri Sep 23 16:36:41 2016 -0500,Fri Sep 23 16:36:41 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-securing-web/complete/pom.xml,cc5fd5ea92746ac679578a21b0db1ce98331d503,Joe Grandja,Wed Sep 7 11:23:17 2016 -0400,Wed Sep 7 11:23:17 2016 -0400,Add test deps in POM
+gs-securing-web/complete/pom.xml,0dffcd4e330aec4d302b46a04cba2eef0dd81afd,Greg Turnquist,Fri Jul 29 11:30:28 2016 -0500,Fri Jul 29 11:30:28 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-securing-web/complete/pom.xml,66c1a01b10942c7c6b0a5a91d45aa945df551fac,Greg Turnquist,Thu Jul 28 06:53:22 2016 -0500,Thu Jul 28 06:53:22 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-securing-web/complete/pom.xml,05ae1a35805ffc52260b1eb54c0a125289e322d1,Greg Turnquist,Tue Jul 5 13:52:51 2016 -0500,Tue Jul 5 13:52:51 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-securing-web/complete/pom.xml,7dbbfd109d6c5142bc78370810ab6d2554284b65,Greg Turnquist,Tue May 10 10:26:55 2016 -0500,Tue May 10 10:26:55 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-securing-web/complete/pom.xml,0ab7aadc6248b71ed95f67880d78accb26ead7d9,Greg Turnquist,Fri May 6 09:49:23 2016 -0500,Fri May 6 09:49:23 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-securing-web/complete/pom.xml,64321c6e29036f63cba260f48bacc488ec96d786,Greg Turnquist,Fri Feb 26 07:30:25 2016 -0600,Fri Feb 26 07:30:25 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-securing-web/complete/pom.xml,4d701e7a697c82950eb318e0ad9134a5b51d582f,Greg Turnquist,Thu Jan 21 21:29:22 2016 -0600,Thu Jan 21 21:29:22 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-securing-web/complete/pom.xml,9ec8387cce49e9f48105a851680270297f9b98a4,Greg Turnquist,Fri Dec 18 09:40:37 2015 -0600,Fri Dec 18 09:40:37 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-securing-web/complete/pom.xml,910d1e723cd02e5e2199833114e989e1cc0491ae,Greg Turnquist,Mon Nov 16 11:11:02 2015 -0600,Mon Nov 16 11:11:02 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-securing-web/complete/pom.xml,15ae69f6d14b0e37c162034e85e20a69e86d217a,Greg Turnquist,Fri Oct 16 09:44:06 2015 -0400,Fri Oct 16 09:44:06 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-securing-web/complete/pom.xml,38e4bc6d39b16ba94a80805107b7769b572dc7ed,Greg Turnquist,Sun Sep 20 15:41:59 2015 -0500,Sun Sep 20 15:41:59 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-securing-web/complete/pom.xml,2448732619c6b794adff4c17097032e7d54835fa,Greg Turnquist,Thu Jul 2 08:46:46 2015 -0500,Thu Jul 2 08:46:46 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-securing-web/complete/pom.xml,19f53768702fe73dbd9147e721bddb0a166f9bf7,Greg Turnquist,Fri Jun 12 13:49:38 2015 -0400,Fri Jun 12 13:49:38 2015 -0400,Upgrade to Java 8
+gs-securing-web/complete/pom.xml,9a2cb0a11f8535f66bf323dc4aeec7bcc68768ca,Greg Turnquist,Tue Jun 9 09:42:06 2015 -0400,Tue Jun 9 09:42:06 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-securing-web/complete/pom.xml,3d3d2c3a36c4a22535f40730899682c27d4f4c2e,Greg Turnquist,Tue Mar 31 16:56:25 2015 -0500,Tue Mar 31 16:56:25 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-securing-web/complete/pom.xml,2d70fcba41fdf6c659ee9e0bffde6b16c8f9f28b,Greg Turnquist,Tue Mar 17 13:14:09 2015 -0500,Tue Mar 17 13:14:09 2015 -0500,Upgrade maven build to Java 7
+gs-securing-web/complete/pom.xml,fe1060a502ae4fb85039bcc23c4d9eba8ad1deb6,Greg Turnquist,Thu Feb 26 22:40:08 2015 -0600,Thu Feb 26 22:40:08 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-securing-web/complete/pom.xml,fe5d4428deb4ef86ba917420f19ae74c9afe826b,Greg Turnquist,Wed Feb 18 11:08:19 2015 -0600,Wed Feb 18 11:08:19 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-securing-web/complete/pom.xml,720558199ee70cac770f99c30b1c763e05db2815,Greg Turnquist,Wed Jan 14 12:34:14 2015 -0600,Wed Jan 14 12:34:14 2015 -0600,Remove legacy start-class property from maven builds
+gs-securing-web/complete/pom.xml,9f6dc3f27e0bd9616685d672081ed96517911706,Greg Turnquist,Thu Dec 11 11:08:14 2014 -0600,Thu Dec 11 11:08:14 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-securing-web/complete/pom.xml,c00b4fa5aa17f4f70c323482f98c40832dcd58a1,Greg Turnquist,Wed Nov 12 13:08:46 2014 -0600,Wed Nov 12 13:08:46 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-securing-web/complete/pom.xml,40281a9e0908427e18ac269e35dd10365a4ffa60,Greg Turnquist,Fri Oct 10 22:06:14 2014 -0500,Fri Oct 10 22:06:14 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-securing-web/complete/pom.xml,fa15ed16d5849b1832c59f23d96a689652852d10,Greg Turnquist,Mon Sep 29 12:42:49 2014 -0500,Mon Sep 29 12:42:49 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-securing-web/complete/pom.xml,0496512450f1546c3c42bf8577d75c73ef8d3b42,Greg Turnquist,Fri Sep 5 11:14:20 2014 -0500,Fri Sep 5 11:14:20 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-securing-web/complete/pom.xml,2153dafa63e1b87e988bca4e428beba2dd8d57bb,Greg Turnquist,Thu Aug 28 10:13:18 2014 -0500,Thu Aug 28 10:13:18 2014 -0500,Add tag to pull spring-boot-starter
+gs-securing-web/complete/pom.xml,1d8f7efccc8500e64f85ec4d2a73accbc9d72c0b,Greg Turnquist,Wed Aug 13 16:13:56 2014 -0500,Wed Aug 13 16:13:56 2014 -0500,Merge branch 'dsyer-global-method-security'
+gs-securing-web/complete/pom.xml,6bf92e129edd0b63074d81dc87a4fc89cea3e5fe,Greg Turnquist,Fri Aug 8 22:12:52 2014 -0500,Fri Aug 8 22:12:52 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-securing-web/complete/pom.xml,62a3750ea09be37b84901e474c9dbdf86695905c,Greg Turnquist,Tue Jul 8 15:42:10 2014 -0500,Tue Jul 8 15:42:10 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-securing-web/complete/pom.xml,d1bba1a8783927fdaacf32c5da86d8aa8abdf3d7,Greg Turnquist,Fri Jun 27 22:55:41 2014 -0400,Fri Jun 27 22:55:41 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-securing-web/complete/pom.xml,668b170957cc5ff4a8e27cb6e0c1285f11a0e59f,Greg Turnquist,Tue Jun 24 19:56:07 2014 -0400,Tue Jun 24 19:56:07 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-securing-web/complete/pom.xml,836b208e0f126d22d9c96e89c98ea1076b7e0a40,Greg Turnquist,Wed Jun 11 16:48:51 2014 -0500,Wed Jun 11 16:48:51 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-securing-web/complete/pom.xml,610fef6fe4309f431216fbedfcbb2b4342205304,Greg Turnquist,Wed Jun 11 09:09:14 2014 -0500,Wed Jun 11 09:09:14 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-securing-web/complete/pom.xml,e87a2ca7291ef10722e7bab71270f21ff6843eb5,Greg Turnquist,Tue Jun 10 19:16:49 2014 -0500,Tue Jun 10 19:16:49 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-securing-web/complete/pom.xml,a46bcf1a2728843d288adcfe21b49b4ab89df3ef,Greg Turnquist,Thu Apr 24 09:37:32 2014 -0500,Thu Apr 24 09:37:32 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-securing-web/complete/pom.xml,d1cb2574198e56c1113f2921821b9f572ed9ee01,Greg Turnquist,Thu Apr 17 23:44:29 2014 -0500,Thu Apr 17 23:44:29 2014 -0500,Update deps for thymeleaf
+gs-securing-web/complete/pom.xml,8d452a5b15d1e729153f79b237919267d4337155,Greg Turnquist,Mon Apr 7 10:10:09 2014 -0500,Mon Apr 7 10:10:09 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-securing-web/complete/pom.xml,7b80cf5e62955d71981aab361afedb3d11b8be34,Greg Turnquist,Tue Apr 1 15:11:46 2014 -0500,Tue Apr 1 15:11:46 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-securing-web/complete/pom.xml,9be878a334601b303a5cc1c767a6701abdd3b5a5,Greg Turnquist,Sat Mar 22 07:18:21 2014 -0500,Sat Mar 22 07:18:21 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-securing-web/complete/pom.xml,e33449c056fd659c4f4118bbf7375f8a853655ee,Greg Turnquist,Tue Mar 4 15:10:51 2014 -0500,Tue Mar 4 15:10:51 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-securing-web/complete/pom.xml,400cb55f35acfd635200a5842184f032aa928c5c,Greg Turnquist,Wed Feb 19 20:55:23 2014 -0600,Wed Feb 19 20:55:23 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-securing-web/complete/pom.xml,2f227c7707333913ea7810947df6a8d42269c322,Greg Turnquist,Wed Jan 22 12:21:41 2014 -0600,Wed Jan 22 12:21:41 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-securing-web/complete/pom.xml,6c1e97b7b5ac2719cb42a3d6a7b91a69d8444b01,Greg Turnquist,Mon Nov 18 15:51:40 2013 -0600,Mon Nov 18 15:51:40 2013 -0600,Upgrade to Spring Boot 0.5.0.M6 and Spring Security 3.2.0.RC2
+gs-securing-web/complete/pom.xml,67c7fe63c16f56bc671cd877cf9631400d3fd4ea,Greg Turnquist,Wed Oct 30 10:03:58 2013 -0500,Wed Oct 30 10:03:58 2013 -0500,Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+gs-securing-web/complete/pom.xml,2f6014871451dcc4f873173067e7158e223c0d37,Greg Turnquist,Mon Sep 30 08:19:21 2013 -0500,Mon Sep 30 08:19:21 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-securing-web/complete/pom.xml,24416077af26b5747bf15d2a04733a2f46f49a7b,Greg Turnquist,Fri Sep 27 10:32:22 2013 -0500,Fri Sep 27 10:32:22 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-securing-web/complete/pom.xml,3f3d15290f5fd323cac9cba031ffbef0e9c4d164,Greg Turnquist,Fri Aug 30 16:42:23 2013 -0500,Fri Aug 30 16:42:23 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-securing-web/complete/pom.xml,ee48dd6b0861a53e8df5e05b1abef01cbc6fb903,Greg Turnquist,Fri Aug 9 13:18:39 2013 -0500,Fri Aug 9 13:18:39 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-securing-web/complete/pom.xml,f71ad840acf34fc176586fd55440590316bd2df4,Greg Turnquist,Tue Aug 6 14:44:03 2013 -0500,Tue Aug 6 14:44:03 2013 -0500,Use libs-snapshot instead of snapshot
+gs-securing-web/complete/pom.xml,406b7044f8d97de3f70528400076b3d3d3bb58ec,Greg Turnquist,Wed Jul 31 15:43:12 2013 -0400,Wed Jul 31 15:43:12 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-securing-web/complete/pom.xml,796f9287b1b65c10058a69523b0f27134413dbf6,Greg Turnquist,Tue Jul 30 10:19:52 2013 -0400,Tue Jul 30 10:19:52 2013 -0400,Upgrade to Spring Boot
+gs-securing-web/complete/pom.xml,6d6b594a436ac8f8fff9bee89772af3a7b38a316,Greg Turnquist,Fri Jul 19 16:41:11 2013 -0400,Fri Jul 19 16:41:11 2013 -0400,Convert to spring-package-maven-plugin and Spring Zero
+gs-securing-web/complete/pom.xml,2aafd195c26877a88f5385b7eceb93e7494e6bb6,Greg Turnquist,Thu Jul 18 10:41:39 2013 -0400,Thu Jul 18 10:41:39 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-securing-web/complete/pom.xml,c538896a7a013b7a992d34307ab640c310e2aa57,Roy Clarkson,Wed Jul 10 14:55:18 2013 -0400,Wed Jul 10 14:55:18 2013 -0400,Version all GS guides at 0.1.0 per http://semver.org
+gs-securing-web/complete/pom.xml,f94cfaeab75d5ff7347067a2888f35852b1cf0dc,Roy Clarkson,Wed Jul 10 11:50:03 2013 -0700,Wed Jul 10 11:50:03 2013 -0700,Merge pull request #4 from kdvolder/master
+gs-securing-web/complete/pom.xml,57dfd20e3fa063d77be3f0dd504beb07f9bede54,Craig Walls,Wed Jun 19 11:48:34 2013 -0500,Wed Jun 19 11:48:34 2013 -0500,Remove Thymeleaf Spring Security dependency
+gs-securing-web/complete/pom.xml,197d168ffb3d87cf878ea9b87644e03d33915b74,Craig Walls,Wed Jun 19 11:08:32 2013 -0500,Wed Jun 19 11:08:32 2013 -0500,Fix configuration to reflect changes in SS Config snapshot
+gs-securing-web/complete/pom.xml,8c5f997b3f5cc24a770aa4c1f2b9e4ffa60ce64c,Dave Syer,Sat Jun 1 08:11:12 2013 +0100,Sat Jun 1 08:11:12 2013 +0100,Switch to Maven build
+gs-securing-web/initial/pom.xml,89efff48738705759c8e4600813e11b52587a166,Greg Turnquist,Mon Sep 17 10:51:29 2018 -0500,Mon Sep 17 10:51:29 2018 -0500,Upgrade to Spring Boot 2.0.5.RELEASE and Spring Cloud Finchley.SR1
+gs-securing-web/initial/pom.xml,f479ae7c45bc3c7c84dc8259ac3f686020bde8bd,Greg Turnquist,Mon Jun 18 16:17:29 2018 -0500,Mon Jun 18 16:17:29 2018 -0500,Upgrade to @SpringBoot 2.0.3.RELEASE and @SpringCloud Finchley.RELEASE
+gs-securing-web/initial/pom.xml,e4bf8f3f4702020763eb682b296c29b93dea5e58,Greg Turnquist,Wed May 9 11:27:14 2018 -0500,Wed May 9 11:27:14 2018 -0500,Upgrade to Spring Boot 2.0.2.RELEASE and Spring Cloud Finchley.RC1
+gs-securing-web/initial/pom.xml,bd1ce0bbd2600c6758e5b2cf8a7d9b2f8be2fb7c,Greg Turnquist,Thu Apr 5 11:45:31 2018 -0500,Thu Apr 5 11:45:31 2018 -0500,Upgrade to Spring Boot 2.0.1.RELEASE
+gs-securing-web/initial/pom.xml,fc433a5ac64335c1e5b34b4cadd6da8435b42be1,Josh Cummings,Mon Mar 5 12:34:10 2018 -0700,Mon Mar 5 12:34:10 2018 -0700,Merge pull request #33 from spring-guides/upgrade-to-boot-2
+gs-securing-web/initial/pom.xml,e58167f2a681fbe2aae987a06db8114cfebe3cd4,Greg Turnquist,Wed Jan 31 09:16:48 2018 -0600,Wed Jan 31 09:16:48 2018 -0600,Upgrade to Spring Boot 1.5.10.RELEASE
+gs-securing-web/initial/pom.xml,cd7066760e3b1ba0edd455d77dbcd74aa2bd1a65,Greg Turnquist,Thu Nov 30 11:07:29 2017 -0600,Thu Nov 30 11:07:29 2017 -0600,Upgrade to Spring Boot 1.5.9.RELEASE
+gs-securing-web/initial/pom.xml,cdde0213b4f6104d14707f1da54f456e220ed876,Greg Turnquist,Tue Oct 17 15:43:04 2017 -0500,Tue Oct 17 15:43:04 2017 -0500,Upgrade to Spring Boot 1.5.8.RELEASE
+gs-securing-web/initial/pom.xml,6665d0b43d1a3084c9a33a59d3f5dceb9988355c,Greg Turnquist,Wed Sep 13 13:16:11 2017 -0500,Wed Sep 13 13:16:11 2017 -0500,Upgrade to Spring Boot 1.5.7.RELEASE
+gs-securing-web/initial/pom.xml,64d84a40c826dd163456f1a1856b7671544937dd,Greg Turnquist,Thu Jul 27 10:05:29 2017 -0500,Thu Jul 27 10:05:29 2017 -0500,Upgrade to Spring Boot 1.5.6.RELEASE
+gs-securing-web/initial/pom.xml,6dd5627773b0396786b9ff45ab19762571d84e31,Greg Turnquist,Wed Jul 26 12:23:42 2017 -0500,Wed Jul 26 12:23:42 2017 -0500,Upgrade to Spring Boot 1.5.5.RELEASE
+gs-securing-web/initial/pom.xml,caa993adfa090255ab53d7ab21c346d22edbcc35,Greg Turnquist,Fri Apr 21 09:20:51 2017 -0500,Fri Apr 21 09:20:51 2017 -0500,Upgrade to Spring Boot 1.5.3.RELEASE
+gs-securing-web/initial/pom.xml,515bd881a07f824994ea3735deb86aa7b3377742,Greg Turnquist,Fri Mar 3 11:13:51 2017 -0600,Fri Mar 3 11:13:51 2017 -0600,Upgrade to Spring Boot 1.5.2.RELEASE
+gs-securing-web/initial/pom.xml,e58068326684a527d5eaed72cfee81157f72d54a,Greg Turnquist,Mon Jan 30 23:34:29 2017 -0600,Mon Jan 30 23:34:29 2017 -0600,Upgrade to Spring Boot 1.5.1.RELEASE
+gs-securing-web/initial/pom.xml,5962fef49bf3acb3a76c5f44e40e2abe908b411a,Greg Turnquist,Mon Jan 30 11:39:10 2017 -0600,Mon Jan 30 11:39:10 2017 -0600,Upgrade to Spring Boot 1.5.0.RELEASE
+gs-securing-web/initial/pom.xml,859fd93c5fdb78e1c4981920d4fed227c7f55173,Greg Turnquist,Thu Jan 26 12:48:36 2017 -0600,Thu Jan 26 12:48:36 2017 -0600,Set maven pom.xml to Spring Boot 1.4.4.RELEASE
+gs-securing-web/initial/pom.xml,0688bcbd5fac20f90b87faaa2d7366b913bdcd4c,Greg Turnquist,Thu Jan 26 12:38:15 2017 -0600,Thu Jan 26 12:38:15 2017 -0600,Upgrade to Spring Boot 1.4.4.RELEASE
+gs-securing-web/initial/pom.xml,cfa493e7c09de18f656b338e3f59e380899c2ad4,Greg Turnquist,Thu Dec 22 22:33:34 2016 -0600,Thu Dec 22 22:33:34 2016 -0600,Upgrade to Spring Boot 1.4.3.RELEASE
+gs-securing-web/initial/pom.xml,e964b297bebc529793b0a0de7750ac2a2c9a8c70,Greg Turnquist,Tue Nov 8 11:53:04 2016 -0600,Tue Nov 8 11:53:04 2016 -0600,Upgrade to Spring Boot 1.4.2.RELEASE
+gs-securing-web/initial/pom.xml,8b802e277a86435f5be9ff178c7df5206254073f,Greg Turnquist,Fri Sep 23 16:36:41 2016 -0500,Fri Sep 23 16:36:41 2016 -0500,Upgrade to Spring Boot 1.4.1.RELEASE
+gs-securing-web/initial/pom.xml,cc5fd5ea92746ac679578a21b0db1ce98331d503,Joe Grandja,Wed Sep 7 11:23:17 2016 -0400,Wed Sep 7 11:23:17 2016 -0400,Add test deps in POM
+gs-securing-web/initial/pom.xml,0dffcd4e330aec4d302b46a04cba2eef0dd81afd,Greg Turnquist,Fri Jul 29 11:30:28 2016 -0500,Fri Jul 29 11:30:28 2016 -0500,Upgrade to @SpringBoot 1.4.0.RELEASE
+gs-securing-web/initial/pom.xml,66c1a01b10942c7c6b0a5a91d45aa945df551fac,Greg Turnquist,Thu Jul 28 06:53:22 2016 -0500,Thu Jul 28 06:53:22 2016 -0500,Upgrade to Spring Boot 1.3.7.RELEASE
+gs-securing-web/initial/pom.xml,05ae1a35805ffc52260b1eb54c0a125289e322d1,Greg Turnquist,Tue Jul 5 13:52:51 2016 -0500,Tue Jul 5 13:52:51 2016 -0500,Upgrade to Spring Boot 1.3.6.RELEASE
+gs-securing-web/initial/pom.xml,7dbbfd109d6c5142bc78370810ab6d2554284b65,Greg Turnquist,Tue May 10 10:26:55 2016 -0500,Tue May 10 10:26:55 2016 -0500,Upgrade to Spring Boot 1.3.5.RELEASE
+gs-securing-web/initial/pom.xml,0ab7aadc6248b71ed95f67880d78accb26ead7d9,Greg Turnquist,Fri May 6 09:49:23 2016 -0500,Fri May 6 09:49:23 2016 -0500,Upgrade to Spring Boot 1.3.4.RELEASE
+gs-securing-web/initial/pom.xml,64321c6e29036f63cba260f48bacc488ec96d786,Greg Turnquist,Fri Feb 26 07:30:25 2016 -0600,Fri Feb 26 07:30:25 2016 -0600,Upgrade to Spring Boot 1.3.3.RELEASE
+gs-securing-web/initial/pom.xml,4d701e7a697c82950eb318e0ad9134a5b51d582f,Greg Turnquist,Thu Jan 21 21:29:22 2016 -0600,Thu Jan 21 21:29:22 2016 -0600,Upgrade to Spring Boot 1.3.2.RELEASE
+gs-securing-web/initial/pom.xml,9ec8387cce49e9f48105a851680270297f9b98a4,Greg Turnquist,Fri Dec 18 09:40:37 2015 -0600,Fri Dec 18 09:40:37 2015 -0600,Upgrade to Spring Boot 1.3.1.RELEASE
+gs-securing-web/initial/pom.xml,910d1e723cd02e5e2199833114e989e1cc0491ae,Greg Turnquist,Mon Nov 16 11:11:02 2015 -0600,Mon Nov 16 11:11:02 2015 -0600,Upgrade to Spring Boot 1.3.0.RELEASE
+gs-securing-web/initial/pom.xml,15ae69f6d14b0e37c162034e85e20a69e86d217a,Greg Turnquist,Fri Oct 16 09:44:06 2015 -0400,Fri Oct 16 09:44:06 2015 -0400,Upgraded to Spring Boot 1.2.7.RELEASE
+gs-securing-web/initial/pom.xml,38e4bc6d39b16ba94a80805107b7769b572dc7ed,Greg Turnquist,Sun Sep 20 15:41:59 2015 -0500,Sun Sep 20 15:41:59 2015 -0500,Upgrade to Spring Boot 1.2.6.RELEASE
+gs-securing-web/initial/pom.xml,2448732619c6b794adff4c17097032e7d54835fa,Greg Turnquist,Thu Jul 2 08:46:46 2015 -0500,Thu Jul 2 08:46:46 2015 -0500,Upgrade to Spring Boot 1.2.5.RELEASE
+gs-securing-web/initial/pom.xml,19f53768702fe73dbd9147e721bddb0a166f9bf7,Greg Turnquist,Fri Jun 12 13:49:38 2015 -0400,Fri Jun 12 13:49:38 2015 -0400,Upgrade to Java 8
+gs-securing-web/initial/pom.xml,9a2cb0a11f8535f66bf323dc4aeec7bcc68768ca,Greg Turnquist,Tue Jun 9 09:42:06 2015 -0400,Tue Jun 9 09:42:06 2015 -0400,Upgrade to Spring Boot 1.2.4
+gs-securing-web/initial/pom.xml,3d3d2c3a36c4a22535f40730899682c27d4f4c2e,Greg Turnquist,Tue Mar 31 16:56:25 2015 -0500,Tue Mar 31 16:56:25 2015 -0500,Upgrade to Spring Boot 1.2.3.RELEASE
+gs-securing-web/initial/pom.xml,2d70fcba41fdf6c659ee9e0bffde6b16c8f9f28b,Greg Turnquist,Tue Mar 17 13:14:09 2015 -0500,Tue Mar 17 13:14:09 2015 -0500,Upgrade maven build to Java 7
+gs-securing-web/initial/pom.xml,fe1060a502ae4fb85039bcc23c4d9eba8ad1deb6,Greg Turnquist,Thu Feb 26 22:40:08 2015 -0600,Thu Feb 26 22:40:08 2015 -0600,Upgrade to Spring Boot 1.2.2.RELEASE
+gs-securing-web/initial/pom.xml,fe5d4428deb4ef86ba917420f19ae74c9afe826b,Greg Turnquist,Wed Feb 18 11:08:19 2015 -0600,Wed Feb 18 11:08:19 2015 -0600,Upgrade to Spring Boot 1.2.1.RELEASE
+gs-securing-web/initial/pom.xml,720558199ee70cac770f99c30b1c763e05db2815,Greg Turnquist,Wed Jan 14 12:34:14 2015 -0600,Wed Jan 14 12:34:14 2015 -0600,Remove legacy start-class property from maven builds
+gs-securing-web/initial/pom.xml,9f6dc3f27e0bd9616685d672081ed96517911706,Greg Turnquist,Thu Dec 11 11:08:14 2014 -0600,Thu Dec 11 11:08:14 2014 -0600,Upgrade to Spring Boot 1.1.10.RELEASE
+gs-securing-web/initial/pom.xml,cf2707b5f7aa2877199ed6b8443265f99b216589,Greg Turnquist,Thu Nov 20 10:15:28 2014 -0600,Thu Nov 20 10:15:28 2014 -0600,Convert to use https for repositories
+gs-securing-web/initial/pom.xml,c00b4fa5aa17f4f70c323482f98c40832dcd58a1,Greg Turnquist,Wed Nov 12 13:08:46 2014 -0600,Wed Nov 12 13:08:46 2014 -0600,Upgrade to Spring Boot 1.1.9.RELEASE
+gs-securing-web/initial/pom.xml,40281a9e0908427e18ac269e35dd10365a4ffa60,Greg Turnquist,Fri Oct 10 22:06:14 2014 -0500,Fri Oct 10 22:06:14 2014 -0500,Upgrade to Spring Boot 1.1.8.RELEASE
+gs-securing-web/initial/pom.xml,fa15ed16d5849b1832c59f23d96a689652852d10,Greg Turnquist,Mon Sep 29 12:42:49 2014 -0500,Mon Sep 29 12:42:49 2014 -0500,Upgrade to Spring Boot 1.1.7.RELEASE
+gs-securing-web/initial/pom.xml,0496512450f1546c3c42bf8577d75c73ef8d3b42,Greg Turnquist,Fri Sep 5 11:14:20 2014 -0500,Fri Sep 5 11:14:20 2014 -0500,Upgrade to Spring Boot 1.1.6.RELEASE
+gs-securing-web/initial/pom.xml,6bf92e129edd0b63074d81dc87a4fc89cea3e5fe,Greg Turnquist,Fri Aug 8 22:12:52 2014 -0500,Fri Aug 8 22:12:52 2014 -0500,Update to Spring Boot 1.1.5.RELEASE
+gs-securing-web/initial/pom.xml,62a3750ea09be37b84901e474c9dbdf86695905c,Greg Turnquist,Tue Jul 8 15:42:10 2014 -0500,Tue Jul 8 15:42:10 2014 -0500,Update to Spring Boot 1.1.4.RELEASE
+gs-securing-web/initial/pom.xml,d1bba1a8783927fdaacf32c5da86d8aa8abdf3d7,Greg Turnquist,Fri Jun 27 22:55:41 2014 -0400,Fri Jun 27 22:55:41 2014 -0400,Update to Spring Boot 1.1.3.RELEASE
+gs-securing-web/initial/pom.xml,668b170957cc5ff4a8e27cb6e0c1285f11a0e59f,Greg Turnquist,Tue Jun 24 19:56:07 2014 -0400,Tue Jun 24 19:56:07 2014 -0400,Upgrade to Spring Boot 1.1.2.RELEASE
+gs-securing-web/initial/pom.xml,836b208e0f126d22d9c96e89c98ea1076b7e0a40,Greg Turnquist,Wed Jun 11 16:48:51 2014 -0500,Wed Jun 11 16:48:51 2014 -0500,Upgrade to Spring Boot 1.1.1.RELEASE
+gs-securing-web/initial/pom.xml,610fef6fe4309f431216fbedfcbb2b4342205304,Greg Turnquist,Wed Jun 11 09:09:14 2014 -0500,Wed Jun 11 09:09:14 2014 -0500,Replace repo.spring.io/release with repo.spring.io/libs-release
+gs-securing-web/initial/pom.xml,e87a2ca7291ef10722e7bab71270f21ff6843eb5,Greg Turnquist,Tue Jun 10 19:16:49 2014 -0500,Tue Jun 10 19:16:49 2014 -0500,Upgrade to Spring Boot 1.1.0.RELEASE
+gs-securing-web/initial/pom.xml,7f3d65a928c951183c59833d76d0042408b6fc45,Greg Turnquist,Mon Jun 2 10:37:16 2014 -0500,Mon Jun 2 10:37:16 2014 -0500,Make initial app unsecured by not including spring-boot-starter-security
+gs-securing-web/initial/pom.xml,a46bcf1a2728843d288adcfe21b49b4ab89df3ef,Greg Turnquist,Thu Apr 24 09:37:32 2014 -0500,Thu Apr 24 09:37:32 2014 -0500,Upgrade to Spring Boot 1.0.2.RELEASE
+gs-securing-web/initial/pom.xml,d1cb2574198e56c1113f2921821b9f572ed9ee01,Greg Turnquist,Thu Apr 17 23:44:29 2014 -0500,Thu Apr 17 23:44:29 2014 -0500,Update deps for thymeleaf
+gs-securing-web/initial/pom.xml,8d452a5b15d1e729153f79b237919267d4337155,Greg Turnquist,Mon Apr 7 10:10:09 2014 -0500,Mon Apr 7 10:10:09 2014 -0500,Upgrade to Spring Boot 1.0.1.RELEASE
+gs-securing-web/initial/pom.xml,7b80cf5e62955d71981aab361afedb3d11b8be34,Greg Turnquist,Tue Apr 1 15:11:46 2014 -0500,Tue Apr 1 15:11:46 2014 -0500,Upgrade to Spring Boot 1.0.0.RELEASE
+gs-securing-web/initial/pom.xml,9be878a334601b303a5cc1c767a6701abdd3b5a5,Greg Turnquist,Sat Mar 22 07:18:21 2014 -0500,Sat Mar 22 07:18:21 2014 -0500,Upgrade to Spring Boot 1.0.0.RC5
+gs-securing-web/initial/pom.xml,e33449c056fd659c4f4118bbf7375f8a853655ee,Greg Turnquist,Tue Mar 4 15:10:51 2014 -0500,Tue Mar 4 15:10:51 2014 -0500,Upgrade to Spring Boot 1.0.0.RC4
+gs-securing-web/initial/pom.xml,400cb55f35acfd635200a5842184f032aa928c5c,Greg Turnquist,Wed Feb 19 20:55:23 2014 -0600,Wed Feb 19 20:55:23 2014 -0600,Upgrade to Spring Boot 1.0.0.RC3
+gs-securing-web/initial/pom.xml,2f227c7707333913ea7810947df6a8d42269c322,Greg Turnquist,Wed Jan 22 12:21:41 2014 -0600,Wed Jan 22 12:21:41 2014 -0600,Upgrade to Spring Boot 1.0.0.RC1 and other dependencies
+gs-securing-web/initial/pom.xml,6c1e97b7b5ac2719cb42a3d6a7b91a69d8444b01,Greg Turnquist,Mon Nov 18 15:51:40 2013 -0600,Mon Nov 18 15:51:40 2013 -0600,Upgrade to Spring Boot 0.5.0.M6 and Spring Security 3.2.0.RC2
+gs-securing-web/initial/pom.xml,67c7fe63c16f56bc671cd877cf9631400d3fd4ea,Greg Turnquist,Wed Oct 30 10:03:58 2013 -0500,Wed Oct 30 10:03:58 2013 -0500,Rebuild with gradle 1.8 and also update to Spring Boot 0.5.0.M5
+gs-securing-web/initial/pom.xml,2f6014871451dcc4f873173067e7158e223c0d37,Greg Turnquist,Mon Sep 30 08:19:21 2013 -0500,Mon Sep 30 08:19:21 2013 -0500,Replace repo.springsource.org with repo.spring.io
+gs-securing-web/initial/pom.xml,24416077af26b5747bf15d2a04733a2f46f49a7b,Greg Turnquist,Fri Sep 27 10:32:22 2013 -0500,Fri Sep 27 10:32:22 2013 -0500,Upgrade to Spring Boot 0.5.0.M4
+gs-securing-web/initial/pom.xml,3f3d15290f5fd323cac9cba031ffbef0e9c4d164,Greg Turnquist,Fri Aug 30 16:42:23 2013 -0500,Fri Aug 30 16:42:23 2013 -0500,Upgrade to Spring Boot 0.5.0.M2
+gs-securing-web/initial/pom.xml,ee48dd6b0861a53e8df5e05b1abef01cbc6fb903,Greg Turnquist,Fri Aug 9 13:18:39 2013 -0500,Fri Aug 9 13:18:39 2013 -0500,Fix maven-compiler-plugin to version 2.3.2
+gs-securing-web/initial/pom.xml,f71ad840acf34fc176586fd55440590316bd2df4,Greg Turnquist,Tue Aug 6 14:44:03 2013 -0500,Tue Aug 6 14:44:03 2013 -0500,Use libs-snapshot instead of snapshot
+gs-securing-web/initial/pom.xml,406b7044f8d97de3f70528400076b3d3d3bb58ec,Greg Turnquist,Wed Jul 31 15:43:12 2013 -0400,Wed Jul 31 15:43:12 2013 -0400,Convert spring-boot-up to spring-boot-starter
+gs-securing-web/initial/pom.xml,796f9287b1b65c10058a69523b0f27134413dbf6,Greg Turnquist,Tue Jul 30 10:19:52 2013 -0400,Tue Jul 30 10:19:52 2013 -0400,Upgrade to Spring Boot
+gs-securing-web/initial/pom.xml,6d6b594a436ac8f8fff9bee89772af3a7b38a316,Greg Turnquist,Fri Jul 19 16:41:11 2013 -0400,Fri Jul 19 16:41:11 2013 -0400,Convert to spring-package-maven-plugin and Spring Zero
+gs-securing-web/initial/pom.xml,2aafd195c26877a88f5385b7eceb93e7494e6bb6,Greg Turnquist,Thu Jul 18 10:41:39 2013 -0400,Thu Jul 18 10:41:39 2013 -0400,Strip out -complete and -initial from artifacts. Regenerate guides suitably.
+gs-securing-web/initial/pom.xml,c538896a7a013b7a992d34307ab640c310e2aa57,Roy Clarkson,Wed Jul 10 14:55:18 2013 -0400,Wed Jul 10 14:55:18 2013 -0400,Version all GS guides at 0.1.0 per http://semver.org
+gs-securing-web/initial/pom.xml,57dfd20e3fa063d77be3f0dd504beb07f9bede54,Craig Walls,Wed Jun 19 11:48:34 2013 -0500,Wed Jun 19 11:48:34 2013 -0500,Remove Thymeleaf Spring Security dependency
+gs-securing-web/initial/pom.xml,e04ec383a60e8119ce495f7d7576a2d02241ab8a,Craig Walls,Wed Jun 19 11:11:35 2013 -0500,Wed Jun 19 11:11:35 2013 -0500,Ensure that initial project is buildable
+gs-securing-web/initial/pom.xml,8c5f997b3f5cc24a770aa4c1f2b9e4ffa60ce64c,Dave Syer,Sat Jun 1 08:11:12 2013 +0100,Sat Jun 1 08:11:12 2013 +0100,Switch to Maven build

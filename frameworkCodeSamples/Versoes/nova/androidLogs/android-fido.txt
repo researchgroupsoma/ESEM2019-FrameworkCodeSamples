@@ -1,0 +1,5 @@
+android-fido/build.gradle,f9a280ee0665450d368473b0689229eea50160db,Sam Stern,Mon Aug 7 13:50:41 2017 -0700,Mon Aug 7 13:50:41 2017 -0700,Make compatible with Android Studio 2.3
+android-fido/build.gradle,bbbfe854ab277ce4a9ad9c60af25f4f877ed097b,Sam Stern,Wed Aug 2 11:39:16 2017 -0700,Wed Aug 2 12:43:06 2017 -0700,Initial import
+android-fido/app/build.gradle,371364baf8422ca5b7dcb198ec30396c2ecc7ae6,Sam Stern,Mon Aug 7 15:10:07 2017 -0700,Mon Aug 7 15:11:45 2017 -0700,Put signing config in build.gradle
+android-fido/app/build.gradle,f9a280ee0665450d368473b0689229eea50160db,Sam Stern,Mon Aug 7 13:50:41 2017 -0700,Mon Aug 7 13:50:41 2017 -0700,Make compatible with Android Studio 2.3
+android-fido/app/build.gradle,bbbfe854ab277ce4a9ad9c60af25f4f877ed097b,Sam Stern,Wed Aug 2 11:39:16 2017 -0700,Wed Aug 2 12:43:06 2017 -0700,Initial import
