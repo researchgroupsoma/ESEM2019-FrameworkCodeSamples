@@ -1,0 +1,76 @@
+library(effsize)
+library(ggplot2)
+library(forcats)
+
+all=read.csv("PostsWithFilter - QueryResults(1).csv", sep=",",header=T)
+
+p1 <- ggplot(all, aes(factor(all$framework,levels = c("Android","Spring")), all$CreationDate)) + 
+  geom_violin(width=1, trim=TRUE, fill="#87CEFA") + 
+  scale_y_log10() +
+  geom_boxplot(width=0.7,alpha=0.7) + ggtitle("Creation Year") + xlab("Code Samples") + ylab("Date") + 
+  annotate("text", x = 1, y = 2016.5, label = "2017", size = 6) + 
+  annotate("text", x = 2, y = 2016.5, label = "2016", size = 6) +
+  theme(plot.title=element_text(size=20,face="bold") ,axis.title=element_text(size=18),axis.text=element_text(size=18))
+
+p1
+
+ggsave("creationDate.pdf", width = 4.5, height = 4.5)
+
+
+p1 <- ggplot(all, aes(factor(all$framework,levels = c("Android","Spring")), all$Score)) + 
+  geom_violin(width=1, trim=TRUE, fill="#87CEFA") + 
+  scale_y_log10() +
+  geom_boxplot(width=0.7,alpha=0.7) + ggtitle("Score") + xlab("Code Samples") + ylab("Score (log scale)") + 
+  annotate("text", x = 1, y = 3, label = "2", size = 6) + 
+  annotate("text", x = 2, y = 3, label = "2", size = 6) +
+  theme(plot.title=element_text(size=20,face="bold") ,axis.title=element_text(size=18),axis.text=element_text(size=18))
+
+#media android 2 spring 2
+
+p1
+
+ggsave("score.pdf", width = 4.5, height = 4.5)
+
+
+p1 <- ggplot(all, aes(factor(all$framework,levels = c("Android","Spring")), all$ViewCount)) + 
+  geom_violin(width=1, trim=TRUE, fill="#87CEFA") + 
+  scale_y_log10() +
+  geom_boxplot(width=0.7,alpha=0.7) + ggtitle("Views") + xlab("Code Samples") + ylab("Views (log scale)") + 
+  annotate("text", x = 1, y = 1100, label = "885", size = 6) + 
+  annotate("text", x = 2, y = 2000, label = "1,575", size = 6) +
+  theme(plot.title=element_text(size=20,face="bold") ,axis.title=element_text(size=18),axis.text=element_text(size=18))
+
+#mediana 885
+#mediana 1,575
+
+p1
+
+ggsave("views.pdf", width = 4.5, height = 4.5)
+
+
+
+p1 <- ggplot(all, aes(factor(all$framework,levels = c("Android","Spring")), all$CommentCount + 0.1)) + 
+  geom_violin(width=1, trim=TRUE, fill="#87CEFA") + 
+  scale_y_log10() +
+  geom_boxplot(width=0.7,alpha=0.7) + ggtitle("Comments") + xlab("Code Samples") + ylab("Comments (log scale)") + 
+  annotate("text", x = 1, y = 0.8, label = "1", size = 6) + 
+  annotate("text", x = 2, y = 0.8, label = "1", size = 6) +
+  theme(plot.title=element_text(size=20,face="bold") ,axis.title=element_text(size=18),axis.text=element_text(size=18))
+
+p1
+
+ggsave("comments.pdf", width = 4.5, height = 4.5)
+
+
+p1 <- ggplot(all, aes(factor(all$framework,levels = c("Android","Spring")), all$FavoriteCount)) + 
+  geom_violin(width=1, trim=TRUE, fill="#87CEFA") + 
+  scale_y_log10() +
+  geom_boxplot(width=0.7,alpha=0.7) + ggtitle("Favorite") + xlab("Code Samples") + ylab("Comments (log scale)") + 
+  annotate("text", x = 1, y = 1.5, label = "2", size = 6) + 
+  annotate("text", x = 2, y = 1.5, label = "2", size = 6) +
+  theme(plot.title=element_text(size=20,face="bold") ,axis.title=element_text(size=18),axis.text=element_text(size=18))
+
+p1
+
+ggsave("favorite.pdf", width = 4.5, height = 4.5)
+
