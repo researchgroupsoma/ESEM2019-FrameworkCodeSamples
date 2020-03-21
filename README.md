@@ -16,7 +16,7 @@ Medidas e Scripts
 	- <a href="https://github.com/gabrielsmenezes/ic2/blob/master/analiseDosProjetosGerais/RQ4/numeroDeImports/numeroDeImports.py">Porcentagem de imports do framework</a>
 	- <a href="https://github.com/gabrielsmenezes/ic2/tree/master/analiseDosProjetosGerais/RQ4/mantenedores">Porcentagem de contribuidores do framework que contribuiram com o code sample</a>
 
-- RQ4 <a href="https://github.com/gabrielsmenezes/ic2/blob/master/analiseDosProjetosGerais/RQ4/extraindoTotalDeForks_ForksAhead/pegarForks.py"></a>
+- <a href="https://github.com/gabrielsmenezes/ic2/blob/master/analiseDosProjetosGerais/RQ4/extraindoTotalDeForks_ForksAhead/pegarForks.py">RQ4</a>
 	- Forks
 	- Porcentagem de ahead forks
 	- Porcentagem de ahead forks por numero de commits
