@@ -1,0 +1,23 @@
+Medidas e Scripts
+
+- Básicos
+	- Arquivos
+	- Commits
+	- Estrelas
+- RQ1
+	- Arquivos Java
+	- Linhas de código por arquivo Java
+	- Porcentagem de linhas comentadas por arquivo Java
+	- Complexidade Ciclomática por método
+- RQ2
+	- Lifetime
+	- Lifetime por commit
+	- Delay para atualizar
+	- Versões do framework
+	- Porcentagem de imports do framework
+	- Porcentagem de contribuidores do framework que contribuiram com o code sample
+- RQ3
+- RQ4
+	- Forks
+	- Porcentagem de ahead forks
+	- Porcentagem de ahead forks por numero de commits
