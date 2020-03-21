@@ -2,22 +2,22 @@ Medidas e Scripts
 
 - Básicos
 	- Arquivos
-	- Commits
-	- Estrelas
+	- <a href="https://github.com/gabrielsmenezes/ic/blob/master/frameworkCodeSamples/Samples/DadosParaGerarOsGraficosDaFigura2NaSecao3a/conexaoComAPIdoGitHub.py">Commits</a>
+	- <a href="https://github.com/gabrielsmenezes/ic/blob/master/frameworkCodeSamples/Samples/DadosParaGerarOsGraficosDaFigura2NaSecao3a/conexaoComAPIdoGitHub.py">Estrelas</a>
 - RQ1
-	- Arquivos Java
-	- Linhas de código por arquivo Java
-	- Porcentagem de linhas comentadas por arquivo Java
-	- Complexidade Ciclomática por método
+	- <a href="https://github.com/gabrielsmenezes/ic2/blob/master/analiseDosProjetosGerais/RQ1/extraindoMetricasComUnderstand/understand.sh">Arquivos Java</a>
+	- <a href="https://github.com/gabrielsmenezes/ic2/blob/master/analiseDosProjetosGerais/RQ1/extraindoMetricasComUnderstand/understand.sh">Linhas de código por arquivo Java</a>
+	- <a href="https://github.com/gabrielsmenezes/ic2/blob/master/analiseDosProjetosGerais/RQ1/extraindoMetricasComUnderstand/understand.sh">Porcentagem de linhas comentadas por arquivo Java</a>
+	- <a href="https://github.com/gabrielsmenezes/ic2/blob/master/analiseDosProjetosGerais/RQ1/extraindoMetricasComUnderstand/understand.sh">Complexidade Ciclomática por método</a>
 - RQ2
-	- Lifetime
-	- Lifetime por commit
-	- Delay para atualizar
-	- Versões do framework
-	- Porcentagem de imports do framework
-	- Porcentagem de contribuidores do framework que contribuiram com o code sample
-- RQ3
-- RQ4
+	- <a href="https://github.com/gabrielsmenezes/ic2/tree/master/analiseDosProjetosGerais/RQ2/lifetime">Lifetime</a>
+	- <a href="https://github.com/gabrielsmenezes/ic2/tree/master/analiseDosProjetosGerais/RQ2/lifetime">Lifetime por commit</a>
+	- <a href="https://github.com/gabrielsmenezes/ic2/blob/master/analiseDosProjetosGerais/RQ2/delay/delay.py">Delay para atualizar</a>
+	- <a href="https://github.com/gabrielsmenezes/ic2/blob/master/analiseDosProjetosGerais/RQ2/extraindoVersaoAtualDoFramework/pega_caminho_dos_pom_e_gradle.py">Versões do framework</a>
+	- <a href="https://github.com/gabrielsmenezes/ic2/blob/master/analiseDosProjetosGerais/RQ4/numeroDeImports/numeroDeImports.py">Porcentagem de imports do framework</a>
+	- <a href="https://github.com/gabrielsmenezes/ic2/tree/master/analiseDosProjetosGerais/RQ4/mantenedores">Porcentagem de contribuidores do framework que contribuiram com o code sample</a>
+
+- RQ4 <a href="https://github.com/gabrielsmenezes/ic2/blob/master/analiseDosProjetosGerais/RQ4/extraindoTotalDeForks_ForksAhead/pegarForks.py"></a>
 	- Forks
 	- Porcentagem de ahead forks
 	- Porcentagem de ahead forks por numero de commits
