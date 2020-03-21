@@ -1,7 +1,6 @@
 Medidas e Scripts
 
 - Básicos
-	- Arquivos
 	- <a href="https://github.com/gabrielsmenezes/ic/blob/master/frameworkCodeSamples/Samples/DadosParaGerarOsGraficosDaFigura2NaSecao3a/conexaoComAPIdoGitHub.py">Commits</a>
 	- <a href="https://github.com/gabrielsmenezes/ic/blob/master/frameworkCodeSamples/Samples/DadosParaGerarOsGraficosDaFigura2NaSecao3a/conexaoComAPIdoGitHub.py">Estrelas</a>
 - RQ1
