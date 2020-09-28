@@ -2,6 +2,9 @@ library(effsize)
 library(ggplot2)
 library(forcats)
 
+setwd("C:\\Users\\dudur\\Documents\\gabrielsmenezes\\ic\\frameworkCodeSamples\\Graficos\\graficosDaCarol")
+
+
 all=read.csv("all.csv", sep=",",header=T)
 
 # Star, Forks
@@ -10,21 +13,21 @@ p1 <- ggplot(all, aes(factor(all$ecosystem, levels = c("Android","Spring")), all
 p1 <- p1 + geom_violin(width=1, trim=TRUE,fill="#87CEFA") + scale_y_log10()
 p1 <- p1 + geom_boxplot(width=0.7,alpha=0.7) + ggtitle("Number of forks") + xlab("Code Samples") + ylab("Number of forks (log scale)")
 #[3,]  47.0   71
-p1 <- p1 + annotate("text", x = 1, y = 65, label = "47", size = 6) + annotate("text", x = 2, y = 100, label = "71", size = 6) 
+p1 <- p1 + annotate("text", x = 1, y = 65, label = "47", size = 8) + annotate("text", x = 2, y = 100, label = "71", size = 8) 
 p1 + theme(plot.title=element_text(size=20, face = "bold"), axis.title=element_text(size=18),axis.text=element_text(size=18))
-ggsave("/home/facom/Documents/GIT/Samples/figuras/forks.pdf", width = 4.5, height = 4.5)
+ggsave("forks.pdf", width = 4.5, height = 4.5)
 
 # -------- Size
 p1 <- ggplot(all, aes(factor(all$ecosystem, levels = c("Android","Spring")), all$numberofFilesJava)) + 
 geom_violin(width=1, trim=TRUE,fill="#87CEFA") + scale_y_log10()+
 geom_boxplot(width=0.7,alpha=0.7) + ggtitle("Number of Java Files") + xlab("Code Samples") + ylab("Number of files (log scale)") +
 #[3,]    9    4 
-annotate("text", x = 1, y = 11, label = "9", size = 6) + annotate("text", x = 2.3, y = 8, label = "4", size = 6) + 
+annotate("text", x = 1, y = 11, label = "9", size = 8) + annotate("text", x = 2.3, y = 8, label = "4", size = 8) + 
 theme(plot.title=element_text(size=20, face = "bold"), axis.title=element_text(size=18),axis.text=element_text(size=18))
 
 p1
 
-ggsave("NF.png", width = 4.5, height = 4.5)
+ggsave("files.pdf", width = 4.5, height = 4.5)
 
 p1 <- ggplot(all, aes(factor(all$ecosystem,levels = c("Android","Spring")), (all$CountDeclMethodPublic)+1 ))
 p1 <- p1 + geom_violin(width=1, trim=TRUE, fill="#87CEFA") + scale_y_log10()
@@ -54,9 +57,9 @@ p1 <- ggplot(all, aes(factor(all$ecosystem,levels = c("Android","Spring")), all$
 p1 <- p1 + geom_violin(width=1, trim=TRUE, fill="#87CEFA") + scale_y_log10()
 p1 <- p1 + geom_boxplot(width=0.7,alpha=0.7) + ggtitle("Lines of Code per Java File") + xlab("Code Samples") + ylab("Lines of code (log scale)")
 #[3,]  70.23387 25.00000
-p1 <- p1 + annotate("text", x = 1, y = 85, label = "70.23", size = 6) + annotate("text", x = 2, y = 28, label = "25", size = 6) 
+p1 <- p1 + annotate("text", x = 1, y = 85, label = "70.23", size = 8) + annotate("text", x = 2, y = 28, label = "25", size = 8) 
 p1 + theme(plot.title=element_text(size=20, face = "bold") ,axis.title=element_text(size=18),axis.text=element_text(size=18))
-ggsave("RLOC_files.png", width = 4.5, height = 4.5)
+ggsave("RLOC_files.pdf", width = 4.5, height = 4.5)
 
 p1 <- ggplot(all, aes(factor(all$ecosystem,levels = c("Android","Spring")), (all$RelativeLineCode)*100))
 p1 <- p1 + geom_violin(width=1, trim=TRUE, fill="#87CEFA") + scale_y_log10()
@@ -72,15 +75,15 @@ p1 <- ggplot(all, aes(factor(all$ecosystem,levels = c("Android","Spring")), all$
 p1 <- p1 + geom_violin(width=1, trim=TRUE, fill="#87CEFA") + scale_y_log10()
 p1 <- p1 + geom_boxplot(width=0.7,alpha=0.7) + ggtitle("Total CC") + xlab("Code Samples") + ylab("Nº of Decisions Points (log scale)")
 #[3,]  81.5   10
-p1 <- p1 + annotate("text", x = 1, y = 105, label = "81.5", size = 6) + annotate("text", x = 2, y = 12, label = "10", size = 6) 
+p1 <- p1 + annotate("text", x = 1, y = 105, label = "81.5", size = 8) + annotate("text", x = 2, y = 12, label = "10", size = 8) 
 p1 + theme(plot.title=element_text(size=20, face = "bold") ,axis.title=element_text(size=18),axis.text=element_text(size=18))
 ggsave("/home/facom/Documents/GIT/Samples/figuras/SCC.pdf", width = 4.5, height = 4.5)
 
 p1 <- ggplot(all, aes(factor(all$ecosystem,levels = c("Android","Spring")), all$CyclomaticPerMethod ))
 p1 <- p1 + geom_violin(width=1, trim=TRUE, fill="#87CEFA") + scale_y_log10()
-p1 <- p1 + geom_boxplot(width=0.7,alpha=0.7) + ggtitle("Cyclomatic Complexity per\nMethod in Java File") + xlab("Code Samples") + ylab("Nº of Decisions Points (log scale)")
+p1 <- p1 + geom_boxplot(width=0.7,alpha=0.7) + ggtitle("Cyclomatic Complexity per\nMethod in Java File") + xlab("Code Samples") + ylab("N� of Decisions Points (log scale)")
 #[3,] 1.480 1.00
-p1 <- p1 + annotate("text", x = 1, y = 1.6, label = "1.48", size = 6) + annotate("text", x = 2, y = 1.1, label = "1", size = 6) 
+p1 <- p1 + annotate("text", x = 1, y = 1.6, label = "1.48", size = 8) + annotate("text", x = 2, y = 1.1, label = "1", size = 8) 
 p1 + theme(plot.title=element_text(size=18, face = "bold") ,axis.title=element_text(size=18),axis.text=element_text(size=18))
 ggsave("ACC.pdf", width = 4.5, height = 4.5)
 
@@ -98,7 +101,7 @@ p1 <- ggplot(all, aes(factor(all$ecosystem,levels = c("Android","Spring")), (all
 p1 <- p1 + geom_violin(width=1, trim=TRUE, fill="#87CEFA") + scale_y_log10()
 p1 <- p1 + geom_boxplot(width=0.7,alpha=0.7) + ggtitle("Relative Comment Lines in\nJava File") + xlab("Code Samples") + ylab("Percent of lines (log scale)")
 #[3,]   32    7
-p1 <- p1 + annotate("text", x = 1, y = 27.5, label = "32", size = 6) + annotate("text", x = 2, y = 6.8, label = "7", size = 6) 
+p1 <- p1 + annotate("text", x = 1, y = 27.5, label = "32", size = 8) + annotate("text", x = 2, y = 6.8, label = "7", size = 8) 
 p1 + theme(plot.title=element_text(size=20, face = "bold") ,axis.title=element_text(size=18),axis.text=element_text(size=18))
 ggsave("RCL.pdf", width = 4.5, height = 4.5)
 
@@ -106,9 +109,9 @@ ggsave("RCL.pdf", width = 4.5, height = 4.5)
 
 p1 <- ggplot(all, aes(factor(all$ecosystem,levels = c("Android","Spring")), all$Lifetime))
 p1 <- p1 + geom_violin(width=1, trim=TRUE, fill="#87CEFA") + scale_y_log10()
-p1 <- p1 + geom_boxplot(width=0.7,alpha=0.7) + ggtitle("Code Sample Lifetime") + xlab("Code Samples") + ylab("Nº of day (log scale)")
+p1 <- p1 + geom_boxplot(width=0.7,alpha=0.7) + ggtitle("Lifetime") + xlab("Code Samples") + ylab("Days (log scale)")
 #[3,] 1474 1924
-p1 <- p1 + annotate("text", x = 1, y = 2000, label = "1474", size = 6) + annotate("text", x = 2, y = 2500, label = "1924", size = 6) 
+p1 <- p1 + annotate("text", x = 1, y = 2000, label = "1474", size = 8) + annotate("text", x = 2, y = 2500, label = "1924", size = 8) 
 p1 + theme(plot.title=element_text(size=20, face = "bold") ,axis.title=element_text(size=18),axis.text=element_text(size=18))
 ggsave("lifetime.pdf", width = 4.5, height = 4.5)
 
@@ -122,9 +125,9 @@ ggsave("/home/facom/Documents/GIT/Samples/figuras/commits.pdf", width = 4.5, hei
 
 p1 <- ggplot(all, aes(factor(all$ecosystem,levels = c("Android","Spring")), all$LifetimePerCommit))
 p1 <- p1 + geom_violin(width=1, trim=TRUE, fill="#87CEFA") + scale_y_log10()
-p1 <- p1 + geom_boxplot(width=0.7,alpha=0.7) + ggtitle("Code Sample Lifetime per\nCommit") + xlab("Code Samples") + ylab("Frequency of commits (log scale)")
+p1 <- p1 + geom_boxplot(width=0.7,alpha=0.7) + ggtitle("Lifetime per Commit") + xlab("Code Samples") + ylab("Frequency of commits (log scale)")
 #[3,]   63   15
-p1 <- p1 + annotate("text", x = 1.5, y = 90, label = "63", size = 6) + annotate("text", x = 2.45, y = 18, label = "15", size = 6) 
+p1 <- p1 + annotate("text", x = 1.5, y = 90, label = "63", size = 8) + annotate("text", x = 2.45, y = 18, label = "15", size = 8) 
 p1 + theme(plot.title=element_text(size=20,face="bold") ,axis.title=element_text(size=18),axis.text=element_text(size=18))
 ggsave("lifetime_commits.pdf", width = 4.5, height = 4.5)
 

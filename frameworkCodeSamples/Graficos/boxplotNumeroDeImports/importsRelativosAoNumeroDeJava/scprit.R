@@ -2,7 +2,10 @@
 library(ggplot2)
 #library(forcats)
 
-all=read.csv("Documentos/ic/frameworkCodeSamples/Graficos/boxplotNumeroDeImports/importsRelativosAoNumeroDeJava/numeroDeImports.csv", sep=",",header=T)
+
+setwd("C:\\Users\\dudur\\Documents\\gabrielsmenezes\\ic\\frameworkCodeSamples\\Graficos\\boxplotNumeroDeImports\\importsRelativosAoNumeroDeJava")
+
+all=read.csv("numeroDeImports.csv", sep=",",header=T)
 
 p1 <- ggplot(all, aes(factor(all$framework,levels = c("Android","Spring")), all$todos.nao.distintos)) + 
   geom_violin(width=1, trim=TRUE, fill="#87CEFA") + 
@@ -47,9 +50,9 @@ ggsave("frameworkImportsNonDistinct.pdf", width = 4.5, height = 4.5)
 p1 <- ggplot(all, aes(factor(all$framework,levels = c("Android","Spring")), all$apenas.do.framework.distinto)) + 
   geom_violin(width=1, trim=TRUE, fill="#87CEFA") + 
   scale_y_log10() +
-  geom_boxplot(width=0.7,alpha=0.7) + ggtitle("Relative distinct framework\nimports") + xlab("Code Samples") + ylab("Imports") + 
-  annotate("text", x = 1, y = 4, label = "3.7", size = 6) + 
-  annotate("text", x = 2, y = 0.89, label = "1", size = 6) +
+  geom_boxplot(width=0.7,alpha=0.7) + ggtitle("Framework Imports by File") + xlab("Code Samples") + ylab("Imports") + 
+  annotate("text", x = 1, y = 4, label = "3.7", size = 8) + 
+  annotate("text", x = 2, y = 0.89, label = "1", size = 8) +
   theme(plot.title=element_text(size=20,face="bold") ,axis.title=element_text(size=18),axis.text=element_text(size=18))
 
 p1

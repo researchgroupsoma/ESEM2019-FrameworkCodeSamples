@@ -2,6 +2,8 @@ library(effsize)
 library(ggplot2)
 library(forcats)
 
+setwd("C:\\Users\\dudur\\Documents\\gabrielsmenezes\\ic\\frameworkCodeSamples\\Graficos\\graficoDaSecao3a")
+
 all=read.csv("planilha.csv", sep=",",header=T)
 
 #stars

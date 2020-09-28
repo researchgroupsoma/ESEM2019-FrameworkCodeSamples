@@ -22,11 +22,11 @@ head(df2)
 
 p <- ggplot(data=df2, aes(x=dose, y=len, fill=supp)) +
   geom_bar(stat="identity", position=position_dodge()) +
-  labs(title="Relative projects ahead by commits", x="Number of commits", y = "Percent of projects") +
+  labs(title="Relative projects ahead by\ncommits", x="Number of commits", y = "Percent of projects") +
   scale_fill_manual("", values = c("Android" = "#87CEFA", "Spring" = "#4682b4"))+
   geom_text(aes(label=len), vjust=0, color="black",position = position_dodge(0.9), size=5)+
-  theme(plot.title=element_text(size=16, face = "bold"), axis.title=element_text(size=16),axis.text=element_text(size=16), legend.position = c(0.87, 0.80))
+  theme(plot.title=element_text(size=20, face = "bold"), axis.title=element_text(size=18),axis.text=element_text(size=18), legend.position = c(0.87, 0.80))
 
 p
 
-ggsave("/home/gabriel/Documentos/ic/frameworkCodeSamples/Graficos/metrificandoOsForksAheadPorGrupoDeNumeroDeCommits/relative_projects_by_commits.pdf", width = 4.5, height = 4.5) 
+ggsave("C:\\Users\\dudur\\Documents\\gabrielsmenezes\\ic\\frameworkCodeSamples\\Graficos\\metrificandoOsForksAheadPorGrupoDeNumeroDeCommits\\antigo\\relative_projects_by_commits.pdf", width = 4.5, height = 4.5) 

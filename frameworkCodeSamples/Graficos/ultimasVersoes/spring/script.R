@@ -22,9 +22,10 @@ head(df2)
 
 p <- ggplot(data=df2, aes(x=dose, y=len)) +
   geom_bar(stat="identity", position=position_dodge(), fill = "#87CEFA") +
-  labs(title="Spring Samples", x="Springboot Version", y = "Number of Projects / Subprojects") +
-  theme(plot.title=element_text(size=20, face = "bold"), axis.title=element_text(size=18),axis.text=element_text(size=18)) +
-  ggsave("/home/gabriel/Documentos/Graficos/criandoGraficoDeBarras/spring/springVersions.pdf", width = 4.5, height = 4.5) 
+  labs(title="Spring Boot Versions", x="Versions of Code Samples", y = "Number of Projects / Subprojects") +
+  theme(plot.title=element_text(size=20, face = "bold"), axis.title=element_text(size=18),axis.text=element_text(size=18))
+  
 
 p
 
+ggsave("C:\\Users\\dudur\\Documents\\gabrielsmenezes\\ic\\frameworkCodeSamples\\Graficos\\ultimasVersoes\\spring\\springVersions.pdf", width = 4.5, height = 4.5) 
