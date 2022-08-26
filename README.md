@@ -1,3 +1,10 @@
+Repository of paper: "Framework Code Samples: How Are They Maintained and Used by Developers?"
+
+Available in https://ieeexplore.ieee.org/document/8870139
+
+
+
+
 Medidas e Scripts
 
 - Básicos
