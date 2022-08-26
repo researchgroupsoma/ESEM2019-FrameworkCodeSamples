@@ -1,6 +1,6 @@
 Repository of paper: "Framework Code Samples: How Are They Maintained and Used by Developers?"
 
-Available in https://ieeexplore.ieee.org/document/8870139
+Available in https://doi.org/10.1109/ESEM.2019.8870139
 
 
 
